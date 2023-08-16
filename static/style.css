@@ -1,0 +1,227 @@
+.white-text {
+    color: white;
+}
+
+.outlined-text {
+    color: black;
+    text-shadow: -1px 1px 0px white, 
+                 -1px -1px 0px white, 
+                 1px -1px 0px white, 
+                 1px 1px 0px white;
+}
+
+/* change font size based upon screen size */
+@media screen and (max-width:576px) {
+    .dynamic-font-size {
+        font-size:5vw;
+    }
+}
+
+@media screen and (min-width:576px) {
+    .dynamic-font-size {
+        font-size:29px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .dynamic-font-size {
+        font-size:15px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .dynamic-font-size {
+        font-size:20px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .dynamic-font-size {
+        font-size:30px;
+    }
+}
+
+@media screen and (min-width:1400px) {
+    .dynamic-font-size {
+        font-size:40px;
+    }
+}
+
+.tiny-icon {
+    margin-top: -3px;
+    max-height:30px; 
+    width:auto; 
+    margin-right:5px;
+    border: 1px solid black;
+}
+
+.tinier-icon {
+    margin-top: -2px;
+    max-height:25px; 
+    width:auto; 
+    margin-right:5px;
+    border: 1px solid black;
+}
+
+.tinier-icon.borderless {
+    border: 0px;
+    padding-bottom:2px;
+}
+
+.tiniest-icon {
+    margin-top: -1px;
+    max-height:20px; 
+    width:auto; 
+    margin-right:5px;
+}
+
+.tiniest-icon.borderless {
+    border: 0px;
+    padding-bottom:1px;
+}
+
+.centered-header {
+    text-align: center;
+    vertical-align: middle;
+}
+
+a.hide-link {
+    color: black;
+     text-decoration: none;
+}
+/*
+.common-rarity {
+    color: black;
+}
+
+.uncommon-rarity {
+    color: #1eff00;
+}
+
+.rare-rarity {
+    color: #0070dd;
+}
+
+.epic-rarity {
+    color: #a335ee;
+}
+
+.legendary-rarity {
+    color: #ff8000;
+}
+*/
+
+/*
+.common-rarity {
+    border: 2px solid black;
+}
+
+.uncommon-rarity {
+    border: 2px solid #1eff00;
+}
+
+.rare-rarity {
+    border: 2px solid #0070dd;
+}
+
+.epic-rarity {
+    border: 2px solid #a335ee;
+}
+
+.legendary-rarity {
+    border: 2px solid #ff8000;
+}
+*/
+
+/* inactive tabs */
+/*.nav-tabs a.nav-link {
+    color: black;
+    background-color: white;
+    border-color: darkgrey;
+}*/
+
+
+.nav-tabs a.nav-link:hover{
+    border-top-color:var(--bs-dark);
+    border-left-color:var(--bs-dark);
+    border-right-color:var(--bs-dark);
+    color:white;
+}
+
+.nav-tabs a.nav-link.active:hover{
+    border-color:var(--bs-border-color);
+    border-bottom-color:var(--bs-dark);
+}
+
+/* selects anchor tags that have both nav-link class and active class, where the anchor tag is inside a tag that has the nav-tabs class */
+/*.nav-tabs a.nav-link.active { 
+    color: black;
+    background-color: lightgrey;
+}*/
+
+.card {
+    /*--bs-card-border-width: 0px;*/
+    /*--bs-card-border-color: rgb(173, 181, 189);*/
+    --bs-card-border-color: var(--bs-border-color);
+    --bs-card-bg: rgba(173, 181, 189, 0);
+
+}
+
+.card-img {
+    width: 100%;
+    height: 29vh;
+    object-fit: cover;
+}
+
+.accordion.borderless {
+    --bs-accordion-border-color: rgb(173, 181, 189);
+    /*--bs-accordion-border-width: 0px;*/
+}
+
+.accordion { 
+    --bs-accordion-btn-focus-box-shadow: 0 0 0 0rem black;
+    /*--bs-accordion-active-bg: rgb(33,37,41);*/
+    --bs-accordion-active-bg: rgb(173, 181, 189);
+    --bs-accordion-active-color: black;
+
+  /*--bs-accordion-color: white;*/
+  /*--bs-accordion-bg: green;*/ /* color of the body and header of the accordion */
+  /*--bs-accordion-transition: color 0.15s ease-in-out, 
+        background-color 0.15s ease-in-out,
+        border-color 0.15s ease-in-out, 
+        box-shadow 0.15s ease-in-out,
+        border-radius 0.15s ease;*/
+  /*--bs-accordion-border-color: var(--bs-border-color); */ /* color of the borders of the accordion*/
+  /*--bs-accordion-border-width: 1px;*/ /* width of the borders of the accordion */
+  /* --bs-accordion-border-radius: 0.375rem; */ /* rounds the corners of the accordion */
+  /*--bs-accordion-inner-border-radius: calc(0.375rem - 1px); */
+  /*--bs-accordion-btn-padding-x: 7rem;*/
+  /*--bs-accordion-btn-padding-y: 2rem;*/
+  /*--bs-accordion-btn-color: white;*/ /* color of the text of the accordion header/button while inactive */
+  /*--bs-accordion-btn-bg: var(--bs-accordion-bg);*/ /* color of the background of the accordion header/button while inactive */
+  /*--bs-accordion-btn-icon: url(
+ "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' 
+        viewBox= '0 0 16 16' 
+        fill='white'%3e%3cpath fill-rule='evenodd' 
+        d='M1.646 4.646a.5.5 0 0 1 .708 
+           0L8 10.293l5.646-5.647a.5.5 0 
+           0 1 .708.708l-6 6a.5.5 0 0 1-.708 
+           0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");*/
+  /*--bs-accordion-btn-icon-width: 2rem;*/ /* width of the dropdown arrow */
+  /*--bs-accordion-btn-icon-transform: rotate(180deg);*/
+  /*--bs-accordion-btn-icon-transition: transform 2s ease-in-out;*/
+  /*--bs-accordion-btn-active-icon: url(
+  "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' 
+        viewBox='0 0 16 16' 
+        fill='black'%3e%3cpath fill-rule='evenodd' 
+        d='M1.646 4.646a.5.5 0 0 1 .708 0L8 
+           10.293l5.646-5.647a.5.5 0 0 1 
+           .708.708l-6 6a.5.5 0 0 1-.708 
+           0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");*/
+  /*--bs-accordion-btn-focus-border-color: #86b7fe;*/
+  /*--bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);*/ /*color of the shadow around the clicked/last clicked accordion*/
+  /*--bs-accordion-body-padding-x: 3.5rem; */ /* padding from sides of the accordion body the content is */
+  /*--bs-accordion-body-padding-y: 4.5rem;*/ /* padding from the top/botton of the accordion body the content is */
+  /*--bs-accordion-active-color: #0c63e4;*/ /* color of the text of the active accordion button/header */
+  /*--bs-accordion-active-bg: #e7f1ff;*/ /* color of the background of the active accordion button/header */
+}

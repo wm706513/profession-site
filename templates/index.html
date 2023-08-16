@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Trillithia Professions</title>
+        <meta name="description" content="">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+        <script>const whTooltips = {colorLinks: false, iconizeLinks: false, renameLinks: false};</script>
+        <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+        <link href="../static/style.css" rel="stylesheet">
+        <link href="../static/images/favicon.png" rel="icon">
+    </head>
+
+    <body class="bg-dark">
+
+        <!-- Dropdown for professions instead of listed out -->
+        <!--
+        <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+            <div class="container-fluid">-->
+                <!-- button gives the button to expand a collapsed navbar on small screens -->
+                <!--
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button> 
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{url_for('index')}}">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Professions
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item active" href="{{url_for('alchemy')}}">Alchemy</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('blacksmithing')}}">Blacksmithing</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('cooking')}}">Cooking</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('enchanting')}}">Enchanting</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('engineering')}}">Engineering</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('inscription')}}">Inscription</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('jewelcrafting')}}">Jewelcrafting</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('leatherworking')}}">Leatherworking</a></li>
+                                <li><a class="dropdown-item" href="{{url_for('tailoring')}}">Tailoring</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>   
+            </div>
+        </nav>-->
+
+        <!-- listed out professions instead of dropdown -->
+        <nav class="navbar navbar-expand-lg bg-dark border-body" data-bs-theme="dark">
+            <div class="container-fluid">
+                <!-- button gives the button to expand a collapsed navbar on small screens -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button> 
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('alchemy')}}"><img class="tinier-icon" src="../static/images/alchemy_small.jpg">Alchemy</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('blacksmithing')}}"><img class="tinier-icon" src="../static/images/blacksmithing_small.jpg">Blacksmithing</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('cooking')}}"><img class="tinier-icon" src="../static/images/cooking_small.jpg">Cooking</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('enchanting')}}"><img class="tinier-icon" src="../static/images/enchanting_small.jpg">Enchanting</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('engineering')}}"><img class="tinier-icon" src="../static/images/engineering_small.jpg">Engineering</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('inscription')}}"><img class="tinier-icon" src="../static/images/inscription_small.jpg">Inscription</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('jewelcrafting')}}"><img class="tinier-icon" src="../static/images/jewelcrafting_small.jpg">Jewelcrafting</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('leatherworking')}}"><img class="tinier-icon" src="../static/images/leatherworking_small.jpg">Leatherworking</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{url_for('tailoring')}}"><img class="tinier-icon" src="../static/images/tailoring_small.jpg">Tailoring</a></li>
+                    </ul>
+                </div>   
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                    <a href="{{url_for('alchemy')}}" class="hide-link">
+                        <div class="card">
+                            <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092089-alchemy.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Alchemy</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Alchemy</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Alchemy</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('blacksmithing')}}" class="hide-link">
+                        <div class="card">
+                            <img src="./static/images/blacksmithing.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Blacksmithing</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Blacksmithing</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Blacksmithing</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('cooking')}}" class="hide-link">
+                        <div class="card">
+                            <img src="./static/images/cooking.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Cooking</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Cooking</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Cooking</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('enchanting')}}" class="hide-link">
+                        <div class="card">
+                            <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092088-enchanting.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Enchanting</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Enchanting</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Enchanting</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('engineering')}}" class="hide-link">
+                        <div class="card">
+                            <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092091-engineering.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Engineering</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Engineering</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Engineering</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a> 
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('inscription')}}" class="hide-link">
+                        <div class="card">
+                            <img src="./static/images/inscription.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Inscription</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Inscription</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Inscription</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('jewelcrafting')}}" class="hide-link">
+                        <div class="card">
+                            <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092090-jewelcrafting.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Jewelcrafting</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Jewelcrafting</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Jewelcrafting</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('leatherworking')}}" class="hide-link">
+                        <div class="card">
+                            <img src="./static/images/leatherworking.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Leatherworking</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Leatherworking</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Leatherworking</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col">
+                    <a href="{{url_for('tailoring')}}" class="hide-link">
+                        <div class="card">
+                            <img src="./static/images/tailoring.jpg" class="card-img" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Tailoring</p>--> <!-- top text -->
+                                <p class="align-self-center mx-auto outlined-text dynamic-font-size">Tailoring</p> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Tailoring</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
