@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Trillithia Professions</title>
+        <title>{{full_name}}</title>
         <meta name="description" content="">
         <meta name="author" content="Trillithia-Zul'jin">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,11 +25,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <div class="col">
                         <!-- expansion navbar -->
+                        {% set isDF = (expansion=='DF') %}
+                        {% set isTWW = (expansion=='TWW') %}
                         <div class="row mb-2" id="top-navbar">
                             <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
                                 <li class="nav-item"><a class="nav-link" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
-                                <li class="nav-item"><a class="nav-link" href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
-                                <li class="nav-item"><a class="nav-link active" aria-current="page" href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isDF %}active{% endif %}" aria-current={% if isDF %}"page"{% else %}"false"{% endif %} href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isTWW %}active{% endif %}" aria-current={% if isTWW %}"page"{% else %}"false"{% endif %} href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
                             </ul>
                         </div>
 
@@ -59,9 +61,13 @@
         <div class="container">
             <div class="row row-cols-1 row-cols-md-3 g-3"> <!-- Use 1 column bby default, but use 3 columns when window is medium size or larger-->
                 <div class="col">
-                    <a href="{{url_for('alchemy_TWW')}}" class="hide-link">
+                    <a href="{{url_for('alchemy_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/alchemy_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092089-alchemy.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/alchemy_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Alchemy</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto dynamic-font-size background-strip">Alchemy</p> <!-- centered text -->
@@ -72,9 +78,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('blacksmithing_TWW')}}" class="hide-link">
+                    <a href="{{url_for('blacksmithing_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/blacksmithing_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="./static/images/blacksmithing.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/blacksmithing_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Blacksmithing</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Blacksmithing</p> <!-- centered text -->
@@ -85,9 +95,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('cooking_TWW')}}" class="hide-link">
+                    <a href="{{url_for('cooking_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/cooking_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="./static/images/cooking.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/cooking_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Cooking</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Cooking</p> <!-- centered text -->
@@ -98,9 +112,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('enchanting_TWW')}}" class="hide-link">
+                    <a href="{{url_for('enchanting_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/enchanting_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092088-enchanting.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/enchanting_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Enchanting</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Enchanting</p> <!-- centered text -->
@@ -111,9 +129,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('engineering_TWW')}}" class="hide-link">
+                    <a href="{{url_for('engineering_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/engineering_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092091-engineering.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/engineering_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Engineering</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Engineering</p> <!-- centered text -->
@@ -124,9 +146,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('inscription_TWW')}}" class="hide-link">
+                    <a href="{{url_for('inscription_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/inscription_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="./static/images/inscription.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/inscription_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Inscription</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Inscription</p> <!-- centered text -->
@@ -137,9 +163,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('jewelcrafting_TWW')}}" class="hide-link">
+                    <a href="{{url_for('jewelcrafting_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/jewelcrafting_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092090-jewelcrafting.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/jewelcrafting_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Jewelcrafting</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Jewelcrafting</p> <!-- centered text -->
@@ -150,9 +180,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('leatherworking_TWW')}}" class="hide-link">
+                    <a href="{{url_for('leatherworking_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/leatherworking_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="./static/images/leatherworking.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/leatherworking_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Leatherworking</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Leatherworking</p> <!-- centered text -->
@@ -163,9 +197,13 @@
                 </div>
 
                 <div class="col">
-                    <a href="{{url_for('tailoring_TWW')}}" class="hide-link">
+                    <a href="{{url_for('tailoring_'~expansion)}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/tailoring_TWW.png" class="card-img" alt="...">
+                            {% if isDF %}
+                                <img src="./static/images/tailoring.jpg" class="card-img" alt="...">
+                            {% elif isTWW %}
+                                <img src="./static/images/tailoring_TWW.png" class="card-img" alt="...">
+                            {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Tailoring</p>--> <!-- top text -->
                                 <p class="align-self-center mx-auto background-strip dynamic-font-size">Tailoring</p> <!-- centered text -->
