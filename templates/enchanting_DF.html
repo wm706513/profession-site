@@ -3,8 +3,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Blacksmithing</title>
+        <title>Enchanting</title>
         <meta name="description" content="">
+        <meta name="author" content="Trillithia-Zul'jin">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
         <script>const whTooltips = {colorLinks: false, iconizeLinks: false, renameLinks: false};</script>
@@ -14,63 +16,43 @@
     </head>
 
     <body class="bg-dark">
-
-        <!-- Dropdown for professions instead of listed out -->
-        <!--
-        <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
-            <div class="container-fluid">-->
-                <!-- button gives the button to expand a collapsed navbar on small screens -->
-                <!--
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button> 
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{url_for('index')}}">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Professions
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="{{url_for('alchemy')}}">Alchemy</a></li>
-                                <li><a class="dropdown-item active" aria-current="page" href="{{url_for('blacksmithing')}}">Blacksmithing</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('cooking')}}">Cooking</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('enchanting')}}">Enchanting</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('engineering')}}">Engineering</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('inscription')}}">Inscription</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('jewelcrafting')}}">Jewelcrafting</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('leatherworking')}}">Leatherworking</a></li>
-                                <li><a class="dropdown-item" href="{{url_for('tailoring')}}">Tailoring</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>   
-            </div>
-        </nav>-->
-
-        <!-- listed out professions instead of dropdown -->
         <nav class="navbar navbar-expand-lg bg-dark border-body" data-bs-theme="dark">
-            <div class="container-fluid">
+            <div class="container-fluid relative-pos">
                 <!-- button gives the button to expand a collapsed navbar on small screens -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button> 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('alchemy')}}"><img class="tinier-icon" src="../static/images/alchemy_small.jpg">Alchemy</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="{{url_for('blacksmithing')}}"><img class="tinier-icon" src="../static/images/blacksmithing_small.jpg">Blacksmithing</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('cooking')}}"><img class="tinier-icon" src="../static/images/cooking_small.jpg">Cooking</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('enchanting')}}"><img class="tinier-icon" src="../static/images/enchanting_small.jpg">Enchanting</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('engineering')}}"><img class="tinier-icon" src="../static/images/engineering_small.jpg">Engineering</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('inscription')}}"><img class="tinier-icon" src="../static/images/inscription_small.jpg">Inscription</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('jewelcrafting')}}"><img class="tinier-icon" src="../static/images/jewelcrafting_small.jpg">Jewelcrafting</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('leatherworking')}}"><img class="tinier-icon" src="../static/images/leatherworking_small.jpg">Leatherworking</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{url_for('tailoring')}}"><img class="tinier-icon" src="../static/images/tailoring_small.jpg">Tailoring</a></li>
-                    </ul>
-                </div>   
+                    <div class="col">
+                        <!-- expansion navbar -->
+                        <div class="row mb-2" id="top-navbar">
+                            <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
+                                <li class="nav-item"><a class="nav-link active" aria-current="page" href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
+                            </ul>
+                        </div>
+
+                        <!-- profession navbar -->
+                        <div class="row top-buffer" id="bottom-navbar">
+                            <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('alchemy_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/alchemy_small.jpg">Alchemy</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('blacksmithing_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/blacksmithing_small.jpg">Blacksmithing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('cooking_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/cooking_small.jpg">Cooking</a></li>
+                                <li class="nav-item"><a class="nav-link active" aria-current="page" href="{{url_for('enchanting_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/enchanting_small.jpg">Enchanting</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('engineering_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/engineering_small.jpg">Engineering</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('inscription_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/inscription_small.jpg">Inscription</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('jewelcrafting_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/jewelcrafting_small.jpg">Jewelcrafting</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('leatherworking_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/leatherworking_small.jpg">Leatherworking</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('tailoring_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/tailoring_small.jpg">Tailoring</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div> 
+
+                <div id="last-updated">
+                    <p>Last Updated: {{last_update}}</p>
+                </div> 
             </div>
         </nav>
 
@@ -95,7 +77,7 @@
                             <!-- top line is to only have one outer accordion open, bottom line is to allow both to be open -->
                             <!--<button class="accordion-button{% if dataset_label!='Learned Recipes' %}{{' collapsed'}}{% endif %}" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_{{'_'.join(dataset_label.split())}}" aria-expanded="{% if dataset_label=='Learned Recipes' %}{{'true'}}{% else %}{{'false'}}{% endif %}" aria-controls="collapse_{{'_'.join(dataset_label.split())}}">-->
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_{{'_'.join(dataset_label.split())}}" aria-expanded="true" aria-controls="collapse_{{'_'.join(dataset_label.split())}}">
-                                {{dataset_label}}
+                                <span class="header-font">{{dataset_label}}</span>
                             </button>
                         </h2>
                         <!-- top line is to only have one outer accordion open, bottom line is to allow both to be open -->
@@ -103,8 +85,10 @@
                         <div id="collapse_{{'_'.join(dataset_label.split())}}" class="accordion-collapse collapse show">
                             <div class="accordion-body">
                                 <div class="accordion borderless" id="{{'_'.join(dataset_label.split())}}_Items">
-                                    {% for item_set in dataset %}
-                                        {% if (session[profession_name+'_search'] == '' or session[profession_name+'_search'].lower() in item_set['item'].lower()) and (session[profession_name+'_select'] == 'none' or item_set['tag'].lower() == session[profession_name+'_select']) %}
+                                    {% for item_set in dataset %} <!-- item_set is the data dictionary for a singular item -->
+                                        {% set session_search = profession_name + '_' + expansion + '_search' %}
+                                        {% set session_select = profession_name + '_' + expansion + '_select' %}
+                                        {% if (session[session_search] == '' or session[session_search].lower() in item_set['item'].lower()) and (session[session_select] == 'none' or item_set['tag'].lower() == session[session_select]) %}
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{'_'.join(dataset_label.split())}}_item{{loop.index}}" aria-expanded="false" aria-controls="{{'_'.join(dataset_label.split())}}_item{{loop.index}}">
@@ -120,7 +104,7 @@
                                                             <!-- First Column -->
                                                             <div class="col-sm-auto">
                                                                 <!-- First Table of First Column-->
-                                                                <div class="row">
+                                                                <div class="row table-responsive">
                                                                     <table class="table table-hover table-bordered">
                                                                         <tr>
                                                                             <th class="centered-header">Reagent</th>
@@ -139,7 +123,7 @@
                                                                 <!-- Second Table of First Column which may not appear-->
                                                                 {% if (item_set['has_crest_slot'] or item_set['has_missive_slot'] or item_set['has_embellishment_slot'] or item_set['has_tinker_slot']) %}
                                                                     {% if (item_set['inspiration_percent'] == item_set['inspiration_percent']) or (item_set['multicraft_percent'] == item_set['multicraft_percent']) %}
-                                                                        <div class="row">
+                                                                        <div class="row table-responsive">
                                                                             <table class="table table-hover table-bordered">
                                                                                 <tr>
                                                                                     <th class="centered-header">Stat</th>
@@ -169,7 +153,7 @@
                                                             {% if not (item_set['has_crest_slot'] or item_set['has_missive_slot'] or item_set['has_embellishment_slot'] or item_set['has_tinker_slot']) %}
                                                                 <div class="col-sm-auto">
                                                                     {% if (item_set['inspiration_percent'] == item_set['inspiration_percent']) or (item_set['multicraft_percent'] == item_set['multicraft_percent']) or (item_set['difficulty'] == item_set['difficulty']) %}
-                                                                        <div class="row">
+                                                                        <div class="row table-responsive">
                                                                             <table class="table table-hover table-bordered">
                                                                                 <tr>
                                                                                     <th class="centered-header">Stat</th>
@@ -213,7 +197,7 @@
                                                             <div class="col-sm-auto">
                                                                 <!-- Skill Level Table -->
                                                                 {% if (item_set['skill1'] == item_set['skill1']) and (item_set['has_reagent_qualities'])%}
-                                                                    <div class="row">
+                                                                    <div class="row table-responsive">
                                                                         <table class="table table-hover table-bordered">
                                                                             <tr>
                                                                                 <th class="centered-header">Stat</th>
@@ -247,7 +231,7 @@
                                                                 {% endif %}
 
                                                                 <!-- Difficulty Level Table -->
-                                                                <div class="row">
+                                                                <div class="row table-responsive">
                                                                     <!--{% if item_set['tag']=='Gear (Combat)' or item_set['tag']=='Gear (Profession)' and item_set %}{% endif %}-->
                                                                     {% if (item_set['has_crest_slot'] or item_set['has_missive_slot'] or item_set['has_embellishment_slot'] or item_set['has_tinker_slot']) %}
                                                                         <table class="table table-hover table-bordered">
