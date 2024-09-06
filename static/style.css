@@ -1,5 +1,37 @@
+.navbar {
+    margin-left: 12px;
+}
 .white-text {
     color: white;
+}
+
+.relative-pos {
+    position: relative;
+}
+
+#last-updated {
+    position:absolute; 
+    top:0; 
+    right:12px;
+}
+
+#last-updated p{
+    color:var(--bs-secondary-color);
+}
+
+@font-face{
+    font-family: LifeCraft;
+    src: url(./fonts/LifeCraft_Font.ttf);
+}
+
+@font-face{
+    font-family: Folkard;
+    src: url(./fonts/folkard_.ttf);
+}
+
+@font-face{
+    font-family: Morpheus;
+    src: url(./fonts/MORPHEUS.TTF);
 }
 
 .outlined-text {
@@ -8,6 +40,50 @@
                  -1px -1px 0px white, 
                  1px -1px 0px white, 
                  1px 1px 0px white;
+}
+
+a, p, span{
+    font-family: sans-serif;
+}
+
+.header-font {
+    font-size: 1.1em;
+}
+
+.background-strip {
+    color: white;
+    /*font-family: LifeCraft;*/
+    /*font-family: Folkard;*/
+    font-family: Morpheus;
+    text-shadow: -2px 2px 0px black, 
+                 -2px -2px 0px black, 
+                 2px -2px 0px black, 
+                 2px 2px 0px black;
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 100%;
+    font-weight: bold;
+    /*border-style: solid;
+    border-width: 1px;
+    border-color: var(--bs-dark-border-subtle);*/
+}
+
+th.not-bold {
+    font-weight: normal;
+}
+
+td.centered {
+    text-align: center;
+}
+
+li.title {
+    color: white;
+    font-size: 1.1em;
+    font-weight: bold;
+    border-style:solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,0);
+    border-bottom-color: white;
+    text-align: center;
 }
 
 /* change font size based upon screen size */
@@ -29,9 +105,107 @@
     }
 }
 
+/* width:992px is the breakpoint for the navbar to collapse into a button */
+@media screen and (max-width:992px) {
+    li.small-screen-only {
+        display: block;
+    }
+
+    ul.full-wdith {
+        width: 100%;
+    }
+
+    #top-navbar {
+        border-style: solid;
+        border-width: 1px;
+        border-color: rgba(0,0,0,0);
+        border-top-color: white;
+        width: 11em;
+        margin-top:10px;
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+
+    #top-navbar-index {
+        border-style: solid;
+        border-width: 1px;
+        border-color: rgba(0,0,0,0);
+        border-top-color: white;
+        border-bottom-color: white;
+        width: 11em;
+        margin-top:10px;
+        padding-top:10px;
+    }
+
+    #bottom-navbar {
+        border-style:solid; 
+        border-width:1px; 
+        border-color:rgba(0,0,0,0); 
+        border-top-color:white; 
+        border-bottom-color: white;
+        width:11em; 
+        padding-top:10px;
+        margin-bottom:10px;
+        margin-top:-12px; /* offset the mb-3 in the top navbar div that I can't get to offset within #top-navbar */
+    }
+
+    .nav-tabs a.nav-link {
+        border-bottom-color:rgba(0,0,0,0);
+    }
+
+    .nav-tabs a.nav-link {
+        border-color:rgba(0,0,0,0);
+        padding-left: 5px;
+        width:11em
+    }
+    
+    .nav-tabs a.nav-link.active{
+        border-color:var(--bs-border-color);
+        border-left-color: rgba(0, 0, 0, 0);
+        color:white;
+        border-radius: 0px var(--bs-border-radius) var(--bs-border-radius) 0px;
+    }
+    
+    .nav-tabs a.nav-link:hover{
+        border-color: rgba(0,0,0,0);
+        color:white;
+    }
+    
+    .nav-tabs a.nav-link.active:hover{
+        border-color:var(--bs-border-color);
+        border-left-color: rgba(0, 0, 0, 0);
+        color:white;
+    }
+}
+
 @media screen and (min-width:992px) {
     .dynamic-font-size {
         font-size:20px;
+    }
+
+    li.small-screen-only {
+        display: none;
+    }
+
+    .nav-tabs a.nav-link {
+        border-bottom-color:var(--bs-border-color);
+    }
+    
+    .nav-tabs a.nav-link.active{
+        border-bottom-color:rgba(0,0,0,0);
+        border-bottom-style: dashed;
+    }
+    
+    
+    .nav-tabs a.nav-link:hover{
+        border-color: rgba(0,0,0,0);
+        border-bottom-color: var(--bs-border-color);
+        color:white;
+    }
+    
+    .nav-tabs a.nav-link.active:hover{
+        border-color:var(--bs-border-color);
+        border-bottom-color:rgba(0,0,0,0);
     }
 }
 
@@ -55,6 +229,11 @@
     border: 1px solid black;
 }
 
+.tiny-icon.borderless {
+    border: 0px;
+    padding-bottom:0px;
+}
+
 .tinier-icon {
     margin-top: -2px;
     max-height:25px; 
@@ -66,6 +245,7 @@
 .tinier-icon.borderless {
     border: 0px;
     padding-bottom:2px;
+    margin-bottom:-2px;
 }
 
 .tiniest-icon {
@@ -73,11 +253,25 @@
     max-height:20px; 
     width:auto; 
     margin-right:5px;
+    border: 1px solid black;
 }
 
 .tiniest-icon.borderless {
     border: 0px;
     padding-bottom:1px;
+}
+
+.tiniester-icon {
+    margin-top: -2px;
+    max-height:15px; 
+    width:auto; 
+    margin-right:5px;
+    border: 1px solid black;
+}
+
+.tiniester-icon.borderless {
+    border: 0px;
+    padding-bottom:0px;
 }
 
 .centered-header {
@@ -87,51 +281,8 @@
 
 a.hide-link {
     color: black;
-     text-decoration: none;
+    text-decoration: none;
 }
-/*
-.common-rarity {
-    color: black;
-}
-
-.uncommon-rarity {
-    color: #1eff00;
-}
-
-.rare-rarity {
-    color: #0070dd;
-}
-
-.epic-rarity {
-    color: #a335ee;
-}
-
-.legendary-rarity {
-    color: #ff8000;
-}
-*/
-
-/*
-.common-rarity {
-    border: 2px solid black;
-}
-
-.uncommon-rarity {
-    border: 2px solid #1eff00;
-}
-
-.rare-rarity {
-    border: 2px solid #0070dd;
-}
-
-.epic-rarity {
-    border: 2px solid #a335ee;
-}
-
-.legendary-rarity {
-    border: 2px solid #ff8000;
-}
-*/
 
 /* inactive tabs */
 /*.nav-tabs a.nav-link {
@@ -140,18 +291,35 @@ a.hide-link {
     border-color: darkgrey;
 }*/
 
+.nav-tabs {
+    border-bottom-color: rgba(0,0,0,0);
+}
+
+.nav-tabs li {
+    margin-right:-2px;
+}
+
+/*
+.nav-tabs a.nav-link {
+    border-bottom-color:var(--bs-border-color);
+}
+
+.nav-tabs a.nav-link.active{
+    border-bottom-color:rgba(0,0,0,0);
+}
+
 
 .nav-tabs a.nav-link:hover{
-    border-top-color:var(--bs-dark);
-    border-left-color:var(--bs-dark);
-    border-right-color:var(--bs-dark);
+    border-color: rgba(0,0,0,0);
+    border-bottom-color: var(--bs-border-color);
     color:white;
 }
 
 .nav-tabs a.nav-link.active:hover{
     border-color:var(--bs-border-color);
-    border-bottom-color:var(--bs-dark);
+    border-bottom-color:rgba(0,0,0,0);
 }
+*/
 
 /* selects anchor tags that have both nav-link class and active class, where the anchor tag is inside a tag that has the nav-tabs class */
 /*.nav-tabs a.nav-link.active { 
@@ -159,18 +327,30 @@ a.hide-link {
     background-color: lightgrey;
 }*/
 
+
+
 .card {
     /*--bs-card-border-width: 0px;*/
     /*--bs-card-border-color: rgb(173, 181, 189);*/
-    --bs-card-border-color: var(--bs-border-color);
+    /*--bs-card-border-color: var(--bs-border-color);*/
+    --bs-card-border-color: var(--bs-dark-border-subtle);
     --bs-card-bg: rgba(173, 181, 189, 0);
-
+    --bs-card-img-overlay-padding: 0;
 }
 
 .card-img {
     width: 100%;
-    height: 29vh;
+    height: 27vh;
     object-fit: cover;
+}
+
+.card:hover {
+    --bs-card-border-color: white;
+    box-shadow: -1px -1px 0px white,
+                -1px 1px 0px white,
+                1px -1px 0px white,
+                1px 1px 0px white;
+    filter: brightness(115%);
 }
 
 .accordion.borderless {
