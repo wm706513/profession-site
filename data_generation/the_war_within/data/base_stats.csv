@@ -1,12 +1,12 @@
 profession,level,skill,multicraft,ingenuity,resourcefulness
-alchemy,100,34,60,89,480
+alchemy,100,40,105,158,480
 engineering,100,18,60,89,247
 tailoring,100,40,105,158,484
 enchanting,105,28,302,97,176
 inscription,100,40,97,145,462
-enchanting2,98,34,0,155,509
+enchanting2,98,40,0,155,543
 blacksmithing,100,40,89,133,509
-jewelcrafting2,100,18,55,83,283
+jewelcrafting2,100,28,55,83,442
 jewelcrafting,100,40,89,133,462
 blacksmithing2,100,18,55,83,242
 leatherworking2,100,40,97,145,484

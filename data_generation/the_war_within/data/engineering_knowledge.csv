@@ -1,9 +1,9 @@
 node,points
 engineered equipment,40
 calibrated chaos,5
-guns,-1
-bracers,2
 inventor's necessities,20
+guns,-1
+bracers,7
 profession gear,30
 goggles,10
 devices,0
@@ -11,9 +11,9 @@ explosives,-1
 tinkers,-1
 inventing,40
 ingenious,0
-parts,2
+parts,5
+scrapper,0
 overclocked cogwheel,-1
 serrated cogwheel,-1
-adjustable cogwheel,-1
+adjustable cogwheel,0
 impeccable cogwheel,-1
-scrapper,0
