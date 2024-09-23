@@ -1,0 +1,88 @@
+﻿itemID,itemName,,,
+222423,Sanctified Alloy,means of production,alloys,fortuitous forges
+222420,Charged Alloy,means of production,alloys,fortuitous forges
+222426,Ironclaw Alloy,means of production,alloys,fortuitous forges
+222417,Core Alloy,means of production,alloys,fortuitous forges
+222430,Everforged Breastplate,armorsmithing,large plate armor,breastplates
+222432,Everforged Defender,large plate armor,armorsmithing,shields
+222437,Everforged Gauntlets,armorsmithing,fine armor,gauntlets
+222431,Everforged Greatbelt,armorsmithing,fine armor,belts
+222433,Everforged Helm,sculpted armor,armorsmithing,helms
+222434,Everforged Legplates,large plate armor,armorsmithing,greaves
+222436,Everforged Pauldrons,sculpted armor,armorsmithing,pauldrons
+222429,Everforged Sabatons,sculpted armor,armorsmithing,sabatons
+222435,Everforged Vambraces,armorsmithing,fine armor,vambraces
+222476,Dredger's Developed Legplates,large plate armor,armorsmithing,greaves
+222478,Dredger's Developed Pauldrons,sculpted armor,armorsmithing,pauldrons
+222479,Dredger's Developed Gauntlets,armorsmithing,fine armor,gauntlets
+222475,Dredger's Developed Helm,sculpted armor,armorsmithing,helms
+222474,Dredger's Developed Defender,large plate armor,armorsmithing,shields
+222473,Dredger's Developed Greatbelt,armorsmithing,fine armor,belts
+222477,Dredger's Plate Vambraces,armorsmithing,fine armor,vambraces
+222472,Dredger's Plate Breastplate,armorsmithing,large plate armor,breastplates
+222471,Dredger's Plate Sabatons,sculpted armor,armorsmithing,sabatons
+222447,Charged Claymore,weaponsmithing,blades,long blades
+222449,Charged Crusher,weaponsmithing,hafted,maces
+222446,Charged Facesmasher,weaponsmithing,short blades,blades
+222448,Charged Halberd,weaponsmithing,hafted,axes and polearms
+222444,Charged Hexsword,weaponsmithing,blades,long blades
+222450,Charged Invoker,weaponsmithing,hafted,maces
+222445,Charged Runeaxe,weaponsmithing,hafted,axes and polearms
+222451,Charged Slicer,weaponsmithing,hafted,axes and polearms
+222439,Everforged Dagger,weaponsmithing,short blades,blades
+222443,Everforged Greataxe,weaponsmithing,hafted,axes and polearms
+222440,Everforged Longsword,weaponsmithing,blades,long blades
+222442,Everforged Mace,weaponsmithing,hafted,maces
+222438,Everforged Stabber,weaponsmithing,short blades,blades
+222441,Everforged Warglaive,weaponsmithing,blades,long blades
+222468,Ironclaw Great Mace,weaponsmithing,hafted,maces
+222467,Ironclaw Knuckles,weaponsmithing,short blades,blades
+222469,Ironclaw Axe,weaponsmithing,hafted,axes and polearms
+222466,Ironclaw Sword,weaponsmithing,blades,long blades
+222465,Ironclaw Dirk,weaponsmithing,short blades,blades
+222470,Ironclaw Great Axe,weaponsmithing,hafted,axes and polearms
+222464,Ironclaw Stiletto,weaponsmithing,short blades,blades
+222459,Beledar's Bulwark,large plate armor,armorsmithing,shields
+222458,Sanctified Steps,sculpted armor,armorsmithing,sabatons
+222463,Siphoning Stiletto,weaponsmithing,short blades,blades
+222495,Artisan Blacksmith's Toolbox,means of production,trade accessories,tools of the trade
+222494,Artisan Blacksmith's Hammer,means of production,tools of the trade,trade tools
+222492,Artisan Leatherworker's Knife,means of production,tools of the trade,trade tools
+222493,Artisan Leatherworker's Toolset,means of production,trade accessories,tools of the trade
+222491,Artisan Needle Set,means of production,trade accessories,tools of the trade
+222489,Artisan Pickaxe,means of production,tools of the trade,trade tools
+222488,Artisan Sickle,means of production,tools of the trade,trade tools
+222490,Artisan Skinning Knife,means of production,tools of the trade,trade tools
+222487,Proficient Blacksmith's Toolbox,means of production,trade accessories,tools of the trade
+222485,Proficient Leatherworker's Toolset,means of production,trade accessories,tools of the trade
+222483,Proficient Needle Set,means of production,trade accessories,tools of the trade
+222486,Proficient Blacksmith's Hammer,means of production,tools of the trade,trade tools
+222484,Proficient Leatherworker's Knife,means of production,tools of the trade,trade tools
+222481,Proficient Pickaxe,means of production,tools of the trade,trade tools
+222480,Proficient Sickle,means of production,tools of the trade,trade tools
+222482,Proficient Skinning Knife,means of production,tools of the trade,trade tools
+225660,Earthen Master's Hammer,trade tools,,
+222505,Ironclaw Razorstone,means of production,tool enhancement,stonework
+222508,Ironclaw Weightstone,means of production,stonework,weapon stones
+222502,Ironclaw Whetstone,means of production,stonework,weapon stones
+225374,Algari Competitor's Axe,weaponsmithing,hafted,axes and polearms
+225367,Algari Competitor's Dagger,weaponsmithing,short blades,blades
+225376,Algari Competitor's Greatsword,weaponsmithing,blades,long blades
+225366,Algari Competitor's Pickaxe,weaponsmithing,hafted,axes and polearms
+217150,Algari Competitor's Plate Armguards,armorsmithing,fine armor,vambraces
+217143,Algari Competitor's Plate Breastplate,armorsmithing,large plate armor,breastplates
+217145,Algari Competitor's Plate Gauntlets,armorsmithing,fine armor,gauntlets
+217147,Algari Competitor's Plate Greaves,large plate armor,armorsmithing,greaves
+217146,Algari Competitor's Plate Helm,sculpted armor,armorsmithing,helms
+217148,Algari Competitor's Plate Pauldrons,sculpted armor,armorsmithing,pauldrons
+217144,Algari Competitor's Plate Sabatons,sculpted armor,armorsmithing,sabatons
+217149,Algari Competitor's Plate Waistguard,armorsmithing,fine armor,belts
+225371,Algari Competitor's Scepter,weaponsmithing,hafted,maces
+225373,Algari Competitor's Shield,large plate armor,armorsmithing,shields
+225375,Algari Competitor's Skewer,weaponsmithing,short blades,blades
+225377,Algari Competitor's Sword,weaponsmithing,blades,long blades
+222499,Forged Framework,means of production,fortuitous forges,frameworks
+222511,Adjustable Framework,means of production,fortuitous forges,frameworks
+222514,Tempered Framework,means of production,fortuitous forges,frameworks
+222520,Coreforged Repair Hammer,means of production,fortuitous forges,
+222523,Coreforged Skeleton Key,means of production,,
