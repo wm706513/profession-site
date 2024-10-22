@@ -7,22 +7,22 @@ Mirror Powder,224178,Linidel,finishing reagent,480,0,1,0,uncommon,TRUE,FALSE,FAL
 Oil of Beledar's Grace,224108,None,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,213610,2,219946,10,219949,1,,
 Oil of Deep Toxins,224111,None,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,221763,1,219946,10,219949,1,,
 Algari Mana Oil,224105,Linidel,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213613,10,219946,5,,,,,,
-Runed Null Stone Rod,224116,None,gear (profession),475,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE,221754,2,210939,1,210814,400,219946,100,219949,10
+Runed Null Stone Rod,224116,Linidel,gear (profession),475,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE,221754,2,210939,1,210814,400,219946,100,219949,10
 Runed Ironclaw Rod,224115,None,gear (profession),475,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,350,221754,1,219946,75,219949,5,,
 Scepter of Radiant Magics,224405,None,gear (combat),430,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,221758,2,219949,6,219952,2,222555,1
 Enchanted Spearwood Wand,224404,Linidel,gear (combat),300,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,219946,5,222555,1,,,,,,
 Runed Bsimuth Rod,224114,Linidel,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE,227208,1,219946,10,,,,,,
 Enchant Boots - Cavalry's March,223650,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Boots - Defender's March,223656,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
-Enchant Boots - Scout's March,223653,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
-Enchant Bracer - Chant of Amored Avoidance,223713,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
-Enchant Bracer - Chant of Armored Leech,223719,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
+Enchant Boots - Scout's March,223653,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
+Enchant Bracer - Chant of Amored Avoidance,223713,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
+Enchant Bracer - Chant of Armored Leech,223719,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
 Enchant Bracer - Chant of Armored Speed,223725,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
 Enchant Bracer - Whisper of Armored Leech,223716,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
 Enchant Bracer - Whisper of Armored Speed,223721,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
 Enchant Bracer - Whisper of Armored Avoidance,223708,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
 Enchant Chest - Council's Intellect,223686,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,213613,5,219946,75,219949,10,219952,1
-Enchant Chest - Crystalline Radiance,223692,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,20,219946,75,219949,10,219952,1,,
+Enchant Chest - Crystalline Radiance,223692,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,20,219946,75,219949,10,219952,1,,
 Enchant Chest - Oathsworn's Strength,223689,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,221754,1,219946,75,219949,10,219952,1
 Enchant Chest - Stormrider's Agility,223683,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,218338,5,219946,75,219949,10,219952,1
 Enchant Cloak - Chant of Burrowing Rapdidity,223800,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
@@ -33,11 +33,11 @@ Enchant Cloak - Whisper of Silken Leech,223734,Linidel,item enhancement,250,np.n
 Enchant Cloak - Whisper of Silken Avoidance,223727,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
 Enchant Tool - Algari Deftness,223695,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
 Enchant Tool - Algari Finesse,223698,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
-Enchant Tool - Algari Ingenuity,223701,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
+Enchant Tool - Algari Ingenuity,223701,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
 Enchant Tool - Algari Perception,223704,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
-Enchant Tool - Algari Resourcefulness,223707,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
+Enchant Tool - Algari Resourcefulness,223707,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,25,219949,5,,,,
 Enchant Ring - Radiant Critical Strike,223662,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
-Enchant Ring - Radiant Haste,223674,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
+Enchant Ring - Radiant Haste,223674,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Ring - Radiant Mastery,223677,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Ring - Radiant Versatility,223680,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Ring - Cursed Critical Strike,223787,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213611,10,219946,50,219949,10,219952,1,,
@@ -51,7 +51,7 @@ Enchant Ring - Glimmering Haste,223665,Linidel,item enhancement,250,np.nan,1,0,r
 Enchant Weapon - Authority of Air,223775,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,75,219949,10,219952,2,,
 Enchant Weapon - Authority of Fiery Resolve,223778,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,75,219949,10,219952,2,,
 Enchant Weapon - Authority of Radiant Power,223781,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,75,219949,10,219952,2,,
-Enchant Weapon - Authority of Storms,223772,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,218338,5,219946,75,219949,10,219952,2
+Enchant Weapon - Authority of Storms,223772,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,218338,5,219946,75,219949,10,219952,2
 Enchant Weapon - Authority of the Depths,223784,None,item enhancement,390,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,213611,5,219946,75,219949,10,219952,2
 Enchant Weapon - Council's Guile,223759,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,50,219949,5,219952,1,,
 Enchant Weapon - Oathsworn's Tenacity,223768,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221754,1,219946,50,219949,5,219952,1,,

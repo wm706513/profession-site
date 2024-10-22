@@ -4,8 +4,8 @@ Apricate Ink,222615,Lindinil,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FA
 Codified Greenwood,222555,Lindinil,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,226205,20,222609,2,210808,5,,,,
 Boundless Cipher,222558,Lindinil,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,226205,20,222615,2,210808,5,,,,
 Darkmoon Sigil: Ascension,226022,Lindinil,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,222680,1,213611,8,222609,4,222558,4,,
-Darkmoon Sigil: Radiance,226025,None,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219672,1,213611,8,222615,4,222558,4,,
-Darkmoon Sigil: Symbiosis,226028,None,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,222653,1,213611,8,222609,4,222558,4,,
+Darkmoon Sigil: Radiance,226025,Lindinil,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219672,1,213611,8,222615,4,222558,4,,
+Darkmoon Sigil: Symbiosis,226028,Lindinil,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,222653,1,213611,8,222609,4,222558,4,,
 Darkmoon Sigil: Vivacity,226031,Lindinil,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,222671,1,213611,8,222615,4,222558,4,,
 Vagabond's Bounding Baton,222568,None,gear (combat),525,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,213611,20,222558,10,222555,15,,
 Vagabond's Careful Crutch,222567,None,gear (combat),525,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,213611,20,222558,10,222555,15,,
@@ -30,7 +30,7 @@ Algari Missive of Ingenuity,222626,None,crafting reagent,565,0,1,0,uncommon,TRUE
 Algari Missive of Multicraft,222632,None,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,226204,2,226205,5,213613,5,222609,1,222558,1
 Algari Missive of Perception,222641,None,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,226204,2,226205,5,213613,5,222609,1,222558,1
 Algari Missive of Resourcefulness,222629,None,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,226204,2,226205,5,213613,5,222609,1,222558,1
-Patient Alchemist's Mixing Rod,222576,None,gear (profession),580,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,222558,15,222555,20,,,,
+Patient Alchemist's Mixing Rod,222576,Lindinil,gear (profession),580,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,222558,15,222555,20,,,,
 Silver Tongue's Quill,222574,None,gear (profession),580,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,213612,20,222555,5,222558,5,,
 Inscribed Rolling Pin,222578,None,gear (profession),590,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,222558,15,222555,20,,,,
 Burnt Rolling Pin,222577,Lindinil,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,222555,2,222558,1,,,,,,

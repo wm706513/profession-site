@@ -42,7 +42,7 @@ Tracker's Toughened Girdle,219485,Lindinil,gear (combat),150,np.nan,1,0,rare,TRU
 Tracker's Chitin Hauberk,219475,Lindinil,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,212667,30,212664,15,,,,,,
 Tracker's Chitin Galoshes,219473,Lindinil,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,212667,20,212664,10,,,,,,
 Tracker's Chitin Cuffs,219474,Lindinil,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,212667,15,212664,5,,,,,,
-Sanctified Torchbearer's Grips,219492,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,3,219883,3,212667,150,219898,1
+Sanctified Torchbearer's Grips,219492,Lindinil,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,3,219883,3,212667,150,219898,1
 Waders of the Unifying Flame,219489,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,2,219883,3,212664,150,219898,1
 Blessed Weapon Grip,219495,None,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219901,,,,,,,
 Adrenal Surge Clasp,219502,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221756,2,218336,10,219886,2,219898,1
@@ -70,14 +70,14 @@ Algari Competitor's Chain Gauntlets,217140,None,gear (pvp),165,np.nan,1,0,uncomm
 Algari Competitor's Chain Girdle,217138,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
 Algari Competitor's Chain Leggings,217139,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,219880,1,212667,90,,,,
 Algari Competitor's Chain Treads,217134,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
-Arathi Leatherworker's Smock,219871,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221758,1,219889,3,212664,80,,
-Charged Scrapmaster's Gauntlets,219870,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,50,221856,5
+Arathi Leatherworker's Smock,219871,Lindinil,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221758,1,219889,3,212664,80,,
+Charged Scrapmaster's Gauntlets,219870,Lindinil,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,50,221856,5
 Deep Tracker's Cap,219869,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,2,219889,2,212664,80,,
 Deep Tracker's Pack,219868,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,3,212664,80,,
-Earthen Forgemaster's Apron,219874,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,80,,
+Earthen Forgemaster's Apron,219874,Lindinil,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,80,,
 Earthen Jeweler's Cover,219876,Lindinil,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212664,80,,
 Nerubian Alchemist's Hat,219872,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221756,1,219886,3,212664,80,,
-Stonebound Herbalist's Pack,219867,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,2,212664,60,212563,2
+Stonebound Herbalist's Pack,219867,Lindinil,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,2,212664,60,212563,2
 Apothecary's Cap,219866,Lindinil,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212674,1,212664,20,,,,,,
 Steelsmith's Apron,219873,Lindinil,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212670,1,212667,20,,,,,,
 Gemcutter's Apron,219875,Lindinil,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212670,1,212664,20,,,,,,

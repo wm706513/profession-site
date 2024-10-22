@@ -3,12 +3,12 @@ everburning forge,0
 imaginative foresight,-1
 discerning discipline,-1
 gracious forging,-1
-means of production,0
-tools of the trade,-1
+means of production,27
+tools of the trade,30
 stonework,-1
-fortuitous forges,-1
-trade tools,-1
-trade accessories,-1
+fortuitous forges,0
+trade tools,0
+trade accessories,0
 weapon stones,-1
 tool enhancement,-1
 frameworks,-1
@@ -16,10 +16,10 @@ alloys,-1
 weaponsmithing,30
 blades,25
 hafted,25
-short blades,20
-long blades,20
-maces,0
-axes and polearms,24
+short blades,25
+long blades,25
+maces,25
+axes and polearms,25
 armorsmithing,0
 large plate armor,-1
 sculpted armor,-1

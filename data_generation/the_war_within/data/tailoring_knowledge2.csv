@@ -13,15 +13,15 @@ mantles,-1
 armbands,-1
 belts,-1
 from dawn until dusk,30
-dawnweave tailoring,0
+dawnweave tailoring,30
 duskweave tailoring,30
-dawnweaving,-1
+dawnweaving,20
 duskweaving,20
 quality fabric,30
 additional embroidery,0
 spellthread,30
 weaving and unraveling,0
-textile treasures,0
+textile treasures,15
 the perfect loop,-1
-extra threads,-1
-less is more,0
+extra threads,30
+less is more,7

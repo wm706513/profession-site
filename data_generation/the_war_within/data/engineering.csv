@@ -12,15 +12,15 @@ Recalibrated Safety Switch,221923,Trillithia,crafting reagent,410,0,1,0,uncommon
 Concealed Chaos Module,221938,Trillithia,embellishment,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,15,221853,6,221859,3,221856,2,221865,2,,
 Energy Redistribution Beacon,221941,Trillithia,embellishment,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,15,221853,4,221859,2,221856,4,221865,1,221868,1
 Pouch of Pocket Grenades,221935,Trillithia,embellishment,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,15,221853,12,221859,4,221856,2,221862,1,221865,1
-Adjustable Cogwheel,221920,None,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212508,1,221853,1,221859,1,221868,1,,,,
-Impeccable Cogwheel,221917,None,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212511,1,221853,1,221859,1,221868,1,,,,
-Overclocked Cogwheel,221914,None,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212505,1,221853,1,221859,1,221868,1,,,,
-Serrated Cogwheel,221911,None,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212495,1,221853,1,221859,1,221868,1,,,,
+Adjustable Cogwheel,221920,Trillithia,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212508,1,221853,1,221859,1,221868,1,,,,
+Impeccable Cogwheel,221917,Trillithia,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212511,1,221853,1,221859,1,221868,1,,,,
+Overclocked Cogwheel,221914,Trillithia,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212505,1,221853,1,221859,1,221868,1,,,,
+Serrated Cogwheel,221911,Trillithia,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212495,1,221853,1,221859,1,221868,1,,,,
 Blasting Bracers,221805,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,10,222798,6,221859,9,221856,4,221865,2
 Clanking Cuffs,221808,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,10,222420,6,221859,9,221856,4,221865,2
 Dangerous Distraction Inhibitor,221804,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,20,222420,8,221859,12,221868,2,213753,2
 Overclocked Idea Generator,221802,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,20,219883,4,221859,12,221868,2,213753,2
-P.0.W. x2,221969,None,gear (combat),435,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,221853,64,221859,12,221856,18,221862,4,221865,2
+P.0.W. x2,221969,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,221853,64,221859,12,221856,18,221862,4,221865,2
 Studious Brilliance Expeditor,221801,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,20,222801,8,221859,12,221868,2,213753,2
 Supercharged Thought Enhancer,221803,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,20,219886,4,221859,12,221868,2,213753,2
 Venting Vambraces,221806,Trillithia,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE,211296,1,219150,10,219892,3,221859,9,221856,4,221865,2
@@ -61,12 +61,12 @@ Algari Repair Bot 11O,221957,Trillithia,other,np.nan,0,3-Feb,np.nan,uncommon,TRU
 Portable Profession Possibility Projector,221959,Trillithia,other,np.nan,0,2,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,12,221859,2,221856,1,221868,1,,
 Tinker: Earthen Delivery Drill,221904,Trillithia,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,25,221853,24,221859,3,221856,12,221865,3,221868,2
 Tinker: Heartseeking Health Injector,221908,Trillithia,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,25,221853,24,221859,3,221856,12,221868,4,211878,600
-Algari Competitor's Cloth Bracers,217155,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
-Algari Competitor's Cloth Goggles,217151,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
-Algari Competitor's Leather Bracers,217156,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
-Algari Competitor's Leather Goggles,217152,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
-Algari Competitor's Mail Bracers,217157,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
-Algari Competitor's Mail Goggles,217153,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
-Algari Competitor's Plate Bracers,217158,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
-Algari Competitor's Plate Goggles,217154,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
+Algari Competitor's Cloth Bracers,217155,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
+Algari Competitor's Cloth Goggles,217151,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
+Algari Competitor's Leather Bracers,217156,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
+Algari Competitor's Leather Goggles,217152,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
+Algari Competitor's Mail Bracers,217157,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
+Algari Competitor's Mail Goggles,217153,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
+Algari Competitor's Plate Bracers,217158,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,3,221859,4,221856,4,221862,1,221853,12,,
+Algari Competitor's Plate Goggles,217154,Trillithia,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE,210221,5,221859,8,221856,3,213753,2,221853,16,,
 Algari Competitor's Rifle,225370,None,gear (PvP),215,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,10,221853,20,221856,4,221862,1,221868,1,,

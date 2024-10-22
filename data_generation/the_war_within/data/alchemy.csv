@@ -39,6 +39,6 @@ Ominous Gloom,223885,None,transmutation,650,np.nan,1,0,rare,FALSE,FALSE,FALSE,FA
 Ominous Herbs,223887,None,transmutation,650,np.nan,1,0,rare,FALSE,FALSE,FALSE,FALSE,FALSE,211802,6,211804,3,,,,,,,,
 Volatile Stone,223884,None,transmutation,650,np.nan,1,0,rare,FALSE,FALSE,FALSE,FALSE,FALSE,211804,9,,,,,,,,,,
 Volatile Weaving,223884,None,transmutation,650,np.nan,1,0,rare,FALSE,FALSE,FALSE,FALSE,FALSE,211804,9,,,,,,,,,,
-Algari Alchemist Stone,210816,None,gear (combat),305,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,213759,1,212563,1,210796,4,,,,
+Algari Alchemist Stone,210816,Trillithia,gear (combat),305,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,213759,1,212563,1,210796,4,,,,
 Algari Flask Cauldron,212719,Trillithia,cauldron,835,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE,212754,1,210815,25,210814,40,221756,3,211806,20,212563,8
 Algari Potion Cauldron,212751,None,cauldron,835,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE,212754,1,210815,25,210814,80,221763,3,211806,80,212563,4
