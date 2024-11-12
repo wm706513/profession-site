@@ -23,7 +23,7 @@ Dredger's Plate Breastplate,222472,Zarastannil,gear (combat),200,np.nan,1,0,rare
 Dredger's Plate Sabatons,222471,Zarastannil,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,210930,10,222417,1,,,,,,
 Charged Claymore,222447,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,219013,1,219901,1,222423,6,222420,12
 Charged Crusher,222449,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,210939,2,219901,1,222423,6,222420,10
-Charged Facesmasher,222446,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,210939,2,219901,1,222423,6,222420,10
+Charged Facesmasher,222446,Zarastannil,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,210939,2,219901,1,222423,6,222420,10
 Charged Halberd,222448,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,219013,1,219901,1,222423,8,222420,2
 Charged Hexsword,222444,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,219013,1,219901,1,222423,5,222420,10
 Charged Invoker,222450,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,219013,1,219901,1,222423,5,222420,10
@@ -63,8 +63,8 @@ Proficient Sickle,222480,Zarastannil,gear (profession),200,np.nan,1,0,uncommon,T
 Proficient Skinning Knife,222482,Zarastannil,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE,213610,5,222417,1,,,,,,
 Earthen Master's Hammer,225660,Zarastannil,consumable,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,221754,2,222420,10,222426,10,222423,10,,
 Ironclaw Razorstone,222505,None,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
-Ironclaw Weightstone,222508,Zarastannil,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
-Ironclaw Whetstone,222502,None,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
+Ironclaw Weightstone,222508,Zarastannil,consumable,515,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
+Ironclaw Whetstone,222502,None,consumable,515,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
 Algari Competitor's Axe,225374,None,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,222420,4,222417,3,,,,
 Algari Competitor's Dagger,225367,None,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,222420,4,222417,3,,,,
 Algari Competitor's Greatsword,225376,None,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,10,222420,8,222417,3,,,,
@@ -85,4 +85,4 @@ Forged Framework,222499,Zarastannil,finishing reagent,505,0,1,0,uncommon,TRUE,FA
 Adjustable Framework,222511,Zarastannil,finishing reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,222417,1,,,,,,
 Tempered Framework,222514,Zarastannil,finishing reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,222417,1,,,,,,
 Coreforged Repair Hammer,222520,Zarastannil,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,210930,10,210936,2,,,,,,
-Coreforged Skeleton Key,222523,None,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,210930,8,210936,4,,,,,,
+Coreforged Skeleton Key,222523,Zarastannil,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,210930,8,210936,4,,,,,,

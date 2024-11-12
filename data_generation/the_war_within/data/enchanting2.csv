@@ -5,9 +5,9 @@ Enchanted Weathered Harbinger Crest,224069,Mellasona,crafting reagent,np.nan,np.
 Concentration Concentrate,224173,Mellasona,finishing reagent,480,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,219946,3,219949,1,,,,
 Mirror Powder,224178,Mellasona,finishing reagent,480,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213613,1,219946,3,219949,1,,,,
 Oil of Beledar's Grace,224108,Mellasona,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,213610,2,219946,10,219949,1,,
-Oil of Deep Toxins,224111,None,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,221763,1,219946,10,219949,1,,
+Oil of Deep Toxins,224111,Mellasona,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,221763,1,219946,10,219949,1,,
 Algari Mana Oil,224105,Mellasona,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213613,10,219946,5,,,,,,
-Runed Null Stone Rod,224116,None,gear (profession),475,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE,221754,2,210939,1,210814,400,219946,100,219949,10
+Runed Null Stone Rod,224116,Mellasona,gear (profession),475,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE,221754,2,210939,1,210814,400,219946,100,219949,10
 Runed Ironclaw Rod,224115,Mellasona,gear (profession),475,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,350,221754,1,219946,75,219949,5,,
 Scepter of Radiant Magics,224405,Mellasona,gear (combat),430,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,221758,2,219949,6,219952,2,222555,1
 Enchanted Spearwood Wand,224404,Mellasona,gear (combat),300,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,219946,5,222555,1,,,,,,

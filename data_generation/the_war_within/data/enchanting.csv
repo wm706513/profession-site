@@ -12,7 +12,7 @@ Runed Ironclaw Rod,224115,None,gear (profession),475,np.nan,1,0,rare,TRUE,FALSE,
 Scepter of Radiant Magics,224405,None,gear (combat),430,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,221758,2,219949,6,219952,2,222555,1
 Enchanted Spearwood Wand,224404,Linidel,gear (combat),300,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,219946,5,222555,1,,,,,,
 Runed Bsimuth Rod,224114,Linidel,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE,227208,1,219946,10,,,,,,
-Enchant Boots - Cavalry's March,223650,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
+Enchant Boots - Cavalry's March,223650,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Boots - Defender's March,223656,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Boots - Scout's March,223653,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219946,30,219949,5,,,,
 Enchant Bracer - Chant of Amored Avoidance,223713,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219946,40,219949,5,,,,
@@ -21,7 +21,7 @@ Enchant Bracer - Chant of Armored Speed,223725,Linidel,item enhancement,480,np.n
 Enchant Bracer - Whisper of Armored Leech,223716,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
 Enchant Bracer - Whisper of Armored Speed,223721,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
 Enchant Bracer - Whisper of Armored Avoidance,223708,Linidel,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219946,10,,,,,,,,
-Enchant Chest - Council's Intellect,223686,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,213613,5,219946,75,219949,10,219952,1
+Enchant Chest - Council's Intellect,223686,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,213613,5,219946,75,219949,10,219952,1
 Enchant Chest - Crystalline Radiance,223692,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,20,219946,75,219949,10,219952,1,,
 Enchant Chest - Oathsworn's Strength,223689,None,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,221754,1,219946,75,219949,10,219952,1
 Enchant Chest - Stormrider's Agility,223683,Linidel,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213610,10,218338,5,219946,75,219949,10,219952,1

@@ -6,8 +6,8 @@ Leyfused Hide,219892,Braevele,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,F
 Sporecoated Hide,219889,Braevele,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213612,5,219880,1,,,,,,
 Storm-Touched Weapon Wrap,219901,Braevele,crafting reagent,400,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,218338,2,212670,1,212664,30,,,,
 Writhing Hide,219886,Braevele,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213611,5,219880,1,,,,,,
-Defender's Armor Kit,219906,None,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219883,2,212667,60,,,,
-Stormbound Armor Kit,219909,None,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,221757,1,219883,2,212664,60,,,,
+Defender's Armor Kit,219906,Braevele,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219883,2,212667,60,,,,
+Stormbound Armor Kit,219909,Braevele,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,221757,1,219883,2,212664,60,,,,
 Thunderous  Drums,219905,Braevele,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213612,5,212664,75,212667,75,,,,
 Dual Layered Armor Kit,219912,Braevele,item enhancement,300,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,212670,1,212664,50,,,,,,
 Rune-Branded Armbands,219334,Braevele,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,221757,2,219886,3,212664,150,219898,1
@@ -70,14 +70,14 @@ Algari Competitor's Chain Gauntlets,217140,None,gear (pvp),165,np.nan,1,0,uncomm
 Algari Competitor's Chain Girdle,217138,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
 Algari Competitor's Chain Leggings,217139,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,219880,1,212667,90,,,,
 Algari Competitor's Chain Treads,217134,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
-Arathi Leatherworker's Smock,219871,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221758,1,219889,3,212664,80,,
+Arathi Leatherworker's Smock,219871,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221758,1,219889,3,212664,80,,
 Charged Scrapmaster's Gauntlets,219870,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,50,221856,5
-Deep Tracker's Cap,219869,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,2,219889,2,212664,80,,
-Deep Tracker's Pack,219868,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,3,212664,80,,
+Deep Tracker's Cap,219869,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,2,219889,2,212664,80,,
+Deep Tracker's Pack,219868,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,3,212664,80,,
 Earthen Forgemaster's Apron,219874,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,80,,
-Earthen Jeweler's Cover,219876,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212664,80,,
+Earthen Jeweler's Cover,219876,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212664,80,,
 Nerubian Alchemist's Hat,219872,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221756,1,219886,3,212664,80,,
-Stonebound Herbalist's Pack,219867,None,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,2,212664,60,212563,2
+Stonebound Herbalist's Pack,219867,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221757,1,219889,2,212664,60,212563,2
 Apothecary's Cap,219866,Braevele,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212674,1,212664,20,,,,,,
 Steelsmith's Apron,219873,Braevele,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212670,1,212667,20,,,,,,
 Scrapsmith's Gloves,219864,Braevele,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,212664,50,212667,50,221856,5,,,,

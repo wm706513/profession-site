@@ -23,7 +23,7 @@ Dredger's Plate Breastplate,222472,Nystelil,gear (combat),200,np.nan,1,0,rare,TR
 Dredger's Plate Sabatons,222471,Nystelil,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,210930,10,222417,1,,,,,,
 Charged Claymore,222447,Nystelil,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,219013,1,219901,1,222423,6,222420,12
 Charged Crusher,222449,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,210939,2,219901,1,222423,6,222420,10
-Charged Facesmasher,222446,None,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,210939,2,219901,1,222423,6,222420,10
+Charged Facesmasher,222446,Nystelil,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,210939,2,219901,1,222423,6,222420,10
 Charged Halberd,222448,Nystelil,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,219013,1,219901,1,222423,8,222420,2
 Charged Hexsword,222444,Nystelil,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,1,219013,1,219901,1,222423,5,222420,10
 Charged Invoker,222450,Nystelil,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE,211296,2,219013,1,219901,1,222423,5,222420,10
@@ -46,11 +46,11 @@ Beledar's Bulwark,222459,None,gear (combat),505,np.nan,1,0,epic,TRUE,FALSE,FALSE
 Sanctified Steps,222458,None,gear (combat),505,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,1,221754,1,222423,8,,
 Siphoning Stiletto,222463,Nystelil,gear (combat),525,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221756,1,221754,1,219013,1,222423,8
 Artisan Blacksmith's Hammer,222494,Nystelil,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,221754,1,222426,5,,,,
-Artisan Leatherworker's Knife,222492,None,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,213610,20,210939,5,222426,5,,
-Artisan Leatherworker's Toolset,222493,None,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,213610,10,210939,5,222426,7,,
-Artisan Needle Set,222491,None,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
-Artisan Pickaxe,222489,None,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
-Artisan Sickle,222488,None,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
+Artisan Leatherworker's Knife,222492,Nystelil,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,213610,20,210939,5,222426,5,,
+Artisan Leatherworker's Toolset,222493,Nystelil,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,213610,10,210939,5,222426,7,,
+Artisan Needle Set,222491,Nystelil,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
+Artisan Pickaxe,222489,Nystelil,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
+Artisan Sickle,222488,Nystelil,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
 Artisan Blacksmith's Toolbox,222495,Nystelil,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,222426,4,,,,
 Artisan Skinning Knife,222490,Nystelil,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE,210814,300,221754,1,210939,5,222426,5,,
 Proficient Blacksmith's Toolbox,222487,Nystelil,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,222417,1,,,,,,,,
@@ -63,8 +63,8 @@ Proficient Sickle,222480,Nystelil,gear (profession),200,np.nan,1,0,uncommon,TRUE
 Proficient Skinning Knife,222482,Nystelil,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE,213610,5,222417,1,,,,,,
 Earthen Master's Hammer,225660,Nystelil,consumable,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,221754,2,222420,10,222426,10,222423,10,,
 Ironclaw Razorstone,222505,None,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
-Ironclaw Weightstone,222508,Nystelil,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
-Ironclaw Whetstone,222502,None,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
+Ironclaw Weightstone,222508,Nystelil,consumable,515,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
+Ironclaw Whetstone,222502,Nystelil,consumable,515,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210939,1,222417,1,,,,
 Algari Competitor's Axe,225374,None,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,222420,4,222417,3,,,,
 Algari Competitor's Dagger,225367,None,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,222420,4,222417,3,,,,
 Algari Competitor's Greatsword,225376,None,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,10,222420,8,222417,3,,,,

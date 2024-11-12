@@ -1,16 +1,16 @@
 node,points
 gemcutting,50
 gemcutting (blasphemite),50
-emerald,1
-onyx,0
+emerald,30
+onyx,30
 ruby,30
 sapphire,30
-deadly emerald,-1
+deadly emerald,0
 masterful emerald,0
-versatile emerald,-1
-deadly onyx,-1
+versatile emerald,0
+deadly onyx,0
 quick onyx,0
-versatile onyx,-1
+versatile onyx,0
 quick ruby,20
 masterful ruby,20
 versatile ruby,20

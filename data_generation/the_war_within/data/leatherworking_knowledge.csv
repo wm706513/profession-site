@@ -1,6 +1,6 @@
 node,points
-learned leatherworker,0
-waste not,-1
+learned leatherworker,5
+waste not,30
 commanding concentration,-1
 industrious innovations,-1
 luxurious leathers,30
@@ -10,7 +10,7 @@ tunics,20
 hoods,20
 mantles,20
 armbands,20
-legwraps,19
+legwraps,20
 grasps,20
 waistbands,20
 kickers,20
@@ -25,9 +25,9 @@ cuisses,-1
 gauntlets,-1
 bindings,-1
 stompers,-1
-flawless fortes,0
+flawless fortes,10
 arathi armorer,-1
 nerubian nous,-1
 beastly bulwarks,-1
-epic ensembles,-1
+epic ensembles,19
 spotless stitching,-1
