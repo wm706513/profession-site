@@ -1,28 +1,28 @@
-node,points
-supplementary shattering,18
-resourceful residue,30
-immaculate ingenuity,20
-magnificent multicrafting,-1
-designated disenchanter,0
-incommon utilitarian,-1
-rare resourcing,-1
-epic escalations,-1
-everlasting enchantments,30
-earthen enhancements,20
-arathor alterations,20
-nerubian novelties,20
-wondrous weapons,20
-terrific tools,20
-bolstered breastplates,20
-fortified flames,20
-accentuated accessories,20
-cursed chants,20
-tertiary trivialities,20
-ephemerals enrichments and equipment,5
-deceptive decorations,15
-exquisite equipment,-1
-material maestro,-1
-professional production,-1
-combat crafts,-1
-finalized finishers,-1
-optimal oils,-1
+node,Linidel,Mellasona
+supplementary shattering,18,30
+resourceful residue,30,30
+immaculate ingenuity,20,30
+magnificent multicrafting,-1,30
+designated disenchanter,0,13
+incommon utilitarian,-1,-1
+rare resourcing,-1,-1
+epic escalations,-1,0
+everlasting enchantments,30,0
+earthen enhancements,20,-1
+arathor alterations,20,-1
+nerubian novelties,20,-1
+wondrous weapons,20,-1
+terrific tools,20,-1
+bolstered breastplates,20,1
+fortified flames,20,-1
+accentuated accessories,20,-1
+cursed chants,20,-1
+tertiary trivialities,20,-1
+ephemerals enrichments and equipment,5,30
+deceptive decorations,15,20
+exquisite equipment,-1,20
+material maestro,-1,20
+professional production,-1,20
+combat crafts,-1,20
+finalized finishers,-1,20
+optimal oils,-1,20

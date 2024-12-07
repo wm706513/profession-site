@@ -1,27 +1,27 @@
-node,points
-threads of devotion,30
-weathering wear,30
-weighted garments,30
-making a statement,30
-gloves,20
-footwear,20
-hats,20
-cloaks,20
-robes,20
-leggings,20
-mantles,20
-armbands,20
-belts,20
-from dawn until dusk,0
-dawnweave tailoring,-1
-duskweave tailoring,0
-dawnweaving,-1
-duskweaving,-1
-quality fabric,0
-additional embroidery,-1
-spellthread,0
-weaving and unraveling,-1
-textile treasures,15
-the perfect loop,-1
-extra threads,16
-less is more,0
+node,Linidel,Braevele
+threads of devotion,30,0
+weathering wear,30,-1
+weighted garments,30,-1
+making a statement,30,-1
+gloves,20,-1
+footwear,20,-1
+hats,20,-1
+cloaks,20,-1
+robes,20,-1
+leggings,20,-1
+mantles,20,-1
+armbands,20,-1
+belts,20,-1
+from dawn until dusk,0,30
+dawnweave tailoring,-1,30
+duskweave tailoring,0,30
+dawnweaving,-1,20
+duskweaving,-1,20
+quality fabric,0,30
+additional embroidery,-1,0
+spellthread,0,30
+weaving and unraveling,-1,30
+textile treasures,15,23
+the perfect loop,-1,-1
+extra threads,16,30
+less is more,0,30
