@@ -43,17 +43,17 @@ Tracker's Chitin Hauberk,219475,Braevele,gear (combat),150,np.nan,1,0,rare,TRUE,
 Tracker's Chitin Galoshes,219473,Braevele,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,212667,20,212664,10,,,,,,
 Tracker's Chitin Cuffs,219474,Braevele,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE,212667,15,212664,5,,,,,,
 Sanctified Torchbearer's Grips,219492,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,3,219883,3,212667,150,219898,1
-Waders of the Unifying Flame,219489,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,2,219883,3,212664,150,219898,1
-Blessed Weapon Grip,219495,None,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219901,,,,,,,
+Waders of the Unifying Flame,219489,Braevele,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221758,2,219883,3,212664,150,219898,1
+Blessed Weapon Grip,219495,Braevele,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221758,1,219901,,,,,,,
 Adrenal Surge Clasp,219502,Braevele,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221756,2,218336,10,219886,2,219898,1
 Vambraces of Deepening Darkness,219501,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,221756,2,218336,10,219886,2,219898,1
-Writhing Armor Banding,219504,None,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219898,1,,,,,,
+Writhing Armor Banding,219504,Braevele,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,221756,1,219898,1,,,,,,
 Busy Bee's Buckle,219509,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218339,10,219013,1,219889,2,219898,1
 Reinforced Setae Flyers,219508,Braevele,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218339,10,219013,1,219889,2,219898,1
-Roiling Thunderstrike Talons,219513,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218338,10,219013,1,219889,2,219898,1
+Roiling Thunderstrike Talons,219513,Braevele,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218338,10,219013,1,219889,2,219898,1
 Rook Feather Wristwraps,219511,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218338,10,219013,1,219889,2,219898,1
-Smoldering Pollen Hauberk,219507,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218339,10,219013,1,219889,3,219898,1
-Weathered Stormfront Vest,219512,None,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218338,10,219013,1,219889,3,219898,1
+Smoldering Pollen Hauberk,219507,Braevele,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218339,10,219013,1,219889,3,219898,1
+Weathered Stormfront Vest,219512,Braevele,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE,211296,1,218338,10,219013,1,219889,3,219898,1
 Algari Competitor's Leather Belt,217130,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212664,75,,,,
 Algari Competitor's Leather Boots,217126,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,219880,1,212664,75,,,,
 Algari Competitor's Leather Chestpiece,217127,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212664,90,,,,
@@ -68,7 +68,7 @@ Algari Competitor's Chain Cuffs,217141,None,gear (pvp),165,np.nan,1,0,uncommon,T
 Algari Competitor's Chain Epaulets,217137,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
 Algari Competitor's Chain Gauntlets,217140,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
 Algari Competitor's Chain Girdle,217138,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
-Algari Competitor's Chain Leggings,217139,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,219880,1,212667,90,,,,
+Algari Competitor's Chain Leggings,217139,Braevele,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,5,219880,1,212667,90,,,,
 Algari Competitor's Chain Treads,217134,None,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE,210221,4,219880,1,212667,75,,,,
 Arathi Leatherworker's Smock,219871,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221758,1,219889,3,212664,80,,
 Charged Scrapmaster's Gauntlets,219870,Braevele,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,221754,1,219883,3,212667,50,221856,5

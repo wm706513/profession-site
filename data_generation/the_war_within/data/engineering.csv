@@ -3,9 +3,9 @@ Chaos Circuit,221865,Trillithia,crafting reagent,410,0,1,0,common,TRUE,FALSE,FAL
 Entropy Enhancer,221868,Trillithia,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,213611,1,210933,2,210930,4,210936,2,,,,
 Safety Switch,221862,Trillithia,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,213610,1,210930,5,210933,3,,,,,,
 Bottled Brilliance,225987,Trillithia,finishing reagent,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,213613,2,213610,1,211806,1,,,,,,
-Gyrating Gear,221859,Trillithia,crafting reagent,410,0,2-Jan,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,228956,1,210930,3,210933,1,,,,,,
-Handful of Bismuth Bolts,221853,Trillithia,crafting reagent,410,0,2-Jan,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,210930,4,,,,,,,,,,
-Whimsical Wiring,221856,Trillithia,crafting reagent,410,0,2-Jan,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,228414,1,210930,3,,,,,,,,
+Gyrating Gear,221859,Trillithia,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,228956,1,210930,3,210933,1,,,,,,
+Handful of Bismuth Bolts,221853,Trillithia,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,210930,4,,,,,,,,,,
+Whimsical Wiring,221856,Trillithia,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,228414,1,210930,3,,,,,,,,
 Blame Redirection Device,221926,Trillithia,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,15,221853,4,221859,3,221856,2,221868,1,,
 Complicated Fuse Box,221932,Trillithia,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,15,221853,6,221859,2,221856,2,221865,1,221868,1
 Recalibrated Safety Switch,221923,Trillithia,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,15,221853,8,221859,2,221856,2,221862,4,,
@@ -45,9 +45,9 @@ Lapidary's Bismuth Clamps,221792,Trillithia,gear (profession),200,np.nan,1,0,unc
 Miner's Bismuth Hoard,221799,Trillithia,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,221853,8,221859,2,221856,4,210930,40,,,,
 Spring-Loaded Bismuth Fabric Cutters,221786,Trillithia,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE,221853,8,221859,3,221856,2,,,,,,
 Box o' Booms,224586,None,other,505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,25,221853,12,221859,3,221856,6,221862,3,,
-Potion Bomb of Power,221880,Trillithia,consumable,505,0,5-Apr,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,212263,3
-Potion Bomb of Recovery,221876,Trillithia,consumable,505,0,5-Apr,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,212242,3
-Potion Bomb of Speed,221872,Trillithia,consumable,505,0,5-Apr,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,212266,3
+Potion Bomb of Power,221880,Trillithia,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,212263,3
+Potion Bomb of Recovery,221876,Trillithia,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,212242,3
+Potion Bomb of Speed,221872,Trillithia,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,212266,3
 Barrel of Fireworks,219387,Trillithia,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,50,221853,50,221859,10,221856,24,221865,8,221868,3
 Defective Escape Pod,221962,Trillithia,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,50,221853,75,221859,16,221856,10,221862,6,221868,2
 Filmless Camera,221964,Trillithia,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,50,221853,100,221859,8,221856,6,221862,1,221868,1
@@ -55,9 +55,9 @@ Wormhole Generator: Khaz Algar,221966,Trillithia,toy,np.nan,np.nan,1,np.nan,rare
 Stonebound Lantern,219403,Trillithia,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,50,221853,32,221859,12,221856,6,221868,2,,
 Crowd Pummeler 2-30,221967,Trillithia,mount,np.nan,np.nan,1,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE,227769,1000,227770,200,227771,80,227772,50,227773,20,227774,1
 Convincingly Realistic Jumper Cables,221953,Trillithia,other,430,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,2,221859,1,221856,2,221862,1,,
-Irresistible Red Button,221945,Trillithia,other,np.nan,0,2-Jan,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,12,221859,4,221856,3,221868,1,,
+Irresistible Red Button,221945,Trillithia,other,np.nan,0,1-2,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,12,221859,4,221856,3,221868,1,,
 Pausing Pylon,221949,Trillithia,other,np.nan,0,2,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,8,221859,2,221856,2,,,,
-Algari Repair Bot 11O,221957,Trillithia,other,np.nan,0,3-Feb,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,8,221859,2,221856,1,221868,1,,
+Algari Repair Bot 11O,221957,Trillithia,other,np.nan,0,2-3,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,8,221859,2,221856,1,221868,1,,
 Portable Profession Possibility Projector,221959,Trillithia,other,np.nan,0,2,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,10,221853,12,221859,2,221856,1,221868,1,,
 Tinker: Earthen Delivery Drill,221904,Trillithia,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,25,221853,24,221859,3,221856,12,221865,3,221868,2
 Tinker: Heartseeking Health Injector,221908,Trillithia,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,219150,25,221853,24,221859,3,221856,12,221868,4,211878,600

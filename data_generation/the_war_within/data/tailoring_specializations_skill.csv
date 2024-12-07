@@ -1,27 +1,27 @@
-node,maxPoints,perPoint,0,5,10,15,20,25,30
-threads of devotion,30,1,0,0,0,0,0,5,10
-weathering wear,30,1,0,5,5,5,5,5,0
-gloves,20,1,0,5,10,10,10,0,0
-footwear,20,1,0,5,10,10,10,0,0
-hats,20,1,0,5,10,10,10,0,0
-cloaks,20,1,0,5,10,10,10,0,0
-weighted garments,30,1,0,5,5,5,5,5,0
-robes,20,1,0,5,10,10,10,0,0
-leggings,20,1,0,5,10,10,10,0,0
-making a statement,30,1,0,5,5,5,5,5,0
-mantles,20,1,0,5,10,10,10,0,0
-armbands,20,1,0,5,10,10,10,0,0
-belts,20,1,0,5,10,10,10,0,0
-from dawn until dusk,30,1,0,5,0,5,0,5,0
-dawnweave tailoring,30,1,0,0,0,0,5,5,0
-duskweave tailoring,30,1,0,0,0,0,5,5,0
-dawnweaving,20,1,0,0,5,0,0,0,0
-duskweaving,20,1,0,0,5,0,0,0,0
-quality fabric,30,1,0,5,0,5,0,0,5
-additional embroidery,30,1,0,5,5,0,5,5,5
-spellthread,30,1,0,5,5,5,5,5,10
-weaving and unraveling,30,1,0,5,0,10,0,10,0
-textile treasures,30,0,0,0,0,0,0,0,0
-the perfect loop,30,0,0,0,0,0,0,0,0
-extra threads,30,0,0,0,0,0,0,0,0
-less is more,30,0,0,0,0,0,0,0,0
+node,maxPoints,perPoint,0,5,10,15,20,25,30,,
+threads of devotion,30,1,0,5,0,5,0,5,10,,55
+weathering wear,30,1,0,5,5,5,5,5,0,,55
+gloves,20,1,0,5,10,10,10,0,0,,55
+footwear,20,1,0,5,10,10,10,0,0,,55
+hats,20,1,0,5,10,10,10,0,0,,55
+cloaks,20,1,0,5,10,10,10,0,0,,55
+weighted garments,30,1,0,5,5,5,5,5,0,,55
+robes,20,1,0,5,10,10,10,0,0,,55
+leggings,20,1,0,5,10,10,10,0,0,,55
+making a statement,30,1,0,5,5,5,5,5,0,,55
+mantles,20,1,0,5,10,10,10,0,0,,55
+armbands,20,1,0,5,10,10,10,0,0,,55
+belts,20,1,0,5,10,10,10,0,0,,55
+from dawn until dusk,30,1,0,5,0,5,0,5,0,,45
+dawnweave tailoring,30,1,0,0,0,0,5,5,0,,40
+duskweave tailoring,30,1,0,0,0,0,5,5,0,,40
+dawnweaving,20,1,0,0,5,0,0,0,0,,25
+duskweaving,20,1,0,0,5,0,0,0,0,,25
+quality fabric,30,1,0,5,0,5,0,0,5,,45
+additional embroidery,30,1,0,5,5,0,5,5,5,,55
+spellthread,30,1,0,5,5,5,5,5,10,,65
+weaving and unraveling,30,1,0,5,0,10,0,10,0,,55
+textile treasures,30,0,0,0,0,0,0,0,0,,30
+the perfect loop,30,0,0,0,0,0,0,0,0,,30
+extra threads,30,0,0,0,0,0,0,0,0,,30
+less is more,30,0,0,0,0,0,0,0,0,,30

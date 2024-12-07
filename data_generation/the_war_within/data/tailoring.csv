@@ -37,7 +37,7 @@ Gritty Polishing Cloth,222876,Linidel,finising reagent,390,0,1,0,uncommon,TRUE,F
 Artisan Tailor's Coat,222852,Linidel,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
 Algari Weaverline,225729,Linidel,item enhancement,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,210814,100,224764,50,222795,500,,,,,,
 Artisan Alchemist's Robe,222850,Linidel,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
-Artisan Chef's Hat,222851,None,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
+Artisan Chef's Hat,222851,Linidel,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
 Artisan Enchanter's Hat,222849,Linidel,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
 Artisan Fishing Cap,222848,Linidel,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
 Artisan Gardening Hat,222847,Linidel,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,210814,300,228930,1,213613,5,224832,12,219949,3,,
@@ -50,7 +50,7 @@ Weavercloth Tailor's Coat,222844,Linidel,gear (profession),250,np.nan,1,0,uncomm
 Daybreak Spellthread,222894,None,item enhancement,605,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE,228930,5,222801,8,219949,5,222792,12,,,,
 Sunset Spellthread,222891,None,item enhancement,605,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE,228930,5,222798,8,219949,5,222789,12,,,,
 Weavercloth Spellthread,222888,Linidel,item enhancement,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE,228930,3,224832,8,,,,,,,,
-Concoctor's Clutch,222859,None,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,210814,150,228930,5,213197,5,224832,20,212563,8,222795,10
+Concoctor's Clutch,222859,Linidel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,210814,150,228930,5,213197,5,224832,20,212563,8,222795,10
 Darkmoon Duffle,222864,Linidel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,210814,150,228930,4,224832,20,222615,15,222609,15,,
 Excavator's Haversack,222866,Linidel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,210814,150,228930,4,210939,10,224832,20,,,,
 Gardener's Seed Satchel,222865,Linidel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE,210814,150,228930,4,213197,5,224832,20,,,,
