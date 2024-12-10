@@ -1,0 +1,76 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+224832,Exquisite Weavercloth Bolt,crafting reagent,450,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222801,Dawnweave Bolt,crafting reagent,630,0,2,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222798,Duskweave Bolt,crafting reagent,630,0,2,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+224440,Weavercloth Bandage,consumable,355,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+222804,Weavercloth Bolt,crafting reagent,450,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222807,Grips of the Woven Dawn,gear (combat),615,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222808,Treads of the Woven Dawn,gear (combat),615,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222811,Warm Sunrise Bracers,gear (combat),615,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222812,Cool Sunset Bracers,gear (combat),615,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222809,Gloves of the Woven Dusk,gear (combat),615,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222810,Slippers of the Woven Dusk,gear (combat),615,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222817,Consecrated Cloak,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222816,Consecrated Cord,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222815,Consecrated Cuffs,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222822,Consecrated Gloves,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222818,Consecrated Hood,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222820,Consecrated Leggings,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222821,Consecrated Mantle,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222819,Consecrated Robe,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222814,Consecrated Slippers,gear (combat),455,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222840,Pioneer's Perfected Gloves,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222839,Pioneer's Perfected Mantle,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222836,Pioneer's Perfected Hood,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222838,Pioneer's Perfected Leggings,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222835,Pioneer's Perfected Cloak,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222834,Pioneer's Perfected Cord,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222837,Pioneer's Cloth Robe,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222832,Pioneer's Cloth Slippers,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222833,Pioneer's Cloth Cuffs,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222868,Dawnthread Lining,embellishment,630,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222871,Duskthread Lining,embellishment,630,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222885,Preserving Embroidery Thread,finising reagent,390,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222882,Weavercloth Embroidery Thread,finising reagent,390,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222879,Bright Polishing Cloth,finising reagent,390,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222876,Gritty Polishing Cloth,finising reagent,390,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222852,Artisan Tailor's Coat,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+225729,Algari Weaverline,item enhancement,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222850,Artisan Alchemist's Robe,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222851,Artisan Chef's Hat,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222849,Artisan Enchanter's Hat,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222848,Artisan Fishing Cap,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222847,Artisan Gardening Hat,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222845,Weavercloth Alchemist's Robe,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222846,Weavercloth Chef's Hat,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222843,Weavercloth Enchanter's Hat,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222842,Weavercloth Fishing Cap,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222841,Weavercloth Gardening Hat,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222844,Weavercloth Tailor's Coat,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222894,Daybreak Spellthread,item enhancement,605,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222891,Sunset Spellthread,item enhancement,605,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222888,Weavercloth Spellthread,item enhancement,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222859,Concoctor's Clutch,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222864,Darkmoon Duffle,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222866,Excavator's Haversack,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222865,Gardener's Seed Satchel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+225936,Hideseeker's Tote,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222861,Hideshaper's Workbag,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222860,Ignition Satchel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222867,Jeweler's Purse,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222862,"""Magically """"Infinite"""" Messenger""",bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222863,Prodigy's Toolbox,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+224852,The Severed Satchel,bag,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222856,Duskweave Bag,bag,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222854,Dawnweave Reagent Bag,bag,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222855,Weavercloth Reagent Bag,bag,np.nan,np.nan,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222853,Weavercloth Bag,bag,np.nan,np.nan,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+217120,Algari Competitor's Cloth Bands,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217125,Algari Competitor's Cloth  Cloak,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217122,Algari Competitor's Cloth  Gloves,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217121,Algari Competitor's Cloth Hood,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217117,Algari Competitor's Cloth Leggings,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217124,Algari Competitor's Cloth Sash,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217118,Algari Competitor's Cloth Shoulderpads,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217119,Algari Competitor's Cloth Treads,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217123,Algari Competitor's Cloth Tunic,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE

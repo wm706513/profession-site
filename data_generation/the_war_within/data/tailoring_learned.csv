@@ -56,13 +56,13 @@
 222865,Gardener's Seed Satchel,TRUE,FALSE
 225936,Hideseeker's Tote,TRUE,FALSE
 222861,Hideshaper's Workbag,TRUE,FALSE
-222860,Ignition Satchel,FALSE,FALSE
+222860,Ignition Satchel,TRUE,FALSE
 222867,Jeweler's Purse,TRUE,FALSE
 222862,"Magically ""Infinite"" Messenger",TRUE,FALSE
 222863,Prodigy's Toolbox,TRUE,FALSE
 224852,The Severed Satchel,FALSE,TRUE
 222856,Duskweave Bag,FALSE,TRUE
-222854,Dawnweave Reagent Bag,FALSE,TRUE
+222854,Dawnweave Reagent Bag,TRUE,TRUE
 222855,Weavercloth Reagent Bag,TRUE,TRUE
 222853,Weavercloth Bag,TRUE,TRUE
 217120,Algari Competitor's Cloth Bands,FALSE,FALSE

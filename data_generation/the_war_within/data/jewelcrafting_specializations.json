@@ -1,0 +1,508 @@
+[
+    {
+        "itemID": "213777",
+        "itemName": "Magnificent Jeweler's Setting",
+        "nodes": []
+    },
+    {
+        "itemID": "213759",
+        "itemName": "Inverted Prism",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "213753",
+        "itemName": "Decorative Lens",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "211806",
+        "itemName": "Gilded Vial",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "213750",
+        "itemName": "Engraved Gemcutter",
+        "nodes": [
+            "shaping",
+            "masonry"
+        ]
+    },
+    {
+        "itemID": "213756",
+        "itemName": "Marbled Stone",
+        "nodes": [
+            "shaping",
+            "masonry"
+        ]
+    },
+    {
+        "itemID": "213774",
+        "itemName": "Captured Starlight",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "213768",
+        "itemName": "Elemental Focusing Lens",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "213771",
+        "itemName": "Prismatic Null Stone",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "213765",
+        "itemName": "Ominous Energy Crystal",
+        "nodes": [
+            "shaping",
+            "glasswork"
+        ]
+    },
+    {
+        "itemID": "213762",
+        "itemName": "Sifted Cave Sand",
+        "nodes": [
+            "shaping",
+            "masonry"
+        ]
+    },
+    {
+        "itemID": "213501",
+        "itemName": "Deadly Amber",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213507",
+        "itemName": "Masterful Amber",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213504",
+        "itemName": "Quick Amber",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213515",
+        "itemName": "Solid Amber",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213510",
+        "itemName": "Versatile Amber",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213477",
+        "itemName": "Deadly Emerald",
+        "nodes": [
+            "gemcutting",
+            "emerald",
+            "deadly emerald"
+        ]
+    },
+    {
+        "itemID": "213480",
+        "itemName": "Masterful Emerald",
+        "nodes": [
+            "gemcutting",
+            "emerald",
+            "masterful emerald"
+        ]
+    },
+    {
+        "itemID": "213483",
+        "itemName": "Versatile Emerald",
+        "nodes": [
+            "gemcutting",
+            "emerald",
+            "versatile emerald"
+        ]
+    },
+    {
+        "itemID": "213486",
+        "itemName": "Quick Emerald",
+        "nodes": [
+            "gemcutting",
+            "emerald"
+        ]
+    },
+    {
+        "itemID": "213489",
+        "itemName": "Deadly Onyx",
+        "nodes": [
+            "gemcutting",
+            "onyx",
+            "deadly onyx"
+        ]
+    },
+    {
+        "itemID": "213492",
+        "itemName": "Quick Onyx",
+        "nodes": [
+            "gemcutting",
+            "onyx",
+            "quick onyx"
+        ]
+    },
+    {
+        "itemID": "213495",
+        "itemName": "Versatile Onyx",
+        "nodes": [
+            "gemcutting",
+            "onyx",
+            "versatile onyx"
+        ]
+    },
+    {
+        "itemID": "213498",
+        "itemName": "Masterful Onyx",
+        "nodes": [
+            "gemcutting",
+            "onyx"
+        ]
+    },
+    {
+        "itemID": "213456",
+        "itemName": "Masterful Ruby",
+        "nodes": [
+            "gemcutting",
+            "ruby",
+            "masterful ruby"
+        ]
+    },
+    {
+        "itemID": "213453",
+        "itemName": "Quick Ruby",
+        "nodes": [
+            "gemcutting",
+            "ruby",
+            "quick ruby"
+        ]
+    },
+    {
+        "itemID": "213459",
+        "itemName": "Versatile Ruby",
+        "nodes": [
+            "gemcutting",
+            "ruby",
+            "versatile ruby"
+        ]
+    },
+    {
+        "itemID": "213462",
+        "itemName": "Deadly Ruby",
+        "nodes": [
+            "gemcutting",
+            "ruby"
+        ]
+    },
+    {
+        "itemID": "213465",
+        "itemName": "Deadly Sapphire",
+        "nodes": [
+            "gemcutting",
+            "sapphire",
+            "deadly sapphire"
+        ]
+    },
+    {
+        "itemID": "213471",
+        "itemName": "Masterful Sapphire",
+        "nodes": [
+            "gemcutting",
+            "sapphire",
+            "masterful sapphire"
+        ]
+    },
+    {
+        "itemID": "213468",
+        "itemName": "Quick Sapphire",
+        "nodes": [
+            "gemcutting",
+            "sapphire",
+            "quick sapphire"
+        ]
+    },
+    {
+        "itemID": "213474",
+        "itemName": "Veratile Sapphire",
+        "nodes": [
+            "gemcutting",
+            "sapphire"
+        ]
+    },
+    {
+        "itemID": "213743",
+        "itemName": "Culmminating Blasphemite",
+        "nodes": [
+            "gemcutting",
+            "gemcutting (blasphemite)",
+            "ruby",
+            "emerald",
+            "onyx",
+            "sapphire"
+        ]
+    },
+    {
+        "itemID": "213744",
+        "itemName": "Elusive Blasphemite",
+        "nodes": [
+            "gemcutting",
+            "gemcutting (blasphemite)",
+            "ruby",
+            "emerald",
+            "onyx",
+            "sapphire"
+        ]
+    },
+    {
+        "itemID": "213738",
+        "itemName": "Insightful Blasphemite",
+        "nodes": [
+            "gemcutting",
+            "gemcutting (blasphemite)",
+            "ruby",
+            "emerald",
+            "onyx",
+            "sapphire"
+        ]
+    },
+    {
+        "itemID": "217113",
+        "itemName": "Cubic Blasphemia",
+        "nodes": [
+            "gemcutting",
+            "gemcutting (blasphemite)",
+            "ruby",
+            "emerald",
+            "onyx",
+            "sapphire"
+        ]
+    },
+    {
+        "itemID": "213782",
+        "itemName": "Algari Emerald Prism",
+        "nodes": [
+            "gemcutting",
+            "emerald"
+        ]
+    },
+    {
+        "itemID": "213788",
+        "itemName": "Algari Onyx Prism",
+        "nodes": [
+            "gemcutting",
+            "onyx"
+        ]
+    },
+    {
+        "itemID": "213785",
+        "itemName": "Algari Ruby Prism",
+        "nodes": [
+            "gemcutting",
+            "ruby"
+        ]
+    },
+    {
+        "itemID": "213791",
+        "itemName": "Algari Sapphire Prism",
+        "nodes": [
+            "gemcutting",
+            "sapphire"
+        ]
+    },
+    {
+        "itemID": "213779",
+        "itemName": "Algari Amber Prism",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "215136",
+        "itemName": "Amulet of Earthen Craftsmanship",
+        "nodes": [
+            "jewelrycrafting",
+            "amulets"
+        ]
+    },
+    {
+        "itemID": "215133",
+        "itemName": "Binding of Binding",
+        "nodes": [
+            "jewelrycrafting",
+            "rings"
+        ]
+    },
+    {
+        "itemID": "215134",
+        "itemName": "Fractured Gemstome Locket",
+        "nodes": [
+            "jewelrycrafting",
+            "amulets"
+        ]
+    },
+    {
+        "itemID": "215135",
+        "itemName": "Ring of Earthen Craftsmanship",
+        "nodes": [
+            "jewelrycrafting",
+            "rings"
+        ]
+    },
+    {
+        "itemID": "215130",
+        "itemName": "Malleable Band",
+        "nodes": [
+            "jewelrycrafting",
+            "rings"
+        ]
+    },
+    {
+        "itemID": "215131",
+        "itemName": "Malleable Pendant",
+        "nodes": [
+            "jewelrycrafting",
+            "amulets"
+        ]
+    },
+    {
+        "itemID": "213748",
+        "itemName": "Cognitive Bloodstone",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213749",
+        "itemName": "Determined Bloodstone",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "213747",
+        "itemName": "Enduring Bloodstone",
+        "nodes": [
+            "gemcutting"
+        ]
+    },
+    {
+        "itemID": "215144",
+        "itemName": "Algari Competitor's Amulet",
+        "nodes": [
+            "jewelrycrafting",
+            "amulets"
+        ]
+    },
+    {
+        "itemID": "215137",
+        "itemName": "Algari Competitor's Signet",
+        "nodes": [
+            "jewelrycrafting",
+            "rings"
+        ]
+    },
+    {
+        "itemID": "215125",
+        "itemName": "Enchanter's Crystal",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215124",
+        "itemName": "Extravagant Loupes",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215123",
+        "itemName": "Forger's Font Inspector",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215122",
+        "itemName": "Novelist's Specs",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215121",
+        "itemName": "Incanter's Shard",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215120",
+        "itemName": "Radiant Loupes",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215119",
+        "itemName": "Right-Handed Magnifying Glass",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215117",
+        "itemName": "Storyteller's Glasses",
+        "nodes": [
+            "jewelrycrafting",
+            "artisan's accessories"
+        ]
+    },
+    {
+        "itemID": "215147",
+        "itemName": "Beautification Iris",
+        "nodes": []
+    },
+    {
+        "itemID": "215145",
+        "itemName": "Remembrance Stone",
+        "nodes": []
+    }
+]

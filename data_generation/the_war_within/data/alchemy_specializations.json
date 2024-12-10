@@ -1,0 +1,480 @@
+[
+    {
+        "itemID": "212563",
+        "itemName": "Harmonious Horticulture",
+        "nodes": [
+            "alchemical mastery",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "luredrop lore",
+            "mycobloom lore",
+            "orbinid lore"
+        ]
+    },
+    {
+        "itemID": "228404",
+        "itemName": "Petal Powder",
+        "nodes": [
+            "alchemical mastery",
+            "arathor's spear lore",
+            "mycobloom lore"
+        ]
+    },
+    {
+        "itemID": "228401",
+        "itemName": "Bubbling Mycobloom Culture",
+        "nodes": [
+            "alchemical mastery",
+            "mycobloom lore"
+        ]
+    },
+    {
+        "itemID": "212245",
+        "itemName": "Slumbering Soul Serum",
+        "nodes": [
+            "alchemical mastery",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "mycobloom lore",
+            "potent potions",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "211878",
+        "itemName": "Algari Healing Potion",
+        "nodes": [
+            "alchemical mastery",
+            "blessing blossom lore",
+            "potent potions",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212239",
+        "itemName": "Algari Mana Potion",
+        "nodes": [
+            "alchemical mastery",
+            "potent potions",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212242",
+        "itemName": "Cavedweller's Delight",
+        "nodes": [
+            "alchemical mastery",
+            "orbinid lore",
+            "potent potions",
+            "luredrop lore",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212260",
+        "itemName": "Frontline Potion",
+        "nodes": [
+            "alchemical mastery",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "mycobloom lore",
+            "potent potions",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212254",
+        "itemName": "Grotesque Vial",
+        "nodes": [
+            "alchemical mastery",
+            "arathor's spear lore",
+            "potent potions",
+            "luredrop lore",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212266",
+        "itemName": "Potion of the Reborn Cheetah",
+        "nodes": [
+            "alchemical mastery",
+            "arathor's spear lore",
+            "orbinid lore",
+            "mycobloom lore",
+            "potent potions",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212257",
+        "itemName": "Potion of Unwavering Focus",
+        "nodes": [
+            "alchemical mastery",
+            "arathor's spear lore",
+            "orbinid lore",
+            "mycobloom lore",
+            "potent potions",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212263",
+        "itemName": "Tempered Potion",
+        "nodes": [
+            "alchemical mastery",
+            "arathor's spear lore",
+            "potent potions",
+            "luredrop lore",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212251",
+        "itemName": "Draught of Shocking Revelations",
+        "nodes": [
+            "alchemical mastery",
+            "arathor's spear lore",
+            "orbinid lore",
+            "mycobloom lore",
+            "potent potions",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212248",
+        "itemName": "Draught of Silent Footfalls",
+        "nodes": [
+            "alchemical mastery",
+            "orbinid lore",
+            "potent potions",
+            "luredrop lore",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "212281",
+        "itemName": "Flask of Alchemical Chaos",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "orbinid lore",
+            "luredrop lore"
+        ]
+    },
+    {
+        "itemID": "212299",
+        "itemName": "Flask of Saving Graces",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "mycobloom lore"
+        ]
+    },
+    {
+        "itemID": "212269",
+        "itemName": "Flask of Tempered Aggression",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "luredrop lore",
+            "orbinid lore"
+        ]
+    },
+    {
+        "itemID": "212278",
+        "itemName": "Flask of Tempered Mastery",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "arathor's spear lore"
+        ]
+    },
+    {
+        "itemID": "212272",
+        "itemName": "Flask of Tempered Swiftness",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "luredrop lore"
+        ]
+    },
+    {
+        "itemID": "212275",
+        "itemName": "Flask of Tempered Versatility",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "arathor's spear lore",
+            "orbinid lore"
+        ]
+    },
+    {
+        "itemID": "212289",
+        "itemName": "Vicious Flask of Classicial Spirits",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "orbinid lore"
+        ]
+    },
+    {
+        "itemID": "212292",
+        "itemName": "Vicious Flask of Honor",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "mycobloom lore"
+        ]
+    },
+    {
+        "itemID": "212298",
+        "itemName": "Vicious Flask of the Wrecking Ball",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "arathor's spear lore"
+        ]
+    },
+    {
+        "itemID": "212314",
+        "itemName": "Phial of Bountiful Seasons",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "profession phials",
+            "orbinid lore",
+            "luredrop lore"
+        ]
+    },
+    {
+        "itemID": "212305",
+        "itemName": "Phial of Concentrated Ingenuity",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "profession phials",
+            "orbinid lore",
+            "luredrop lore"
+        ]
+    },
+    {
+        "itemID": "212311",
+        "itemName": "Phial of Enhanced Ambidexterity",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "orbinid lore",
+            "luredrop lore",
+            "mycobloom lore",
+            "profession phials"
+        ]
+    },
+    {
+        "itemID": "212308",
+        "itemName": "Phial of Truesight",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "mycobloom lore",
+            "profession phials",
+            "luredrop lore"
+        ]
+    },
+    {
+        "itemID": "225677",
+        "itemName": "Gleaming Chaos",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation"
+        ]
+    },
+    {
+        "itemID": "212514",
+        "itemName": "Gleaming Glory",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation"
+        ]
+    },
+    {
+        "itemID": "211803",
+        "itemName": "Mercurial Coalescence",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "volatile materials",
+            "transmutation",
+            "ominous materials"
+        ]
+    },
+    {
+        "itemID": "211802",
+        "itemName": "Ominous Coalescence",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "mercurial materials",
+            "transmutation",
+            "volatile materials"
+        ]
+    },
+    {
+        "itemID": "211804",
+        "itemName": "Volatile Coalescence",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "mercurial materials",
+            "transmutation",
+            "ominous materials"
+        ]
+    },
+    {
+        "itemID": "223883",
+        "itemName": "Mercurial Blessings",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation",
+            "mercurial materials"
+        ]
+    },
+    {
+        "itemID": "223886",
+        "itemName": "Mercurial Herbs",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "mercurial materials",
+            "transmutation",
+            "volatile materials"
+        ]
+    },
+    {
+        "itemID": "223883",
+        "itemName": "Mercurial Storms",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation",
+            "mercurial materials"
+        ]
+    },
+    {
+        "itemID": "223885",
+        "itemName": "Ominous Call",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation",
+            "ominous materials"
+        ]
+    },
+    {
+        "itemID": "223885",
+        "itemName": "Ominous Gloom",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation",
+            "ominous materials"
+        ]
+    },
+    {
+        "itemID": "223887",
+        "itemName": "Ominous Herbs",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "volatile materials",
+            "transmutation",
+            "ominous materials"
+        ]
+    },
+    {
+        "itemID": "223884",
+        "itemName": "Volatile Stone",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation",
+            "volatile materials"
+        ]
+    },
+    {
+        "itemID": "223884",
+        "itemName": "Volatile Weaving",
+        "nodes": [
+            "alchemical mastery",
+            "thaumaturgy",
+            "transmutation",
+            "volatile materials"
+        ]
+    },
+    {
+        "itemID": "210816",
+        "itemName": "Algari Alchemist Stone",
+        "nodes": [
+            "alchemical mastery"
+        ]
+    },
+    {
+        "itemID": "212719",
+        "itemName": "Algari Flask Cauldron",
+        "nodes": [
+            "alchemical mastery",
+            "fantastic flasks",
+            "bulk production (flasks)",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "orbinid lore",
+            "mycobloom lore",
+            "luredrop lore"
+        ]
+    },
+    {
+        "itemID": "212751",
+        "itemName": "Algari Potion Cauldron",
+        "nodes": [
+            "alchemical mastery",
+            "blessing blossom lore",
+            "arathor's spear lore",
+            "orbinid lore",
+            "luredrop lore",
+            "mycobloom lore",
+            "potent potions",
+            "bulk production (potions)"
+        ]
+    }
+]

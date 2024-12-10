@@ -1,0 +1,818 @@
+[
+    {
+        "itemID": "219880",
+        "itemName": "Carapace-Backed Hide",
+        "reagents": {
+            "218337": "5",
+            "224764": "5",
+            "212670": "1",
+            "212674": "1"
+        }
+    },
+    {
+        "itemID": "219898",
+        "itemName": "Chitin Armor Banding",
+        "reagents": {
+            "218336": "1",
+            "212674": "1",
+            "212667": "30"
+        }
+    },
+    {
+        "itemID": "219883",
+        "itemName": "Crystalfused Hide",
+        "reagents": {
+            "213610": "5",
+            "219880": "1"
+        }
+    },
+    {
+        "itemID": "219892",
+        "itemName": "Leyfused Hide",
+        "reagents": {
+            "213613": "5",
+            "219880": "1"
+        }
+    },
+    {
+        "itemID": "219889",
+        "itemName": "Sporecoated Hide",
+        "reagents": {
+            "213612": "5",
+            "219880": "1"
+        }
+    },
+    {
+        "itemID": "219901",
+        "itemName": "Storm-Touched Weapon Wrap",
+        "reagents": {
+            "218338": "2",
+            "212670": "1",
+            "212664": "30"
+        }
+    },
+    {
+        "itemID": "219886",
+        "itemName": "Writhing Hide",
+        "reagents": {
+            "213611": "5",
+            "219880": "1"
+        }
+    },
+    {
+        "itemID": "219906",
+        "itemName": "Defender's Armor Kit",
+        "reagents": {
+            "221758": "1",
+            "219883": "2",
+            "212667": "60"
+        }
+    },
+    {
+        "itemID": "219909",
+        "itemName": "Stormbound Armor Kit",
+        "reagents": {
+            "221757": "1",
+            "219883": "2",
+            "212664": "60"
+        }
+    },
+    {
+        "itemID": "219905",
+        "itemName": "Thunderous Drums",
+        "reagents": {
+            "213612": "5",
+            "212664": "75",
+            "212667": "75"
+        }
+    },
+    {
+        "itemID": "219912",
+        "itemName": "Dual Layered Armor Kit",
+        "reagents": {
+            "212670": "1",
+            "212664": "50"
+        }
+    },
+    {
+        "itemID": "219334",
+        "itemName": "Rune-Branded Armbands",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219886": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219333",
+        "itemName": "Rune-Branded Grasps",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219892": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219329",
+        "itemName": "Rune-Branded Hood",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219886": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219327",
+        "itemName": "Rune-Branded Kickers",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219889": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219332",
+        "itemName": "Rune-Branded Legwraps",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219883": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219330",
+        "itemName": "Rune-Branded Mantle",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219892": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219328",
+        "itemName": "Rune-Branded Tunic",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219892": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219331",
+        "itemName": "Rune-Branded Waistband",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219883": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219476",
+        "itemName": "Spelunker's Practiced Hat",
+        "reagents": {
+            "212664": "30",
+            "212670": "1"
+        }
+    },
+    {
+        "itemID": "219479",
+        "itemName": "Spelunker's Practiced Britches",
+        "reagents": {
+            "212664": "30",
+            "212670": "1"
+        }
+    },
+    {
+        "itemID": "219477",
+        "itemName": "Spelunker's Practiced Shoulders",
+        "reagents": {
+            "212664": "30",
+            "212670": "1"
+        }
+    },
+    {
+        "itemID": "219478",
+        "itemName": "Spelunker's Practiced Mitts",
+        "reagents": {
+            "212664": "25",
+            "212667": "20"
+        }
+    },
+    {
+        "itemID": "219480",
+        "itemName": "Spelunker's Practiced Sash",
+        "reagents": {
+            "212664": "30",
+            "212667": "10"
+        }
+    },
+    {
+        "itemID": "219472",
+        "itemName": "Spelunker's Leather Jerkin",
+        "reagents": {
+            "212664": "30",
+            "212667": "15"
+        }
+    },
+    {
+        "itemID": "219470",
+        "itemName": "Spelunker's Leather Footpads",
+        "reagents": {
+            "212664": "20",
+            "212667": "10"
+        }
+    },
+    {
+        "itemID": "219471",
+        "itemName": "Spelunker's Leather Bands",
+        "reagents": {
+            "212664": "15",
+            "212667": "5"
+        }
+    },
+    {
+        "itemID": "219339",
+        "itemName": "Glyph-Etched Binding",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219883": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219336",
+        "itemName": "Glyph-Etched Breastplate",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219892": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219340",
+        "itemName": "Glyph-Etched Cuisses",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219883": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219338",
+        "itemName": "Glyph-Etched Epaulets",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219892": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219341",
+        "itemName": "Glyph-Etched Gauntlets",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219892": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219337",
+        "itemName": "Glyph-Etched Guise",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219886": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219335",
+        "itemName": "Glyph-Etched Stompers",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "219889": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219342",
+        "itemName": "Glyph-Etched Vambraces",
+        "reagents": {
+            "211296": "1",
+            "221757": "2",
+            "219886": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219481",
+        "itemName": "Tracker's Toughened Headgear",
+        "reagents": {
+            "212667": "30",
+            "212674": "1"
+        }
+    },
+    {
+        "itemID": "219484",
+        "itemName": "Tracker's Toughened Links",
+        "reagents": {
+            "212667": "30",
+            "212674": "1"
+        }
+    },
+    {
+        "itemID": "219482",
+        "itemName": "Tracker's Toughened Shoulderguards",
+        "reagents": {
+            "212667": "30",
+            "212674": "1"
+        }
+    },
+    {
+        "itemID": "219483",
+        "itemName": "Tracker's Toughened Handguards",
+        "reagents": {
+            "212667": "25",
+            "212664": "20"
+        }
+    },
+    {
+        "itemID": "219485",
+        "itemName": "Tracker's Toughened Girdle",
+        "reagents": {
+            "212667": "30",
+            "212664": "10"
+        }
+    },
+    {
+        "itemID": "219475",
+        "itemName": "Tracker's Chitin Hauberk",
+        "reagents": {
+            "212667": "30",
+            "212664": "15"
+        }
+    },
+    {
+        "itemID": "219473",
+        "itemName": "Tracker's Chitin Galoshes",
+        "reagents": {
+            "212667": "20",
+            "212664": "10"
+        }
+    },
+    {
+        "itemID": "219474",
+        "itemName": "Tracker's Chitin Cuffs",
+        "reagents": {
+            "212667": "15",
+            "212664": "5"
+        }
+    },
+    {
+        "itemID": "219492",
+        "itemName": "Sanctified Torchbearer's Grips",
+        "reagents": {
+            "211296": "1",
+            "221758": "3",
+            "219883": "3",
+            "212667": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219489",
+        "itemName": "Waders of the Unifying Flame",
+        "reagents": {
+            "211296": "1",
+            "221758": "2",
+            "219883": "3",
+            "212664": "150",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219495",
+        "itemName": "Blessed Weapon Grip",
+        "reagents": {
+            "221758": "1"
+        }
+    },
+    {
+        "itemID": "219502",
+        "itemName": "Adrenal Surge Clasp",
+        "reagents": {
+            "211296": "1",
+            "221756": "2",
+            "218336": "10",
+            "219886": "2",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219501",
+        "itemName": "Vambraces of Deepening Darkness",
+        "reagents": {
+            "211296": "1",
+            "221756": "2",
+            "218336": "10",
+            "219886": "2",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219504",
+        "itemName": "Writhing Armor Banding",
+        "reagents": {
+            "221756": "1",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219509",
+        "itemName": "Busy Bee's Buckle",
+        "reagents": {
+            "211296": "1",
+            "218339": "10",
+            "219013": "1",
+            "219889": "2",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219508",
+        "itemName": "Reinforced Setae Flyers",
+        "reagents": {
+            "211296": "1",
+            "218339": "10",
+            "219013": "1",
+            "219889": "2",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219513",
+        "itemName": "Roiling Thunderstrike Talons",
+        "reagents": {
+            "211296": "1",
+            "218338": "10",
+            "219013": "1",
+            "219889": "2",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219511",
+        "itemName": "Rook Feather Wristwraps",
+        "reagents": {
+            "211296": "1",
+            "218338": "10",
+            "219013": "1",
+            "219889": "2",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219507",
+        "itemName": "Smoldering Pollen Hauberk",
+        "reagents": {
+            "211296": "1",
+            "218339": "10",
+            "219013": "1",
+            "219889": "3",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "219512",
+        "itemName": "Weathered Stormfront Vest",
+        "reagents": {
+            "211296": "1",
+            "218338": "10",
+            "219013": "1",
+            "219889": "3",
+            "219898": "1"
+        }
+    },
+    {
+        "itemID": "217130",
+        "itemName": "Algari Competitor's Leather Belt",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212664": "75"
+        }
+    },
+    {
+        "itemID": "217126",
+        "itemName": "Algari Competitor's Leather Boots",
+        "reagents": {
+            "210221": "5",
+            "219880": "1",
+            "212664": "75"
+        }
+    },
+    {
+        "itemID": "217127",
+        "itemName": "Algari Competitor's Leather Chestpiece",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212664": "90"
+        }
+    },
+    {
+        "itemID": "217132",
+        "itemName": "Algari Competitor's Leather Gloves",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212664": "75"
+        }
+    },
+    {
+        "itemID": "217128",
+        "itemName": "Algari Competitor's Leather Mask",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212664": "90"
+        }
+    },
+    {
+        "itemID": "217129",
+        "itemName": "Algari Competitor's Leather Shoulderpads",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212664": "75"
+        }
+    },
+    {
+        "itemID": "217131",
+        "itemName": "Algari Competitor's Leather Trousers",
+        "reagents": {
+            "210221": "5",
+            "219880": "1",
+            "212664": "90"
+        }
+    },
+    {
+        "itemID": "217133",
+        "itemName": "Algari Competitor's Leather Wristwraps",
+        "reagents": {
+            "210221": "3",
+            "219880": "1",
+            "212664": "60"
+        }
+    },
+    {
+        "itemID": "217135",
+        "itemName": "Algari Competitor's Chain Chainmail",
+        "reagents": {
+            "210221": "5",
+            "219880": "1",
+            "212667": "90"
+        }
+    },
+    {
+        "itemID": "217136",
+        "itemName": "Algari Competitor's Chain Cowl",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212667": "90"
+        }
+    },
+    {
+        "itemID": "217141",
+        "itemName": "Algari Competitor's Chain Cuffs",
+        "reagents": {
+            "210221": "3",
+            "219880": "1",
+            "212667": "60"
+        }
+    },
+    {
+        "itemID": "217137",
+        "itemName": "Algari Competitor's Chain Epaulets",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212667": "75"
+        }
+    },
+    {
+        "itemID": "217140",
+        "itemName": "Algari Competitor's Chain Gauntlets",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212667": "75"
+        }
+    },
+    {
+        "itemID": "217138",
+        "itemName": "Algari Competitor's Chain Girdle",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212667": "75"
+        }
+    },
+    {
+        "itemID": "217139",
+        "itemName": "Algari Competitor's Chain Leggings",
+        "reagents": {
+            "210221": "5",
+            "219880": "1",
+            "212667": "90"
+        }
+    },
+    {
+        "itemID": "217134",
+        "itemName": "Algari Competitor's Chain Treads",
+        "reagents": {
+            "210221": "4",
+            "219880": "1",
+            "212667": "75"
+        }
+    },
+    {
+        "itemID": "219871",
+        "itemName": "Arathi Leatherworker's Smock",
+        "reagents": {
+            "210814": "300",
+            "221758": "1",
+            "219889": "3",
+            "212664": "80"
+        }
+    },
+    {
+        "itemID": "219870",
+        "itemName": "Charged Scrapmaster's Gauntlets",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "219883": "3",
+            "212667": "50",
+            "221856": "5"
+        }
+    },
+    {
+        "itemID": "219869",
+        "itemName": "Deep Tracker's Cap",
+        "reagents": {
+            "210814": "300",
+            "221757": "2",
+            "219889": "2",
+            "212664": "80"
+        }
+    },
+    {
+        "itemID": "219868",
+        "itemName": "Deep Tracker's Pack",
+        "reagents": {
+            "210814": "300",
+            "221757": "1",
+            "219889": "3",
+            "212664": "80"
+        }
+    },
+    {
+        "itemID": "219874",
+        "itemName": "Earthen Forgemaster's Apron",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "219883": "3",
+            "212667": "80"
+        }
+    },
+    {
+        "itemID": "219876",
+        "itemName": "Earthen Jeweler's Cover",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "219883": "3",
+            "212664": "80"
+        }
+    },
+    {
+        "itemID": "219872",
+        "itemName": "Nerubian Alchemist's Hat",
+        "reagents": {
+            "210814": "300",
+            "221756": "1",
+            "219886": "3",
+            "212664": "80"
+        }
+    },
+    {
+        "itemID": "219867",
+        "itemName": "Stonebound Herbalist's Pack",
+        "reagents": {
+            "210814": "300",
+            "221757": "1",
+            "219889": "2",
+            "212664": "60",
+            "212563": "2"
+        }
+    },
+    {
+        "itemID": "219866",
+        "itemName": "Apothecary's Cap",
+        "reagents": {
+            "212674": "1",
+            "212664": "20"
+        }
+    },
+    {
+        "itemID": "219873",
+        "itemName": "Steelsmith's Apron",
+        "reagents": {
+            "212670": "1",
+            "212667": "20"
+        }
+    },
+    {
+        "itemID": "219875",
+        "itemName": "Gemcutter's Apron",
+        "reagents": {
+            "212670": "1",
+            "212664": "20"
+        }
+    },
+    {
+        "itemID": "219864",
+        "itemName": "Scrapsmith's Gloves",
+        "reagents": {
+            "212664": "50",
+            "212667": "50",
+            "221856": "5"
+        }
+    },
+    {
+        "itemID": "219865",
+        "itemName": "Hideshaper's Cover",
+        "reagents": {
+            "212664": "50",
+            "212667": "50"
+        }
+    },
+    {
+        "itemID": "219862",
+        "itemName": "Hideseeker's Pack",
+        "reagents": {
+            "212664": "10",
+            "212670": "1"
+        }
+    },
+    {
+        "itemID": "219861",
+        "itemName": "Gardener's Basket",
+        "reagents": {
+            "212670": "1",
+            "212664": "20",
+            "210796": "10"
+        }
+    },
+    {
+        "itemID": "219863",
+        "itemName": "Hideseeker's Hat",
+        "reagents": {
+            "212664": "40",
+            "212667": "40"
+        }
+    }
+]

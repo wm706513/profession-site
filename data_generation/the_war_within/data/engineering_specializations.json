@@ -1,0 +1,790 @@
+[
+    {
+        "itemID": "221865",
+        "itemName": "Chaos Circuit",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221868",
+        "itemName": "Entropy Enhancer",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221862",
+        "itemName": "Safety Switch",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "225987",
+        "itemName": "Bottled Brilliance",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221859",
+        "itemName": "Gyrating Gear",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221853",
+        "itemName": "Handful of Bismuth Bolts",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221856",
+        "itemName": "Whimsical Wiring",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221926",
+        "itemName": "Blame Redirection Device",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221932",
+        "itemName": "Complicated Fuse Box",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221923",
+        "itemName": "Recalibrated Safety Switch",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221938",
+        "itemName": "Concealed Chaos Module",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221941",
+        "itemName": "Energy Redistribution Beacon",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221935",
+        "itemName": "Pouch of Pocket Grenades",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221920",
+        "itemName": "Adjustable Cogwheel",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious",
+            "adjustable cogwheel"
+        ]
+    },
+    {
+        "itemID": "221917",
+        "itemName": "Impeccable Cogwheel",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious",
+            "impeccable cogwheel"
+        ]
+    },
+    {
+        "itemID": "221914",
+        "itemName": "Overclocked Cogwheel",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious",
+            "overclocked cogwheel"
+        ]
+    },
+    {
+        "itemID": "221911",
+        "itemName": "Serrated Cogwheel",
+        "nodes": [
+            "inventing",
+            "parts",
+            "scrapper",
+            "ingenious",
+            "serrated cogwheel"
+        ]
+    },
+    {
+        "itemID": "221805",
+        "itemName": "Blasting Bracers",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221808",
+        "itemName": "Clanking Cuffs",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221804",
+        "itemName": "Dangerous Distraction Inhibitor",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221802",
+        "itemName": "Overclocked Idea Generator",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221969",
+        "itemName": "P.0.W. x2",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "ingenious",
+            "scrapper",
+            "guns"
+        ]
+    },
+    {
+        "itemID": "221801",
+        "itemName": "Studious Brilliance Expeditor",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221803",
+        "itemName": "Supercharged Thought Enhancer",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221806",
+        "itemName": "Venting Vambraces",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221807",
+        "itemName": "Whirring Wristwraps",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "225646",
+        "itemName": "4UT0-41M3R",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "ingenious",
+            "scrapper",
+            "guns"
+        ]
+    },
+    {
+        "itemID": "225642",
+        "itemName": "Acolyte's Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "225645",
+        "itemName": "Dredger's Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "225643",
+        "itemName": "Spelunker's Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "225644",
+        "itemName": "Tracker's Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221789",
+        "itemName": "Aqirite Brainwave Projector",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221791",
+        "itemName": "Aqirite Fisherfiend",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221798",
+        "itemName": "Aqirite Fueled Samophlange",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221796",
+        "itemName": "Aqirite Miner's Headgear",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221793",
+        "itemName": "Lapidary's Aqirite Clamps",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221800",
+        "itemName": "Miner's Aqirite Hoard",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221787",
+        "itemName": "Spring-Loaded Aqirite Fabric Cutters",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221788",
+        "itemName": "Bismuth Brainwave Projector",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221790",
+        "itemName": "Bismuth Fisherfiend",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221797",
+        "itemName": "Bismuth Fueld Samophlange",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221795",
+        "itemName": "Bismuth Miner's Headgear",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221792",
+        "itemName": "Lapidary's Bismuth Clamps",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221799",
+        "itemName": "Miner's Bismuth Hoard",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "221786",
+        "itemName": "Spring-Loaded Bismuth Fabric Cutters",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "profession gear",
+            "inventor's necessities",
+            "scrapper",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "224586",
+        "itemName": "Box o' Booms",
+        "nodes": [
+            "inventing",
+            "devices",
+            "scrapper",
+            "ingenious",
+            "explosives"
+        ]
+    },
+    {
+        "itemID": "221880",
+        "itemName": "Potion Bomb of Power",
+        "nodes": [
+            "inventing",
+            "devices",
+            "scrapper",
+            "ingenious",
+            "explosives"
+        ]
+    },
+    {
+        "itemID": "221876",
+        "itemName": "Potion Bomb of Recovery",
+        "nodes": [
+            "inventing",
+            "devices",
+            "scrapper",
+            "ingenious",
+            "explosives"
+        ]
+    },
+    {
+        "itemID": "221872",
+        "itemName": "Potion Bomb of Speed",
+        "nodes": [
+            "inventing",
+            "devices",
+            "scrapper",
+            "ingenious",
+            "explosives"
+        ]
+    },
+    {
+        "itemID": "219387",
+        "itemName": "Barrel of Fireworks",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221962",
+        "itemName": "Defective Escape Pod",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221964",
+        "itemName": "Filmless Camera",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221966",
+        "itemName": "Wormhole Generator: Khaz Algar",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "219403",
+        "itemName": "Stonebound Lantern",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221967",
+        "itemName": "Crowd Pummeler 2-30",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "221953",
+        "itemName": "Convincingly Realistic Jumper Cables",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper",
+            "devices"
+        ]
+    },
+    {
+        "itemID": "221945",
+        "itemName": "Irresistible Red Button",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper",
+            "devices"
+        ]
+    },
+    {
+        "itemID": "221949",
+        "itemName": "Pausing Pylon",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper",
+            "devices"
+        ]
+    },
+    {
+        "itemID": "221957",
+        "itemName": "Algari Repair Bot 11O",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper",
+            "devices"
+        ]
+    },
+    {
+        "itemID": "221959",
+        "itemName": "Portable Profession Possibility Projector",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper",
+            "devices"
+        ]
+    },
+    {
+        "itemID": "221904",
+        "itemName": "Tinker: Earthen Delivery Drill",
+        "nodes": [
+            "inventing",
+            "devices",
+            "scrapper",
+            "ingenious",
+            "tinkers"
+        ]
+    },
+    {
+        "itemID": "221908",
+        "itemName": "Tinker: Heartseeking Health Injector",
+        "nodes": [
+            "inventing",
+            "devices",
+            "scrapper",
+            "ingenious",
+            "tinkers"
+        ]
+    },
+    {
+        "itemID": "217155",
+        "itemName": "Algari Competitor's Cloth Bracers",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "217151",
+        "itemName": "Algari Competitor's Cloth Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "217156",
+        "itemName": "Algari Competitor's Leather Bracers",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "217152",
+        "itemName": "Algari Competitor's Leather Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "217157",
+        "itemName": "Algari Competitor's Mail Bracers",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "217153",
+        "itemName": "Algari Competitor's Mail Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "217158",
+        "itemName": "Algari Competitor's Plate Bracers",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "scrapper",
+            "bracers",
+            "ingenious"
+        ]
+    },
+    {
+        "itemID": "217154",
+        "itemName": "Algari Competitor's Plate Goggles",
+        "nodes": [
+            "inventing",
+            "engineered equipment",
+            "inventor's necessities",
+            "goggles",
+            "ingenious",
+            "scrapper"
+        ]
+    },
+    {
+        "itemID": "225370",
+        "itemName": "Algari Competitor's Rifle",
+        "nodes": [
+            "engineered equipment",
+            "inventing",
+            "calibrated chaos",
+            "ingenious",
+            "scrapper",
+            "guns"
+        ]
+    }
+]

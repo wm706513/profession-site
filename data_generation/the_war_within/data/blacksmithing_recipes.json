@@ -1,0 +1,797 @@
+[
+    {
+        "itemID": "222423",
+        "itemName": "Sanctified Alloy",
+        "reagents": {
+            "226202": "5",
+            "221758": "1",
+            "210939": "1",
+            "222417": "1",
+            "210936": "2"
+        }
+    },
+    {
+        "itemID": "222420",
+        "itemName": "Charged Alloy",
+        "reagents": {
+            "226202": "5",
+            "213610": "1",
+            "222417": "2",
+            "210933": "5"
+        }
+    },
+    {
+        "itemID": "222426",
+        "itemName": "Ironclaw Alloy",
+        "reagents": {
+            "226202": "5",
+            "213610": "1",
+            "222417": "2",
+            "210936": "5"
+        }
+    },
+    {
+        "itemID": "222417",
+        "itemName": "Core Alloy",
+        "reagents": {
+            "226202": "5",
+            "213610": "1",
+            "210930": "10"
+        }
+    },
+    {
+        "itemID": "222430",
+        "itemName": "Everforged Breastplate",
+        "reagents": {
+            "211296": "1",
+            "222423": "6",
+            "222426": "12"
+        }
+    },
+    {
+        "itemID": "222432",
+        "itemName": "Everforged Defender",
+        "reagents": {
+            "211296": "1",
+            "219901": "1",
+            "222423": "6",
+            "222426": "8"
+        }
+    },
+    {
+        "itemID": "222437",
+        "itemName": "Everforged Gauntlets",
+        "reagents": {
+            "211296": "1",
+            "222423": "6",
+            "222426": "12"
+        }
+    },
+    {
+        "itemID": "222431",
+        "itemName": "Everforged Greatbelt",
+        "reagents": {
+            "211296": "1",
+            "222423": "6",
+            "222426": "10"
+        }
+    },
+    {
+        "itemID": "222433",
+        "itemName": "Everforged Helm",
+        "reagents": {
+            "211296": "1",
+            "222423": "6",
+            "222426": "12"
+        }
+    },
+    {
+        "itemID": "222434",
+        "itemName": "Everforged Legplates",
+        "reagents": {
+            "211296": "1",
+            "222423": "5",
+            "222426": "14"
+        }
+    },
+    {
+        "itemID": "222436",
+        "itemName": "Everforged Pauldrons",
+        "reagents": {
+            "211296": "1",
+            "222423": "6",
+            "222426": "8"
+        }
+    },
+    {
+        "itemID": "222429",
+        "itemName": "Everforged Sabatons",
+        "reagents": {
+            "211296": "1",
+            "222423": "6",
+            "222426": "12"
+        }
+    },
+    {
+        "itemID": "222435",
+        "itemName": "Everforged Vambraces",
+        "reagents": {
+            "211296": "1",
+            "222423": "4",
+            "222426": "12"
+        }
+    },
+    {
+        "itemID": "222476",
+        "itemName": "Dredger's Developed Legplates",
+        "reagents": {
+            "210930": "6",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222478",
+        "itemName": "Dredger's Developed Pauldrons",
+        "reagents": {
+            "210930": "5",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "222479",
+        "itemName": "Dredger's Developed Gauntlets",
+        "reagents": {
+            "210930": "4",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222475",
+        "itemName": "Dredger's Developed Helm",
+        "reagents": {
+            "210930": "4",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222474",
+        "itemName": "Dredger's Developed Defender",
+        "reagents": {
+            "210930": "3",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "222473",
+        "itemName": "Dredger's Developed Greatbelt",
+        "reagents": {
+            "210930": "1",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "222477",
+        "itemName": "Dredger's Plate Vambraces",
+        "reagents": {
+            "210930": "8",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222472",
+        "itemName": "Dredger's Plate Breastplate",
+        "reagents": {
+            "210930": "1",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "222471",
+        "itemName": "Dredger's Plate Sabatons",
+        "reagents": {
+            "210930": "10",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222447",
+        "itemName": "Charged Claymore",
+        "reagents": {
+            "211296": "2",
+            "219013": "1",
+            "219901": "1",
+            "222423": "6",
+            "222420": "12"
+        }
+    },
+    {
+        "itemID": "222449",
+        "itemName": "Charged Crusher",
+        "reagents": {
+            "211296": "2",
+            "210939": "2",
+            "219901": "1",
+            "222423": "6",
+            "222420": "10"
+        }
+    },
+    {
+        "itemID": "222446",
+        "itemName": "Charged Facesmasher",
+        "reagents": {
+            "211296": "1",
+            "210939": "2",
+            "219901": "1",
+            "222423": "6",
+            "222420": "10"
+        }
+    },
+    {
+        "itemID": "222448",
+        "itemName": "Charged Halberd",
+        "reagents": {
+            "211296": "2",
+            "219013": "1",
+            "219901": "1",
+            "222423": "8",
+            "222420": "2"
+        }
+    },
+    {
+        "itemID": "222444",
+        "itemName": "Charged Hexsword",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "5",
+            "222420": "10"
+        }
+    },
+    {
+        "itemID": "222450",
+        "itemName": "Charged Invoker",
+        "reagents": {
+            "211296": "2",
+            "219013": "1",
+            "219901": "1",
+            "222423": "5",
+            "222420": "10"
+        }
+    },
+    {
+        "itemID": "222445",
+        "itemName": "Charged Runeaxe",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "5",
+            "222420": "10"
+        }
+    },
+    {
+        "itemID": "222451",
+        "itemName": "Charged Slicer",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "5",
+            "222420": "10"
+        }
+    },
+    {
+        "itemID": "222439",
+        "itemName": "Everforged Dagger",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "6",
+            "222426": "8"
+        }
+    },
+    {
+        "itemID": "222443",
+        "itemName": "Everforged Greataxe",
+        "reagents": {
+            "211296": "2",
+            "219013": "1",
+            "219901": "1",
+            "222423": "8",
+            "222426": "2"
+        }
+    },
+    {
+        "itemID": "222440",
+        "itemName": "Everforged Longsword",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "5",
+            "222426": "12"
+        }
+    },
+    {
+        "itemID": "222442",
+        "itemName": "Everforged Mace",
+        "reagents": {
+            "211296": "1",
+            "210939": "2",
+            "219901": "1",
+            "222423": "10",
+            "222426": "3"
+        }
+    },
+    {
+        "itemID": "222438",
+        "itemName": "Everforged Stabber",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "8",
+            "222426": "6"
+        }
+    },
+    {
+        "itemID": "222441",
+        "itemName": "Everforged Warglaive",
+        "reagents": {
+            "211296": "1",
+            "219013": "1",
+            "219901": "1",
+            "222423": "10",
+            "222426": "3"
+        }
+    },
+    {
+        "itemID": "222468",
+        "itemName": "Ironclaw Great Mace",
+        "reagents": {
+            "210936": "10",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222467",
+        "itemName": "Ironclaw Knuckles",
+        "reagents": {
+            "210936": "5",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222469",
+        "itemName": "Ironclaw Axe",
+        "reagents": {
+            "210936": "8",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222466",
+        "itemName": "Ironclaw Sword",
+        "reagents": {
+            "210936": "8",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222465",
+        "itemName": "Ironclaw Dirk",
+        "reagents": {
+            "210936": "5",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222470",
+        "itemName": "Ironclaw Great Axe",
+        "reagents": {
+            "210936": "10",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222464",
+        "itemName": "Ironclaw Stiletto",
+        "reagents": {
+            "222417": "1",
+            "210936": "5"
+        }
+    },
+    {
+        "itemID": "222459",
+        "itemName": "Beledar's Bulwark",
+        "reagents": {
+            "211296": "1",
+            "221757": "1",
+            "221754": "1",
+            "222423": "8"
+        }
+    },
+    {
+        "itemID": "222458",
+        "itemName": "Sanctified Steps",
+        "reagents": {
+            "211296": "1",
+            "221758": "1",
+            "221754": "1",
+            "222423": "8"
+        }
+    },
+    {
+        "itemID": "222463",
+        "itemName": "Siphoning Stiletto",
+        "reagents": {
+            "211296": "1",
+            "221756": "1",
+            "221754": "1",
+            "219013": "1",
+            "222423": "8"
+        }
+    },
+    {
+        "itemID": "222494",
+        "itemName": "Artisan Blacksmith's Hammer",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "222426": "5"
+        }
+    },
+    {
+        "itemID": "222492",
+        "itemName": "Artisan Leatherworker's Knife",
+        "reagents": {
+            "210814": "300",
+            "213610": "20",
+            "210939": "5",
+            "222426": "5"
+        }
+    },
+    {
+        "itemID": "222493",
+        "itemName": "Artisan Leatherworker's Toolset",
+        "reagents": {
+            "210814": "300",
+            "213610": "10",
+            "210939": "5",
+            "222426": "7"
+        }
+    },
+    {
+        "itemID": "222491",
+        "itemName": "Artisan Needle Set",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "210939": "5",
+            "222426": "5"
+        }
+    },
+    {
+        "itemID": "222489",
+        "itemName": "Artisan Pickaxe",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "210939": "5",
+            "222426": "5"
+        }
+    },
+    {
+        "itemID": "222488",
+        "itemName": "Artisan Sickle",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "210939": "5",
+            "222426": "5"
+        }
+    },
+    {
+        "itemID": "222495",
+        "itemName": "Artisan Blacksmith's Toolbox",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "222426": "4"
+        }
+    },
+    {
+        "itemID": "222490",
+        "itemName": "Artisan Skinning Knife",
+        "reagents": {
+            "210814": "300",
+            "221754": "1",
+            "210939": "5",
+            "222426": "5"
+        }
+    },
+    {
+        "itemID": "222487",
+        "itemName": "Proficient Blacksmith's Toolbox",
+        "reagents": {
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222485",
+        "itemName": "Proficient Leatherworker's Toolset",
+        "reagents": {
+            "222485": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222483",
+        "itemName": "Proficient Needle Set",
+        "reagents": {
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "222486",
+        "itemName": "Proficient Blacksmith's Hammer",
+        "reagents": {
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222484",
+        "itemName": "Proficient Leatherworker's Knife",
+        "reagents": {
+            "210939": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222481",
+        "itemName": "Proficient Pickaxe",
+        "reagents": {
+            "213610": "5",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222480",
+        "itemName": "Proficient Sickle",
+        "reagents": {
+            "213610": "3",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "222482",
+        "itemName": "Proficient Skinning Knife",
+        "reagents": {
+            "213610": "5",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "225660",
+        "itemName": "Earthen Master's Hammer",
+        "reagents": {
+            "221754": "2",
+            "222420": "10",
+            "222426": "10",
+            "222423": "10"
+        }
+    },
+    {
+        "itemID": "222505",
+        "itemName": "Ironclaw Razorstone",
+        "reagents": {
+            "213610": "1",
+            "210939": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222508",
+        "itemName": "Ironclaw Weightstone",
+        "reagents": {
+            "213610": "1",
+            "210939": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222502",
+        "itemName": "Ironclaw Whetstone",
+        "reagents": {
+            "213610": "1",
+            "210939": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "225374",
+        "itemName": "Algari Competitor's Axe",
+        "reagents": {
+            "210221": "5",
+            "222420": "4",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "225367",
+        "itemName": "Algari Competitor's Dagger",
+        "reagents": {
+            "210221": "5",
+            "222420": "4",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "225376",
+        "itemName": "Algari Competitor's Greatsword",
+        "reagents": {
+            "210221": "10",
+            "222420": "8",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "225366",
+        "itemName": "Algari Competitor's Pickaxe",
+        "reagents": {
+            "210221": "5",
+            "222420": "4",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "217150",
+        "itemName": "Algari Competitor's Plate Armguards",
+        "reagents": {
+            "210221": "3",
+            "222426": "2",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217143",
+        "itemName": "Algari Competitor's Plate Breastplate",
+        "reagents": {
+            "210221": "5",
+            "222426": "6",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217145",
+        "itemName": "Algari Competitor's Plate Gauntlets",
+        "reagents": {
+            "210221": "4",
+            "222426": "4",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217147",
+        "itemName": "Algari Competitor's Plate Greaves",
+        "reagents": {
+            "210221": "5",
+            "222426": "6",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217146",
+        "itemName": "Algari Competitor's Plate Helm",
+        "reagents": {
+            "210221": "5",
+            "222426": "6",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217148",
+        "itemName": "Algari Competitor's Plate Pauldrons",
+        "reagents": {
+            "210221": "4",
+            "222426": "4",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217144",
+        "itemName": "Algari Competitor's Plate Sabatons",
+        "reagents": {
+            "210221": "4",
+            "222426": "4",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "217149",
+        "itemName": "Algari Competitor's Plate Waistguard",
+        "reagents": {
+            "210221": "4",
+            "222426": "4",
+            "222417": "2"
+        }
+    },
+    {
+        "itemID": "225371",
+        "itemName": "Algari Competitor's Scepter",
+        "reagents": {
+            "210221": "7",
+            "222420": "6",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "225373",
+        "itemName": "Algari Competitor's Shield",
+        "reagents": {
+            "210221": "3",
+            "222420": "2",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "225375",
+        "itemName": "Algari Competitor's Skewer",
+        "reagents": {
+            "210221": "7",
+            "222420": "6",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "225377",
+        "itemName": "Algari Competitor's Sword",
+        "reagents": {
+            "210221": "5",
+            "222420": "4",
+            "222417": "3"
+        }
+    },
+    {
+        "itemID": "222499",
+        "itemName": "Forged Framework",
+        "reagents": {
+            "213610": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222511",
+        "itemName": "Adjustable Framework",
+        "reagents": {
+            "213610": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222514",
+        "itemName": "Tempered Framework",
+        "reagents": {
+            "213610": "1",
+            "222417": "1"
+        }
+    },
+    {
+        "itemID": "222520",
+        "itemName": "Coreforged Repair Hammer",
+        "reagents": {
+            "210930": "10",
+            "210936": "2"
+        }
+    },
+    {
+        "itemID": "222523",
+        "itemName": "Coreforged Skeleton Key",
+        "reagents": {
+            "210930": "8",
+            "210936": "4"
+        }
+    }
+]

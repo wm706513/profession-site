@@ -1,0 +1,63 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+213777,Magnificent Jeweler's Setting,item enhancement,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+213759,Inverted Prism,crafting reagent,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213753,Decorative Lens,crafting reagent,305,0,3-Feb,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+211806,Gilded Vial,crafting reagent,305,0,5-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+213756,Marbled Stone,crafting reagent,305,0,3-Feb,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+213750,Engraved Gemcutter,crafting reagent,305,0,4-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+213774,Captured Starlight,embellishment,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213768,Elemental Focusing Lens,embellishment,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213771,Prismatic Null Stone,embellishment,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213765,Ominous Energy Crystal,finishing reagent,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213762,Sifted Cave Sand,finishing reagent,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213501,Deadly Amber,gem,315,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213507,Masterful Amber,gem,315,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213504,Quick Amber,gem,315,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213515,Solid Amber,gem,315,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213510,Versatile Amber,gem,315,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213477,Deadly Emerald,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213480,Masterful Emerald,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213483,Versatile Emerald,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213486,Quick Emerald,gem,370,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213489,Deadly Onyx,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213492,Quick Onyx,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213495,Versatile Onyx,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213498,Masterful Onyx,gem,370,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213456,Masterful Ruby,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213453,Quick Ruby,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213459,Versatile Ruby,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213462,Deadly Ruby,gem,370,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213465,Deadly Sapphire,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213471,Masterful Sapphire,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213468,Quick Sapphire,gem,420,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213474,Veratile Sapphire,gem,370,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213743,Culminating Blasphemite,gem,585,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+213744,Elusive Blasphemite,gem,585,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+213738,Insightful Blasphemite,gem,585,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+217113,Cubic Blasphemia,gem,525,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+213782,Algari Emerald Prism,other,370,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213788,Algari Onyx Prism,other,370,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213785,Algari Ruby Prism,other,370,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213791,Algari Sapphire Prism,other,370,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+213779,Algari Amber Prism,other,315,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+215136,Amulet of Earthen Craftsmanship,gear (combat),350,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+215133,Binding of Binding,gear (combat),355,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,TRUE
+215134,Fractured Gemstome Locket,gear (combat),355,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,TRUE
+215135,Ring of Earthen Craftsmanship,gear (combat),350,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+215130,Malleable Band,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+215131,Malleable Pendant,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+213748,Cognitive Bloodstone,gem,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+213749,Determined Bloodstone,gem,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+213747,Enduring Bloodstone,gem,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+215144,Algari Competitor's Amulet,gear (pvp),130,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,TRUE
+215137,Algari Competitor's Signet,gear (pvp),130,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,TRUE
+215125,Enchanter's Crystal,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+215124,Extravagant Loupes,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+215123,Forger's Font Inspector,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+215122,Novelist's Specs,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+215121,Incanter's Shard,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+215119,Right-Handed Magnifying Glass,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+215120,Radiant Loupes,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+215117,Storyteller's Glasses,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+215147,Beautification Iris,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+215145,Remembrance Stone,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,56 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+222609,Shadow Ink,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222615,Apricate Ink,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222555,Codified Greenwood,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222558,Boundless Cipher,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+226022,Darkmoon Sigil: Ascension,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+226025,Darkmoon Sigil: Radiance,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+226028,Darkmoon Sigil: Symbiosis,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+226031,Darkmoon Sigil: Vivacity,embellishment,515,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222568,Vagabond's Bounding Baton,gear (combat),525,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222567,Vagabond's Careful Crutch,gear (combat),525,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222566,Vagabond's Torch,gear (combat),525,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222570,Inquisitor's Baton,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222569,Inquisitor's Crutch,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222565,Inquisitor's Torch,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222600,Contract: Assembly of the Deeps,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222597,Contract: Council of Dornogal,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222603,Contract: Hallowfall Arathi,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222606,Contract: The Severed Threads,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222591,Algari Missive of the Peerless,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222594,Algari Missive of the Quickblade,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222585,Algari Missive of the Fireflash,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222588,Algari Missive of the Harmonious,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222579,Algari Missive of the Aurora,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222582,Algari Missive of the Feverflare,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222635,Algari Missive of Crafting Speed,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222644,Algari Missive of Deftness,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222638,Algari Missive of Finesse,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222626,Algari Missive of Ingenuity,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222632,Algari Missive of Multicraft,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222641,Algari Missive of Perception,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222629,Algari Missive of Resourcefulness,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222576,Patient Alchemist's Mixing Rod,gear (profession),580,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222574,Silver Tongue's Quill,gear (profession),580,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222578,Inscribed Rolling Pin,gear (profession),590,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222577,Burnt Rolling Pin,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222575,Hasty Alchemist's Mixing Rod,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+222573,Lightweight Scribe's Quill,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+222546,Algari Treatise on Alchemy,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222554,Algari Treatise on Blacksmithing,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222550,Algari  Treatise on Enchanting,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222621,Algari Treatise on Engineering,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222552,Algari Treatise on Herbalism,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222548,Algari Treatise on Inscription,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222551,Algari Treatise on Jewelcrafting,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222549,Algari Treatise on Leatherworking,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222553,Algari Treatise on Mining,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222649,Algari Treatise on Skinning,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222547,Algari Treatise on  Tailoring,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+226034,Vantus Rune: Nerub-ar Palace,consumable,565,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219933,Algari Competitor's Emblem,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219932,Algari Competitor's Insignia of Alacrity,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+225372,Algari Competitor's Lamp,gear (pvp),305,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+219931,Algari Competitor's Medallion,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+225368,Algari Competitor's Pillar,gear (pvp),305,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225369,Algari Competitor's Staff,gear (pvp),305,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
