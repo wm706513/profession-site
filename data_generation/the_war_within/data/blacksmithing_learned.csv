@@ -28,7 +28,7 @@
 222444,Charged Hexsword,FALSE,TRUE
 222450,Charged Invoker,FALSE,TRUE
 222445,Charged Runeaxe,FALSE,FALSE
-222451,Charged Slicer,FALSE,FALSE
+222451,Charged Slicer,FALSE,TRUE
 222439,Everforged Dagger,FALSE,TRUE
 222443,Everforged Greataxe,FALSE,TRUE
 222440,Everforged Longsword,FALSE,TRUE
@@ -62,7 +62,7 @@
 222480,Proficient Sickle,TRUE,TRUE
 222482,Proficient Skinning Knife,TRUE,TRUE
 225660,Earthen Master's Hammer,TRUE,TRUE
-222505,Ironclaw Razorstone,FALSE,FALSE
+222505,Ironclaw Razorstone,TRUE,FALSE
 222508,Ironclaw Weightstone,TRUE,TRUE
 222502,Ironclaw Whetstone,TRUE,TRUE
 225374,Algari Competitor's Axe,FALSE,FALSE

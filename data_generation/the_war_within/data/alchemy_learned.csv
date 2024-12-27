@@ -26,11 +26,11 @@
 212305,Phial of Concentrated Ingenuity,TRUE,TRUE
 212311,Phial of Enhanced Ambidexterity,TRUE,TRUE
 212308,Phial of Truesight,TRUE,TRUE
-225677,Gleaming Chaos,FALSE,FALSE
+225677,Gleaming Chaos,TRUE,FALSE
 212514,Blasphemite,FALSE,FALSE
 211803,Mercurial Coalescence,TRUE,FALSE
-211802,Ominous Coalescence,FALSE,FALSE
-211804,Volatile Coalescence,FALSE,FALSE
+211802,Ominous Coalescence,TRUE,FALSE
+211804,Volatile Coalescence,TRUE,FALSE
 223883,Mercurial Blessings,FALSE,FALSE
 223886,Mercurial Herbs,FALSE,FALSE
 223883,Mercurial Storms,FALSE,FALSE

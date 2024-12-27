@@ -1,10 +1,10 @@
 ﻿itemID,itemName,Linidel,Braevele
 224832,Exquisite Weavercloth Bolt,TRUE,TRUE
-222801,Dawnweave Bolt,FALSE,TRUE
+222801,Dawnweave Bolt,TRUE,TRUE
 222798,Duskweave Bolt,TRUE,TRUE
 224440,Weavercloth Bandage,TRUE,TRUE
 222804,Weavercloth Bolt,TRUE,TRUE
-222807,Grips of the Woven Dawn,FALSE,TRUE
+222807,Grips of the Woven Dawn,TRUE,TRUE
 222808,Treads of the Woven Dawn,FALSE,TRUE
 222811,Warm Sunrise Bracers,FALSE,TRUE
 222812,Cool Sunset Bracers,FALSE,TRUE
@@ -12,13 +12,13 @@
 222810,Slippers of the Woven Dusk,FALSE,TRUE
 222817,Consecrated Cloak,TRUE,FALSE
 222816,Consecrated Cord,TRUE,FALSE
-222815,Consecrated Cuffs,TRUE,FALSE
+222815,Consecrated Cuffs,TRUE,TRUE
 222822,Consecrated Gloves,TRUE,FALSE
 222818,Consecrated Hood,TRUE,FALSE
 222820,Consecrated Leggings,TRUE,FALSE
 222821,Consecrated Mantle,TRUE,FALSE
 222819,Consecrated Robe,TRUE,FALSE
-222814,Consecrated Slippers,TRUE,FALSE
+222814,Consecrated Slippers,TRUE,TRUE
 222840,Pioneer's Perfected Gloves,TRUE,TRUE
 222839,Pioneer's Perfected Mantle,TRUE,TRUE
 222836,Pioneer's Perfected Hood,TRUE,TRUE
@@ -47,7 +47,7 @@
 222842,Weavercloth Fishing Cap,TRUE,TRUE
 222841,Weavercloth Gardening Hat,TRUE,TRUE
 222844,Weavercloth Tailor's Coat,TRUE,TRUE
-222894,Daybreak Spellthread,FALSE,TRUE
+222894,Daybreak Spellthread,TRUE,TRUE
 222891,Sunset Spellthread,FALSE,TRUE
 222888,Weavercloth Spellthread,TRUE,TRUE
 222859,Concoctor's Clutch,TRUE,FALSE
@@ -61,13 +61,13 @@
 222862,"Magically ""Infinite"" Messenger",TRUE,FALSE
 222863,Prodigy's Toolbox,TRUE,FALSE
 224852,The Severed Satchel,FALSE,TRUE
-222856,Duskweave Bag,FALSE,TRUE
+222856,Duskweave Bag,TRUE,TRUE
 222854,Dawnweave Reagent Bag,TRUE,TRUE
 222855,Weavercloth Reagent Bag,TRUE,TRUE
 222853,Weavercloth Bag,TRUE,TRUE
 217120,Algari Competitor's Cloth Bands,FALSE,FALSE
 217125,Algari Competitor's Cloth  Cloak,TRUE,FALSE
-217122,Algari Competitor's Cloth  Gloves,FALSE,FALSE
+217122,Algari Competitor's Cloth  Gloves,TRUE,FALSE
 217121,Algari Competitor's Cloth Hood,FALSE,FALSE
 217117,Algari Competitor's Cloth Leggings,FALSE,FALSE
 217124,Algari Competitor's Cloth Sash,TRUE,FALSE
