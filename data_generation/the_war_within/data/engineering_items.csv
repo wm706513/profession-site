@@ -3,9 +3,9 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 221868,Entropy Enhancer,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 221862,Safety Switch,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 225987,Bottled Brilliance,finishing reagent,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
-221859,Gyrating Gear,crafting reagent,410,0,2-Jan,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-221853,Handful of Bismuth Bolts,crafting reagent,410,0,2-Jan,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-221856,Whimsical Wiring,crafting reagent,410,0,2-Jan,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221859,Gyrating Gear,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221853,Handful of Bismuth Bolts,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221856,Whimsical Wiring,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 221926,Blame Redirection Device,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 221932,Complicated Fuse Box,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 221923,Recalibrated Safety Switch,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -45,9 +45,9 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 221799,Miner's Bismuth Hoard,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 221786,Spring-Loaded Bismuth Fabric Cutters,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
 224586,Box o' Booms,other,505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
-221880,Potion Bomb of Power,consumable,505,0,5-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-221876,Potion Bomb of Recovery,consumable,505,0,5-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-221872,Potion Bomb of Speed,consumable,505,0,5-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221880,Potion Bomb of Power,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221876,Potion Bomb of Recovery,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221872,Potion Bomb of Speed,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 219387,Barrel of Fireworks,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221962,Defective Escape Pod,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221964,Filmless Camera,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -55,9 +55,9 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 219403,Stonebound Lantern,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221967,Crowd Pummeler 2-30,mount,np.nan,np.nan,1,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
 221953,Convincingly Realistic Jumper Cables,other,430,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
-221945,Irresistible Red Button,other,np.nan,0,2-Jan,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221945,Irresistible Red Button,other,np.nan,0,1-2,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 221949,Pausing Pylon,other,np.nan,0,2,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
-221957,Algari Repair Bot 11O,other,np.nan,0,3-Feb,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221957,Algari Repair Bot 11O,other,np.nan,0,2-3,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 221959,Portable Profession Possibility Projector,other,np.nan,0,2,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221904,Tinker: Earthen Delivery Drill,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221908,Tinker: Heartseeking Health Injector,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE

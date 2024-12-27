@@ -6,13 +6,13 @@ guns,30
 bracers,30
 profession gear,30
 goggles,30
-devices,8
-explosives,-1
-tinkers,-1
+devices,40
+explosives,0
+tinkers,0
 inventing,40
-ingenious,0
-parts,35
-scrapper,0
+ingenious,30
+parts,40
+scrapper,16
 overclocked cogwheel,0
 serrated cogwheel,0
 adjustable cogwheel,0

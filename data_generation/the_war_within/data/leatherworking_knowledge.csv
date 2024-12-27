@@ -1,8 +1,8 @@
 node,Braevele,Lindinil
-learned leatherworker,5,0
-waste not,30,-1
-commanding concentration,-1,-1
-industrious innovations,-1,-1
+learned leatherworker,30,30
+waste not,30,6
+commanding concentration,30,30
+industrious innovations,9,0
 luxurious leathers,30,0
 shaped leather armor,30,-1
 embroidered leather armor,30,-1
@@ -25,9 +25,9 @@ cuisses,-1,20
 gauntlets,-1,20
 bindings,-1,20
 stompers,-1,20
-flawless fortes,10,30
-arathi armorer,-1,30
-nerubian nous,-1,13
-beastly bulwarks,-1,0
-epic ensembles,23,0
-spotless stitching,-1,0
+flawless fortes,30,30
+arathi armorer,0,30
+nerubian nous,0,30
+beastly bulwarks,0,30
+epic ensembles,30,0
+spotless stitching,30,0

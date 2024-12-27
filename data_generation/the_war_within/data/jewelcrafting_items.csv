@@ -1,10 +1,10 @@
 itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
 213777,Magnificent Jeweler's Setting,item enhancement,np.nan,0,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
 213759,Inverted Prism,crafting reagent,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
-213753,Decorative Lens,crafting reagent,305,0,3-Feb,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-211806,Gilded Vial,crafting reagent,305,0,5-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-213756,Marbled Stone,crafting reagent,305,0,3-Feb,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
-213750,Engraved Gemcutter,crafting reagent,305,0,4-Mar,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+213753,Decorative Lens,crafting reagent,305,0,2-3,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+211806,Gilded Vial,crafting reagent,305,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+213756,Marbled Stone,crafting reagent,305,0,2-3,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+213750,Engraved Gemcutter,crafting reagent,305,0,3-4,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 213774,Captured Starlight,embellishment,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 213768,Elemental Focusing Lens,embellishment,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 213771,Prismatic Null Stone,embellishment,305,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE

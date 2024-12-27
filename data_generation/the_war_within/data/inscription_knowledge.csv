@@ -1,12 +1,12 @@
 node,Mellasona,Lindinil
 pursuit of knowledge,30,30
-eureka!,0,0
-detail oriented,30,0
-multitasking,0,12
-pursuit of perfection,23,0
-improved ciphers,30,-1
-improved milling,-1,-1
-improved inks,0,0
+eureka!,30,30
+detail oriented,30,30
+multitasking,30,30
+pursuit of perfection,30,24
+improved ciphers,30,0
+improved milling,30,-1
+improved inks,30,0
 careful carvings,30,0
 combative curiosities,30,0
 polished production,30,-1
@@ -15,7 +15,7 @@ torches,30,0
 scribe's quill,30,-1
 alchemist's mixing rod,30,-1
 chef's rolling pin,30,-1
-archival additions,0,30
+archival additions,5,30
 cryptic collection,-1,30
 runic research,0,30
 darkmoon sigil: radiance,-1,30
