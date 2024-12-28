@@ -9,7 +9,7 @@ from wtforms import SearchField, SubmitField, SelectField
 
 load_dotenv() #load .env file
 
-last_update = '2024-09-04'
+last_update = '2024-11-12'
 
 expansions = ['DF', 'TWW']
 all_professions = ['alchemy', 'blacksmithing', 'cooking', 'enchanting', 'engineering', 'inscription', 'jewelcrafting', 'leatherworking', 'tailoring']
@@ -81,6 +81,67 @@ class SearchForm(FlaskForm):
     clear = SubmitField(label='Clear')
     submit = SubmitField(label='Search')
 
+
+### generalization functions ###
+def expansion_pages(expansion):
+    full_names = {'DF':'Dragonflight', 'TWW':'The War Within'}
+    for xpac in expansions:
+        for p in all_professions:
+            session[p+'_'+xpac+'_search'] = None
+            session[p+'_'+xpac+'_select'] = None
+
+    return render_template('expansion.html', all_professions=all_professions, expansion=expansion, last_update=last_update, full_name=full_names.get(expansion))
+
+def profession_pages(profession_name, expansion):
+    for xpac in expansions:
+        for p in all_professions:
+            if p != profession_name or xpac != expansion:
+                session[p+'_'+xpac+'_search'] = None
+                session[p+'_'+xpac+'_select'] = None
+
+    #initialize session search values
+    if not session.get(profession_name+'_'+expansion+'_search'):
+        session[profession_name+'_'+expansion+'_search'] = ''
+    if not session.get(profession_name+'_'+expansion+'_select'):
+        session[profession_name+'_'+expansion+'_select'] = 'none'
+
+    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
+
+    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
+    form = SearchForm()
+
+    if form.validate_on_submit():
+        if form.clear.data:
+            session[profession_name+'_'+expansion+'_search'] = ''
+            session[profession_name+'_'+expansion+'_select'] = 'none'
+        elif form.submit.data:
+            session[profession_name+'_'+expansion+'_search'] = form.search.data
+            session[profession_name+'_'+expansion+'_select'] = form.select.data
+
+        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
+
+    if session[profession_name+'_'+expansion+'_search'] != '':
+        form.search.data = session[profession_name+'_'+expansion+'_search']
+    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
+        form.select.data = session[profession_name+'_'+expansion+'_select']
+
+    #return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name],
+    #                       items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+
+    if expansion == 'DF':
+        template = 'professionDF.html'
+    else:
+        template = 'profession.html'
+
+    print(learned[expansion][profession_name][0])
+    print()
+    print()
+    print(items.loc[items['expansion']==expansion, items_cols[expansion]])
+
+    return render_template(template, form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name],
+                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+
+### web functions ###
 @app.before_first_request
 #@app.before_request #for PythonAnywhere
 def initialize():
@@ -90,722 +151,88 @@ def initialize():
 def index():
     return render_template('index.html', all_professions=all_professions, last_update=last_update)
 
+### expansion pages ###
 @app.route('/dragonflight')
 def dragonflight():
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            session[p+'_'+xpac+'_search'] = None
-            session[p+'_'+xpac+'_select'] = None
-
-    return render_template('dragonflight.html', all_professions=all_professions, expansion=expansion, last_update=last_update)
+    return expansion_pages(expansion='DF')
 
 @app.route('/the_war_within')
 def the_war_within():
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            session[p+'_'+xpac+'_search'] = None
-            session[p+'_'+xpac+'_select'] = None
+    return expansion_pages(expansion='TWW')
 
-    return render_template('the_war_within.html', all_professions=all_professions, expansion=expansion, last_update=last_update)
-
-### try changing these function definitions to be another function, since they're all identical except for the profession_name and expansion variables at the top ###
-### i.e., def alchemy_DF(): return new_func(profession_name, expansion) ###
-
-
+### dragonflight pages ###
 @app.route('/dragonflight/alchemy', methods=['GET', 'POST'])
 def alchemy_DF():
-    profession_name = 'alchemy'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='alchemy', expansion='DF')
 
 @app.route('/dragonflight/blacksmithing', methods=['GET', 'POST'])
 def blacksmithing_DF():
-    profession_name = 'blacksmithing'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='blacksmithing', expansion='DF')
 
 @app.route('/dragonflight/cooking', methods=['GET', 'POST'])
 def cooking_DF():
-    profession_name = 'cooking'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='cooking', expansion='DF')
 
 @app.route('/dragonflight/enchanting', methods=['GET', 'POST'])
 def enchanting_DF():
-    profession_name = 'enchanting'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='enchanting', expansion='DF')
 
 @app.route('/dragonflight/engineering', methods=['GET', 'POST'])
 def engineering_DF():
-    profession_name = 'engineering'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='engineering', expansion='DF')
 
 @app.route('/dragonflight/inscription', methods=['GET', 'POST'])
 def inscription_DF():
-    profession_name = 'inscription'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='inscription', expansion='DF')
 
 @app.route('/dragonflight/jewelcrafting', methods=['GET', 'POST'])
 def jewelcrafting_DF():
-    profession_name = 'jewelcrafting'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='jewelcrafting', expansion='DF')
 
 @app.route('/dragonflight/leatherworking', methods=['GET', 'POST'])
 def leatherworking_DF():
-    profession_name = 'leatherworking'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
+    return profession_pages(profession_name='leatherworking', expansion='DF')
 
 @app.route('/dragonflight/tailoring', methods=['GET', 'POST'])
 def tailoring_DF():
-    profession_name = 'tailoring'
-    expansion = 'DF'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
+    return profession_pages(profession_name='tailoring', expansion='DF')
 
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
-
+### the war within pages ###
 @app.route('/the_war_within/alchemy', methods=['GET', 'POST'])
 def alchemy_TWW():
-    profession_name = 'alchemy'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='alchemy', expansion='TWW')
 
 @app.route('/the_war_within/blacksmithing', methods=['GET', 'POST'])
 def blacksmithing_TWW():
-    profession_name = 'blacksmithing'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='blacksmithing', expansion='TWW')
 
 @app.route('/the_war_within/cooking', methods=['GET', 'POST'])
 def cooking_TWW():
-    profession_name = 'cooking'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='cooking', expansion='TWW')
 
 @app.route('/the_war_within/enchanting', methods=['GET', 'POST'])
 def enchanting_TWW():
-    profession_name = 'enchanting'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='enchanting', expansion='TWW')
 
 @app.route('/the_war_within/engineering', methods=['GET', 'POST'])
 def engineering_TWW():
-    profession_name = 'engineering'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='engineering', expansion='TWW')
 
 @app.route('/the_war_within/inscription', methods=['GET', 'POST'])
 def inscription_TWW():
-    profession_name = 'inscription'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='inscription', expansion='TWW')
 
 @app.route('/the_war_within/jewelcrafting', methods=['GET', 'POST'])
 def jewelcrafting_TWW():
-    profession_name = 'jewelcrafting'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='jewelcrafting', expansion='TWW')
 
 @app.route('/the_war_within/leatherworking', methods=['GET', 'POST'])
 def leatherworking_TWW():
-    profession_name = 'leatherworking'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='leatherworking', expansion='TWW')
 
 @app.route('/the_war_within/tailoring', methods=['GET', 'POST'])
 def tailoring_TWW():
-    profession_name = 'tailoring'
-    expansion = 'TWW'
-    for xpac in expansions:
-        for p in all_professions:
-            if p != profession_name or xpac != expansion:
-                session[p+'_'+xpac+'_search'] = None
-                session[p+'_'+xpac+'_select'] = None
-
-    #initialize session search values
-    if not session.get(profession_name+'_'+expansion+'_search'):
-        session[profession_name+'_'+expansion+'_search'] = ''
-    if not session.get(profession_name+'_'+expansion+'_select'):
-        session[profession_name+'_'+expansion+'_select'] = 'none'
-
-    datasets = zip(['Learned Recipes', 'Unlearned Recipes'], [learned[expansion][profession_name], unlearned[expansion][profession_name]])
-
-    SearchForm.select = SelectField(label='Filter:', choices=((tag.lower(), tag) for tag in valid_tags[expansion][profession_name]))
-    form = SearchForm()
-
-    if form.validate_on_submit():
-        if form.clear.data:
-            session[profession_name+'_'+expansion+'_search'] = ''
-            session[profession_name+'_'+expansion+'_select'] = 'none'
-        elif form.submit.data:
-            session[profession_name+'_'+expansion+'_search'] = form.search.data
-            session[profession_name+'_'+expansion+'_select'] = form.select.data
-
-        return redirect(url_for(profession_name+'_'+expansion)) #prevents asking to resubmit every time refresh happens
-    
-    if session[profession_name+'_'+expansion+'_search'] != '':
-        form.search.data = session[profession_name+'_'+expansion+'_search']
-    if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
-        form.select.data = session[profession_name+'_'+expansion+'_select']
-
-    return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name], 
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return profession_pages(profession_name='tailoring', expansion='TWW')
 
 # this won't get run when deployed on PythonAnywhere
 if __name__ == '__main__':

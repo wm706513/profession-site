@@ -1,0 +1,524 @@
+[
+    {
+        "itemID": "222609",
+        "itemName": "Shadow Ink",
+        "reagents": {
+            "226205": "20",
+            "224802": "5",
+            "224805": "5"
+        }
+    },
+    {
+        "itemID": "222615",
+        "itemName": "Apricate Ink",
+        "reagents": {
+            "226205": "20",
+            "222612": "5",
+            "222618": "10"
+        }
+    },
+    {
+        "itemID": "222555",
+        "itemName": "Codified Greenwood",
+        "reagents": {
+            "226205": "20",
+            "222609": "2",
+            "210808": "5"
+        }
+    },
+    {
+        "itemID": "222558",
+        "itemName": "Boundless Cipher",
+        "reagents": {
+            "226205": "20",
+            "222615": "2",
+            "210808": "5"
+        }
+    },
+    {
+        "itemID": "226022",
+        "itemName": "Darkmoon Sigil: Ascension",
+        "reagents": {
+            "222680": "1",
+            "213611": "8",
+            "222609": "4",
+            "222558": "4"
+        }
+    },
+    {
+        "itemID": "226025",
+        "itemName": "Darkmoon Sigil: Radiance",
+        "reagents": {
+            "219672": "1",
+            "213611": "8",
+            "222615": "4",
+            "222558": "4"
+        }
+    },
+    {
+        "itemID": "226028",
+        "itemName": "Darkmoon Sigil: Symbiosis",
+        "reagents": {
+            "222653": "1",
+            "213611": "8",
+            "222609": "4",
+            "222558": "4"
+        }
+    },
+    {
+        "itemID": "226031",
+        "itemName": "Darkmoon Sigil: Vivacity",
+        "reagents": {
+            "222671": "1",
+            "213611": "8",
+            "222615": "4",
+            "222558": "4"
+        }
+    },
+    {
+        "itemID": "222568",
+        "itemName": "Vagabond's Bounding Baton",
+        "reagents": {
+            "211296": "2",
+            "213611": "20",
+            "222558": "10",
+            "222555": "15"
+        }
+    },
+    {
+        "itemID": "222567",
+        "itemName": "Vagabond's Careful Crutch",
+        "reagents": {
+            "211296": "2",
+            "213611": "20",
+            "222558": "10",
+            "222555": "15"
+        }
+    },
+    {
+        "itemID": "222566",
+        "itemName": "Vagabond's Torch",
+        "reagents": {
+            "211296": "1",
+            "213611": "20",
+            "222558": "6",
+            "222555": "10"
+        }
+    },
+    {
+        "itemID": "222570",
+        "itemName": "Inquisitor's Baton",
+        "reagents": {
+            "210808": "4",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222569",
+        "itemName": "Inquisitor's Crutch",
+        "reagents": {
+            "210808": "4",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222565",
+        "itemName": "Inquisitor's Torch",
+        "reagents": {
+            "210808": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222600",
+        "itemName": "Contract: Assembly of the Deeps",
+        "reagents": {
+            "226204": "1",
+            "222609": "25"
+        }
+    },
+    {
+        "itemID": "222597",
+        "itemName": "Contract: Council of Dornogal",
+        "reagents": {
+            "226204": "1",
+            "222615": "25"
+        }
+    },
+    {
+        "itemID": "222603",
+        "itemName": "Contract: Hallowfall Arathi",
+        "reagents": {
+            "226204": "1",
+            "222615": "25"
+        }
+    },
+    {
+        "itemID": "222606",
+        "itemName": "Contract: The Severed Threads",
+        "reagents": {
+            "226204": "1",
+            "222609": "25"
+        }
+    },
+    {
+        "itemID": "222591",
+        "itemName": "Algari Missive of the Peerless",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213612": "5",
+            "222615": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222594",
+        "itemName": "Algari Missive of the Quickblade",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213612": "5",
+            "222615": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222585",
+        "itemName": "Algari Missive of the Fireflash",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213612": "5",
+            "222615": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222588",
+        "itemName": "Algari Missive of the Harmonious",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213612": "5",
+            "222615": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222579",
+        "itemName": "Algari Missive of the Aurora",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213612": "5",
+            "222615": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222582",
+        "itemName": "Algari Missive of the Feverflare",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213612": "5",
+            "222615": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222635",
+        "itemName": "Algari Missive of Crafting Speed",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222644",
+        "itemName": "Algari Missive of Deftness",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222638",
+        "itemName": "Algari Missive of Finesse",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222626",
+        "itemName": "Algari Missive of Ingenuity",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222632",
+        "itemName": "Algari Missive of Multicraft",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222641",
+        "itemName": "Algari Missive of Perception",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222629",
+        "itemName": "Algari Missive of Resourcefulness",
+        "reagents": {
+            "226204": "2",
+            "226205": "5",
+            "213613": "5",
+            "222609": "1",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222576",
+        "itemName": "Patient Alchemist's Mixing Rod",
+        "reagents": {
+            "210814": "300",
+            "222558": "15",
+            "222555": "20"
+        }
+    },
+    {
+        "itemID": "222574",
+        "itemName": "Silver Tongue's Quill",
+        "reagents": {
+            "210814": "300",
+            "213612": "20",
+            "222555": "5",
+            "222558": "5"
+        }
+    },
+    {
+        "itemID": "222578",
+        "itemName": "Inscribed Rolling Pin",
+        "reagents": {
+            "210814": "300",
+            "222558": "15",
+            "222555": "20"
+        }
+    },
+    {
+        "itemID": "222577",
+        "itemName": "Burnt Rolling Pin",
+        "reagents": {
+            "222555": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222575",
+        "itemName": "Hasty Alchemist's Mixing Rod",
+        "reagents": {
+            "222555": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222573",
+        "itemName": "Lightweight Scribe's Quill",
+        "reagents": {
+            "210808": "8",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222546",
+        "itemName": "Algari Treatise on Alchemy",
+        "reagents": {
+            "213612": "2",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222554",
+        "itemName": "Algari Treatise on Blacksmithing",
+        "reagents": {
+            "213611": "2",
+            "222609": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222550",
+        "itemName": "Algari  Treatise on Enchanting",
+        "reagents": {
+            "213613": "2",
+            "222609": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222621",
+        "itemName": "Algari Treatise on Engineering",
+        "reagents": {
+            "213611": "2",
+            "222609": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222552",
+        "itemName": "Algari Treatise on Herbalism",
+        "reagents": {
+            "213612": "2",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222548",
+        "itemName": "Algari Treatise on Inscription",
+        "reagents": {
+            "213613": "2",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222551",
+        "itemName": "Algari Treatise on Jewelcrafting",
+        "reagents": {
+            "213610": "2",
+            "222609": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222549",
+        "itemName": "Algari Treatise on Leatherworking",
+        "reagents": {
+            "213612": "2",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222553",
+        "itemName": "Algari Treatise on Mining",
+        "reagents": {
+            "213610": "2",
+            "222609": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222649",
+        "itemName": "Algari Treatise on Skinning",
+        "reagents": {
+            "213612": "2",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "222547",
+        "itemName": "Algari Treatise on  Tailoring",
+        "reagents": {
+            "213613": "2",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "226034",
+        "itemName": "Vantus Rune: Nerub-ar Palace",
+        "reagents": {
+            "213612": "2",
+            "222609": "5",
+            "222615": "5"
+        }
+    },
+    {
+        "itemID": "219933",
+        "itemName": "Algari Competitor's Emblem",
+        "reagents": {
+            "210221": "5",
+            "222558": "2",
+            "222609": "5",
+            "222615": "5"
+        }
+    },
+    {
+        "itemID": "219932",
+        "itemName": "Algari Competitor's Insignia of Alacrity",
+        "reagents": {
+            "210221": "5",
+            "222558": "2",
+            "222609": "5",
+            "222615": "5"
+        }
+    },
+    {
+        "itemID": "225372",
+        "itemName": "Algari Competitor's Lamp",
+        "reagents": {
+            "210221": "3",
+            "222558": "3",
+            "222609": "6"
+        }
+    },
+    {
+        "itemID": "219931",
+        "itemName": "Algari Competitor's Medallion",
+        "reagents": {
+            "210221": "3",
+            "222558": "2",
+            "222609": "3",
+            "222615": "3"
+        }
+    },
+    {
+        "itemID": "225368",
+        "itemName": "Algari Competitor's Pillar",
+        "reagents": {
+            "210221": "10",
+            "222555": "4",
+            "222615": "6"
+        }
+    },
+    {
+        "itemID": "225369",
+        "itemName": "Algari Competitor's Staff",
+        "reagents": {
+            "210221": "10",
+            "222555": "4",
+            "222609": "6"
+        }
+    }
+]

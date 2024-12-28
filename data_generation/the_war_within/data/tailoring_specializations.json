@@ -1,0 +1,883 @@
+[
+    {
+        "itemID": "224832",
+        "itemName": "Exquisite Weavercloth Bolt",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads",
+            "weaving and unraveling"
+        ]
+    },
+    {
+        "itemID": "222801",
+        "itemName": "Dawnweave Bolt",
+        "nodes": [
+            "from dawn until dusk",
+            "less is more",
+            "quality fabric",
+            "weaving and unraveling",
+            "extra threads",
+            "dawnweave tailoring",
+            "the perfect loop",
+            "dawnweaving"
+        ]
+    },
+    {
+        "itemID": "222798",
+        "itemName": "Duskweave Bolt",
+        "nodes": [
+            "from dawn until dusk",
+            "quality fabric",
+            "less is more",
+            "duskweave tailoring",
+            "extra threads",
+            "weaving and unraveling",
+            "the perfect loop",
+            "duskweaving"
+        ]
+    },
+    {
+        "itemID": "224440",
+        "itemName": "Weavercloth Bandage",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222804",
+        "itemName": "Weavercloth Bolt",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads",
+            "weaving and unraveling"
+        ]
+    },
+    {
+        "itemID": "222807",
+        "itemName": "Grips of the Woven Dawn",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "gloves",
+            "less is more",
+            "from dawn until dusk",
+            "extra threads",
+            "dawnweave tailoring",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222808",
+        "itemName": "Treads of the Woven Dawn",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "less is more",
+            "footwear",
+            "from dawn until dusk",
+            "extra threads",
+            "dawnweave tailoring",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222811",
+        "itemName": "Warm Sunrise Bracers",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "armbands",
+            "less is more",
+            "from dawn until dusk",
+            "extra threads",
+            "dawnweave tailoring",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222812",
+        "itemName": "Cool Sunset Bracers",
+        "nodes": [
+            "threads of devotion",
+            "making a statement",
+            "armbands",
+            "from dawn until dusk",
+            "less is more",
+            "duskweave tailoring",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222809",
+        "itemName": "Gloves of the Woven Dusk",
+        "nodes": [
+            "threads of devotion",
+            "weathering wear",
+            "gloves",
+            "from dawn until dusk",
+            "less is more",
+            "duskweave tailoring",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222810",
+        "itemName": "Slippers of the Woven Dusk",
+        "nodes": [
+            "threads of devotion",
+            "weathering wear",
+            "footwear",
+            "from dawn until dusk",
+            "less is more",
+            "duskweave tailoring",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222817",
+        "itemName": "Consecrated Cloak",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "cloaks",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222816",
+        "itemName": "Consecrated Cord",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "belts",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222815",
+        "itemName": "Consecrated Cuffs",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "armbands",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222822",
+        "itemName": "Consecrated Gloves",
+        "nodes": [
+            "threads of devotion",
+            "weathering wear",
+            "gloves",
+            "less is more",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222818",
+        "itemName": "Consecrated Hood",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222820",
+        "itemName": "Consecrated Leggings",
+        "nodes": [
+            "weighted garments",
+            "threads of devotion",
+            "less is more",
+            "leggings",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222821",
+        "itemName": "Consecrated Mantle",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "mantles",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222819",
+        "itemName": "Consecrated Robe",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222814",
+        "itemName": "Consecrated Slippers",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "less is more",
+            "footwear",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222840",
+        "itemName": "Pioneer's Perfected Gloves",
+        "nodes": [
+            "threads of devotion",
+            "weathering wear",
+            "gloves",
+            "less is more",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222839",
+        "itemName": "Pioneer's Perfected Mantle",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "mantles",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222836",
+        "itemName": "Pioneer's Perfected Hood",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222838",
+        "itemName": "Pioneer's Perfected Leggings",
+        "nodes": [
+            "weighted garments",
+            "threads of devotion",
+            "less is more",
+            "leggings",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222835",
+        "itemName": "Pioneer's Perfected Cloak",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "cloaks",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222834",
+        "itemName": "Pioneer's Perfected Cord",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "belts",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222837",
+        "itemName": "Pioneer's Cloth Robe",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222832",
+        "itemName": "Pioneer's Cloth Slippers",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "less is more",
+            "footwear",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222833",
+        "itemName": "Pioneer's Cloth Cuffs",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "armbands",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222868",
+        "itemName": "Dawnthread Lining",
+        "nodes": [
+            "from dawn until dusk",
+            "less is more",
+            "quality fabric",
+            "weaving and unraveling",
+            "extra threads",
+            "dawnweave tailoring",
+            "the perfect loop",
+            "dawnweaving"
+        ]
+    },
+    {
+        "itemID": "222871",
+        "itemName": "Duskthread Lining",
+        "nodes": [
+            "from dawn until dusk",
+            "quality fabric",
+            "less is more",
+            "duskweave tailoring",
+            "extra threads",
+            "weaving and unraveling",
+            "the perfect loop",
+            "duskweaving"
+        ]
+    },
+    {
+        "itemID": "222885",
+        "itemName": "Preserving Embroidery Thread",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads",
+            "additional embroidery"
+        ]
+    },
+    {
+        "itemID": "222882",
+        "itemName": "Weavercloth Embroidery Thread",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads",
+            "additional embroidery"
+        ]
+    },
+    {
+        "itemID": "222879",
+        "itemName": "Bright Polishing Cloth",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads",
+            "additional embroidery"
+        ]
+    },
+    {
+        "itemID": "222876",
+        "itemName": "Gritty Polishing Cloth",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads",
+            "additional embroidery"
+        ]
+    },
+    {
+        "itemID": "222852",
+        "itemName": "Artisan Tailor's Coat",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "225729",
+        "itemName": "Algari Weaverline",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222850",
+        "itemName": "Artisan Alchemist's Robe",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222851",
+        "itemName": "Artisan Chef's Hat",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222849",
+        "itemName": "Artisan Enchanter's Hat",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222848",
+        "itemName": "Artisan Fishing Cap",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222847",
+        "itemName": "Artisan Gardening Hat",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222845",
+        "itemName": "Weavercloth Alchemist's Robe",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222846",
+        "itemName": "Weavercloth Chef's Hat",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222843",
+        "itemName": "Weavercloth Enchanter's Hat",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222842",
+        "itemName": "Weavercloth Fishing Cap",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222841",
+        "itemName": "Weavercloth Gardening Hat",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222844",
+        "itemName": "Weavercloth Tailor's Coat",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222894",
+        "itemName": "Daybreak Spellthread",
+        "nodes": [
+            "from dawn until dusk",
+            "quality fabric",
+            "spellthread",
+            "less is more",
+            "the perfect loop",
+            "extra threads",
+            "dawnweave tailoring"
+        ]
+    },
+    {
+        "itemID": "222891",
+        "itemName": "Sunset Spellthread",
+        "nodes": [
+            "from dawn until dusk",
+            "quality fabric",
+            "less is more",
+            "spellthread",
+            "duskweave tailoring",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "222888",
+        "itemName": "Weavercloth Spellthread",
+        "nodes": [
+            "less is more",
+            "spellthread",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222859",
+        "itemName": "Concoctor's Clutch",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222864",
+        "itemName": "Darkmoon Duffle",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222866",
+        "itemName": "Excavator's Haversack",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222865",
+        "itemName": "Gardener's Seed Satchel",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "225936",
+        "itemName": "Hideseeker's Tote",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222861",
+        "itemName": "Hideshaper's Workbag",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222860",
+        "itemName": "Ignition Satchel",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222867",
+        "itemName": "Jeweler's Purse",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222862",
+        "itemName": "Magically \"Infinite\" Messenger",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222863",
+        "itemName": "Prodigy's Toolbox",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "224852",
+        "itemName": "The Severed Satchel",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222856",
+        "itemName": "Duskweave Bag",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222854",
+        "itemName": "Dawnweave Reagent Bag",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222855",
+        "itemName": "Weavercloth Reagent Bag",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "222853",
+        "itemName": "Weavercloth Bag",
+        "nodes": [
+            "less is more",
+            "quality fabric",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217120",
+        "itemName": "Algari Competitor's Cloth Bands",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "armbands",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217125",
+        "itemName": "Algari Competitor's Cloth  Cloak",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "cloaks",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217122",
+        "itemName": "Algari Competitor's Cloth  Gloves",
+        "nodes": [
+            "threads of devotion",
+            "weathering wear",
+            "gloves",
+            "less is more",
+            "extra threads",
+            "the perfect loop"
+        ]
+    },
+    {
+        "itemID": "217121",
+        "itemName": "Algari Competitor's Cloth Hood",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "hats",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217117",
+        "itemName": "Algari Competitor's Cloth Leggings",
+        "nodes": [
+            "weighted garments",
+            "threads of devotion",
+            "less is more",
+            "leggings",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217124",
+        "itemName": "Algari Competitor's Cloth Sash",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "belts",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217118",
+        "itemName": "Algari Competitor's Cloth Shoulderpads",
+        "nodes": [
+            "making a statement",
+            "threads of devotion",
+            "mantles",
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217119",
+        "itemName": "Algari Competitor's Cloth Treads",
+        "nodes": [
+            "weathering wear",
+            "threads of devotion",
+            "less is more",
+            "footwear",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "217123",
+        "itemName": "Algari Competitor's Cloth Tunic",
+        "nodes": [
+            "threads of devotion",
+            "weighted garments",
+            "less is more",
+            "robes",
+            "the perfect loop",
+            "extra threads"
+        ]
+    }
+]

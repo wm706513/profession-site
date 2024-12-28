@@ -1,18 +1,18 @@
-node,points
-alchemical mastery,50
-mycobloom lore,25
-luredrop lore,39
-orbinid lore,38
-arathor's spear lore,39
-blessing blossom lore,40
-fantastic flasks,30
-bulk production (flasks),25
-profession phials,0
-potent potions,0
-bulk production (potions),-1
-thaumaturgy,0
-mercurial materials,-1
-volatile materials,-1
-ominous materials,-1
-gleaming transmutagen,-1
-transmutation,-1
+node,Trillithia,Sillik
+alchemical mastery,50,50
+mycobloom lore,40,40
+luredrop lore,40,40
+orbinid lore,40,40
+arathor's spear lore,40,40
+blessing blossom lore,40,40
+fantastic flasks,30,1
+bulk production (flasks),25,-1
+profession phials,25,-1
+potent potions,0,30
+bulk production (potions),-1,25
+thaumaturgy,55,0
+mercurial materials,0,-1
+volatile materials,0,-1
+ominous materials,4,-1
+gleaming transmutagen,0,-1
+transmutation,0,-1

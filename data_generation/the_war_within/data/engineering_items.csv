@@ -1,0 +1,72 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+221865,Chaos Circuit,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221868,Entropy Enhancer,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221862,Safety Switch,crafting reagent,410,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+225987,Bottled Brilliance,finishing reagent,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221859,Gyrating Gear,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221853,Handful of Bismuth Bolts,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221856,Whimsical Wiring,crafting reagent,410,0,1-2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221926,Blame Redirection Device,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221932,Complicated Fuse Box,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221923,Recalibrated Safety Switch,crafting reagent,410,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221938,Concealed Chaos Module,embellishment,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221941,Energy Redistribution Beacon,embellishment,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221935,Pouch of Pocket Grenades,embellishment,410,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221920,Adjustable Cogwheel,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221917,Impeccable Cogwheel,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221914,Overclocked Cogwheel,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221911,Serrated Cogwheel,crafting reagent,435,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221805,Blasting Bracers,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221808,Clanking Cuffs,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221804,Dangerous Distraction Inhibitor,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221802,Overclocked Idea Generator,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221969,P.0.W. x2,gear (combat),435,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+221801,Studious Brilliance Expeditor,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221803,Supercharged Thought Enhancer,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221806,Venting Vambraces,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+221807,Whirring Wristwraps,gear (combat),435,np.nan,1,0,epic,TRUE,FALSE,TRUE,TRUE,TRUE
+225646,4UT0-41M3R,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+225642,Acolyte's Goggles,gear (combat),150,np.nan,1,0,rare,TRUE,FALSE,TRUE,TRUE,TRUE
+225645,Dredger's Goggles,gear (combat),150,np.nan,1,0,rare,TRUE,FALSE,TRUE,TRUE,TRUE
+225643,Spelunker's Goggles,gear (combat),150,np.nan,1,0,rare,TRUE,FALSE,TRUE,TRUE,TRUE
+225644,Tracker's Goggles,gear (combat),150,np.nan,1,0,rare,TRUE,FALSE,TRUE,TRUE,TRUE
+221789,Aqirite Brainwave Projector,gear (profession),500,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221791,Aqirite Fisherfiend,gear (profession),500,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221798,Aqirite Fueled Samophlange,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+221796,Aqirite Miner's Headgear,gear (profession),500,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221793,Lapidary's Aqirite Clamps,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+221800,Miner's Aqirite Hoard,gear (profession),500,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221787,Spring-Loaded Aqirite Fabric Cutters,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+221788,Bismuth Brainwave Projector,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221790,Bismuth Fisherfiend,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221797,Bismuth Fueld Samophlange,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+221795,Bismuth Miner's Headgear,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221792,Lapidary's Bismuth Clamps,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+221799,Miner's Bismuth Hoard,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221786,Spring-Loaded Bismuth Fabric Cutters,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+224586,Box o' Booms,other,505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221880,Potion Bomb of Power,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221876,Potion Bomb of Recovery,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221872,Potion Bomb of Speed,consumable,505,0,3-5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+219387,Barrel of Fireworks,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221962,Defective Escape Pod,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221964,Filmless Camera,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221966,Wormhole Generator: Khaz Algar,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219403,Stonebound Lantern,toy,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221967,Crowd Pummeler 2-30,mount,np.nan,np.nan,1,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
+221953,Convincingly Realistic Jumper Cables,other,430,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221945,Irresistible Red Button,other,np.nan,0,1-2,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221949,Pausing Pylon,other,np.nan,0,2,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+221957,Algari Repair Bot 11O,other,np.nan,0,2-3,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+221959,Portable Profession Possibility Projector,other,np.nan,0,2,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221904,Tinker: Earthen Delivery Drill,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+221908,Tinker: Heartseeking Health Injector,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+217155,Algari Competitor's Cloth Bracers,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217151,Algari Competitor's Cloth Goggles,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217156,Algari Competitor's Leather Bracers,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217152,Algari Competitor's Leather Goggles,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217157,Algari Competitor's Mail Bracers,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217153,Algari Competitor's Mail Goggles,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217158,Algari Competitor's Plate Bracers,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+217154,Algari Competitor's Plate Goggles,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE
+225370,Algari Competitor's Rifle,gear (PvP),215,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE

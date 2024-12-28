@@ -1,0 +1,87 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+224073,Enchanted Gilded Harbinger Crest,crafting reagent,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+224072,Enchanted Runed Harbinger Crest,crafting reagent,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+224069,Enchanted Weathered Harbinger Crest,crafting reagent,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+224173,Concentration Concentrate,finishing reagent,480,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+224178,Mirror Powder,finishing reagent,480,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+224108,Oil of Beledar's Grace,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+224111,Oil of Deep Toxins,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+224105,Algari Mana Oil,consumable,480,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+224116,Runed Null Stone Rod,gear (profession),475,np.nan,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+224115,Runed Ironclaw Rod,gear (profession),475,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+224405,Scepter of Radiant Magics,gear (combat),430,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+224404,Enchanted Spearwood Wand,gear (combat),300,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+224114,Runed Bsimuth Rod,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+223650,Enchant Boots - Cavalry's March,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223656,Enchant Boots - Defender's March,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223653,Enchant Boots - Scout's March,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223713,Enchant Bracer - Chant of Amored Avoidance,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223719,Enchant Bracer - Chant of Armored Leech,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223725,Enchant Bracer - Chant of Armored Speed,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223716,Enchant Bracer - Whisper of Armored Leech,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223721,Enchant Bracer - Whisper of Armored Speed,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223708,Enchant Bracer - Whisper of Armored Avoidance,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223686,Enchant Chest - Council's Intellect,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223692,Enchant Chest - Crystalline Radiance,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223689,Enchant Chest - Oathsworn's Strength,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223683,Enchant Chest - Stormrider's Agility,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223800,Enchant Cloak - Chant of Burrowing Rapdidity,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223737,Enchant Cloak - Chant of Leeching Fangs,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223731,Enchant Cloak - Chant of Winged Grace,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223740,Enchant Cloak - Whisper of Silken Speed,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223734,Enchant Cloak - Whisper of Silken Leech,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223727,Enchant Cloak - Whisper of Silken Avoidance,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223695,Enchant Tool - Algari Deftness,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223698,Enchant Tool - Algari Finesse,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223701,Enchant Tool - Algari Ingenuity,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223704,Enchant Tool - Algari Perception,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223707,Enchant Tool - Algari Resourcefulness,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223662,Enchant Ring - Radiant Critical Strike,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223674,Enchant Ring - Radiant Haste,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223677,Enchant Ring - Radiant Mastery,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223680,Enchant Ring - Radiant Versatility,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223787,Enchant Ring - Cursed Critical Strike,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223790,Enchant Ring - Cursed Haste,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223793,Enchant Ring - Cursed Mastery,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223796,Enchant Ring - Cursed Versatility,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223671,Enchant Ring - Glimmering Versatility,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223668,Enchant Ring - Glimmering Mastery,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223659,Enchant Ring - Glimmering Critical Strike,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223665,Enchant Ring - Glimmering Haste,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223775,Enchant Weapon - Authority of Air,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223778,Enchant Weapon - Authority of Fiery Resolve,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223781,Enchant Weapon - Authority of Radiant Power,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223772,Enchant Weapon - Authority of Storms,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223784,Enchant Weapon - Authority of the Depths,item enhancement,390,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223759,Enchant Weapon - Council's Guile,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223768,Enchant Weapon - Oathsworn's Tenacity,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223765,Enchant Weapon - Stonebound Artistry,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223762,Enchant Weapon - Stormrider's Fury,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+224300,Gleeful Glamour - Blood Elf,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224301,Gleeful Glamour - Dark Iron Dwarf,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224302,Gleeful Glamour - Draenei,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224303,Gleeful Glamour -  Dwarf,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224304,Gleeful Glamour - Earthen,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224305,Gleeful Glamour - Gnome,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224306,Gleeful Glamour - Goblin,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224307,Gleeful Glamour - Highmountain Tauren,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224308,Gleeful Glamour - Human,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224309,Gleeful Glamour - Kul Tiran,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224310,Gleeful Glamour - Lightforged Draenei,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224311,Gleeful Glamour - Mag'har Orc,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224312,Gleeful Glamour - Mechagnome,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224313,Gleeful Glamour - Night Elf,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224314,Gleeful Glamour - Nightborne,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224315,Gleeful Glamour - Orc,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224316,Gleeful Glamour - Pandaren,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224317,Gleeful Glamour - Tauren,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224318,Gleeful Glamour - Troll,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224319,Gleeful Glamour - Undead,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224320,Gleeful Glamour - Void Elf,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224321,Gleeful Glamour - Vulpera,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224322,Gleeful Glamour - Worgen,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+224323,Gleeful Glamour - Zandalari Troll,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+223747,Illusory Adornment: Crystal,other,400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223750,Illusory Adornment: Radiance,other,400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223753,Illusory Adornment: Runes,other,400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223756,Illusory Adornment: Shadow,other,400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE

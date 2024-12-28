@@ -1,0 +1,714 @@
+[
+    {
+        "itemID": "224832",
+        "itemName": "Exquisite Weavercloth Bolt",
+        "reagents": {
+            "224764": "2",
+            "222804": "2",
+            "219946": "1"
+        }
+    },
+    {
+        "itemID": "222801",
+        "itemName": "Dawnweave Bolt",
+        "reagents": {
+            "224832": "2",
+            "222792": "8"
+        }
+    },
+    {
+        "itemID": "222798",
+        "itemName": "Duskweave Bolt",
+        "reagents": {
+            "224832": "2",
+            "222789": "8"
+        }
+    },
+    {
+        "itemID": "224440",
+        "itemName": "Weavercloth Bandage",
+        "reagents": {
+            "222804": "1"
+        }
+    },
+    {
+        "itemID": "222804",
+        "itemName": "Weavercloth Bolt",
+        "reagents": {
+            "224764": "6",
+            "222795": "10"
+        }
+    },
+    {
+        "itemID": "222807",
+        "itemName": "Grips of the Woven Dawn",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "222801": "8",
+            "219949": "6",
+            "222792": "15"
+        }
+    },
+    {
+        "itemID": "222808",
+        "itemName": "Treads of the Woven Dawn",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "222801": "10",
+            "219949": "6",
+            "222792": "10"
+        }
+    },
+    {
+        "itemID": "222811",
+        "itemName": "Warm Sunrise Bracers",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "222801": "6",
+            "219949": "4",
+            "222792": "20"
+        }
+    },
+    {
+        "itemID": "222812",
+        "itemName": "Cool Sunset Bracers",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "222798": "6",
+            "219949": "4",
+            "222789": "20"
+        }
+    },
+    {
+        "itemID": "222809",
+        "itemName": "Gloves of the Woven Dusk",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "222798": "8",
+            "219949": "6",
+            "222789": "15"
+        }
+    },
+    {
+        "itemID": "222810",
+        "itemName": "Slippers of the Woven Dusk",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "222798": "10",
+            "219949": "6",
+            "222789": "10"
+        }
+    },
+    {
+        "itemID": "222817",
+        "itemName": "Consecrated Cloak",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "10",
+            "219949": "2"
+        }
+    },
+    {
+        "itemID": "222816",
+        "itemName": "Consecrated Cord",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "15",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222815",
+        "itemName": "Consecrated Cuffs",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "10",
+            "219949": "2"
+        }
+    },
+    {
+        "itemID": "222822",
+        "itemName": "Consecrated Gloves",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "15",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222818",
+        "itemName": "Consecrated Hood",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "20",
+            "219949": "4"
+        }
+    },
+    {
+        "itemID": "222820",
+        "itemName": "Consecrated Leggings",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "20",
+            "219949": "4"
+        }
+    },
+    {
+        "itemID": "222821",
+        "itemName": "Consecrated Mantle",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "15",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222819",
+        "itemName": "Consecrated Robe",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "20",
+            "219949": "4"
+        }
+    },
+    {
+        "itemID": "222814",
+        "itemName": "Consecrated Slippers",
+        "reagents": {
+            "211296": "1",
+            "228930": "5",
+            "224832": "15",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222840",
+        "itemName": "Pioneer's Perfected Gloves",
+        "reagents": {
+            "224764": "3",
+            "213611": "1",
+            "222804": "2"
+        }
+    },
+    {
+        "itemID": "222839",
+        "itemName": "Pioneer's Perfected Mantle",
+        "reagents": {
+            "224764": "3",
+            "213611": "1",
+            "222804": "2"
+        }
+    },
+    {
+        "itemID": "222836",
+        "itemName": "Pioneer's Perfected Hood",
+        "reagents": {
+            "224764": "4",
+            "213611": "2",
+            "222804": "3"
+        }
+    },
+    {
+        "itemID": "222838",
+        "itemName": "Pioneer's Perfected Leggings",
+        "reagents": {
+            "224764": "4",
+            "213611": "2",
+            "222804": "3"
+        }
+    },
+    {
+        "itemID": "222835",
+        "itemName": "Pioneer's Perfected Cloak",
+        "reagents": {
+            "224764": "2",
+            "213611": "2",
+            "222804": "2"
+        }
+    },
+    {
+        "itemID": "222834",
+        "itemName": "Pioneer's Perfected Cord",
+        "reagents": {
+            "224764": "3",
+            "213611": "1",
+            "222804": "2"
+        }
+    },
+    {
+        "itemID": "222837",
+        "itemName": "Pioneer's Cloth Robe",
+        "reagents": {
+            "224764": "3",
+            "222804": "3"
+        }
+    },
+    {
+        "itemID": "222832",
+        "itemName": "Pioneer's Cloth Slippers",
+        "reagents": {
+            "224764": "3",
+            "222804": "2"
+        }
+    },
+    {
+        "itemID": "222833",
+        "itemName": "Pioneer's Cloth Cuffs",
+        "reagents": {
+            "224764": "2",
+            "222804": "2"
+        }
+    },
+    {
+        "itemID": "222868",
+        "itemName": "Dawnthread Lining",
+        "reagents": {
+            "228930": "1",
+            "222801": "2",
+            "222792": "6"
+        }
+    },
+    {
+        "itemID": "222871",
+        "itemName": "Duskthread Lining",
+        "reagents": {
+            "228930": "1",
+            "222798": "2",
+            "222789": "6"
+        }
+    },
+    {
+        "itemID": "222885",
+        "itemName": "Preserving Embroidery Thread",
+        "reagents": {
+            "213611": "1",
+            "224764": "2",
+            "222804": "1"
+        }
+    },
+    {
+        "itemID": "222882",
+        "itemName": "Weavercloth Embroidery Thread",
+        "reagents": {
+            "213611": "1",
+            "224764": "2",
+            "222804": "1"
+        }
+    },
+    {
+        "itemID": "222879",
+        "itemName": "Bright Polishing Cloth",
+        "reagents": {
+            "213613": "2",
+            "222804": "1"
+        }
+    },
+    {
+        "itemID": "222876",
+        "itemName": "Gritty Polishing Cloth",
+        "reagents": {
+            "213613": "2",
+            "222804": "1"
+        }
+    },
+    {
+        "itemID": "222852",
+        "itemName": "Artisan Tailor's Coat",
+        "reagents": {
+            "210814": "300",
+            "228930": "1",
+            "213613": "5",
+            "224832": "12",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "225729",
+        "itemName": "Algari Weaverline",
+        "reagents": {
+            "210814": "100",
+            "224764": "50",
+            "222795": "500"
+        }
+    },
+    {
+        "itemID": "222850",
+        "itemName": "Artisan Alchemist's Robe",
+        "reagents": {
+            "210814": "300",
+            "228930": "1",
+            "213613": "5",
+            "224832": "12",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222851",
+        "itemName": "Artisan Chef's Hat",
+        "reagents": {
+            "210814": "300",
+            "228930": "1",
+            "213613": "5",
+            "224832": "12",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222849",
+        "itemName": "Artisan Enchanter's Hat",
+        "reagents": {
+            "210814": "300",
+            "228930": "1",
+            "213613": "5",
+            "224832": "12",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222848",
+        "itemName": "Artisan Fishing Cap",
+        "reagents": {
+            "210814": "300",
+            "228930": "1",
+            "213613": "5",
+            "224832": "12",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222847",
+        "itemName": "Artisan Gardening Hat",
+        "reagents": {
+            "210814": "300",
+            "228930": "1",
+            "213613": "5",
+            "224832": "12",
+            "219949": "3"
+        }
+    },
+    {
+        "itemID": "222845",
+        "itemName": "Weavercloth Alchemist's Robe",
+        "reagents": {
+            "213611": "1",
+            "224832": "1",
+            "219946": "2"
+        }
+    },
+    {
+        "itemID": "222846",
+        "itemName": "Weavercloth Chef's Hat",
+        "reagents": {
+            "213611": "1",
+            "224832": "1",
+            "219946": "2"
+        }
+    },
+    {
+        "itemID": "222843",
+        "itemName": "Weavercloth Enchanter's Hat",
+        "reagents": {
+            "213611": "1",
+            "224832": "1",
+            "219946": "2"
+        }
+    },
+    {
+        "itemID": "222842",
+        "itemName": "Weavercloth Fishing Cap",
+        "reagents": {
+            "213611": "1",
+            "224832": "1",
+            "219946": "2"
+        }
+    },
+    {
+        "itemID": "222841",
+        "itemName": "Weavercloth Gardening Hat",
+        "reagents": {
+            "213611": "1",
+            "224832": "1",
+            "219946": "2"
+        }
+    },
+    {
+        "itemID": "222844",
+        "itemName": "Weavercloth Tailor's Coat",
+        "reagents": {
+            "213611": "1",
+            "224832": "1",
+            "219946": "2"
+        }
+    },
+    {
+        "itemID": "222894",
+        "itemName": "Daybreak Spellthread",
+        "reagents": {
+            "228930": "5",
+            "222801": "8",
+            "219949": "5",
+            "222792": "12"
+        }
+    },
+    {
+        "itemID": "222891",
+        "itemName": "Sunset Spellthread",
+        "reagents": {
+            "228930": "5",
+            "222798": "8",
+            "219949": "5",
+            "222789": "12"
+        }
+    },
+    {
+        "itemID": "222888",
+        "itemName": "Weavercloth Spellthread",
+        "reagents": {
+            "228930": "3",
+            "224832": "8"
+        }
+    },
+    {
+        "itemID": "222859",
+        "itemName": "Concoctor's Clutch",
+        "reagents": {
+            "210814": "150",
+            "228930": "5",
+            "213197": "5",
+            "224832": "20",
+            "212563": "8",
+            "222795": "10"
+        }
+    },
+    {
+        "itemID": "222864",
+        "itemName": "Darkmoon Duffle",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20",
+            "222615": "15",
+            "222609": "15"
+        }
+    },
+    {
+        "itemID": "222866",
+        "itemName": "Excavator's Haversack",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "210939": "10",
+            "224832": "20"
+        }
+    },
+    {
+        "itemID": "222865",
+        "itemName": "Gardener's Seed Satchel",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "213197": "5",
+            "224832": "20"
+        }
+    },
+    {
+        "itemID": "225936",
+        "itemName": "Hideseeker's Tote",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20",
+            "212674": "2",
+            "212670": "2"
+        }
+    },
+    {
+        "itemID": "222861",
+        "itemName": "Hideshaper's Workbag",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20",
+            "212674": "2",
+            "212670": "2"
+        }
+    },
+    {
+        "itemID": "222860",
+        "itemName": "Ignition Satchel",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20",
+            "222423": "4"
+        }
+    },
+    {
+        "itemID": "222867",
+        "itemName": "Jeweler's Purse",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20",
+            "213759": "4"
+        }
+    },
+    {
+        "itemID": "222862",
+        "itemName": "Magically \"Infinite\" Messenger",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20"
+        }
+    },
+    {
+        "itemID": "222863",
+        "itemName": "Prodigy's Toolbox",
+        "reagents": {
+            "210814": "150",
+            "228930": "4",
+            "224832": "20",
+            "221862": "6",
+            "221865": "8"
+        }
+    },
+    {
+        "itemID": "224852",
+        "itemName": "The Severed Satchel",
+        "reagents": {
+            "228930": "2",
+            "222798": "5",
+            "222801": "5"
+        }
+    },
+    {
+        "itemID": "222856",
+        "itemName": "Duskweave Bag",
+        "reagents": {
+            "228930": "2",
+            "222798": "4",
+            "222789": "30"
+        }
+    },
+    {
+        "itemID": "222854",
+        "itemName": "Dawnweave Reagent Bag",
+        "reagents": {
+            "228930": "2",
+            "222801": "4",
+            "222792": "30"
+        }
+    },
+    {
+        "itemID": "222855",
+        "itemName": "Weavercloth Reagent Bag",
+        "reagents": {
+            "224764": "5",
+            "224832": "10"
+        }
+    },
+    {
+        "itemID": "222853",
+        "itemName": "Weavercloth Bag",
+        "reagents": {
+            "224764": "5",
+            "224832": "8"
+        }
+    },
+    {
+        "itemID": "217120",
+        "itemName": "Algari Competitor's Cloth Bands",
+        "reagents": {
+            "210221": "3",
+            "224832": "2",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217125",
+        "itemName": "Algari Competitor's Cloth  Cloak",
+        "reagents": {
+            "210221": "3",
+            "224832": "2",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217122",
+        "itemName": "Algari Competitor's Cloth  Gloves",
+        "reagents": {
+            "210221": "4",
+            "224832": "4",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217121",
+        "itemName": "Algari Competitor's Cloth Hood",
+        "reagents": {
+            "210221": "5",
+            "224832": "6",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217117",
+        "itemName": "Algari Competitor's Cloth Leggings",
+        "reagents": {
+            "210221": "5",
+            "224832": "6",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217124",
+        "itemName": "Algari Competitor's Cloth Sash",
+        "reagents": {
+            "210221": "4",
+            "224832": "4",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217118",
+        "itemName": "Algari Competitor's Cloth Shoulderpads",
+        "reagents": {
+            "210221": "4",
+            "224832": "4",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217119",
+        "itemName": "Algari Competitor's Cloth Treads",
+        "reagents": {
+            "210221": "4",
+            "224832": "4",
+            "222795": "2"
+        }
+    },
+    {
+        "itemID": "217123",
+        "itemName": "Algari Competitor's Cloth Tunic",
+        "reagents": {
+            "210221": "5",
+            "224832": "6",
+            "222795": "2"
+        }
+    }
+]

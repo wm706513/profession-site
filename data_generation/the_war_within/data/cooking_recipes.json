@@ -1,0 +1,411 @@
+[
+    {
+        "itemID": "225592",
+        "itemName": "Exquisitely Eviscerated Muscle",
+        "reagents": {
+            "222738": "2",
+            "222700": "10",
+            "222695": "5"
+        }
+    },
+    {
+        "itemID": "222705",
+        "itemName": "Roasted Mycobloom",
+        "reagents": {
+            "222737": "5"
+        }
+    },
+    {
+        "itemID": "222703",
+        "itemName": "Simple Stew",
+        "reagents": {
+            "222739": "5"
+        }
+    },
+    {
+        "itemID": "222702",
+        "itemName": "Skewered Fillet",
+        "reagents": {
+            "222741": "5"
+        }
+    },
+    {
+        "itemID": "222704",
+        "itemName": "Unseasoned Field Steak",
+        "reagents": {
+            "222738": "5"
+        }
+    },
+    {
+        "itemID": "223968",
+        "itemName": "Spongey Scramble",
+        "reagents": {
+            "224762": "1",
+            "225876": "10"
+        }
+    },
+    {
+        "itemID": "222708",
+        "itemName": "Coreway Kabob",
+        "reagents": {
+            "222705": "2",
+            "222704": "4",
+            "222697": "5",
+            "222700": "5"
+        }
+    },
+    {
+        "itemID": "222709",
+        "itemName": "Flash Fire Fillet",
+        "reagents": {
+            "222702": "4",
+            "222695": "5",
+            "222700": "5",
+            "222697": "5"
+        }
+    },
+    {
+        "itemID": "222707",
+        "itemName": "Hallowfall Chili",
+        "reagents": {
+            "222704": "2",
+            "222703": "1",
+            "222695": "2",
+            "222696": "3"
+        }
+    },
+    {
+        "itemID": "222706",
+        "itemName": "Pan Seared Mycobloom",
+        "reagents": {
+            "222705": "2",
+            "222696": "5"
+        }
+    },
+    {
+        "itemID": "222710",
+        "itemName": "Meat and Potatoes",
+        "reagents": {
+            "222714": "1",
+            "222702": "4"
+        }
+    },
+    {
+        "itemID": "222711",
+        "itemName": "Rib Stickers",
+        "reagents": {
+            "222716": "1",
+            "222708": "1"
+        }
+    },
+    {
+        "itemID": "222712",
+        "itemName": "Sweet and Sour Meatballs",
+        "reagents": {
+            "222704": "5",
+            "222717": "1"
+        }
+    },
+    {
+        "itemID": "222713",
+        "itemName": "Tender Twilight Jerky",
+        "reagents": {
+            "222723": "1",
+            "222697": "1"
+        }
+    },
+    {
+        "itemID": "222736",
+        "itemName": "Chippy Tea",
+        "reagents": {
+            "222703": "5",
+            "222695": "5",
+            "222700": "5"
+        }
+    },
+    {
+        "itemID": "222718",
+        "itemName": "Deepfin Patty",
+        "reagents": {
+            "222706": "3",
+            "222741": "1",
+            "222701": "1"
+        }
+    },
+    {
+        "itemID": "222715",
+        "itemName": "Fiery Fish Sticks",
+        "reagents": {
+            "222709": "5",
+            "222702": "5",
+            "222701": "1",
+            "222700": "1"
+        }
+    },
+    {
+        "itemID": "222721",
+        "itemName": "Fish and Chips",
+        "reagents": {
+            "222709": "3",
+            "222737": "5",
+            "222701": "1"
+        }
+    },
+    {
+        "itemID": "222716",
+        "itemName": "Ginger Glazed Fillet",
+        "reagents": {
+            "222709": "3",
+            "222707": "2",
+            "222701": "1",
+            "222700": "1"
+        }
+    },
+    {
+        "itemID": "222723",
+        "itemName": "Marinated Tenderloins",
+        "reagents": {
+            "222704": "3",
+            "222707": "3",
+            "222697": "1",
+            "222700": "1"
+        }
+    },
+    {
+        "itemID": "222722",
+        "itemName": "Salt Baked Seafood",
+        "reagents": {
+            "222741": "20",
+            "222706": "3",
+            "222697": "1"
+        }
+    },
+    {
+        "itemID": "222717",
+        "itemName": "Salty Dog",
+        "reagents": {
+            "222706": "2",
+            "220149": "1",
+            "222697": "1",
+            "222700": "1"
+        }
+    },
+    {
+        "itemID": "222719",
+        "itemName": "Sweet Spicy Soup",
+        "reagents": {
+            "222703": "5",
+            "222695": "5",
+            "222700": "5"
+        }
+    },
+    {
+        "itemID": "222714",
+        "itemName": "Zesty Nibblers",
+        "reagents": {
+            "222706": "2",
+            "222708": "2",
+            "222699": "1",
+            "222701": "1"
+        }
+    },
+    {
+        "itemID": "222727",
+        "itemName": "Angler's Delight",
+        "reagents": {
+            "222717": "1",
+            "222716": "1",
+            "222718": "3"
+        }
+    },
+    {
+        "itemID": "222725",
+        "itemName": "Mycobloom Risotto",
+        "reagents": {
+            "222706": "6",
+            "222719": "3",
+            "222739": "3",
+            "222716": "8"
+        }
+    },
+    {
+        "itemID": "222724",
+        "itemName": "Sizzling Honey Roast",
+        "reagents": {
+            "222697": "1",
+            "222714": "2",
+            "222719": "2",
+            "222723": "1"
+        }
+    },
+    {
+        "itemID": "222726",
+        "itemName": "Stuffed Cave Peppers",
+        "reagents": {
+            "222696": "5",
+            "222715": "2",
+            "222722": "2"
+        }
+    },
+    {
+        "itemID": "222728",
+        "itemName": "Beledar's Bounty",
+        "reagents": {
+            "222725": "1",
+            "222726": "1"
+        }
+    },
+    {
+        "itemID": "222729",
+        "itemName": "Empress' Farewell",
+        "reagents": {
+            "222726": "1",
+            "222724": "1"
+        }
+    },
+    {
+        "itemID": "222731",
+        "itemName": "Outsider's Provisions",
+        "reagents": {
+            "222727": "1",
+            "222725": "1",
+            "222700": "10"
+        }
+    },
+    {
+        "itemID": "222730",
+        "itemName": "Jester's Board",
+        "reagents": {
+            "222724": "1",
+            "222727": "1",
+            "222700": "10"
+        }
+    },
+    {
+        "itemID": "222735",
+        "itemName": "Everything Stew",
+        "reagents": {
+            "222713": "1",
+            "222710": "1",
+            "222712": "1",
+            "222711": "1"
+        }
+    },
+    {
+        "itemID": "222732",
+        "itemName": "Feast of the Divine Day",
+        "reagents": {
+            "222724": "1",
+            "222727": "1",
+            "222711": "3",
+            "222695": "25"
+        }
+    },
+    {
+        "itemID": "222733",
+        "itemName": "Feast of the Midnigfht Masquerade",
+        "reagents": {
+            "222725": "1",
+            "222726": "1",
+            "222713": "3",
+            "222695": "25"
+        }
+    },
+    {
+        "itemID": "222720",
+        "itemName": "The Sushi Special",
+        "reagents": {
+            "222727": "2",
+            "220146": "1",
+            "220151": "1",
+            "220153": "1",
+            "222741": "10"
+        }
+    },
+    {
+        "itemID": "223971",
+        "itemName": "Azj-Kahet Special",
+        "reagents": {
+            "224762": "1",
+            "223977": "1"
+        }
+    },
+    {
+        "itemID": "222744",
+        "itemName": "Cinder Nectar",
+        "reagents": {
+            "224762": "3",
+            "225912": "1"
+        }
+    },
+    {
+        "itemID": "222745",
+        "itemName": "Pep-In-Your-Step",
+        "reagents": {
+            "224762": "5"
+        }
+    },
+    {
+        "itemID": "222749",
+        "itemName": "Melted Candlebar",
+        "reagents": {
+            "223968": "3",
+            "225912": "1",
+            "222701": "5"
+        }
+    },
+    {
+        "itemID": "222747",
+        "itemName": "Rockslide Shake",
+        "reagents": {
+            "224762": "5",
+            "223968": "3",
+            "225912": "1",
+            "210930": "10"
+        }
+    },
+    {
+        "itemID": "222748",
+        "itemName": "Sticky Sweet Treat",
+        "reagents": {
+            "223968": "3",
+            "225912": "1",
+            "222701": "5",
+            "222697": "5"
+        }
+    },
+    {
+        "itemID": "223966",
+        "itemName": "Everything-On-A-Stick",
+        "reagents": {
+            "222708": "1",
+            "223977": "1"
+        }
+    },
+    {
+        "itemID": "225855",
+        "itemName": "Ghoulfish Delight",
+        "reagents": {
+            "225883": "1",
+            "222703": "1"
+        }
+    },
+    {
+        "itemID": "223970",
+        "itemName": "Little Buddy Biscuits",
+        "reagents": {
+            "223977": "1",
+            "223968": "4",
+            "222701": "5"
+        }
+    },
+    {
+        "itemID": "223969",
+        "itemName": "Secret Sauce",
+        "reagents": {
+            "225876": "5",
+            "223977": "1",
+            "224762": "1"
+        }
+    }
+]

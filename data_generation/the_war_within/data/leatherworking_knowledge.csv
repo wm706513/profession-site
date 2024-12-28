@@ -1,33 +1,33 @@
-node,points
-learned leatherworker,5
-waste not,30
-commanding concentration,-1
-industrious innovations,-1
-luxurious leathers,30
-shaped leather armor,30
-embroidered leather armor,30
-tunics,20
-hoods,20
-mantles,20
-armbands,20
-legwraps,20
-grasps,20
-waistbands,20
-kickers,20
-concrete chitin,0
-large chitin,-1
-intricate chitin,-1
-breastplates,-1
-guises,-1
-epaulets,-1
-vambraces,-1
-cuisses,-1
-gauntlets,-1
-bindings,-1
-stompers,-1
-flawless fortes,10
-arathi armorer,-1
-nerubian nous,-1
-beastly bulwarks,-1
-epic ensembles,23
-spotless stitching,-1
+node,Braevele,Lindinil
+learned leatherworker,30,30
+waste not,30,6
+commanding concentration,30,30
+industrious innovations,9,0
+luxurious leathers,30,0
+shaped leather armor,30,-1
+embroidered leather armor,30,-1
+tunics,20,-1
+hoods,20,-1
+mantles,20,-1
+armbands,20,-1
+legwraps,20,-1
+grasps,20,-1
+waistbands,20,-1
+kickers,20,-1
+concrete chitin,0,30
+large chitin,-1,30
+intricate chitin,-1,30
+breastplates,-1,20
+guises,-1,20
+epaulets,-1,20
+vambraces,-1,20
+cuisses,-1,20
+gauntlets,-1,20
+bindings,-1,20
+stompers,-1,20
+flawless fortes,30,30
+arathi armorer,0,30
+nerubian nous,0,30
+beastly bulwarks,0,30
+epic ensembles,30,0
+spotless stitching,30,0

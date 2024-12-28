@@ -1,0 +1,677 @@
+[
+    {
+        "itemID": "222609",
+        "itemName": "Shadow Ink",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "improved inks",
+            "multitasking",
+            "detail oriented",
+            "pursuit of perfection"
+        ]
+    },
+    {
+        "itemID": "222615",
+        "itemName": "Apricate Ink",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "improved inks",
+            "multitasking",
+            "detail oriented",
+            "pursuit of perfection"
+        ]
+    },
+    {
+        "itemID": "222555",
+        "itemName": "Codified Greenwood",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!",
+            "pursuit of perfection",
+            "improved ciphers"
+        ]
+    },
+    {
+        "itemID": "222558",
+        "itemName": "Boundless Cipher",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!",
+            "pursuit of perfection",
+            "improved ciphers"
+        ]
+    },
+    {
+        "itemID": "226022",
+        "itemName": "Darkmoon Sigil: Ascension",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "archival additions",
+            "multitasking",
+            "detail oriented",
+            "darkmoon sigil: ascension",
+            "cryptic collection"
+        ]
+    },
+    {
+        "itemID": "226025",
+        "itemName": "Darkmoon Sigil: Radiance",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "archival additions",
+            "multitasking",
+            "cryptic collection",
+            "darkmoon sigil: radiance"
+        ]
+    },
+    {
+        "itemID": "226028",
+        "itemName": "Darkmoon Sigil: Symbiosis",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "archival additions",
+            "multitasking",
+            "darkmoon sigil: symbiosis",
+            "cryptic collection"
+        ]
+    },
+    {
+        "itemID": "226031",
+        "itemName": "Darkmoon Sigil: Vivacity",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "archival additions",
+            "multitasking",
+            "darkmoon sigil: vivacity",
+            "cryptic collection"
+        ]
+    },
+    {
+        "itemID": "222568",
+        "itemName": "Vagabond's Bounding Baton",
+        "nodes": [
+            "combative curiosities",
+            "pursuit of knowledge",
+            "careful carvings",
+            "staves",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "222567",
+        "itemName": "Vagabond's Careful Crutch",
+        "nodes": [
+            "combative curiosities",
+            "pursuit of knowledge",
+            "careful carvings",
+            "staves",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "222566",
+        "itemName": "Vagabond's Torch",
+        "nodes": [
+            "pursuit of knowledge",
+            "careful carvings",
+            "combative curiosities",
+            "torches",
+            "detail oriented",
+            "multitasking",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "222570",
+        "itemName": "Inquisitor's Baton",
+        "nodes": [
+            "combative curiosities",
+            "pursuit of knowledge",
+            "careful carvings",
+            "staves",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "222569",
+        "itemName": "Inquisitor's Crutch",
+        "nodes": [
+            "combative curiosities",
+            "pursuit of knowledge",
+            "careful carvings",
+            "staves",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "222565",
+        "itemName": "Inquisitor's Torch",
+        "nodes": [
+            "pursuit of knowledge",
+            "careful carvings",
+            "combative curiosities",
+            "torches",
+            "detail oriented",
+            "multitasking",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "222600",
+        "itemName": "Contract: Assembly of the Deeps",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "contracts"
+        ]
+    },
+    {
+        "itemID": "222597",
+        "itemName": "Contract: Council of Dornogal",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "contracts"
+        ]
+    },
+    {
+        "itemID": "222603",
+        "itemName": "Contract: Hallowfall Arathi",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "contracts"
+        ]
+    },
+    {
+        "itemID": "222606",
+        "itemName": "Contract: The Severed Threads",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "contracts"
+        ]
+    },
+    {
+        "itemID": "222591",
+        "itemName": "Algari Missive of the Peerless",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222594",
+        "itemName": "Algari Missive of the Quickblade",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222585",
+        "itemName": "Algari Missive of the Fireflash",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222588",
+        "itemName": "Algari Missive of the Harmonious",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222579",
+        "itemName": "Algari Missive of the Aurora",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222582",
+        "itemName": "Algari Missive of the Feverflare",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222635",
+        "itemName": "Algari Missive of Crafting Speed",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222644",
+        "itemName": "Algari Missive of Deftness",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222638",
+        "itemName": "Algari Missive of Finesse",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222626",
+        "itemName": "Algari Missive of Ingenuity",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222632",
+        "itemName": "Algari Missive of Multicraft",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222641",
+        "itemName": "Algari Missive of Perception",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222629",
+        "itemName": "Algari Missive of Resourcefulness",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "missives"
+        ]
+    },
+    {
+        "itemID": "222576",
+        "itemName": "Patient Alchemist's Mixing Rod",
+        "nodes": [
+            "polished production",
+            "pursuit of knowledge",
+            "alchemist's mixing rod",
+            "careful carvings",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222574",
+        "itemName": "Silver Tongue's Quill",
+        "nodes": [
+            "polished production",
+            "pursuit of knowledge",
+            "careful carvings",
+            "scribe's quill",
+            "multitasking",
+            "eureka!",
+            "detail oriented"
+        ]
+    },
+    {
+        "itemID": "222578",
+        "itemName": "Inscribed Rolling Pin",
+        "nodes": [
+            "polished production",
+            "pursuit of knowledge",
+            "careful carvings",
+            "eureka!",
+            "chef's rolling pin",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222577",
+        "itemName": "Burnt Rolling Pin",
+        "nodes": [
+            "polished production",
+            "pursuit of knowledge",
+            "careful carvings",
+            "eureka!",
+            "chef's rolling pin",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222575",
+        "itemName": "Hasty Alchemist's Mixing Rod",
+        "nodes": [
+            "polished production",
+            "pursuit of knowledge",
+            "alchemist's mixing rod",
+            "careful carvings",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222573",
+        "itemName": "Lightweight Scribe's Quill",
+        "nodes": [
+            "polished production",
+            "pursuit of knowledge",
+            "careful carvings",
+            "scribe's quill",
+            "multitasking",
+            "eureka!",
+            "detail oriented"
+        ]
+    },
+    {
+        "itemID": "222546",
+        "itemName": "Algari Treatise on Alchemy",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222554",
+        "itemName": "Algari Treatise on Blacksmithing",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222550",
+        "itemName": "Algari  Treatise on Enchanting",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222621",
+        "itemName": "Algari Treatise on Engineering",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222552",
+        "itemName": "Algari Treatise on Herbalism",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222548",
+        "itemName": "Algari Treatise on Inscription",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222551",
+        "itemName": "Algari Treatise on Jewelcrafting",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222549",
+        "itemName": "Algari Treatise on Leatherworking",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222553",
+        "itemName": "Algari Treatise on Mining",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222649",
+        "itemName": "Algari Treatise on Skinning",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "222547",
+        "itemName": "Algari Treatise on  Tailoring",
+        "nodes": [
+            "pursuit of knowledge",
+            "eureka!",
+            "detail oriented",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "226034",
+        "itemName": "Vantus Rune: Nerub-ar Palace",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "vantus runes"
+        ]
+    },
+    {
+        "itemID": "219933",
+        "itemName": "Algari Competitor's Emblem",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!",
+            "pursuit of perfection",
+            "improved ciphers"
+        ]
+    },
+    {
+        "itemID": "219932",
+        "itemName": "Algari Competitor's Insignia of Alacrity",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!",
+            "pursuit of perfection",
+            "improved ciphers"
+        ]
+    },
+    {
+        "itemID": "225372",
+        "itemName": "Algari Competitor's Lamp",
+        "nodes": [
+            "pursuit of knowledge",
+            "careful carvings",
+            "combative curiosities",
+            "torches",
+            "detail oriented",
+            "multitasking",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "219931",
+        "itemName": "Algari Competitor's Medallion",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!",
+            "pursuit of perfection",
+            "improved ciphers"
+        ]
+    },
+    {
+        "itemID": "225368",
+        "itemName": "Algari Competitor's Pillar",
+        "nodes": [
+            "combative curiosities",
+            "pursuit of knowledge",
+            "careful carvings",
+            "staves",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "225369",
+        "itemName": "Algari Competitor's Staff",
+        "nodes": [
+            "combative curiosities",
+            "pursuit of knowledge",
+            "careful carvings",
+            "staves",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    }
+]

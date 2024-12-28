@@ -1,0 +1,88 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+219880,Carapace-Backed Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219898,Chitin Armor Banding,crafting reagent,400,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219883,Crystalfused Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219892,Leyfused Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219889,Sporecoated Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219901,Storm-Touched Weapon Wrap,crafting reagent,400,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219886,Writhing Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219906,Defender's Armor Kit,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+219909,Stormbound Armor Kit,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+219905,Thunderous Drums,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219912,Dual Layered Armor Kit,item enhancement,300,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+219334,Rune-Branded Armbands,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219333,Rune-Branded Grasps,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219329,Rune-Branded Hood,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219327,Rune-Branded Kickers,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219332,Rune-Branded Legwraps,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219330,Rune-Branded Mantle,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219328,Rune-Branded Tunic,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219331,Rune-Branded Waistband,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219476,Spelunker's Practiced Hat,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219479,Spelunker's Practiced Britches,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219477,Spelunker's Practiced Shoulders,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219478,Spelunker's Practiced Mitts,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219480,Spelunker's Practiced Sash,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219472,Spelunker's Leather Jerkin,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219470,Spelunker's Leather Footpads,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219471,Spelunker's Leather Bands,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219339,Glyph-Etched Binding,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219336,Glyph-Etched Breastplate,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219340,Glyph-Etched Cuisses,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219338,Glyph-Etched Epaulets,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219341,Glyph-Etched Gauntlets,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219337,Glyph-Etched Guise,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219335,Glyph-Etched Stompers,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219342,Glyph-Etched Vambraces,gear (combat),380,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+219481,Tracker's Toughened Headgear,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219484,Tracker's Toughened Links,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219482,Tracker's Toughened Shoulderguards,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219483,Tracker's Toughened Handguards,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219485,Tracker's Toughened Girdle,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219475,Tracker's Chitin Hauberk,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219473,Tracker's Chitin Galoshes,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219474,Tracker's Chitin Cuffs,gear (combat),150,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+219492,Sanctified Torchbearer's Grips,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219489,Waders of the Unifying Flame,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219495,Blessed Weapon Grip,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219502,Adrenal Surge Clasp,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219501,Vambraces of Deepening Darkness,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219504,Writhing Armor Banding,embelishment,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219509,Busy Bee's Buckle,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219508,Reinforced Setae Flyers,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219513,Roiling Thunderstrike Talons,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219511,Rook Feather Wristwraps,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219507,Smoldering Pollen Hauberk,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+219512,Weathered Stormfront Vest,gear (combat),565,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+217130,Algari Competitor's Leather Belt,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217126,Algari Competitor's Leather Boots,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217127,Algari Competitor's Leather Chestpiece,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217132,Algari Competitor's Leather Gloves,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217128,Algari Competitor's Leather Mask,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217129,Algari Competitor's Leather Shoulderpads,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217131,Algari Competitor's Leather Trousers,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217133,Algari Competitor's Leather Wristwraps,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217135,Algari Competitor's Chain Chainmail,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217136,Algari Competitor's Chain Cowl,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217141,Algari Competitor's Chain Cuffs,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217137,Algari Competitor's Chain Epaulets,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217140,Algari Competitor's Chain Gauntlets,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217138,Algari Competitor's Chain Girdle,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217139,Algari Competitor's Chain Leggings,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217134,Algari Competitor's Chain Treads,gear (pvp),165,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+219871,Arathi Leatherworker's Smock,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219870,Charged Scrapmaster's Gauntlets,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219869,Deep Tracker's Cap,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219868,Deep Tracker's Pack,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219874,Earthen Forgemaster's Apron,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219876,Earthen Jeweler's Cover,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219872,Nerubian Alchemist's Hat,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219867,Stonebound Herbalist's Pack,gear (profession),400,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+219866,Apothecary's Cap,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219873,Steelsmith's Apron,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219875,Gemcutter's Apron,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219864,Scrapsmith's Gloves,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219865,Hideshaper's Cover,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219862,Hideseeker's Pack,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219861,Gardener's Basket,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+219863,Hideseeker's Hat,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

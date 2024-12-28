@@ -1,0 +1,88 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+222423,Sanctified Alloy,crafting reagent,525,0,2,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222420,Charged Alloy,crafting reagent,525,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222426,Ironclaw Alloy,crafting reagent,525,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222417,Core Alloy,crafting reagent,525,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222430,Everforged Breastplate,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222432,Everforged Defender,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222437,Everforged Gauntlets,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222431,Everforged Greatbelt,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222433,Everforged Helm,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222434,Everforged Legplates,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222436,Everforged Pauldrons,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222429,Everforged Sabatons,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222435,Everforged Vambraces,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222476,Dredger's Developed Legplates,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222478,Dredger's Developed Pauldrons,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222479,Dredger's Developed Gauntlets,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222475,Dredger's Developed Helm,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222474,Dredger's Developed Defender,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222473,Dredger's Developed Greatbelt,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222477,Dredger's Plate Vambraces,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222472,Dredger's Plate Breastplate,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222471,Dredger's Plate Sabatons,gear (combat),200,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222447,Charged Claymore,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222449,Charged Crusher,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222446,Charged Facesmasher,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222448,Charged Halberd,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222444,Charged Hexsword,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222450,Charged Invoker,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222445,Charged Runeaxe,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222451,Charged Slicer,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222439,Everforged Dagger,gear (combat),490,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222443,Everforged Greataxe,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222440,Everforged Longsword,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222442,Everforged Mace,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222438,Everforged Stabber,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222441,Everforged Warglaive,gear (combat),505,np.nan,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+222468,Ironclaw Great Mace,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222467,Ironclaw Knuckles,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222469,Ironclaw Axe,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222466,Ironclaw Sword,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222465,Ironclaw Dirk,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222470,Ironclaw Great Axe,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222464,Ironclaw Stiletto,gear (combat),250,np.nan,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+222459,Beledar's Bulwark,gear (combat),505,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222458,Sanctified Steps,gear (combat),505,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222463,Siphoning Stiletto,gear (combat),525,np.nan,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+222494,Artisan Blacksmith's Hammer,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222492,Artisan Leatherworker's Knife,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222493,Artisan Leatherworker's Toolset,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222491,Artisan Needle Set,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222489,Artisan Pickaxe,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222488,Artisan Sickle,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222495,Artisan Blacksmith's Toolbox,gear (profession),505,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222490,Artisan Skinning Knife,gear (profession),490,np.nan,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+222487,Proficient Blacksmith's Toolbox,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222485,Proficient Leatherworker's Toolset,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222483,Proficient Needle Set,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222486,Proficient Blacksmith's Hammer,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+222484,Proficient Leatherworker's Knife,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+222481,Proficient Pickaxe,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+222480,Proficient Sickle,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+222482,Proficient Skinning Knife,gear (profession),200,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+225660,Earthen Master's Hammer,consumable,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+222505,Ironclaw Razorstone,consumable,515,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222508,Ironclaw Weightstone,consumable,515,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222502,Ironclaw Whetstone,consumable,515,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+225374,Algari Competitor's Axe,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225367,Algari Competitor's Dagger,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225376,Algari Competitor's Greatsword,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225366,Algari Competitor's Pickaxe,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217150,Algari Competitor's Plate Armguards,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217143,Algari Competitor's Plate Breastplate,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217145,Algari Competitor's Plate Gauntlets,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217147,Algari Competitor's Plate Greaves,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217146,Algari Competitor's Plate Helm,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217148,Algari Competitor's Plate Pauldrons,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217144,Algari Competitor's Plate Sabatons,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+217149,Algari Competitor's Plate Waistguard,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225371,Algari Competitor's Scepter,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225373,Algari Competitor's Shield,gear (pvp),275,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225375,Algari Competitor's Skewer,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+225377,Algari Competitor's Sword,gear (pvp),290,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+222499,Forged Framework,finishing reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222511,Adjustable Framework,finishing reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222514,Tempered Framework,finishing reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222520,Coreforged Repair Hammer,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222523,Coreforged Skeleton Key,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

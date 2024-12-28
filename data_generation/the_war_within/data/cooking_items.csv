@@ -1,0 +1,47 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+225592,Exquisitely Eviscerated Muscle,consumable,np.nan,0,2,np.nan,common,FALSE,FALSE,FALSE,FALSE,FALSE
+222705,Roasted Mycobloom,consumable,np.nan,0,2,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222703,Simple Stew,consumable,np.nan,0,2,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222702,Skewered Fillet,consumable,np.nan,0,2,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222704,Unseasoned Field Steak,consumable,np.nan,0,2,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+223968,Spongey Scramble,consumable,np.nan,0,1,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222708,Coreway Kabob,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222709,Flash Fire Fillet,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222707,Hallowfall Chili,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222706,Pan Seared Mycobloom,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222710,Meat and Potatoes,consumable,np.nan,0,3,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222711,Rib Stickers,consumable,np.nan,0,3,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222712,Sweet and Sour Meatballs,consumable,np.nan,0,3,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222713,Tender Twilight Jerky,consumable,np.nan,0,3,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222736,Chippy Tea,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222718,Deepfin Patty,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222715,Fiery Fish Sticks,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222721,Fish and Chips,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222716,Ginger Glazed Fillet,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222723,Marinated Tenderloins,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222722,Salt Baked Seafood,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222717,Salty Dog,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222719,Sweet Spicy Soup,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222714,Zesty Nibblers,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222727,Angler's Delight,consumable,np.nan,0,6,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222725,Mycobloom Risotto,consumable,np.nan,0,12,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222724,Sizzling Honey Roast,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222726,Stuffed Cave Peppers,consumable,np.nan,0,6,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222728,Beledar's Bounty,consumable,np.nan,0,8,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222729,Empress' Farewell,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222731,Outsider's Provisions,consumable,np.nan,0,6,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222730,Jester's Board,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222735,Everything Stew,consumable,np.nan,0,2,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+222732,Feast of the Divine Day,consumable,np.nan,0,4,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
+222733,Feast of the Midnigfht Masquerade,consumable,np.nan,0,4,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
+222720,The Sushi Special,consumable,np.nan,0,3,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
+223971,Azj-Kahet Special,consumable,np.nan,0,1,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222744,Cinder Nectar,consumable,np.nan,0,10,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222745,Pep-In-Your-Step,consumable,np.nan,0,1,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222749,Melted Candlebar,other,np.nan,0,10,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+222747,Rockslide Shake,other,np.nan,0,10,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+222748,Sticky Sweet Treat,other,np.nan,0,10,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+223966,Everything-On-A-Stick,consumable,np.nan,np.nan,1,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+225855,Ghoulfish Delight,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+223970,Little Buddy Biscuits,consumable,np.nan,0,3,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+223969,Secret Sauce,finishing reagent,np.nan,0,1,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
