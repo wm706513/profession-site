@@ -1,16 +1,16 @@
 node,Zarastannil,Nystelil
-everburning forge,0,40
-imaginative foresight,-1,16
-discerning discipline,-1,0
+everburning forge,22,40
+imaginative foresight,0,20
+discerning discipline,0,20
 gracious forging,-1,20
 means of production,30,30
 tools of the trade,0,30
-stonework,30,0
+stonework,30,5
 fortuitous forges,0,30
 trade tools,-1,20
 trade accessories,-1,20
-weapon stones,15,0
-tool enhancement,0,-1
+weapon stones,20,0
+tool enhancement,20,-1
 frameworks,-1,20
 alloys,-1,20
 weaponsmithing,0,30

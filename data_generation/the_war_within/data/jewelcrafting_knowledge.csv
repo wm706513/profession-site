@@ -1,26 +1,26 @@
 node,Nystelil,Zarastannil
-gemcutting,50,36
-gemcutting (blasphemite),50,36
-emerald,30,0
+gemcutting,50,40
+gemcutting (blasphemite),50,40
+emerald,30,5
 onyx,30,0
 ruby,30,0
-sapphire,30,-1
+sapphire,30,0
 deadly emerald,20,-1
 masterful emerald,20,0
 versatile emerald,20,-1
 deadly onyx,20,0
 quick onyx,20,-1
-versatile onyx,12,-1
+versatile onyx,20,-1
 quick ruby,20,0
 masterful ruby,20,-1
 versatile ruby,20,-1
 deadly sapphire,20,-1
-quick sapphire,20,-1
+quick sapphire,20,0
 masterful sapphire,20,-1
-jewelrycrafting,0,40
-amulets,-1,30
-rings,-1,30
-artisan's accessories,-1,30
+jewelrycrafting,33,40
+amulets,0,30
+rings,0,30
+artisan's accessories,0,30
 shaping,0,30
 glasswork,-1,15
 gem finding,-1,40

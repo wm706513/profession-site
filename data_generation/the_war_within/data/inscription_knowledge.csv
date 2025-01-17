@@ -15,13 +15,13 @@ torches,30,0
 scribe's quill,30,-1
 alchemist's mixing rod,30,-1
 chef's rolling pin,30,-1
-archival additions,11,30
-cryptic collection,-1,30
-runic research,0,30
+archival additions,30,30
+cryptic collection,0,30
+runic research,30,30
 darkmoon sigil: radiance,-1,30
 darkmoon sigil: symbiosis,-1,30
 darkmoon sigil: vivacity,-1,30
-darkmoon sigil: ascension,-1,30
-contracts,-1,30
-missives,-1,30
-vantus runes,-1,30
+darkmoon sigil: ascension,0,30
+contracts,0,30
+missives,4,30
+vantus runes,0,30

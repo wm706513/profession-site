@@ -6,10 +6,10 @@
 222804,Weavercloth Bolt,TRUE,TRUE
 222807,Grips of the Woven Dawn,TRUE,TRUE
 222808,Treads of the Woven Dawn,TRUE,TRUE
-222811,Warm Sunrise Bracers,FALSE,TRUE
+222811,Warm Sunrise Bracers,TRUE,TRUE
 222812,Cool Sunset Bracers,FALSE,TRUE
-222809,Gloves of the Woven Dusk,FALSE,TRUE
-222810,Slippers of the Woven Dusk,FALSE,TRUE
+222809,Gloves of the Woven Dusk,TRUE,TRUE
+222810,Slippers of the Woven Dusk,TRUE,TRUE
 222817,Consecrated Cloak,TRUE,FALSE
 222816,Consecrated Cord,TRUE,FALSE
 222815,Consecrated Cuffs,TRUE,TRUE
@@ -48,7 +48,7 @@
 222841,Weavercloth Gardening Hat,TRUE,TRUE
 222844,Weavercloth Tailor's Coat,TRUE,TRUE
 222894,Daybreak Spellthread,TRUE,TRUE
-222891,Sunset Spellthread,FALSE,TRUE
+222891,Sunset Spellthread,TRUE,TRUE
 222888,Weavercloth Spellthread,TRUE,TRUE
 222859,Concoctor's Clutch,TRUE,FALSE
 222864,Darkmoon Duffle,TRUE,FALSE

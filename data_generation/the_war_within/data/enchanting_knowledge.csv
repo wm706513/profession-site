@@ -3,10 +3,10 @@ supplementary shattering,30,30
 resourceful residue,30,30
 immaculate ingenuity,30,30
 magnificent multicrafting,30,30
-designated disenchanter,0,28
+designated disenchanter,0,30
 incommon utilitarian,-1,0
 rare resourcing,-1,0
-epic escalations,-1,0
+epic escalations,-1,2
 everlasting enchantments,30,0
 earthen enhancements,20,-1
 arathor alterations,20,-1
@@ -21,8 +21,8 @@ tertiary trivialities,20,-1
 ephemerals enrichments and equipment,30,30
 deceptive decorations,20,20
 exquisite equipment,20,20
-material maestro,6,20
-professional production,0,20
+material maestro,20,20
+professional production,20,20
 combat crafts,0,20
-finalized finishers,-1,20
-optimal oils,-1,20
+finalized finishers,3,20
+optimal oils,20,20
