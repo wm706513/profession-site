@@ -7,7 +7,7 @@
 222807,Grips of the Woven Dawn,TRUE,TRUE
 222808,Treads of the Woven Dawn,TRUE,TRUE
 222811,Warm Sunrise Bracers,TRUE,TRUE
-222812,Cool Sunset Bracers,FALSE,TRUE
+222812,Cool Sunset Bracers,TRUE,TRUE
 222809,Gloves of the Woven Dusk,TRUE,TRUE
 222810,Slippers of the Woven Dusk,TRUE,TRUE
 222817,Consecrated Cloak,TRUE,FALSE
@@ -30,7 +30,7 @@
 222833,Pioneer's Cloth Cuffs,TRUE,TRUE
 222868,Dawnthread Lining,TRUE,TRUE
 222871,Duskthread Lining,FALSE,TRUE
-222885,Preserving Embroidery Thread,FALSE,TRUE
+222885,Preserving Embroidery Thread,TRUE,TRUE
 222882,Weavercloth Embroidery Thread,TRUE,TRUE
 222879,Bright Polishing Cloth,TRUE,TRUE
 222876,Gritty Polishing Cloth,TRUE,TRUE
