@@ -54,3 +54,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 219931,Algari Competitor's Medallion,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 225368,Algari Competitor's Pillar,gear (pvp),305,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
 225369,Algari Competitor's Staff,gear (pvp),305,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+234246,Glyph of the Admiral's Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+234245,Glyph of the Ashvane Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+234247,Glyph of the Gilded Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+234248,Glyph of the Twilight Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE

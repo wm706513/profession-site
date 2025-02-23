@@ -673,5 +673,45 @@
             "detail oriented",
             "eureka!"
         ]
+    },
+    {
+        "itemID": "234246",
+        "itemName": "Glyph of the Admiral's Pistol Shot",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "234245",
+        "itemName": "Glyph of the Ashvane Pistol Shot",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "234247",
+        "itemName": "Glyph of the Gilded Pistol Shot",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
+        "itemID": "234248",
+        "itemName": "Glyph of the Twilight Pistol Shot",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
     }
 ]
