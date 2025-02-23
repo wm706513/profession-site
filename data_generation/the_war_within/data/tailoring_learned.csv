@@ -15,7 +15,7 @@
 222815,Consecrated Cuffs,TRUE,TRUE
 222822,Consecrated Gloves,TRUE,FALSE
 222818,Consecrated Hood,TRUE,FALSE
-222820,Consecrated Leggings,TRUE,FALSE
+222820,Consecrated Leggings,TRUE,TRUE
 222821,Consecrated Mantle,TRUE,FALSE
 222819,Consecrated Robe,TRUE,FALSE
 222814,Consecrated Slippers,TRUE,TRUE
@@ -60,7 +60,7 @@
 222867,Jeweler's Purse,TRUE,FALSE
 222862,"Magically ""Infinite"" Messenger",TRUE,FALSE
 222863,Prodigy's Toolbox,TRUE,FALSE
-224852,The Severed Satchel,FALSE,TRUE
+224852,The Severed Satchel,TRUE,TRUE
 222856,Duskweave Bag,TRUE,TRUE
 222854,Dawnweave Reagent Bag,TRUE,TRUE
 222855,Weavercloth Reagent Bag,TRUE,TRUE

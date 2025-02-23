@@ -14,7 +14,7 @@ legwraps,20,-1
 grasps,20,-1
 waistbands,20,-1
 kickers,20,-1
-concrete chitin,0,30
+concrete chitin,5,30
 large chitin,-1,30
 intricate chitin,-1,30
 breastplates,-1,20
@@ -26,8 +26,8 @@ gauntlets,-1,20
 bindings,-1,20
 stompers,-1,20
 flawless fortes,30,30
-arathi armorer,0,30
+arathi armorer,30,30
 nerubian nous,30,30
-beastly bulwarks,2,30
+beastly bulwarks,30,30
 epic ensembles,30,0
 spotless stitching,30,0

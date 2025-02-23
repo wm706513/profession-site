@@ -11,8 +11,8 @@ profession phials,25,-1
 potent potions,0,30
 bulk production (potions),-1,25
 thaumaturgy,55,0
-mercurial materials,0,-1
-volatile materials,24,-1
+mercurial materials,25,-1
+volatile materials,25,-1
 ominous materials,25,-1
-gleaming transmutagen,0,-1
-transmutation,0,-1
+gleaming transmutagen,20,-1
+transmutation,11,-1

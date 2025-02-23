@@ -4,9 +4,9 @@
 222555,Codified Greenwood,TRUE,TRUE
 222558,Boundless Cipher,TRUE,TRUE
 226022,Darkmoon Sigil: Ascension,TRUE,TRUE
-226025,Darkmoon Sigil: Radiance,FALSE,TRUE
-226028,Darkmoon Sigil: Symbiosis,FALSE,TRUE
-226031,Darkmoon Sigil: Vivacity,FALSE,TRUE
+226025,Darkmoon Sigil: Radiance,TRUE,TRUE
+226028,Darkmoon Sigil: Symbiosis,TRUE,TRUE
+226031,Darkmoon Sigil: Vivacity,TRUE,TRUE
 222568,Vagabond's Bounding Baton,TRUE,FALSE
 222567,Vagabond's Careful Crutch,TRUE,FALSE
 222566,Vagabond's Torch,TRUE,TRUE
@@ -52,5 +52,5 @@
 219932,Algari Competitor's Insignia of Alacrity,TRUE,FALSE
 225372,Algari Competitor's Lamp,FALSE,FALSE
 219931,Algari Competitor's Medallion,TRUE,FALSE
-225368,Algari Competitor's Pillar,FALSE,FALSE
+225368,Algari Competitor's Pillar,TRUE,FALSE
 225369,Algari Competitor's Staff,FALSE,FALSE

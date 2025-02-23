@@ -133,11 +133,6 @@ def profession_pages(profession_name, expansion):
     else:
         template = 'profession.html'
 
-    print(learned[expansion][profession_name][0])
-    print()
-    print()
-    print(items.loc[items['expansion']==expansion, items_cols[expansion]])
-
     return render_template(template, form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name],
                            items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
 

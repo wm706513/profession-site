@@ -15,7 +15,7 @@
 213504,Quick Amber,TRUE,TRUE
 213515,Solid Amber,FALSE,TRUE
 213510,Versatile Amber,TRUE,TRUE
-213477,Deadly Emerald,TRUE,FALSE
+213477,Deadly Emerald,TRUE,TRUE
 213480,Masterful Emerald,TRUE,FALSE
 213483,Versatile Emerald,TRUE,FALSE
 213486,Quick Emerald,TRUE,TRUE
@@ -35,7 +35,7 @@
 213744,Elusive Blasphemite,TRUE,TRUE
 213738,Insightful Blasphemite,TRUE,TRUE
 217113,Cubic Blasphemia,TRUE,FALSE
-213782,Algari Emerald Prism,TRUE,FALSE
+213782,Algari Emerald Prism,TRUE,TRUE
 213788,Algari Onyx Prism,TRUE,FALSE
 213785,Algari Ruby Prism,TRUE,FALSE
 213791,Algari Sapphire Prism,TRUE,FALSE

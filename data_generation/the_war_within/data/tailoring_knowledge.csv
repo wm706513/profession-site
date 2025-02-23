@@ -1,5 +1,5 @@
 node,Linidel,Braevele
-threads of devotion,30,20
+threads of devotion,30,28
 weathering wear,30,0
 weighted garments,30,-1
 making a statement,30,0
@@ -16,12 +16,12 @@ from dawn until dusk,30,30
 dawnweave tailoring,30,30
 duskweave tailoring,30,30
 dawnweaving,20,20
-duskweaving,9,20
-quality fabric,0,30
-additional embroidery,-1,30
+duskweaving,20,20
+quality fabric,19,30
+additional embroidery,0,30
 spellthread,0,30
 weaving and unraveling,-1,30
 textile treasures,30,30
 the perfect loop,30,30
 extra threads,30,30
-less is more,0,30
+less is more,30,30
