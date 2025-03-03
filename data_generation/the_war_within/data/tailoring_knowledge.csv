@@ -1,14 +1,14 @@
 node,Linidel,Braevele
-threads of devotion,30,28
-weathering wear,30,0
-weighted garments,30,-1
+threads of devotion,30,30
+weathering wear,30,7
+weighted garments,30,0
 making a statement,30,0
 gloves,20,-1
 footwear,20,0
 hats,20,-1
 cloaks,20,-1
 robes,20,-1
-leggings,20,-1
+leggings,20,0
 mantles,20,-1
 armbands,20,0
 belts,20,-1
@@ -17,10 +17,10 @@ dawnweave tailoring,30,30
 duskweave tailoring,30,30
 dawnweaving,20,20
 duskweaving,20,20
-quality fabric,19,30
+quality fabric,30,30
 additional embroidery,0,30
-spellthread,0,30
-weaving and unraveling,-1,30
+spellthread,30,30
+weaving and unraveling,14,30
 textile treasures,30,30
 the perfect loop,30,30
 extra threads,30,30
