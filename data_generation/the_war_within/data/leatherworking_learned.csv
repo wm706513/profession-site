@@ -6,6 +6,7 @@
 219889,Sporecoated Hide,TRUE,TRUE
 219901,Storm-Touched Weapon Wrap,TRUE,TRUE
 219886,Writhing Hide,TRUE,TRUE
+235337,Charged Armor Kit,TRUE,FALSE
 219906,Defender's Armor Kit,TRUE,TRUE
 219909,Stormbound Armor Kit,TRUE,FALSE
 219905,Thunderous Drums,TRUE,TRUE
@@ -28,9 +29,9 @@
 219471,Spelunker's Leather Bands,TRUE,TRUE
 219339,Glyph-Etched Binding,TRUE,TRUE
 219336,Glyph-Etched Breastplate,FALSE,TRUE
-219340,Glyph-Etched Cuisses,FALSE,TRUE
+219340,Glyph-Etched Cuisses,TRUE,TRUE
 219338,Glyph-Etched Epaulets,FALSE,TRUE
-219341,Glyph-Etched Gauntlets,FALSE,TRUE
+219341,Glyph-Etched Gauntlets,TRUE,TRUE
 219337,Glyph-Etched Guise,FALSE,TRUE
 219335,Glyph-Etched Stompers,TRUE,TRUE
 219342,Glyph-Etched Vambraces,FALSE,TRUE
@@ -42,7 +43,7 @@
 219475,Tracker's Chitin Hauberk,TRUE,TRUE
 219473,Tracker's Chitin Galoshes,TRUE,TRUE
 219474,Tracker's Chitin Cuffs,TRUE,TRUE
-219492,Sanctified Torchbearer's Grips,FALSE,TRUE
+219492,Sanctified Torchbearer's Grips,TRUE,TRUE
 219489,Waders of the Unifying Flame,TRUE,FALSE
 219495,Blessed Weapon Grip,TRUE,TRUE
 219502,Adrenal Surge Clasp,TRUE,FALSE

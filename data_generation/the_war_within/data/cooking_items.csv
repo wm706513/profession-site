@@ -28,6 +28,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222724,Sizzling Honey Roast,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
 222726,Stuffed Cave Peppers,consumable,np.nan,0,6,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
 222728,Beledar's Bounty,consumable,np.nan,0,8,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+235805,Authentic Undermine Clam Chowder,consumable,np.nan,0,3,np.nan,common,FALSE,FALSE,FALSE,FALSE,FALSE
 222729,Empress' Farewell,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
 222731,Outsider's Provisions,consumable,np.nan,0,6,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
 222730,Jester's Board,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE

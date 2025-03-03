@@ -6,6 +6,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 219889,Sporecoated Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 219901,Storm-Touched Weapon Wrap,crafting reagent,400,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 219886,Writhing Hide,crafting reagent,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+235337,Charged Armor Kit,item enhancement,440,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 219906,Defender's Armor Kit,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 219909,Stormbound Armor Kit,item enhancement,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 219905,Thunderous Drums,consumable,np.nan,0,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

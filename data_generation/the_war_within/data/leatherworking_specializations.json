@@ -85,6 +85,18 @@
         ]
     },
     {
+        "itemID": "235337",
+        "itemName": "Charged Armor Kit",
+        "nodes": [
+            "flawless fortes",
+            "learned leatherworker",
+            "commanding concentration",
+            "waste not",
+            "industrious innovations",
+            "spotless stitching"
+        ]
+    },
+    {
         "itemID": "219906",
         "itemName": "Defender's Armor Kit",
         "nodes": [

@@ -649,6 +649,17 @@
         }
     },
     {
+        "itemID": "232985",
+        "itemName": "22H Slicks",
+        "reagents": {
+            "219150": "50",
+            "221853": "32",
+            "221859": "12",
+            "221856": "6",
+            "221868": "2"
+        }
+    },
+    {
         "itemID": "221904",
         "itemName": "Tinker: Earthen Delivery Drill",
         "reagents": {

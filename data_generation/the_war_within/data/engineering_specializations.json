@@ -658,6 +658,16 @@
         ]
     },
     {
+        "itemID": "232985",
+        "itemName": "22H Slicks",
+        "nodes": [
+            "inventing",
+            "ingenious",
+            "scrapper",
+            "devices"
+        ]
+    },
+    {
         "itemID": "221904",
         "itemName": "Tinker: Earthen Delivery Drill",
         "nodes": [

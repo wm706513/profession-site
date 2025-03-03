@@ -217,6 +217,19 @@
         ]
     },
     {
+        "itemID": "232533",
+        "itemName": "Contract: The Cartels of Undermine",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "contracts"
+        ]
+    },
+    {
         "itemID": "222606",
         "itemName": "Contract: The Severed Threads",
         "nodes": [
@@ -584,6 +597,19 @@
             "eureka!",
             "detail oriented",
             "multitasking"
+        ]
+    },
+    {
+        "itemID": "232935",
+        "itemName": "Vantus Rune: Liberation of Undermine",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "vantus runes"
         ]
     },
     {

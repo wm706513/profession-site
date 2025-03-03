@@ -49,8 +49,8 @@
 213748,Cognitive Bloodstone,FALSE,FALSE
 213749,Determined Bloodstone,FALSE,FALSE
 213747,Enduring Bloodstone,FALSE,FALSE
-215144,Algari Competitor's Amulet,FALSE,TRUE
-215137,Algari Competitor's Signet,FALSE,FALSE
+215144,Algari Competitor's Amulet,TRUE,TRUE
+215137,Algari Competitor's Signet,TRUE,FALSE
 215125,Enchanter's Crystal,TRUE,TRUE
 215124,Extravagant Loupes,TRUE,TRUE
 215123,Forger's Font Inspector,TRUE,TRUE

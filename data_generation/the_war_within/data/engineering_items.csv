@@ -59,6 +59,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 221949,Pausing Pylon,other,np.nan,0,2,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
 221957,Algari Repair Bot 11O,other,np.nan,0,2-3,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 221959,Portable Profession Possibility Projector,other,np.nan,0,2,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+232985,22H Slicks,other,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221904,Tinker: Earthen Delivery Drill,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 221908,Tinker: Heartseeking Health Injector,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 217155,Algari Competitor's Cloth Bracers,gear (PvP),215,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,TRUE,FALSE

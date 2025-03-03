@@ -16,6 +16,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222600,Contract: Assembly of the Deeps,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222597,Contract: Council of Dornogal,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222603,Contract: Hallowfall Arathi,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+232533,Contract: The Cartels of Undermine,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222606,Contract: The Severed Threads,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222591,Algari Missive of the Peerless,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 222594,Algari Missive of the Quickblade,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -47,6 +48,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222553,Algari Treatise on Mining,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222649,Algari Treatise on Skinning,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222547,Algari Treatise on  Tailoring,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+232935,Vantus Rune: Liberation of Undermine,consumable,565,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 226034,Vantus Rune: Nerub-ar Palace,consumable,565,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 219933,Algari Competitor's Emblem,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 219932,Algari Competitor's Insignia of Alacrity,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

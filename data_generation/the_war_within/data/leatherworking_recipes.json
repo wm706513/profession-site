@@ -60,6 +60,15 @@
         }
     },
     {
+        "itemID": "235337",
+        "itemName": "Charged Armor Kit",
+        "reagents": {
+            "221757": "1",
+            "219883": "2",
+            "212664": "60"
+        }
+    },
+    {
         "itemID": "219906",
         "itemName": "Defender's Armor Kit",
         "reagents": {

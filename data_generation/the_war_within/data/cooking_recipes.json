@@ -256,6 +256,16 @@
         }
     },
     {
+        "itemID": "235805",
+        "itemName": "Authentic Undermine Clam Chowder",
+        "reagents": {
+            "235845": "2",
+            "222700": "5",
+            "222695": "5",
+            "222696": "2"
+        }
+    },
+    {
         "itemID": "222729",
         "itemName": "Empress' Farewell",
         "reagents": {

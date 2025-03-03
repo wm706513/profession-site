@@ -154,6 +154,14 @@
         }
     },
     {
+        "itemID": "232533",
+        "itemName": "Contract: The Cartels of Undermine",
+        "reagents": {
+            "226204": "1",
+            "222609": "25"
+        }
+    },
+    {
         "itemID": "222606",
         "itemName": "Contract: The Severed Threads",
         "reagents": {
@@ -456,12 +464,59 @@
         }
     },
     {
+        "itemID": "232935",
+        "itemName": "Vantus Rune: Liberation of Undermine",
+        "reagents": {
+            "213612": "2",
+            "222609": "5",
+            "222615": "5"
+        }
+    },
+    {
         "itemID": "226034",
         "itemName": "Vantus Rune: Nerub-ar Palace",
         "reagents": {
             "213612": "2",
             "222609": "5",
             "222615": "5"
+        }
+    },
+    {
+        "itemID": "234246",
+        "itemName": "Glyph of the Admiral's Pistol Shot",
+        "reagents": {
+            "226204": "1",
+            "226205": "3",
+            "222609": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "234245",
+        "itemName": "Glyph of the Ashvane Pistol Shot",
+        "reagents": {
+            "226204": "1",
+            "222615": "1",
+            "222609": "1",
+            "222555": "1"
+        }
+    },
+    {
+        "itemID": "234247",
+        "itemName": "Glyph of the Gilded Pistol Shot",
+        "reagents": {
+            "226204": "1",
+            "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "234248",
+        "itemName": "Glyph of the Twilight Pistol Shot",
+        "reagents": {
+            "226204": "1",
+            "222609": "2",
+            "222558": "1"
         }
     },
     {
@@ -515,42 +570,6 @@
     {
         "itemID": "225369",
         "itemName": "Algari Competitor's Staff",
-        "reagents": {
-            "210221": "10",
-            "222555": "4",
-            "222609": "6"
-        }
-    },
-    {
-        "itemID": "234246",
-        "itemName": "Glyph of the Admiral's Pistol Shot",
-        "reagents": {
-            "210221": "10",
-            "222555": "4",
-            "222609": "6"
-        }
-    },
-    {
-        "itemID": "234245",
-        "itemName": "Glyph of the Ashvane Pistol Shot",
-        "reagents": {
-            "210221": "10",
-            "222555": "4",
-            "222609": "6"
-        }
-    },
-    {
-        "itemID": "234247",
-        "itemName": "Glyph of the Gilded Pistol Shot",
-        "reagents": {
-            "210221": "10",
-            "222555": "4",
-            "222609": "6"
-        }
-    },
-    {
-        "itemID": "234248",
-        "itemName": "Glyph of the Twilight Pistol Shot",
         "reagents": {
             "210221": "10",
             "222555": "4",
