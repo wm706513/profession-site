@@ -21,20 +21,20 @@
 222477,Dredger's Plate Vambraces,TRUE,TRUE
 222472,Dredger's Plate Breastplate,TRUE,TRUE
 222471,Dredger's Plate Sabatons,TRUE,TRUE
-222447,Charged Claymore,FALSE,TRUE
+222447,Charged Claymore,TRUE,TRUE
 222449,Charged Crusher,FALSE,FALSE
 222446,Charged Facesmasher,TRUE,TRUE
 222448,Charged Halberd,FALSE,TRUE
-222444,Charged Hexsword,FALSE,TRUE
+222444,Charged Hexsword,TRUE,TRUE
 222450,Charged Invoker,FALSE,TRUE
 222445,Charged Runeaxe,FALSE,TRUE
-222451,Charged Slicer,FALSE,TRUE
-222439,Everforged Dagger,FALSE,TRUE
-222443,Everforged Greataxe,FALSE,TRUE
+222451,Charged Slicer,TRUE,TRUE
+222439,Everforged Dagger,TRUE,TRUE
+222443,Everforged Greataxe,TRUE,TRUE
 222440,Everforged Longsword,TRUE,TRUE
-222442,Everforged Mace,FALSE,TRUE
-222438,Everforged Stabber,FALSE,TRUE
-222441,Everforged Warglaive,FALSE,TRUE
+222442,Everforged Mace,TRUE,TRUE
+222438,Everforged Stabber,TRUE,TRUE
+222441,Everforged Warglaive,TRUE,TRUE
 222468,Ironclaw Great Mace,TRUE,TRUE
 222467,Ironclaw Knuckles,TRUE,TRUE
 222469,Ironclaw Axe,TRUE,TRUE
@@ -44,7 +44,7 @@
 222464,Ironclaw Stiletto,TRUE,TRUE
 222459,Beledar's Bulwark,TRUE,FALSE
 222458,Sanctified Steps,FALSE,FALSE
-222463,Siphoning Stiletto,FALSE,TRUE
+222463,Siphoning Stiletto,TRUE,TRUE
 222495,Artisan Blacksmith's Toolbox,TRUE,TRUE
 222494,Artisan Blacksmith's Hammer,TRUE,TRUE
 222492,Artisan Leatherworker's Knife,TRUE,TRUE
@@ -62,21 +62,21 @@
 222480,Proficient Sickle,TRUE,TRUE
 222482,Proficient Skinning Knife,TRUE,TRUE
 225660,Earthen Master's Hammer,TRUE,TRUE
-222505,Ironclaw Razorstone,TRUE,FALSE
+222505,Ironclaw Razorstone,TRUE,TRUE
 222508,Ironclaw Weightstone,TRUE,TRUE
 222502,Ironclaw Whetstone,TRUE,TRUE
 225374,Algari Competitor's Axe,FALSE,FALSE
 225367,Algari Competitor's Dagger,FALSE,FALSE
 225376,Algari Competitor's Greatsword,FALSE,FALSE
 225366,Algari Competitor's Pickaxe,FALSE,FALSE
-217150,Algari Competitor's Plate Armguards,FALSE,FALSE
-217143,Algari Competitor's Plate Breastplate,FALSE,FALSE
-217145,Algari Competitor's Plate Gauntlets,FALSE,FALSE
-217147,Algari Competitor's Plate Greaves,FALSE,FALSE
-217146,Algari Competitor's Plate Helm,FALSE,FALSE
-217148,Algari Competitor's Plate Pauldrons,FALSE,FALSE
-217144,Algari Competitor's Plate Sabatons,FALSE,FALSE
-217149,Algari Competitor's Plate Waistguard,FALSE,FALSE
+217150,Algari Competitor's Plate Armguards,TRUE,FALSE
+217143,Algari Competitor's Plate Breastplate,TRUE,FALSE
+217145,Algari Competitor's Plate Gauntlets,TRUE,FALSE
+217147,Algari Competitor's Plate Greaves,TRUE,FALSE
+217146,Algari Competitor's Plate Helm,TRUE,FALSE
+217148,Algari Competitor's Plate Pauldrons,TRUE,FALSE
+217144,Algari Competitor's Plate Sabatons,TRUE,FALSE
+217149,Algari Competitor's Plate Waistguard,TRUE,FALSE
 225371,Algari Competitor's Scepter,FALSE,FALSE
 225373,Algari Competitor's Shield,FALSE,FALSE
 225375,Algari Competitor's Skewer,FALSE,TRUE

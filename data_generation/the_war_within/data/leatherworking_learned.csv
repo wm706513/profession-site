@@ -28,13 +28,13 @@
 219470,Spelunker's Leather Footpads,TRUE,TRUE
 219471,Spelunker's Leather Bands,TRUE,TRUE
 219339,Glyph-Etched Binding,TRUE,TRUE
-219336,Glyph-Etched Breastplate,FALSE,TRUE
+219336,Glyph-Etched Breastplate,TRUE,TRUE
 219340,Glyph-Etched Cuisses,TRUE,TRUE
-219338,Glyph-Etched Epaulets,FALSE,TRUE
+219338,Glyph-Etched Epaulets,TRUE,TRUE
 219341,Glyph-Etched Gauntlets,TRUE,TRUE
-219337,Glyph-Etched Guise,FALSE,TRUE
+219337,Glyph-Etched Guise,TRUE,TRUE
 219335,Glyph-Etched Stompers,TRUE,TRUE
-219342,Glyph-Etched Vambraces,FALSE,TRUE
+219342,Glyph-Etched Vambraces,TRUE,TRUE
 219481,Tracker's Toughened Headgear,TRUE,TRUE
 219484,Tracker's Toughened Links,TRUE,TRUE
 219482,Tracker's Toughened Shoulderguards,TRUE,TRUE
@@ -52,22 +52,22 @@
 219509,Busy Bee's Buckle,TRUE,TRUE
 219508,Reinforced Setae Flyers,TRUE,TRUE
 219513,Roiling Thunderstrike Talons,TRUE,FALSE
-219511,Rook Feather Wristwraps,FALSE,FALSE
+219511,Rook Feather Wristwraps,TRUE,FALSE
 219507,Smoldering Pollen Hauberk,TRUE,TRUE
 219512,Weathered Stormfront Vest,TRUE,TRUE
 217130,Algari Competitor's Leather Belt,FALSE,FALSE
-217126,Algari Competitor's Leather Boots,FALSE,FALSE
-217127,Algari Competitor's Leather Chestpiece,FALSE,FALSE
-217132,Algari Competitor's Leather Gloves,FALSE,FALSE
-217128,Algari Competitor's Leather Mask,FALSE,FALSE
-217129,Algari Competitor's Leather Shoulderpads,FALSE,FALSE
-217131,Algari Competitor's Leather Trousers,FALSE,FALSE
-217133,Algari Competitor's Leather Wristwraps,FALSE,FALSE
-217135,Algari Competitor's Chain Chainmail,FALSE,FALSE
-217136,Algari Competitor's Chain Cowl,FALSE,FALSE
-217141,Algari Competitor's Chain Cuffs,FALSE,FALSE
+217126,Algari Competitor's Leather Boots,TRUE,FALSE
+217127,Algari Competitor's Leather Chestpiece,TRUE,FALSE
+217132,Algari Competitor's Leather Gloves,TRUE,FALSE
+217128,Algari Competitor's Leather Mask,TRUE,FALSE
+217129,Algari Competitor's Leather Shoulderpads,TRUE,FALSE
+217131,Algari Competitor's Leather Trousers,TRUE,FALSE
+217133,Algari Competitor's Leather Wristwraps,TRUE,FALSE
+217135,Algari Competitor's Chain Chainmail,TRUE,FALSE
+217136,Algari Competitor's Chain Cowl,TRUE,FALSE
+217141,Algari Competitor's Chain Cuffs,TRUE,FALSE
 217137,Algari Competitor's Chain Epaulets,FALSE,FALSE
-217140,Algari Competitor's Chain Gauntlets,FALSE,FALSE
+217140,Algari Competitor's Chain Gauntlets,TRUE,FALSE
 217138,Algari Competitor's Chain Girdle,FALSE,FALSE
 217139,Algari Competitor's Chain Leggings,TRUE,FALSE
 217134,Algari Competitor's Chain Treads,FALSE,FALSE

@@ -9,7 +9,7 @@ from wtforms import SearchField, SubmitField, SelectField
 
 load_dotenv() #load .env file
 
-last_update = '2024-11-12'
+last_update = '2025-3-2'
 
 expansions = ['DF', 'TWW']
 all_professions = ['alchemy', 'blacksmithing', 'cooking', 'enchanting', 'engineering', 'inscription', 'jewelcrafting', 'leatherworking', 'tailoring']

@@ -4,7 +4,7 @@
 222703,Simple Stew,TRUE
 222702,Skewered Fillet,TRUE
 222704,Unseasoned Field Steak,TRUE
-223968,Spongey Scramble,FALSE
+223968,Spongey Scramble,TRUE
 222708,Coreway Kabob,TRUE
 222709,Flash Fire Fillet,TRUE
 222707,Hallowfall Chili,TRUE
@@ -29,8 +29,8 @@
 222726,Stuffed Cave Peppers,TRUE
 222728,Beledar's Bounty,TRUE
 235805,Authentic Undermine Clam Chowder,FALSE
-222729,Empress' Farewell,FALSE
-222731,Outsider's Provisions,FALSE
+222729,Empress' Farewell,TRUE
+222731,Outsider's Provisions,TRUE
 222730,Jester's Board,TRUE
 222735,Everything Stew,FALSE
 222732,Feast of the Divine Day,FALSE
@@ -42,7 +42,7 @@
 222749,Melted Candlebar,TRUE
 222747,Rockslide Shake,TRUE
 222748,Sticky Sweet Treat,TRUE
-223966,Everything-On-A-Stick,FALSE
+223966,Everything-On-A-Stick,TRUE
 225855,Ghoulfish Delight,TRUE
-223970,Little Buddy Biscuits,FALSE
+223970,Little Buddy Biscuits,TRUE
 223969,Secret Sauce,FALSE

@@ -1,13 +1,13 @@
 ﻿itemID,itemName,Nystelil,Zarastannil
-213777,Magnificent Jeweler's Setting,FALSE,FALSE
+213777,Magnificent Jeweler's Setting,TRUE,FALSE
 213759,Inverted Prism,TRUE,TRUE
 213753,Decorative Lens,TRUE,TRUE
 211806,Gilded Vial,TRUE,TRUE
 213750,Engraved Gemcutter,TRUE,TRUE
 213756,Marbled Stone,TRUE,TRUE
 213774,Captured Starlight,TRUE,TRUE
-213768,Elemental Focusing Lens,FALSE,TRUE
-213771,Prismatic Null Stone,FALSE,TRUE
+213768,Elemental Focusing Lens,TRUE,TRUE
+213771,Prismatic Null Stone,TRUE,TRUE
 213765,Ominous Energy Crystal,TRUE,TRUE
 213762,Sifted Cave Sand,TRUE,TRUE
 213501,Deadly Amber,TRUE,TRUE
