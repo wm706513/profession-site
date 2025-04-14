@@ -15,16 +15,16 @@ grasps,20,-1
 waistbands,20,-1
 kickers,20,-1
 concrete chitin,30,30
-large chitin,0,30
+large chitin,30,30
 intricate chitin,30,30
-breastplates,-1,20
-guises,-1,20
-epaulets,-1,20
-vambraces,-1,20
-cuisses,0,20
-gauntlets,0,20
-bindings,0,20
-stompers,0,20
+breastplates,0,20
+guises,0,20
+epaulets,0,20
+vambraces,20,20
+cuisses,15,20
+gauntlets,20,20
+bindings,20,20
+stompers,20,20
 flawless fortes,30,30
 arathi armorer,30,30
 nerubian nous,30,30

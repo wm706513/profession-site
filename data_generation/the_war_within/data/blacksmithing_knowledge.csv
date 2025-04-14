@@ -5,21 +5,21 @@ discerning discipline,20,20
 gracious forging,20,20
 means of production,30,30
 tools of the trade,0,30
-stonework,30,24
+stonework,30,30
 fortuitous forges,0,30
 trade tools,-1,20
 trade accessories,-1,20
-weapon stones,20,0
-tool enhancement,20,-1
+weapon stones,20,6
+tool enhancement,20,0
 frameworks,-1,20
 alloys,-1,20
 weaponsmithing,30,30
-blades,14,25
-hafted,0,25
-short blades,-1,25
-long blades,0,25
-maces,-1,25
-axes and polearms,-1,25
+blades,25,25
+hafted,25,25
+short blades,23,25
+long blades,25,25
+maces,25,25
+axes and polearms,25,25
 armorsmithing,30,0
 large plate armor,30,-1
 sculpted armor,30,-1

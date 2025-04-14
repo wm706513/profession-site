@@ -50,7 +50,7 @@
             "25": "0",
             "30": "20"
         },
-        "incommon utilitarian": {
+        "uncommon utilitarian": {
             "scaling": "1",
             "0": "5",
             "5": "5",
@@ -288,7 +288,7 @@
             "25": "0",
             "30": "0"
         },
-        "incommon utilitarian": {
+        "uncommon utilitarian": {
             "scaling": "0",
             "0": "0",
             "5": "0",
@@ -526,7 +526,7 @@
             "25": "0",
             "30": "0"
         },
-        "incommon utilitarian": {
+        "uncommon utilitarian": {
             "scaling": "0",
             "0": "0",
             "5": "0",
@@ -764,7 +764,7 @@
             "25": "0",
             "30": "0"
         },
-        "incommon utilitarian": {
+        "uncommon utilitarian": {
             "scaling": "0",
             "0": "0",
             "5": "0",
