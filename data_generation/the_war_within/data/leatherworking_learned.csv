@@ -55,7 +55,7 @@
 219511,Rook Feather Wristwraps,TRUE,FALSE
 219507,Smoldering Pollen Hauberk,TRUE,TRUE
 219512,Weathered Stormfront Vest,TRUE,TRUE
-217130,Algari Competitor's Leather Belt,FALSE,FALSE
+217130,Algari Competitor's Leather Belt,TRUE,FALSE
 217126,Algari Competitor's Leather Boots,TRUE,FALSE
 217127,Algari Competitor's Leather Chestpiece,TRUE,FALSE
 217132,Algari Competitor's Leather Gloves,TRUE,FALSE
@@ -66,9 +66,9 @@
 217135,Algari Competitor's Chain Chainmail,TRUE,FALSE
 217136,Algari Competitor's Chain Cowl,TRUE,FALSE
 217141,Algari Competitor's Chain Cuffs,TRUE,FALSE
-217137,Algari Competitor's Chain Epaulets,FALSE,FALSE
+217137,Algari Competitor's Chain Epaulets,TRUE,FALSE
 217140,Algari Competitor's Chain Gauntlets,TRUE,FALSE
-217138,Algari Competitor's Chain Girdle,FALSE,FALSE
+217138,Algari Competitor's Chain Girdle,TRUE,FALSE
 217139,Algari Competitor's Chain Leggings,TRUE,FALSE
 217134,Algari Competitor's Chain Treads,FALSE,FALSE
 219871,Arathi Leatherworker's Smock,TRUE,TRUE

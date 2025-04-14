@@ -24,9 +24,9 @@
 222447,Charged Claymore,TRUE,TRUE
 222449,Charged Crusher,FALSE,FALSE
 222446,Charged Facesmasher,TRUE,TRUE
-222448,Charged Halberd,FALSE,TRUE
+222448,Charged Halberd,TRUE,TRUE
 222444,Charged Hexsword,TRUE,TRUE
-222450,Charged Invoker,FALSE,TRUE
+222450,Charged Invoker,TRUE,TRUE
 222445,Charged Runeaxe,FALSE,TRUE
 222451,Charged Slicer,TRUE,TRUE
 222439,Everforged Dagger,TRUE,TRUE
@@ -68,7 +68,7 @@
 225374,Algari Competitor's Axe,FALSE,FALSE
 225367,Algari Competitor's Dagger,FALSE,FALSE
 225376,Algari Competitor's Greatsword,FALSE,FALSE
-225366,Algari Competitor's Pickaxe,FALSE,FALSE
+225366,Algari Competitor's Pickaxe,TRUE,FALSE
 217150,Algari Competitor's Plate Armguards,TRUE,FALSE
 217143,Algari Competitor's Plate Breastplate,TRUE,FALSE
 217145,Algari Competitor's Plate Gauntlets,TRUE,FALSE
