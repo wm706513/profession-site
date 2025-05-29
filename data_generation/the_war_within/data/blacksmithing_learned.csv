@@ -66,8 +66,8 @@
 222508,Ironclaw Weightstone,TRUE,TRUE
 222502,Ironclaw Whetstone,TRUE,TRUE
 225374,Algari Competitor's Axe,FALSE,FALSE
-225367,Algari Competitor's Dagger,FALSE,FALSE
-225376,Algari Competitor's Greatsword,FALSE,FALSE
+225367,Algari Competitor's Dagger,TRUE,FALSE
+225376,Algari Competitor's Greatsword,TRUE,FALSE
 225366,Algari Competitor's Pickaxe,TRUE,FALSE
 217150,Algari Competitor's Plate Armguards,TRUE,FALSE
 217143,Algari Competitor's Plate Breastplate,TRUE,FALSE
@@ -77,9 +77,9 @@
 217148,Algari Competitor's Plate Pauldrons,TRUE,FALSE
 217144,Algari Competitor's Plate Sabatons,TRUE,FALSE
 217149,Algari Competitor's Plate Waistguard,TRUE,FALSE
-225371,Algari Competitor's Scepter,FALSE,FALSE
+225371,Algari Competitor's Scepter,TRUE,FALSE
 225373,Algari Competitor's Shield,FALSE,FALSE
-225375,Algari Competitor's Skewer,FALSE,TRUE
+225375,Algari Competitor's Skewer,TRUE,TRUE
 225377,Algari Competitor's Sword,FALSE,FALSE
 222499,Forged Framework,TRUE,TRUE
 222511,Adjustable Framework,TRUE,TRUE
