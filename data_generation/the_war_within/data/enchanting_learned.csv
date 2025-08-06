@@ -23,7 +23,7 @@
 223708,Enchant Bracer - Whisper of Armored Avoidance,TRUE,TRUE
 223686,Enchant Chest - Council's Intellect,TRUE,FALSE
 223692,Enchant Chest - Crystalline Radiance,TRUE,FALSE
-223689,Enchant Chest - Oathsworn's Strength,FALSE,FALSE
+223689,Enchant Chest - Oathsworn's Strength,TRUE,FALSE
 223683,Enchant Chest - Stormrider's Agility,TRUE,FALSE
 223800,Enchant Cloak - Chant of Burrowing Rapdidity,FALSE,FALSE
 223737,Enchant Cloak - Chant of Leeching Fangs,TRUE,FALSE
@@ -61,7 +61,7 @@
 224301,Gleeful Glamour - Dark Iron Dwarf,TRUE,TRUE
 224302,Gleeful Glamour - Draenei,TRUE,TRUE
 224303,Gleeful Glamour -  Dwarf,TRUE,TRUE
-224304,Gleeful Glamour - Earthen,FALSE,FALSE
+224304,Gleeful Glamour - Earthen,TRUE,FALSE
 224305,Gleeful Glamour - Gnome,TRUE,TRUE
 224306,Gleeful Glamour - Goblin,TRUE,TRUE
 224307,Gleeful Glamour - Highmountain Tauren,TRUE,TRUE
