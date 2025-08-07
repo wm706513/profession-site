@@ -162,6 +162,14 @@
         }
     },
     {
+        "itemID": "243822",
+        "itemName": "Contract: The K'aresh Trust",
+        "reagents": {
+            "226204": "1",
+            "222615": "25"
+        }
+    },
+    {
         "itemID": "222606",
         "itemName": "Contract: The Severed Threads",
         "reagents": {
@@ -384,7 +392,7 @@
     },
     {
         "itemID": "222550",
-        "itemName": "Algari  Treatise on Enchanting",
+        "itemName": "Algari Treatise on Enchanting",
         "reagents": {
             "213613": "2",
             "222609": "2",
@@ -473,6 +481,15 @@
         }
     },
     {
+        "itemID": "244148",
+        "itemName": "Vantus Rune: Manaforge Omega",
+        "reagents": {
+            "213612": "2",
+            "222609": "5",
+            "222615": "5"
+        }
+    },
+    {
         "itemID": "226034",
         "itemName": "Vantus Rune: Nerub-ar Palace",
         "reagents": {
@@ -507,6 +524,16 @@
         "reagents": {
             "226204": "1",
             "222615": "2",
+            "222558": "1"
+        }
+    },
+    {
+        "itemID": "243051",
+        "itemName": "Glyph of the Strix",
+        "reagents": {
+            "226204": "1",
+            "222615": "1",
+            "222609": "1",
             "222558": "1"
         }
     },
@@ -574,6 +601,41 @@
             "210221": "10",
             "222555": "4",
             "222609": "6"
+        }
+    },
+    {
+        "itemID": "249702",
+        "itemName": "Deal: Cartel Ba",
+        "reagents": {
+            "226204": "1",
+            "249218": "1",
+            "222615": "25"
+        }
+    },
+    {
+        "itemID": "249704",
+        "itemName": "Deal: Cartel Om",
+        "reagents": {
+            "226204": "1",
+            "249218": "1",
+            "222615": "25"
+        }
+    },
+    {
+        "itemID": "249700",
+        "itemName": "Deal: Cartel Zo",
+        "reagents": {
+            "226204": "1",
+            "249218": "1",
+            "222615": "25"
+        }
+    },
+    {
+        "itemID": "246809",
+        "itemName": "Inspired Writer's Quill",
+        "reagents": {
+            "226204": "1",
+            "222615": "25"
         }
     }
 ]

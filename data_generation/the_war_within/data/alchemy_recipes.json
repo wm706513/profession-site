@@ -66,6 +66,14 @@
         }
     },
     {
+        "itemID": "244839",
+        "itemName": "Invigorating Healing Potion",
+        "reagents": {
+            "211806": "5",
+            "210796": "18"
+        }
+    },
+    {
         "itemID": "212260",
         "itemName": "Frontline Potion",
         "reagents": {
@@ -140,6 +148,16 @@
             "210796": "8",
             "210799": "3",
             "210802": "3"
+        }
+    },
+    {
+        "itemID": "248586",
+        "itemName": "Umbral Essentia",
+        "reagents": {
+            "211806": "5",
+            "210796": "12",
+            "210802": "3",
+            "210799": "4"
         }
     },
     {

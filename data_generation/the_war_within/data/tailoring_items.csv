@@ -65,6 +65,10 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222854,Dawnweave Reagent Bag,bag,np.nan,np.nan,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222855,Weavercloth Reagent Bag,bag,np.nan,np.nan,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 222853,Weavercloth Bag,bag,np.nan,np.nan,1,np.nan,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+238045,Pure Chronomantic Fiber,item enhancement,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+238042,Pure Dexterous Fiber,item enhancement,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+238046,Pure Energizing Fiber,item enhancement,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+238044,Pure Precise Fiber,item enhancement,np.nan,np.nan,1,np.nan,epic,TRUE,FALSE,FALSE,FALSE,FALSE
 217120,Algari Competitor's Cloth Bands,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
 217125,Algari Competitor's Cloth  Cloak,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
 217122,Algari Competitor's Cloth  Gloves,gear (pvp),240,np.nan,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE

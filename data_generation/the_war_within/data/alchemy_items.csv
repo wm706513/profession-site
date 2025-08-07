@@ -6,6 +6,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 211878,Algari Healing Potion,potion,515,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212239,Algari Mana Potion,potion,595,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212242,Cavedweller's Delight,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+244839,Invigorating Healing Potion,potion,510,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212260,Frontline Potion,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212254,Grotesque Vial,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212266,Potion of the Reborn Cheetah,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -13,6 +14,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 212263,Tempered Potion,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212251,Draught of Shocking Revelations,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212248,Draught of Silent Footfalls,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+248586,Umbral Essentia,potion,675,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212281,Flask of Alchemical Chaos,flask,755,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212299,Flask of Saving Graces,flask,595,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 212269,Flask of Tempered Aggression,flask,595,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE

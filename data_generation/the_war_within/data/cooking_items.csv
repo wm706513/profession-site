@@ -34,7 +34,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222730,Jester's Board,consumable,np.nan,0,5,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
 222735,Everything Stew,consumable,np.nan,0,2,np.nan,rare,FALSE,FALSE,FALSE,FALSE,FALSE
 222732,Feast of the Divine Day,consumable,np.nan,0,4,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
-222733,Feast of the Midnigfht Masquerade,consumable,np.nan,0,4,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
+222733,Feast of the Midnight Masquerade,consumable,np.nan,0,4,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
 222720,The Sushi Special,consumable,np.nan,0,3,np.nan,epic,FALSE,FALSE,FALSE,FALSE,FALSE
 223971,Azj-Kahet Special,consumable,np.nan,0,1,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
 222744,Cinder Nectar,consumable,np.nan,0,10,np.nan,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE

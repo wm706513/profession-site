@@ -75,6 +75,16 @@
         ]
     },
     {
+        "itemID": "244839",
+        "itemName": "Invigorating Healing Potion",
+        "nodes": [
+            "alchemical mastery",
+            "potent potions",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
         "itemID": "212260",
         "itemName": "Frontline Potion",
         "nodes": [
@@ -154,6 +164,18 @@
             "orbinid lore",
             "potent potions",
             "luredrop lore",
+            "mycobloom lore",
+            "bulk production (potions)"
+        ]
+    },
+    {
+        "itemID": "248586",
+        "itemName": "Umbral Essentia",
+        "nodes": [
+            "alchemical mastery",
+            "orbinid lore",
+            "potent potions",
+            "blessing blossom lore",
             "mycobloom lore",
             "bulk production (potions)"
         ]

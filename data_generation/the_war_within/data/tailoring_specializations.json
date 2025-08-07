@@ -773,6 +773,42 @@
         ]
     },
     {
+        "itemID": "238045",
+        "itemName": "Pure Chronomantic Fiber",
+        "nodes": [
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "238042",
+        "itemName": "Pure Dexterous Fiber",
+        "nodes": [
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "238046",
+        "itemName": "Pure Energizing Fiber",
+        "nodes": [
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
+        "itemID": "238044",
+        "itemName": "Pure Precise Fiber",
+        "nodes": [
+            "less is more",
+            "the perfect loop",
+            "extra threads"
+        ]
+    },
+    {
         "itemID": "217120",
         "itemName": "Algari Competitor's Cloth Bands",
         "nodes": [

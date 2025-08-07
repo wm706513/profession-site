@@ -631,6 +631,42 @@
         }
     },
     {
+        "itemID": "238045",
+        "itemName": "Pure Chronomantic Fiber",
+        "reagents": {
+            "228930": "5",
+            "224832": "5",
+            "219949": "2"
+        }
+    },
+    {
+        "itemID": "238042",
+        "itemName": "Pure Dexterous Fiber",
+        "reagents": {
+            "228930": "5",
+            "224832": "5",
+            "219949": "2"
+        }
+    },
+    {
+        "itemID": "238046",
+        "itemName": "Pure Energizing Fiber",
+        "reagents": {
+            "228930": "5",
+            "224832": "5",
+            "219949": "2"
+        }
+    },
+    {
+        "itemID": "238044",
+        "itemName": "Pure Precise Fiber",
+        "reagents": {
+            "228930": "5",
+            "224832": "5",
+            "219949": "2"
+        }
+    },
+    {
         "itemID": "217120",
         "itemName": "Algari Competitor's Cloth Bands",
         "reagents": {

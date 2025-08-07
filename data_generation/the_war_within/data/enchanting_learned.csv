@@ -25,16 +25,16 @@
 223692,Enchant Chest - Crystalline Radiance,TRUE,FALSE
 223689,Enchant Chest - Oathsworn's Strength,TRUE,FALSE
 223683,Enchant Chest - Stormrider's Agility,TRUE,FALSE
-223800,Enchant Cloak - Chant of Burrowing Rapdidity,FALSE,FALSE
+223800,Enchant Cloak - Chant of Burrowing Rapidity,FALSE,FALSE
 223737,Enchant Cloak - Chant of Leeching Fangs,TRUE,FALSE
 223731,Enchant Cloak - Chant of Winged Grace,FALSE,FALSE
 223740,Enchant Cloak - Whisper of Silken Speed,TRUE,TRUE
 223734,Enchant Cloak - Whisper of Silken Leech,TRUE,TRUE
 223727,Enchant Cloak - Whisper of Silken Avoidance,TRUE,TRUE
-223695,Enchant Tool - Algari Deftness,FALSE,FALSE
-223698,Enchant Tool - Algari Finesse,FALSE,TRUE
+223695,Enchant Tool - Algari Deftness,TRUE,FALSE
+223698,Enchant Tool - Algari Finesse,TRUE,TRUE
 223701,Enchant Tool - Algari Ingenuity,TRUE,FALSE
-223704,Enchant Tool - Algari Perception,FALSE,FALSE
+223704,Enchant Tool - Algari Perception,TRUE,FALSE
 223707,Enchant Tool - Algari Resourcefulness,TRUE,FALSE
 223662,Enchant Ring - Radiant Critical Strike,TRUE,FALSE
 223674,Enchant Ring - Radiant Haste,TRUE,FALSE
@@ -62,6 +62,7 @@
 224302,Gleeful Glamour - Draenei,TRUE,TRUE
 224303,Gleeful Glamour -  Dwarf,TRUE,TRUE
 224304,Gleeful Glamour - Earthen,TRUE,FALSE
+249707,Gleeful Glamour - Ethereal,FALSE,FALSE
 224305,Gleeful Glamour - Gnome,TRUE,TRUE
 224306,Gleeful Glamour - Goblin,TRUE,TRUE
 224307,Gleeful Glamour - Highmountain Tauren,TRUE,TRUE

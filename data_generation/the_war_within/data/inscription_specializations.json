@@ -230,6 +230,19 @@
         ]
     },
     {
+        "itemID": "243822",
+        "itemName": "Contract: The K'aresh Trust",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "contracts"
+        ]
+    },
+    {
         "itemID": "222606",
         "itemName": "Contract: The Severed Threads",
         "nodes": [
@@ -511,7 +524,7 @@
     },
     {
         "itemID": "222550",
-        "itemName": "Algari  Treatise on Enchanting",
+        "itemName": "Algari Treatise on Enchanting",
         "nodes": [
             "pursuit of knowledge",
             "eureka!",
@@ -602,6 +615,19 @@
     {
         "itemID": "232935",
         "itemName": "Vantus Rune: Liberation of Undermine",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "runic research",
+            "archival additions",
+            "multitasking",
+            "vantus runes"
+        ]
+    },
+    {
+        "itemID": "244148",
+        "itemName": "Vantus Rune: Manaforge Omega",
         "nodes": [
             "pursuit of knowledge",
             "detail oriented",
@@ -731,6 +757,16 @@
         ]
     },
     {
+        "itemID": "243051",
+        "itemName": "Glyph of the Strix",
+        "nodes": [
+            "pursuit of knowledge",
+            "multitasking",
+            "detail oriented",
+            "eureka!"
+        ]
+    },
+    {
         "itemID": "234248",
         "itemName": "Glyph of the Twilight Pistol Shot",
         "nodes": [
@@ -738,6 +774,46 @@
             "multitasking",
             "detail oriented",
             "eureka!"
+        ]
+    },
+    {
+        "itemID": "249702",
+        "itemName": "Deal: Cartel Ba",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "249704",
+        "itemName": "Deal: Cartel Om",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "249700",
+        "itemName": "Deal: Cartel Zo",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "multitasking"
+        ]
+    },
+    {
+        "itemID": "246809",
+        "itemName": "Inspired Writer's Quill",
+        "nodes": [
+            "pursuit of knowledge",
+            "detail oriented",
+            "eureka!",
+            "multitasking"
         ]
     }
 ]

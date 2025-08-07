@@ -17,6 +17,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222597,Contract: Council of Dornogal,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222603,Contract: Hallowfall Arathi,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 232533,Contract: The Cartels of Undermine,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243822,Contract: The K'aresh Trust,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222606,Contract: The Severed Threads,consumable,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222591,Algari Missive of the Peerless,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 222594,Algari Missive of the Quickblade,crafting reagent,565,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -39,7 +40,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222573,Lightweight Scribe's Quill,gear (profession),250,np.nan,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
 222546,Algari Treatise on Alchemy,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222554,Algari Treatise on Blacksmithing,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
-222550,Algari  Treatise on Enchanting,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+222550,Algari Treatise on Enchanting,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222621,Algari Treatise on Engineering,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222552,Algari Treatise on Herbalism,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222548,Algari Treatise on Inscription,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -49,6 +50,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 222649,Algari Treatise on Skinning,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 222547,Algari Treatise on  Tailoring,consumable,np.nan,0,1,np.nan,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 232935,Vantus Rune: Liberation of Undermine,consumable,565,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244148,Vantus Rune: Manaforge Omega,consumable,565,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 226034,Vantus Rune: Nerub-ar Palace,consumable,565,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 219933,Algari Competitor's Emblem,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
 219932,Algari Competitor's Insignia of Alacrity,gear (pvp),325,np.nan,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -59,4 +61,9 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 234246,Glyph of the Admiral's Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
 234245,Glyph of the Ashvane Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
 234247,Glyph of the Gilded Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243051,Glyph of the Strix,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
 234248,Glyph of the Twilight Pistol Shot,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+249702,Deal: Cartel Ba,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+249704,Deal: Cartel Om,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+249700,Deal: Cartel Zo,other,np.nan,0,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE
+246809,Inspired Writer's Quill,other,np.nan,np.nan,1,np.nan,common,TRUE,FALSE,FALSE,FALSE,FALSE

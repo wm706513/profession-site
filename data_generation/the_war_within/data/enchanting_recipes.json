@@ -242,7 +242,7 @@
     },
     {
         "itemID": "223800",
-        "itemName": "Enchant Cloak - Chant of Burrowing Rapdidity",
+        "itemName": "Enchant Cloak - Chant of Burrowing Rapidity",
         "reagents": {
             "221756": "1",
             "219946": "40",
@@ -571,6 +571,16 @@
         "reagents": {
             "213613": "1",
             "213612": "1",
+            "219946": "5"
+        }
+    },
+    {
+        "itemID": "249707",
+        "itemName": "Gleeful Glamour - Ethereal",
+        "reagents": {
+            "213613": "1",
+            "213612": "1",
+            "249218": "1",
             "219946": "5"
         }
     },

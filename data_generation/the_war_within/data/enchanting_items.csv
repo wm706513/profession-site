@@ -25,7 +25,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 223692,Enchant Chest - Crystalline Radiance,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 223689,Enchant Chest - Oathsworn's Strength,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 223683,Enchant Chest - Stormrider's Agility,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
-223800,Enchant Cloak - Chant of Burrowing Rapdidity,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+223800,Enchant Cloak - Chant of Burrowing Rapidity,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 223737,Enchant Cloak - Chant of Leeching Fangs,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 223731,Enchant Cloak - Chant of Winged Grace,item enhancement,480,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
 223740,Enchant Cloak - Whisper of Silken Speed,item enhancement,250,np.nan,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -62,6 +62,7 @@ itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualit
 224302,Gleeful Glamour - Draenei,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 224303,Gleeful Glamour -  Dwarf,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 224304,Gleeful Glamour - Earthen,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+249707,Gleeful Glamour - Ethereal,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 224305,Gleeful Glamour - Gnome,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 224306,Gleeful Glamour - Goblin,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
 224307,Gleeful Glamour - Highmountain Tauren,other,400,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE

@@ -315,7 +315,7 @@
     },
     {
         "itemID": "223800",
-        "itemName": "Enchant Cloak - Chant of Burrowing Rapdidity",
+        "itemName": "Enchant Cloak - Chant of Burrowing Rapidity",
         "nodes": [
             "everlasting enchantments",
             "tertiary trivialities",
@@ -747,6 +747,18 @@
     {
         "itemID": "224304",
         "itemName": "Gleeful Glamour - Earthen",
+        "nodes": [
+            "deceptive decorations",
+            "ephemerals enrichments and equipment",
+            "supplementary shattering",
+            "resourceful residue",
+            "magnificent multicrafting",
+            "immaculate ingenuity"
+        ]
+    },
+    {
+        "itemID": "249707",
+        "itemName": "Gleeful Glamour - Ethereal",
         "nodes": [
             "deceptive decorations",
             "ephemerals enrichments and equipment",

@@ -17,6 +17,7 @@
 222597,Contract: Council of Dornogal,TRUE,TRUE
 222603,Contract: Hallowfall Arathi,TRUE,TRUE
 232533,Contract: The Cartels of Undermine,TRUE,FALSE
+243822,Contract: The K'aresh Trust,TRUE,TRUE
 222606,Contract: The Severed Threads,TRUE,TRUE
 222591,Algari Missive of the Peerless,TRUE,TRUE
 222594,Algari Missive of the Quickblade,TRUE,TRUE
@@ -39,7 +40,7 @@
 222573,Lightweight Scribe's Quill,TRUE,TRUE
 222546,Algari Treatise on Alchemy,TRUE,TRUE
 222554,Algari Treatise on Blacksmithing,TRUE,TRUE
-222550,Algari  Treatise on Enchanting,TRUE,TRUE
+222550,Algari Treatise on Enchanting,TRUE,TRUE
 222621,Algari Treatise on Engineering,TRUE,TRUE
 222552,Algari Treatise on Herbalism,TRUE,TRUE
 222548,Algari Treatise on Inscription,TRUE,TRUE
@@ -49,6 +50,7 @@
 222649,Algari Treatise on Skinning,TRUE,TRUE
 222547,Algari Treatise on  Tailoring,TRUE,TRUE
 232935,Vantus Rune: Liberation of Undermine,TRUE,FALSE
+244148,Vantus Rune: Manaforge Omega,TRUE,TRUE
 226034,Vantus Rune: Nerub-ar Palace,TRUE,TRUE
 219933,Algari Competitor's Emblem,TRUE,FALSE
 219932,Algari Competitor's Insignia of Alacrity,TRUE,FALSE
@@ -59,4 +61,9 @@
 234246,Glyph of the Admiral's Pistol Shot,TRUE,FALSE
 234245,Glyph of the Ashvane Pistol Shot,TRUE,FALSE
 234247,Glyph of the Gilded Pistol Shot,TRUE,FALSE
+243051,Glyph of the Strix,TRUE,TRUE
 234248,Glyph of the Twilight Pistol Shot,TRUE,FALSE
+249702,Deal: Cartel Ba,FALSE,FALSE
+249704,Deal: Cartel Om,FALSE,FALSE
+249700,Deal: Cartel Zo,FALSE,FALSE
+246809,Inspired Writer's Quill,TRUE,TRUE
