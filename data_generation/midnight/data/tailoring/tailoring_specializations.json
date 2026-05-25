@@ -1,0 +1,1155 @@
+[
+    {
+        "itemID": "239700",
+        "itemName": "Bright Linen Bolt",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Nimble Needlework"
+        ]
+    },
+    {
+        "itemID": "239711",
+        "itemName": "Bright Linen Bandage",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "239198",
+        "itemName": "Arcanoweave Bolt",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Nimble Needlework",
+            "Arcanoweaving",
+            "Arcanoweave Expertise"
+        ]
+    },
+    {
+        "itemID": "239201",
+        "itemName": "Sunfire Silk Bolt",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Nimble Needlework",
+            "Sunfire Silk Weaving",
+            "Sunfire Expertise"
+        ]
+    },
+    {
+        "itemID": "239702",
+        "itemName": "Imbued Birght Linen Bolt",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Nimble Needlework"
+        ]
+    },
+    {
+        "itemID": "240166",
+        "itemName": "Arcanoweave Lining",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Arcanoweaving",
+            "Embroidery"
+        ]
+    },
+    {
+        "itemID": "240164",
+        "itemName": "Sunfire Silk Lining",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sunfire Silk Weaving",
+            "Embroidery"
+        ]
+    },
+    {
+        "itemID": "239656",
+        "itemName": "Adherent's Silken Shroud",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Cloaks"
+        ]
+    },
+    {
+        "itemID": "239648",
+        "itemName": "Martyr's Bindings",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Bracers"
+        ]
+    },
+    {
+        "itemID": "239652",
+        "itemName": "Martyr's Crown",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Hats"
+        ]
+    },
+    {
+        "itemID": "239653",
+        "itemName": "Martyr's Gloves",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Gloves"
+        ]
+    },
+    {
+        "itemID": "239651",
+        "itemName": "Martyr's Leggings",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Trousers"
+        ]
+    },
+    {
+        "itemID": "239650",
+        "itemName": "Martyr's Mantle",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Shoulders"
+        ]
+    },
+    {
+        "itemID": "239654",
+        "itemName": "Martyr's Slippers",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Boots"
+        ]
+    },
+    {
+        "itemID": "239655",
+        "itemName": "Martyr's Vestments",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Robes"
+        ]
+    },
+    {
+        "itemID": "239649",
+        "itemName": "Martyr's Waistwrap",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "239675",
+        "itemName": "Courtly Shoulders",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Shoulders"
+        ]
+    },
+    {
+        "itemID": "239672",
+        "itemName": "Courtly Robes",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Robes"
+        ]
+    },
+    {
+        "itemID": "239674",
+        "itemName": "Courtly Cloak",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Cloaks"
+        ]
+    },
+    {
+        "itemID": "239669",
+        "itemName": "Courtly Gloves",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Gloves"
+        ]
+    },
+    {
+        "itemID": "239668",
+        "itemName": "Courtly Helm",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Hats"
+        ]
+    },
+    {
+        "itemID": "239676",
+        "itemName": "Courtly Pants",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Trousers"
+        ]
+    },
+    {
+        "itemID": "239670",
+        "itemName": "Courtly Belt",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "239673",
+        "itemName": "Courtly Slippers",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Boots"
+        ]
+    },
+    {
+        "itemID": "239671",
+        "itemName": "Courtly Wrists",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Bracers"
+        ]
+    },
+    {
+        "itemID": "239660",
+        "itemName": "Arcanoweave Bracers",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Bracers"
+        ]
+    },
+    {
+        "itemID": "239661",
+        "itemName": "Arcanoweave Cloak",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Cloaks"
+        ]
+    },
+    {
+        "itemID": "239664",
+        "itemName": "Arcanoweave Cord",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "239662",
+        "itemName": "Arcanoweave Treads",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Boots"
+        ]
+    },
+    {
+        "itemID": "239657",
+        "itemName": "Sunfire Bracers",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Bracers"
+        ]
+    },
+    {
+        "itemID": "239658",
+        "itemName": "Sunfire Cloak",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Cloaks"
+        ]
+    },
+    {
+        "itemID": "239663",
+        "itemName": "Sunfire Sash",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "239659",
+        "itemName": "Sunfire Treads",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Boots"
+        ]
+    },
+    {
+        "itemID": "267052",
+        "itemName": "Thalassian Alchemy Coveralls",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "267054",
+        "itemName": "Thalassian Chef's Chapeau",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "267056",
+        "itemName": "Thalassian Enchanter's Bonnet",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "267060",
+        "itemName": "Thalassian Herbalist's Cowl",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "267062",
+        "itemName": "Thalassian Tailor's Threads",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239635",
+        "itemName": "Elegant Artisan's Alchemy Coveralls",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239636",
+        "itemName": "Elegant Artisan's Cooking Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239637",
+        "itemName": "Elegant Artisan's Enchanting Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239638",
+        "itemName": "Elegant Artisan's Fishing Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239639",
+        "itemName": "Elegant Artisan's Herbalism Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239640",
+        "itemName": "Elegant Artisan's Tailoring Robe",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239641",
+        "itemName": "Bright Linen Alchemy Apron",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239643",
+        "itemName": "Bright Linen Enchanting Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239644",
+        "itemName": "Bright Linen Fishing Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239645",
+        "itemName": "Bright Linen Herbalism Hat",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239646",
+        "itemName": "Bright Linen Tailoring Robe",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "239642",
+        "itemName": "Chef's Bright Linen Cooking Chapeau",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery"
+        ]
+    },
+    {
+        "itemID": "240154",
+        "itemName": "Arcanoweave Spellthread",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Embroidery",
+            "Arcanoweaving"
+        ]
+    },
+    {
+        "itemID": "240094",
+        "itemName": "Sunfire Silk Spellthread",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Embroidery",
+            "Sunfire Silk Weaving"
+        ]
+    },
+    {
+        "itemID": "240156",
+        "itemName": "Bright Linen Spellthread",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Embroidery"
+        ]
+    },
+    {
+        "itemID": "240161",
+        "itemName": "Sunfire Silk Backpack",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "240158",
+        "itemName": "Arcanoweave Reagent Rucksack",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "240160",
+        "itemName": "Imbued Bright Linen Backpack",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "240159",
+        "itemName": "Bright Linen Reagent Satchel",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "262592",
+        "itemName": "Plush Silvermoon Bed",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "262593",
+        "itemName": "Chic Silvermoon Pillow",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "262352",
+        "itemName": "Lush Telogrus Carpet",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "262591",
+        "itemName": "Luxurious Silvermoon Lounge Cushion",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "262599",
+        "itemName": "Silvermoon Curtains",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "262611",
+        "itemName": "Voidstrider Saddlebag",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "239677",
+        "itemName": "Thalassian Competitor's Cloth Bands",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Bracers"
+        ]
+    },
+    {
+        "itemID": "239678",
+        "itemName": "Thalassian Competitor's Cloth Cloak",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Cloaks"
+        ]
+    },
+    {
+        "itemID": "239679",
+        "itemName": "Thalassian Competitor's Cloth Gloves",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Gloves"
+        ]
+    },
+    {
+        "itemID": "239680",
+        "itemName": "Thalassian Competitor's Cloth Hood",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Hats"
+        ]
+    },
+    {
+        "itemID": "239681",
+        "itemName": "Thalassian Competitor's Cloth Leggings",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Trousers"
+        ]
+    },
+    {
+        "itemID": "239682",
+        "itemName": "Thalassian Competitor's Cloth Sash",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "239683",
+        "itemName": "Thalassian Competitor's Cloth Shoulderpads",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Elegant Accessories",
+            "Shoulders"
+        ]
+    },
+    {
+        "itemID": "239684",
+        "itemName": "Thalassian Competitor's Cloth Treads",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Head-to-Toes",
+            "Boots"
+        ]
+    },
+    {
+        "itemID": "239685",
+        "itemName": "Thalassian Competitor's Cloth Tunic",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency",
+            "Sin'dorei Finery",
+            "Outfit Essentials",
+            "Robes"
+        ]
+    },
+    {
+        "itemID": "267448",
+        "itemName": "Blood-Tempered Cape",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "267447",
+        "itemName": "Farstrider's Embroidered Cover",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "267446",
+        "itemName": "Scout's Cape",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "267445",
+        "itemName": "Silvermoon Agent's Drape",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "267444",
+        "itemName": "Smuggler's Cloak",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    },
+    {
+        "itemID": "267449",
+        "itemName": "Spellbreaker's Shroud",
+        "nodes": [
+            "Fabric Specialist",
+            "Eastern Kingdoms Cloth",
+            "Otherworldly Cloth",
+            "Fiber Arts",
+            "Fashion Genius",
+            "Textile Utilization",
+            "Creative Efficiency"
+        ]
+    }
+]

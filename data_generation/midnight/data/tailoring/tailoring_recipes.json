@@ -1,0 +1,815 @@
+[
+    {
+        "itemID": "239700",
+        "itemName": "Bright Linen Bolt",
+        "reagents": {
+            "251665": 4,
+            "236963": 1
+        }
+    },
+    {
+        "itemID": "239711",
+        "itemName": "Bright Linen Bandage",
+        "reagents": {
+            "239700": 1
+        }
+    },
+    {
+        "itemID": "239198",
+        "itemName": "Arcanoweave Bolt",
+        "reagents": {
+            "236951": 4,
+            "237018": 5,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239201",
+        "itemName": "Sunfire Silk Bolt",
+        "reagents": {
+            "236949": 4,
+            "237015": 5,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239702",
+        "itemName": "Imbued Birght Linen Bolt",
+        "reagents": {
+            "251665": 4,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "240166",
+        "itemName": "Arcanoweave Lining",
+        "reagents": {
+            "251691": 1,
+            "239198": 2,
+            "237018": 6
+        }
+    },
+    {
+        "itemID": "240164",
+        "itemName": "Sunfire Silk Lining",
+        "reagents": {
+            "251691": 1,
+            "239201": 2,
+            "237015": 6
+        }
+    },
+    {
+        "itemID": "239656",
+        "itemName": "Adherent's Silken Shroud",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "251283": 1,
+            "239201": 6,
+            "239198": 6,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239648",
+        "itemName": "Martyr's Bindings",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236950": 8,
+            "251283": 1,
+            "238522": 1,
+            "239198": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239652",
+        "itemName": "Martyr's Crown",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236949": 8,
+            "251283": 1,
+            "238522": 1,
+            "239198": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239653",
+        "itemName": "Martyr's Gloves",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236949": 8,
+            "251283": 1,
+            "238522": 1,
+            "239201": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239651",
+        "itemName": "Martyr's Leggings",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236952": 8,
+            "251283": 1,
+            "238522": 1,
+            "239201": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239650",
+        "itemName": "Martyr's Mantle",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236952": 8,
+            "251283": 1,
+            "238522": 1,
+            "239198": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239654",
+        "itemName": "Martyr's Slippers",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236951": 8,
+            "251283": 1,
+            "238522": 1,
+            "239198": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239655",
+        "itemName": "Martyr's Vestments",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236951": 8,
+            "251283": 1,
+            "238522": 1,
+            "239201": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239649",
+        "itemName": "Martyr's Waistwrap",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236950": 8,
+            "251283": 1,
+            "238522": 1,
+            "239201": 12,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239675",
+        "itemName": "Courtly Shoulders",
+        "reagents": {
+            "251665": 3,
+            "251691": 1,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "239672",
+        "itemName": "Courtly Robes",
+        "reagents": {
+            "251665": 3,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "239674",
+        "itemName": "Courtly Cloak",
+        "reagents": {
+            "251665": 3,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "239669",
+        "itemName": "Courtly Gloves",
+        "reagents": {
+            "251665": 3,
+            "239700": 3
+        }
+    },
+    {
+        "itemID": "239668",
+        "itemName": "Courtly Helm",
+        "reagents": {
+            "251665": 4,
+            "251691": 3,
+            "239700": 3
+        }
+    },
+    {
+        "itemID": "239676",
+        "itemName": "Courtly Pants",
+        "reagents": {
+            "251665": 4,
+            "251691": 3,
+            "239700": 3
+        }
+    },
+    {
+        "itemID": "239670",
+        "itemName": "Courtly Belt",
+        "reagents": {
+            "251665": 3,
+            "251691": 2,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "239673",
+        "itemName": "Courtly Slippers",
+        "reagents": {
+            "251665": 3,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "239671",
+        "itemName": "Courtly Wrists",
+        "reagents": {
+            "251665": 2,
+            "239700": 2
+        }
+    },
+    {
+        "itemID": "239660",
+        "itemName": "Arcanoweave Bracers",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236949": 12,
+            "251283": 1,
+            "239198": 6,
+            "243602": 4,
+            "237018": 20
+        }
+    },
+    {
+        "itemID": "239661",
+        "itemName": "Arcanoweave Cloak",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236952": 12,
+            "251283": 1,
+            "238525": 4,
+            "239198": 10,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239664",
+        "itemName": "Arcanoweave Cord",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236950": 12,
+            "251283": 1,
+            "239198": 8,
+            "243602": 6,
+            "237018": 15
+        }
+    },
+    {
+        "itemID": "239662",
+        "itemName": "Arcanoweave Treads",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236951": 12,
+            "251283": 1,
+            "239198": 10,
+            "237018": 10
+        }
+    },
+    {
+        "itemID": "239657",
+        "itemName": "Sunfire Bracers",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236951": 12,
+            "238523": 4,
+            "251283": 1,
+            "239201": 6,
+            "243602": 4,
+            "237015": 20
+        }
+    },
+    {
+        "itemID": "239658",
+        "itemName": "Sunfire Cloak",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236949": 12,
+            "251283": 1,
+            "238525": 4,
+            "239201": 10,
+            "243602": 6
+        }
+    },
+    {
+        "itemID": "239663",
+        "itemName": "Sunfire Sash",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236950": 12,
+            "251283": 1,
+            "239201": 8,
+            "243602": 6,
+            "237015": 15
+        }
+    },
+    {
+        "itemID": "239659",
+        "itemName": "Sunfire Treads",
+        "reagents": {
+            "232875": 2,
+            "251691": 5,
+            "236952": 12,
+            "251283": 1,
+            "239201": 10,
+            "243602": 6,
+            "237015": 10
+        }
+    },
+    {
+        "itemID": "267052",
+        "itemName": "Thalassian Alchemy Coveralls",
+        "reagents": {
+            "251691": 2,
+            "236950": 5,
+            "245345": 20,
+            "239198": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "267054",
+        "itemName": "Thalassian Chef's Chapeau",
+        "reagents": {
+            "251691": 2,
+            "236949": 5,
+            "245345": 20,
+            "239201": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "267056",
+        "itemName": "Thalassian Enchanter's Bonnet",
+        "reagents": {
+            "251691": 2,
+            "236951": 5,
+            "245345": 20,
+            "239198": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "267060",
+        "itemName": "Thalassian Herbalist's Cowl",
+        "reagents": {
+            "251691": 2,
+            "236951": 5,
+            "245345": 20,
+            "239198": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "267062",
+        "itemName": "Thalassian Tailor's Threads",
+        "reagents": {
+            "251691": 2,
+            "236952": 5,
+            "245345": 20,
+            "239201": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239635",
+        "itemName": "Elegant Artisan's Alchemy Coveralls",
+        "reagents": {
+            "251691": 2,
+            "236950": 5,
+            "239198": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239636",
+        "itemName": "Elegant Artisan's Cooking Hat",
+        "reagents": {
+            "251691": 2,
+            "236949": 5,
+            "239201": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239637",
+        "itemName": "Elegant Artisan's Enchanting Hat",
+        "reagents": {
+            "251691": 2,
+            "236951": 5,
+            "239198": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239638",
+        "itemName": "Elegant Artisan's Fishing Hat",
+        "reagents": {
+            "251691": 2,
+            "236950": 5,
+            "239201": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239639",
+        "itemName": "Elegant Artisan's Herbalism Hat",
+        "reagents": {
+            "251691": 2,
+            "236951": 5,
+            "239198": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239640",
+        "itemName": "Elegant Artisan's Tailoring Robe",
+        "reagents": {
+            "251691": 2,
+            "236952": 5,
+            "239201": 8,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "239641",
+        "itemName": "Bright Linen Alchemy Apron",
+        "reagents": {
+            "251665": 5,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "239643",
+        "itemName": "Bright Linen Enchanting Hat",
+        "reagents": {
+            "251665": 3,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "239644",
+        "itemName": "Bright Linen Fishing Hat",
+        "reagents": {
+            "251665": 3,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "239645",
+        "itemName": "Bright Linen Herbalism Hat",
+        "reagents": {
+            "251665": 3,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "239646",
+        "itemName": "Bright Linen Tailoring Robe",
+        "reagents": {
+            "251665": 3,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "239642",
+        "itemName": "Chef's Bright Linen Cooking Chapeau",
+        "reagents": {
+            "251665": 3,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "240154",
+        "itemName": "Arcanoweave Spellthread",
+        "reagents": {
+            "251691": 5,
+            "236952": 6,
+            "251285": 4,
+            "239198": 8,
+            "243602": 6,
+            "237018": 12
+        }
+    },
+    {
+        "itemID": "240094",
+        "itemName": "Sunfire Silk Spellthread",
+        "reagents": {
+            "251691": 5,
+            "236950": 6,
+            "251285": 4,
+            "239201": 8,
+            "243602": 6,
+            "237015": 12
+        }
+    },
+    {
+        "itemID": "240156",
+        "itemName": "Bright Linen Spellthread",
+        "reagents": {
+            "251691": 3,
+            "239702": 2,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "240161",
+        "itemName": "Sunfire Silk Backpack",
+        "reagents": {
+            "251691": 2,
+            "236950": 6,
+            "239201": 10,
+            "237015": 32
+        }
+    },
+    {
+        "itemID": "240158",
+        "itemName": "Arcanoweave Reagent Rucksack",
+        "reagents": {
+            "251691": 2,
+            "236952": 6,
+            "239198": 10,
+            "237018": 32
+        }
+    },
+    {
+        "itemID": "240160",
+        "itemName": "Imbued Bright Linen Backpack",
+        "reagents": {
+            "251665": 3,
+            "238525": 8,
+            "239702": 10
+        }
+    },
+    {
+        "itemID": "240159",
+        "itemName": "Bright Linen Reagent Satchel",
+        "reagents": {
+            "251665": 3,
+            "238525": 8,
+            "239700": 8
+        }
+    },
+    {
+        "itemID": "262592",
+        "itemName": "Plush Silvermoon Bed",
+        "reagents": {
+            "251665": 3,
+            "256963": 46,
+            "239201": 8,
+            "239198": 8
+        }
+    },
+    {
+        "itemID": "262593",
+        "itemName": "Chic Silvermoon Pillow",
+        "reagents": {
+            "251665": 3,
+            "256963": 8,
+            "239201": 8,
+            "239198": 8
+        }
+    },
+    {
+        "itemID": "262352",
+        "itemName": "Lush Telogrus Carpet",
+        "reagents": {
+            "251665": 3,
+            "256963": 18,
+            "239201": 8,
+            "239198": 8
+        }
+    },
+    {
+        "itemID": "262591",
+        "itemName": "Luxurious Silvermoon Lounge Cushion",
+        "reagents": {
+            "251665": 3,
+            "256963": 12,
+            "239201": 8,
+            "239198": 8
+        }
+    },
+    {
+        "itemID": "262599",
+        "itemName": "Silvermoon Curtains",
+        "reagents": {
+            "251665": 3,
+            "256963": 24,
+            "239201": 8,
+            "239198": 8
+        }
+    },
+    {
+        "itemID": "262611",
+        "itemName": "Voidstrider Saddlebag",
+        "reagents": {
+            "251665": 3,
+            "256963": 16,
+            "239201": 8,
+            "239198": 8
+        }
+    },
+    {
+        "itemID": "239677",
+        "itemName": "Thalassian Competitor's Cloth Bands",
+        "reagents": {
+            "256559": 3,
+            "251665": 2,
+            "236950": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239678",
+        "itemName": "Thalassian Competitor's Cloth Cloak",
+        "reagents": {
+            "256559": 3,
+            "251665": 2,
+            "236949": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239679",
+        "itemName": "Thalassian Competitor's Cloth Gloves",
+        "reagents": {
+            "256559": 4,
+            "251665": 2,
+            "236949": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239680",
+        "itemName": "Thalassian Competitor's Cloth Hood",
+        "reagents": {
+            "256559": 5,
+            "251665": 2,
+            "236951": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239681",
+        "itemName": "Thalassian Competitor's Cloth Leggings",
+        "reagents": {
+            "256559": 5,
+            "251665": 2,
+            "236951": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239682",
+        "itemName": "Thalassian Competitor's Cloth Sash",
+        "reagents": {
+            "256559": 4,
+            "251665": 2,
+            "236952": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239683",
+        "itemName": "Thalassian Competitor's Cloth Shoulderpads",
+        "reagents": {
+            "256559": 4,
+            "251665": 2,
+            "236950": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239684",
+        "itemName": "Thalassian Competitor's Cloth Treads",
+        "reagents": {
+            "256559": 4,
+            "251665": 2,
+            "236949": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "239685",
+        "itemName": "Thalassian Competitor's Cloth Tunic",
+        "reagents": {
+            "256559": 5,
+            "251665": 2,
+            "236952": 4,
+            "238523": 4,
+            "239702": 6
+        }
+    },
+    {
+        "itemID": "267448",
+        "itemName": "Blood-Tempered Cape",
+        "reagents": {
+            "251691": 2,
+            "236951": 6,
+            "237018": 10,
+            "239198": 32
+        }
+    },
+    {
+        "itemID": "267447",
+        "itemName": "Farstrider's Embroidered Cover",
+        "reagents": {
+            "251691": 2,
+            "236950": 6,
+            "237015": 10,
+            "239201": 32
+        }
+    },
+    {
+        "itemID": "267446",
+        "itemName": "Scout's Cape",
+        "reagents": {
+            "251691": 2,
+            "236949": 6,
+            "237018": 10,
+            "239198": 32
+        }
+    },
+    {
+        "itemID": "267445",
+        "itemName": "Silvermoon Agent's Drape",
+        "reagents": {
+            "251691": 2,
+            "236949": 6,
+            "237015": 10,
+            "239201": 32
+        }
+    },
+    {
+        "itemID": "267444",
+        "itemName": "Smuggler's Cloak",
+        "reagents": {
+            "251691": 2,
+            "236952": 6,
+            "237018": 10,
+            "239198": 32
+        }
+    },
+    {
+        "itemID": "267449",
+        "itemName": "Spellbreaker's Shroud",
+        "reagents": {
+            "251691": 2,
+            "236952": 6,
+            "237015": 10,
+            "239201": 32
+        }
+    }
+]

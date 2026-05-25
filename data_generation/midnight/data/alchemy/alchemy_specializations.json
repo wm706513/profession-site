@@ -1,0 +1,424 @@
+[
+    {
+        "itemID": "241309",
+        "itemName": "Light's Potential",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241297",
+        "itemName": "Potion of Zealotry",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241287",
+        "itemName": "Light's Preservation",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241301",
+        "itemName": "Lightfused Mana Potion",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241307",
+        "itemName": "Refreshing Serum",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241305",
+        "itemName": "Silvermoon Health Potion",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241339",
+        "itemName": "Enlightenment Tonic",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241295",
+        "itemName": "Potion of Devoured Dreams",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Void",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241289",
+        "itemName": "Potion of Recklessness",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Void",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241299",
+        "itemName": "Amani Extract",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Void",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241293",
+        "itemName": "Draught of Rampant Abandon",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Void",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241303",
+        "itemName": "Void-Shrouded Tincture",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Void",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241285",
+        "itemName": "Voidlight Potion Cauldron",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Light",
+            "Path of Void",
+            "Brilliant Potioneer",
+            "Prolific Potioneer - Light",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery",
+            "Reuse"
+        ]
+    },
+    {
+        "itemID": "241319",
+        "itemName": "Cauldron of Sin'dorei Flasks",
+        "nodes": [
+            "Fluent in Flasks",
+            "Sin'dorei Specialist",
+            "Ingenious Libations",
+            "Flask Abundance",
+            "Haranir Secrets",
+            "Clever Creations",
+            "Phial Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241311",
+        "itemName": "Haranir Phial of Finesse",
+        "nodes": [
+            "Fluent in Flasks",
+            "Haranir Secrets",
+            "Clever Creations",
+            "Phial Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241313",
+        "itemName": "Haranir Phial of Ingenuity",
+        "nodes": [
+            "Fluent in Flasks",
+            "Haranir Secrets",
+            "Clever Creations",
+            "Phial Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241317",
+        "itemName": "Haranir Phial of Perception",
+        "nodes": [
+            "Fluent in Flasks",
+            "Haranir Secrets",
+            "Clever Creations",
+            "Phial Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241325",
+        "itemName": "Flask of the Blood Knights",
+        "nodes": [
+            "Fluent in Flasks",
+            "Sin'dorei Specialist",
+            "Ingenious Libations",
+            "Flask Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241323",
+        "itemName": "Flask of the Magisters",
+        "nodes": [
+            "Fluent in Flasks",
+            "Sin'dorei Specialist",
+            "Ingenious Libations",
+            "Flask Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241327",
+        "itemName": "Flask of the Shattered Sun",
+        "nodes": [
+            "Fluent in Flasks",
+            "Sin'dorei Specialist",
+            "Ingenious Libations",
+            "Flask Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241321",
+        "itemName": "Flask of Thalassian Resistance",
+        "nodes": [
+            "Fluent in Flasks",
+            "Sin'dorei Specialist",
+            "Ingenious Libations",
+            "Flask Abundance",
+            "Alchemical Mastery",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "241334",
+        "itemName": "Vicious Thalassian Flask of Honor",
+        "nodes": [
+            "Ingenious Libations",
+            "Flask Abundance",
+            "Recycle"
+        ]
+    },
+    {
+        "itemID": "245650",
+        "itemName": "Bouquet of Herbs",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce",
+            "Transmutation Authority",
+            "Inspired Transmutation",
+            "Synthesis Synergy",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "242650",
+        "itemName": "Box of Rocks",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce",
+            "Transmutation Authority",
+            "Inspired Transmutation",
+            "Synthesis Synergy",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "245647",
+        "itemName": "School of Gems",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce",
+            "Transmutation Authority",
+            "Inspired Transmutation",
+            "Synthesis Synergy",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "241283",
+        "itemName": "Wondrous Synergist",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce",
+            "Transmutation Authority",
+            "Inspired Transmutation",
+            "Synthesis Synergy",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "236949",
+        "itemName": "Transmute: Mote of Light",
+        "nodes": [
+            "Reduce",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "236950",
+        "itemName": "Transmute: Mote of Primal Energy",
+        "nodes": [
+            "Reduce",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "236952",
+        "itemName": "Transmute: Mote of Pure Void",
+        "nodes": [
+            "Reduce",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "236951",
+        "itemName": "Transmute: Mote of Wild Magic",
+        "nodes": [
+            "Reduce",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "241281",
+        "itemName": "Composite Flora",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce",
+            "Transmutation Authority",
+            "Inspired Transmutation",
+            "Synthesis Synergy",
+            "Metamorphic Mastery"
+        ]
+    },
+    {
+        "itemID": "241340",
+        "itemName": "Magister's Alchemist Stone",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce"
+        ]
+    },
+    {
+        "itemID": "241291",
+        "itemName": "Primal Philosopher's Stone",
+        "nodes": [
+            "Alchemical Mastery",
+            "Reduce"
+        ]
+    },
+    {
+        "itemID": "257420",
+        "itemName": "Silvermoon Spire Fountain",
+        "nodes": {
+        }
+    },
+    {
+        "itemID": "262355",
+        "itemName": "Entropic Illuminant",
+        "nodes": {
+        }
+    },
+    {
+        "itemID": "262356",
+        "itemName": "Haranir Preserving Agents",
+        "nodes": {
+        }
+    },
+    {
+        "itemID": "262354",
+        "itemName": "Riftstone",
+        "nodes": {
+        }
+    },
+    {
+        "itemID": "253506",
+        "itemName": "Rootbound Vat",
+        "nodes": {
+        }
+    },
+    {
+        "itemID": "256356",
+        "itemName": "Sunsmoke Censer",
+        "nodes": {
+        }
+    },
+    {
+        "itemID": "268954",
+        "itemName": "Entropic Extract",
+        "nodes": [
+            "Potion Prowess",
+            "Path of Void",
+            "Cunning Potioneer",
+            "Prolific Potioneer - Void",
+            "Alchemical Mastery"
+        ]
+    }
+]

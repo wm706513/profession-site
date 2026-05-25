@@ -1,0 +1,988 @@
+[
+    {
+        "itemID": "243576",
+        "itemName": "Soul Sprocket",
+        "reagents": {
+            "253302": 1,
+            "237359": 5,
+            "237362": 10
+        }
+    },
+    {
+        "itemID": "243574",
+        "itemName": "Song Gear",
+        "reagents": {
+            "253302": 1,
+            "237359": 10,
+            "237362": 5
+        }
+    },
+    {
+        "itemID": "244703",
+        "itemName": "Consistent Cogwheel",
+        "reagents": {
+            "253303": 5,
+            "236949": 1,
+            "243574": 2,
+            "243576": 1
+        }
+    },
+    {
+        "itemID": "244697",
+        "itemName": "Flux Cogwheel",
+        "reagents": {
+            "253303": 5,
+            "236950": 1,
+            "243574": 2,
+            "243576": 1
+        }
+    },
+    {
+        "itemID": "244699",
+        "itemName": "Greased Cogwheel",
+        "reagents": {
+            "253303": 5,
+            "236951": 1,
+            "243574": 2,
+            "243576": 1
+        }
+    },
+    {
+        "itemID": "244701",
+        "itemName": "Perfected Cogwheel",
+        "reagents": {
+            "253303": 5,
+            "236952": 1,
+            "243574": 2,
+            "243576": 1
+        }
+    },
+    {
+        "itemID": "248486",
+        "itemName": "Emergency Soul Link",
+        "reagents": {
+            "243581": 1,
+            "243576": 1
+        }
+    },
+    {
+        "itemID": "248138",
+        "itemName": "Curious Red Button",
+        "reagents": {
+            "253303": 3,
+            "243581": 1,
+            "243574": 1
+        }
+    },
+    {
+        "itemID": "248485",
+        "itemName": "Wormhole Generator: Quel'Thalas",
+        "reagents": {
+            "253303": 3,
+            "243581": 1,
+            "243574": 1
+        }
+    },
+    {
+        "itemID": "248132",
+        "itemName": "Kinetic Ankle Primers",
+        "reagents": {
+            "243581": 1,
+            "243578": 3,
+            "243574": 2
+        }
+    },
+    {
+        "itemID": "248130",
+        "itemName": "Lucky Keychain",
+        "reagents": {
+            "253303": 10,
+            "236951": 1,
+            "243581": 5
+        }
+    },
+    {
+        "itemID": "248135",
+        "itemName": "B1P, Scorcher of Souls",
+        "reagents": {
+            "253303": 10,
+            "236951": 1,
+            "243581": 5
+        }
+    },
+    {
+        "itemID": "248136",
+        "itemName": "M3DDY, Travel-Sized",
+        "reagents": {
+            "243581": 2,
+            "243578": 3,
+            "243576": 1
+        }
+    },
+    {
+        "itemID": "248137",
+        "itemName": "M3DDY, Travel-Sized",
+        "reagents": {
+            "243574": 1,
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "255843",
+        "itemName": "HU5H, Nonchalant Pup",
+        "reagents": {
+            "253303": 10,
+            "236952": 1,
+            "243581": 5
+        }
+    },
+    {
+        "itemID": "248409",
+        "itemName": "W-47CH D0G",
+        "reagents": {
+            "253303": 3,
+            "243581": 1,
+            "243574": 1
+        }
+    },
+    {
+        "itemID": "244743",
+        "itemName": "Aetherlume Eye Wrap",
+        "reagents": {
+            "232875": 2,
+            "253302": 5,
+            "236951": 15,
+            "251283": 1,
+            "243578": 10,
+            "243581": 3,
+            "239702": 2
+        }
+    },
+    {
+        "itemID": "244747",
+        "itemName": "Aetherlume Silken Cuffs",
+        "reagents": {
+            "232875": 2,
+            "253302": 8,
+            "236951": 15,
+            "251283": 1,
+            "243578": 10,
+            "243581": 2,
+            "239702": 2
+        }
+    },
+    {
+        "itemID": "244771",
+        "itemName": "Aetherlume Softsteppers",
+        "reagents": {
+            "232875": 2,
+            "253302": 6,
+            "236951": 6,
+            "236950": 6,
+            "251283": 1,
+            "243578": 10,
+            "243581": 4,
+            "239702": 2
+        }
+    },
+    {
+        "itemID": "244759",
+        "itemName": "Quel'dorei Cloth Goggles",
+        "reagents": {
+            "253303": 4,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244755",
+        "itemName": "Quel'dorei Silken Cuffs",
+        "reagents": {
+            "253303": 5,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244767",
+        "itemName": "Quel'dorei Sofsteppers",
+        "reagents": {
+            "253303": 6,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244739",
+        "itemName": "Thalassian Competitor's Cloth Cuffs",
+        "reagents": {
+            "256559": 3,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244735",
+        "itemName": "Thalassian Competitor's Cloth Goggles",
+        "reagents": {
+            "256559": 5,
+            "253302": 3,
+            "243576": 5,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "245337",
+        "itemName": "Evercore Swiftfeet",
+        "reagents": {
+            "253303": 3,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "245341",
+        "itemName": "Evercore Wrist Latch",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244751",
+        "itemName": "Evercore Zoomshroud",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244748",
+        "itemName": "Aetherlme Bands",
+        "reagents": {
+            "232875": 2,
+            "253302": 8,
+            "236951": 15,
+            "251283": 1,
+            "243578": 10,
+            "243581": 2,
+            "238518": 2
+        }
+    },
+    {
+        "itemID": "244744",
+        "itemName": "Aetherlume Optics",
+        "reagents": {
+            "232875": 2,
+            "253302": 5,
+            "236951": 15,
+            "251283": 1,
+            "243578": 10,
+            "243581": 3,
+            "238518": 2
+        }
+    },
+    {
+        "itemID": "244772",
+        "itemName": "Aetherlume Runners",
+        "reagents": {
+            "232875": 2,
+            "253302": 6,
+            "236951": 6,
+            "236950": 6,
+            "251283": 1,
+            "243578": 10,
+            "243581": 4,
+            "238518": 2
+        }
+    },
+    {
+        "itemID": "244756",
+        "itemName": "Quel'dorei Bands",
+        "reagents": {
+            "253303": 5,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244760",
+        "itemName": "Quel'dorei Leather Optics",
+        "reagents": {
+            "253303": 4,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244768",
+        "itemName": "Quel'dorei Runners",
+        "reagents": {
+            "253303": 6,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244740",
+        "itemName": "Thaalssian Competitor's Leather Bands",
+        "reagents": {
+            "256559": 3,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244736",
+        "itemName": "Thalassian Competitor's Leather Optics",
+        "reagents": {
+            "256559": 5,
+            "253302": 3,
+            "243576": 5,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "245342",
+        "itemName": "Evercore Binding",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244752",
+        "itemName": "Evercore Shade",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "245338",
+        "itemName": "Evercore Stichwraps",
+        "reagents": {
+            "253303": 3,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244749",
+        "itemName": "Aetherlume Bracelets",
+        "reagents": {
+            "232875": 2,
+            "253302": 8,
+            "236951": 15,
+            "251283": 1,
+            "243578": 10,
+            "243581": 2,
+            "238520": 2
+        }
+    },
+    {
+        "itemID": "244773",
+        "itemName": "Aetherlume Clonkers",
+        "reagents": {
+            "232875": 2,
+            "253302": 6,
+            "236951": 6,
+            "236950": 6,
+            "251283": 1,
+            "243578": 10,
+            "243581": 4,
+            "238520": 2
+        }
+    },
+    {
+        "itemID": "244745",
+        "itemName": "Aetherlume Vision Shroud",
+        "reagents": {
+            "232875": 2,
+            "253302": 5,
+            "236951": 15,
+            "251283": 1,
+            "243578": 10,
+            "243581": 3,
+            "238520": 2
+        }
+    },
+    {
+        "itemID": "244757",
+        "itemName": "Quel'dorei Bracelets",
+        "reagents": {
+            "253303": 5,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244769",
+        "itemName": "Quel'dorei Clonkers",
+        "reagents": {
+            "253303": 6,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244761",
+        "itemName": "Quel'dorei Mail Shroud",
+        "reagents": {
+            "253303": 4,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244741",
+        "itemName": "Thalassian Competitor's Mail Links",
+        "reagents": {
+            "256559": 3,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244737",
+        "itemName": "Thalassian Competitor's Mail Visor",
+        "reagents": {
+            "256559": 5,
+            "253302": 3,
+            "243576": 5,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "245343",
+        "itemName": "Evercore Chainguards",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244753",
+        "itemName": "Evercore Reconissance",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "245339",
+        "itemName": "Evercore Turbochains",
+        "reagents": {
+            "253303": 3,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244750",
+        "itemName": "Aetherlume Guards",
+        "reagents": {
+            "232875": 2,
+            "253302": 10,
+            "236951": 15,
+            "237366": 3,
+            "251283": 1,
+            "243578": 10,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244774",
+        "itemName": "Aetherlume Stompers",
+        "reagents": {
+            "232875": 2,
+            "253302": 6,
+            "236951": 6,
+            "236950": 6,
+            "237366": 3,
+            "251283": 1,
+            "243578": 10,
+            "243581": 4
+        }
+    },
+    {
+        "itemID": "244746",
+        "itemName": "Aetherlume Sun Guard",
+        "reagents": {
+            "232875": 2,
+            "253302": 10,
+            "236951": 15,
+            "237366": 3,
+            "251283": 1,
+            "243578": 10,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244758",
+        "itemName": "Quel'dorei Guards",
+        "reagents": {
+            "253303": 5,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244770",
+        "itemName": "Quel'dorei Stompers",
+        "reagents": {
+            "253303": 6,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244762",
+        "itemName": "Quel'dorei Visor",
+        "reagents": {
+            "253303": 4,
+            "253302": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244742",
+        "itemName": "Thalassian Competitor's Plate Bindings",
+        "reagents": {
+            "256559": 3,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244738",
+        "itemName": "Thalassian Competitor's Plate Guard",
+        "reagents": {
+            "256559": 5,
+            "253302": 3,
+            "243576": 5,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "245344",
+        "itemName": "Evercore Gear Weight",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "245340",
+        "itemName": "Evercore Greaseplates",
+        "reagents": {
+            "253303": 3,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244754",
+        "itemName": "Evercore Vision Guard",
+        "reagents": {
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "259171",
+        "itemName": "Head-Mounted Beam Bummer",
+        "reagents": {
+            "253302": 1,
+            "238530": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "259173",
+        "itemName": "Rock Bonkin' Hardhat",
+        "reagents": {
+            "253302": 1,
+            "238529": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "259177",
+        "itemName": "Self-Sharpening Sin'dorei Snippers",
+        "reagents": {
+            "253302": 1,
+            "238528": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "259179",
+        "itemName": "Sin'dorei Reeler's Rod",
+        "reagents": {
+            "253302": 1,
+            "238530": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244720",
+        "itemName": "Junker's Big Ol' Bag",
+        "reagents": {
+            "253302": 1,
+            "238529": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244712",
+        "itemName": "Sin'dorei Angler's Rod",
+        "reagents": {
+            "253302": 1,
+            "238530": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244716",
+        "itemName": "Sin'dorei Gilded Hardhat",
+        "reagents": {
+            "253302": 1,
+            "238529": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244710",
+        "itemName": "Sin'dorei Headlamp",
+        "reagents": {
+            "253302": 1,
+            "238530": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244708",
+        "itemName": "Sin'dorei Snippers",
+        "reagents": {
+            "253302": 1,
+            "238528": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244718",
+        "itemName": "Turbo-Junker's Multitool",
+        "reagents": {
+            "253302": 1,
+            "238528": 1,
+            "243578": 3,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244714",
+        "itemName": "Sin'dorei Clampers",
+        "reagents": {
+            "253302": 1,
+            "238530": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244713",
+        "itemName": "Farstrider Clampers",
+        "reagents": {
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244707",
+        "itemName": "Farstrider Fabric Cutters",
+        "reagents": {
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244715",
+        "itemName": "Farstrider Hardhat",
+        "reagents": {
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244711",
+        "itemName": "Farstrider Hobbyist Rod",
+        "reagents": {
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244719",
+        "itemName": "Farstrider Rock Satchel",
+        "reagents": {
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "244709",
+        "itemName": "Junker's Junk Visor",
+        "reagents": {
+            "253302": 1,
+            "238529": 1,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "244717",
+        "itemName": "Junker's Multitool",
+        "reagents": {
+            "243576": 1,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "257745",
+        "itemName": "Farstrider's Hawkeye",
+        "reagents": {
+            "243574": 1,
+            "243576": 1,
+            "243581": 2,
+            "243578": 3
+        }
+    },
+    {
+        "itemID": "257749",
+        "itemName": "Laced Zoomshots",
+        "reagents": {
+            "243574": 1,
+            "243576": 1,
+            "243581": 2,
+            "243578": 3
+        }
+    },
+    {
+        "itemID": "257747",
+        "itemName": "Smuggler's Lynxeye",
+        "reagents": {
+            "243574": 1,
+            "243576": 1,
+            "243581": 2,
+            "243578": 3
+        }
+    },
+    {
+        "itemID": "257751",
+        "itemName": "Weighted Boomshots",
+        "reagents": {
+            "243574": 1,
+            "243576": 1,
+            "243581": 2,
+            "243578": 3
+        }
+    },
+    {
+        "itemID": "257735",
+        "itemName": "B0P, Curator of Booms",
+        "reagents": {
+            "253303": 10,
+            "236952": 1,
+            "243581": 5
+        }
+    },
+    {
+        "itemID": "268475",
+        "itemName": "Evercore Dome Dinger",
+        "reagents": {
+            "253303": 3,
+            "243581": 1
+        }
+    },
+    {
+        "itemID": "268479",
+        "itemName": "Thalassian Competitor's Rifle",
+        "reagents": {
+            "256559": 10,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "268477",
+        "itemName": "P.O.W. x3",
+        "reagents": {
+            "232875": 2,
+            "253302": 6,
+            "236951": 6,
+            "236950": 6,
+            "237366": 3,
+            "251283": 1,
+            "243578": 10,
+            "243581": 4
+        }
+    },
+    {
+        "itemID": "244763",
+        "itemName": "Thalassian Competitor's Cloth Tip-Toes",
+        "reagents": {
+            "256559": 4,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244764",
+        "itemName": "Thalassian Competitor's Leather Sliders",
+        "reagents": {
+            "256559": 4,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244765",
+        "itemName": "Thalassian Competitor's Mail Footlinks",
+        "reagents": {
+            "256559": 4,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "244766",
+        "itemName": "Thalassian Competitor's Plate Dunkers",
+        "reagents": {
+            "256559": 4,
+            "253302": 3,
+            "243576": 4,
+            "243581": 3
+        }
+    },
+    {
+        "itemID": "259181",
+        "itemName": "Giga-Gem Grippers",
+        "reagents": {
+            "253302": 1,
+            "238530": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "259175",
+        "itemName": "Heavy-Duty Rock Assister",
+        "reagents": {
+            "253302": 1,
+            "238529": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "259183",
+        "itemName": "Turbo-Junker's Multitool v9",
+        "reagents": {
+            "253302": 1,
+            "238528": 1,
+            "245345": 20,
+            "243578": 4,
+            "243581": 2
+        }
+    },
+    {
+        "itemID": "246460",
+        "itemName": "Ambient Aethercharged Crystal",
+        "reagents": {
+            "256963": 30,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    },
+    {
+        "itemID": "262617",
+        "itemName": "Ren'dorei Crafting Framework",
+        "reagents": {
+            "256963": 24,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    },
+    {
+        "itemID": "263049",
+        "itemName": "Ren'dorei Lightpost",
+        "reagents": {
+            "256963": 26,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    },
+    {
+        "itemID": "262465",
+        "itemName": "Ren'dorei Stargazer",
+        "reagents": {
+            "256963": 32,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    },
+    {
+        "itemID": "262618",
+        "itemName": "Ren'dorei Void Projector",
+        "reagents": {
+            "256963": 22,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    },
+    {
+        "itemID": "262602",
+        "itemName": "Ren'dorei Warp Orb",
+        "reagents": {
+            "256963": 28,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    },
+    {
+        "itemID": "262789",
+        "itemName": "Small Telogrus Lamp",
+        "reagents": {
+            "256963": 18,
+            "243581": 5,
+            "243578": 5,
+            "243574": 10,
+            "243576": 10
+        }
+    }
+]

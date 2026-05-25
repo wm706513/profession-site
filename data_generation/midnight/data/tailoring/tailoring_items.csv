@@ -1,0 +1,79 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+239700,Bright Linen Bolt,crafting reagent,350,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239711,Bright Linen Bandage,consumable,200,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+239198,Arcanoweave Bolt,crafting reagent,515,0,2,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+239201,Sunfire Silk Bolt,crafting reagent,515,0,2,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+239702,Imbued Birght Linen Bolt,crafting reagent,430,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240166,Arcanoweave Lining,embellishment,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240164,Sunfire Silk Lining,embellishment,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239656,Adherent's Silken Shroud,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239648,Martyr's Bindings,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239652,Martyr's Crown,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239653,Martyr's Gloves,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239651,Martyr's Leggings,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239650,Martyr's Mantle,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239654,Martyr's Slippers,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239655,Martyr's Vestments,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239649,Martyr's Waistwrap,gear (combat),395,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+239675,Courtly Shoulders,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239672,Courtly Robes,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239674,Courtly Cloak,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239669,Courtly Gloves,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239668,Courtly Helm,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239676,Courtly Pants,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239670,Courtly Belt,gear (combat),350,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239673,Courtly Slippers,gear (combat),365,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239671,Courtly Wrists,gear (combat),350,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+239660,Arcanoweave Bracers,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239661,Arcanoweave Cloak,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239664,Arcanoweave Cord,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239662,Arcanoweave Treads,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239657,Sunfire Bracers,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239658,Sunfire Cloak,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239663,Sunfire Sash,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+239659,Sunfire Treads,gear (combat),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+267052,Thalassian Alchemy Coveralls,gear (profession),415,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+267054,Thalassian Chef's Chapeau,gear (profession),415,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+267056,Thalassian Enchanter's Bonnet,gear (profession),415,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+267060,Thalassian Herbalist's Cowl,gear (profession),415,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+267062,Thalassian Tailor's Threads,gear (profession),415,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+239635,Elegant Artisan's Alchemy Coveralls,gear (profession),360,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239636,Elegant Artisan's Cooking Hat,gear (profession),360,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239637,Elegant Artisan's Enchanting Hat,gear (profession),360,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239638,Elegant Artisan's Fishing Hat,gear (profession),360,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239639,Elegant Artisan's Herbalism Hat,gear (profession),360,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239640,Elegant Artisan's Tailoring Robe,gear (profession),360,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+239641,Bright Linen Alchemy Apron,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239643,Bright Linen Enchanting Hat,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239644,Bright Linen Fishing Hat,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239645,Bright Linen Herbalism Hat,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239646,Bright Linen Tailoring Robe,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239642,Chef's Bright Linen Cooking Chapeau,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240154,Arcanoweave Spellthread,item enhancement,505,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240094,Sunfire Silk Spellthread,item enhancement,505,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240156,Bright Linen Spellthread,item enhancement,250,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240161,Sunfire Silk Backpack,bag,-1,-1,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240158,Arcanoweave Reagent Rucksack,bag,-1,-1,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240160,Imbued Bright Linen Backpack,bag,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240159,Bright Linen Reagent Satchel,bag,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262592,Plush Silvermoon Bed,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262593,Chic Silvermoon Pillow,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262352,Lush Telogrus Carpet,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262591,Luxurious Silvermoon Lounge Cushion,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262599,Silvermoon Curtains,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262611,Voidstrider Saddlebag,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+239677,Thalassian Competitor's Cloth Bands,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239678,Thalassian Competitor's Cloth Cloak,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239679,Thalassian Competitor's Cloth Gloves,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239680,Thalassian Competitor's Cloth Hood,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239681,Thalassian Competitor's Cloth Leggings,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239682,Thalassian Competitor's Cloth Sash,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239683,Thalassian Competitor's Cloth Shoulderpads,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239684,Thalassian Competitor's Cloth Treads,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+239685,Thalassian Competitor's Cloth Tunic,gear (pvp),280,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+267448,Blood-Tempered Cape,cosmetic,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+267447,Farstrider's Embroidered Cover,cosmetic,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+267446,Scout's Cape,cosmetic,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+267445,Silvermoon Agent's Drape,cosmetic,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+267444,Smuggler's Cloak,cosmetic,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+267449,Spellbreaker's Shroud,cosmetic,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

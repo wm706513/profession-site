@@ -1,0 +1,91 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+244177,Runed Dazzling Thorium Rod,gear (profession),500,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+244176,Runed Brilliant Silver Rod,gear (profession),500,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+244175,Runed Refulgent Copper Rod,gear (profession),250,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+244179,Magister's Grand Focus,gear (combat),455,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244178,Thalassian Spellweaver's Wand,gear (combat),200,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+243735,Oil of Dawn,consumable,455,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+243737,Smuggler's Enchanted Edge,consumable,455,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+243733,Thalassian Phoenix Oil,consumable,455,0,5,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244009,Enchant Boots - Farstrider's Hunt,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243953,Enchant Boots - Lynx's Dexterity,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243983,Enchant Boots  - Shaladrassil's Roots,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243947,Enchant Chest - Mark of Nalorakk,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244003,Enchant Chest - Mark of the Magister,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243975,Enchant Chest - Mark of the Rootwarden,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243977,Enchant Chest - Mark of the Worldsoul,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243981,Enchant Helm - Empowered Blessing of Speed,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243951,Enchant Helm - Empowered Hex of Leeching,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244007,Enchant Helm - Empowered Rune of Avoidance,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243981,Enchant Helm - Blessing of Speed,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243949,Enchant Helm - Hex of Leeching,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244005,Enchant Helm - Rune of Avoidance,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243957,Enchant Ring - Eyes of the Eagle,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243987,Enchant Ring - Nature's Fury,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244015,Enchant Ring - Silvermoon's Alacrity,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244017,Enchant Ring - Silvermoon's Tenacity,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243959,Enchant Ring - Zul'jin's Mastery,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243955,Enchant Ring - Amani Mastery,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243985,Enchant Ring - Nature's Wrath,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244013,Enchant Ring - Thalassian Versatility,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244011,Enchant Ring - Thalassian Haste,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243963,Enchant Shoulders - Akil'zon's Swiftness,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243991,Enchant Shoulders - Amirdrassil's Grace,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244021,Enchant Shoulders - Silvermoon's Mending,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244019,Enchant Shoulders - Thalassian Recovery,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243961,Enchant Shoulders - Flight of the Eagle,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243989,Enchant Shoulders - Nature's Grace,item enhancement,250,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244029,Enchant Weapon - Acuity of the Ren'dorei,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244031,Enchant Weapon - Arcane Mastery,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243973,Enchant Weapon - Berserker's Rage,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244027,Enchant Weapon - Flames of the Sin'dorei,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243971,Enchant Weapon - Jan'alai's Precision,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243969,Enchant Weapon - Strength of the Halazzi,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243999,Enchant Weapon - Worldsoul Aegis,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243997,Enchant Weapon - Worldsoul Cradle,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244001,Enchant Weapon - Worldsoul Tenacity,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243965,Enchant Tool - Amani Perception,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243967,Enchant Tool - Amani Resourcefulness,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243993,Enchant Tool - Haranir Finesse,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243995,Enchant Tool - Haranir Multicrafting,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244025,Enchant Tool - Ren'dorei Ingenuity,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244023,Enchant Tool - Sin'dorei Deftness,item enhancement,480,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244033,Illusory Adornment - Blooming Light,other,350,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244035,Illusory Adornment - Nature's Embrace,other,350,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244037,Illusory Adornment - Voidtouched,other,350,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243773,Gleeful Glamour - Blood Elf,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243774,Gleeful Glamour - Dark Iron Dwarf,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243775,Gleeful Glamour - Draenei,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243776,Gleeful Glamour - Dwarf,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243777,Gleeful Glamour - Earthen,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243778,Gleeful Glamour - Gnome,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243779,Gleeful Glamour - Goblin,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+244056,Gleeful Glamour - Haranir,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243780,Gleeful Glamour - Highmountain Tauren,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243781,Gleeful Glamour - Human,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243782,Gleeful Glamour - Kul Tiran,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243783,Gleeful Glamour - Lightforged Draenei,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243784,Gleeful Glamour - Mag'har Orc,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243785,Gleeful Glamour - Mechagnome,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243786,Gleeful Glamour - Night Elf,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243787,Gleeful Glamour - Nightborne,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243788,Gleeful Glamour - Orc,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243789,Gleeful Glamour - Pandaren,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243790,Gleeful Glamour - Tauren,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243791,Gleeful Glamour - Troll,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243792,Gleeful Glamour - Undead,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243793,Gleeful Glamour - Void Elf,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243794,Gleeful Glamour - Vulpera,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243795,Gleeful Glamour - Worgen,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+243796,Gleeful Glamour - Zandalari Troll,other,350,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+262459,Animated Sin'dorei Hammer,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262458,Animated Sin'dorei Pick,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262450,Ensorcelled Broom,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262455,Font of Gleaming Water,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262468,Ren'dorei Postal Repository,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262590,Rootflame Campfire,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+246693,Self-Pouring Thalassian Sunwine,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262470,Spellbound Tome of Thalassian Magics,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+268038,Endless Codex of Blooming Light,housing decor,-1,-1,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+268039,Endless Codex of Nature's Grace,housing decor,-1,-1,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+268041,Endless Codex of the Voidtouched,housing decor,-1,-1,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE

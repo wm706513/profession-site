@@ -1,0 +1,78 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+251487,Prismatic Focusing Iris,embellishment,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+251489,Stabilizing Gemstone Bandolier,embellishment,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240974,Kaleidoscopic Prism,crafting reagent,555,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240972,Sin'dorei Lens,crafting reagent,555,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+240991,Sunglass Vial,crafting reagent,555,0,1,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+240889,Flawless Deadly Peridot,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240891,Flawless Masterful Peridot,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240887,Flawless Quick Peridot,gem,325,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240893,Flawless Versatile Peridot,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+241137,Harandar Peridot Prism,other,325,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240861,Versatile Peridot,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240859,Masterful Peridot,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240857,Deadly Peridot,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240855,Quick Peridot,gem,200,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240913,Flawless Deadly Lapis,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240917,Flawless Masterful Lapis,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240915,Flawless Quick Lapis,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240911,Flawless Versatile Lapis,gem,325,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+241132,Amani Lapis Prism,other,325,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240883,Quick Lapis,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240885,Masterful Lapis,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240881,Deadly Lapis,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240879,Versatile Lapis,gem,200,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240897,Flawless Deadly Amethyst,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240895,Flawless Masterful Amethyst,gem,325,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240899,Flawless Quick Amethyst,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240901,Flawless Versatile Amethyst,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+241133,Tenebrous Amethyst Prism,other,325,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240869,Versatile Amethyst,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240867,Quick Amethyst,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240865,Deadly Amethyst,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240863,Masterful Amethyst,gem,200,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240903,Flawless Deadly Garnet,gem,325,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240907,Flawless Masterful Garnet,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240905,Flawless Quick Garnet,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240909,Flawless Versatile Garnet,gem,400,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+241135,Sanguine Garnet Prism,other,325,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240877,Versatile Garnet,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240875,Masterful Garnet,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240873,Quick Garnet,gem,275,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240871,Deadly Garnet,gem,200,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240982,Indecipherable Eversong Diamond,gem,280,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240966,Powerful Eversong Diamond,gem,280,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240970,Stoic Eversong Diamond,gem,280,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240968,Telluric Eversong Diamond,gem,280,0,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+241143,Cognitive Heliotrope,gem,-1,0,1,-1,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+241142,Determined Heliotrope,gem,-1,0,1,-1,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+241144,Enduring Heliotrope,gem,-1,0,1,-1,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240952,Thalassian Competitor's Amulet,gear (pvp),170,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+240951,Thalassian Competitor's Signet,gear (pvp),170,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+251513,Loa Worshipper's Band,gear (combat),405,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+240949,Masterwork Sin'dorei Band,gear (combat),390,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+241140,Signet of Azerothian Blessings,gear (combat),405,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+240947,Gleaming Copper Band,gear (combat),190,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+240950,Masterwork Sin'dorei Amulet,gear (combat),390,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+241139,Thalassian Phoenix Torque,gear (combat),405,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+251073,Voidstone Shielding Array,gear (combat),405,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+240948,Nocturnal Charm,gear (combat),190,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+240958,Improved Right-Handed Magnifying Glass,gear (profession),445,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240960,Sin'dorei Enchanter's Crystal,gear (profession),445,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240959,Sin'dorei Jeweler's Loupes,gear (profession),445,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+240957,Sin'dorei Scribe's Spectacles,gear (profession),445,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+246527,Attuned Thalassian Rune-Prism,gear (profession),445,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+246524,Flawless Text Scrutinizers,gear (profession),445,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+246526,Mage-Eye Precision Loupes,gear (profession),445,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+246525,Thalassian Scribe's Crystalline Lens,gear (profession),445,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+240953,Bold Biographer's Bifocals,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240954,Fantastic Font Focuser,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240956,Silvermoon Focusing Shard,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+240955,Silvermoon Loupes,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+241141,Monologuer's Chalice,other,-1,0,1,-1,common,TRUE,FALSE,FALSE,FALSE,FALSE
+262471,Bejeweled Sin'dorei Lyre,housing decor ,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262469,Brilliant Phoenix Harp,housing decor ,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262613,Replica Haranir Mural,housing decor ,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+248965,Resplendent Highborne Statue,housing decor ,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262454,Shining Sin'dorei Hourglass,housing decor ,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262461,Tenebrous Ren'dorei Armillary,housing decor ,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

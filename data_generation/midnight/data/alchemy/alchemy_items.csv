@@ -1,0 +1,41 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+241309,Light's Potential,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241297,Potion of Zealotry,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241287,Light's Preservation,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241301,Lightfused Mana Potion,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241307,Refreshing Serum,potion,475,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241305,Silvermoon Health Potion,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241339,Enlightenment Tonic,potion,475,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241295,Potion of Devoured Dreams,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241289,Potion of Recklessness,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241299,Amani Extract,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241293,Draught of Rampant Abandon,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241303,Void-Shrouded Tincture,potion,530,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241285,Voidlight Potion Cauldron,cauldron,645,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+241319,Cauldron of Sin'dorei Flasks,cauldron,605,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+241311,Haranir Phial of Finesse,phial,515,0,4,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241313,Haranir Phial of Ingenuity,phial,515,0,4,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241317,Haranir Phial of Perception,phial,515,0,4,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241325,Flask of the Blood Knights,flask,490,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241323,Flask of the Magisters,flask,490,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241327,Flask of the Shattered Sun,flask,490,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241321,Flask of Thalassian Resistance,flask,490,0,2,0,common,TRUE,FALSE,FALSE,FALSE,FALSE
+241334,Vicious Thalassian Flask of Honor,flask,-1,0,2,-1,common,TRUE,FALSE,FALSE,FALSE,FALSE
+245650,Bouquet of Herbs,transmutation,465,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+242650,Box of Rocks,transmutation,465,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245647,School of Gems,transmutation,465,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+241283,Wondrous Synergist,transmutation,465,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+236949,Transmute: Mote of Light,transmutation,-1,0,8,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+236950,Transmute: Mote of Primal Energy,transmutation,-1,0,8,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+236952,Transmute: Mote of Pure Void,transmutation,-1,0,8,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+236951,Transmute: Mote of Wild Magic,transmutation,-1,0,8,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+241281,Composite Flora,transmutation,365,0,2,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+241340,Magister's Alchemist Stone,gear (combat),280,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+241291,Primal Philosopher's Stone,gear (combat),275,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,TRUE
+257420,Silvermoon Spire Fountain,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262355,Entropic Illuminant,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262356,Haranir Preserving Agents,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262354,Riftstone,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+253506,Rootbound Vat,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+256356,Sunsmoke Censer,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+268954,Entropic Extract,potion,475,0,5,0,common,TRUE,FALSE,FALSE,FALSE,FALSE

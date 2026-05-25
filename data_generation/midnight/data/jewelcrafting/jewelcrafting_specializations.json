@@ -1,0 +1,906 @@
+[
+    {
+        "itemID": "251487",
+        "itemName": "Prismatic Focusing Iris",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Material Manufacturer",
+            "Optionally Optimal",
+            "Proficient Processor"
+        ]
+    },
+    {
+        "itemID": "251489",
+        "itemName": "Stabilizing Gemstone Bandolier",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Material Manufacturer",
+            "Optionally Optimal",
+            "Proficient Processor"
+        ]
+    },
+    {
+        "itemID": "240974",
+        "itemName": "Kaleidoscopic Prism",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Material Manufacturer",
+            "Boldly Basic",
+            "Proficient Processor"
+        ]
+    },
+    {
+        "itemID": "240972",
+        "itemName": "Sin'dorei Lens",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Material Manufacturer",
+            "Boldly Basic",
+            "Proficient Processor"
+        ]
+    },
+    {
+        "itemID": "240991",
+        "itemName": "Sunglass Vial",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Material Manufacturer",
+            "Boldly Basic",
+            "Proficient Processor"
+        ]
+    },
+    {
+        "itemID": "240889",
+        "itemName": "Flawless Deadly Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Deadly Peridot"
+        ]
+    },
+    {
+        "itemID": "240891",
+        "itemName": "Flawless Masterful Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Masterful Peridot"
+        ]
+    },
+    {
+        "itemID": "240887",
+        "itemName": "Flawless Quick Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot"
+        ]
+    },
+    {
+        "itemID": "240893",
+        "itemName": "Flawless Versatile Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Versatile Peridot"
+        ]
+    },
+    {
+        "itemID": "241137",
+        "itemName": "Harandar Peridot Prism",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot"
+        ]
+    },
+    {
+        "itemID": "240861",
+        "itemName": "Versatile Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Versatile Peridot"
+        ]
+    },
+    {
+        "itemID": "240859",
+        "itemName": "Masterful Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Masterful Peridot"
+        ]
+    },
+    {
+        "itemID": "240857",
+        "itemName": "Deadly Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Deadly Peridot"
+        ]
+    },
+    {
+        "itemID": "240855",
+        "itemName": "Quick Peridot",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot"
+        ]
+    },
+    {
+        "itemID": "240913",
+        "itemName": "Flawless Deadly Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Powerful Peridot",
+            "Deadly Lapis"
+        ]
+    },
+    {
+        "itemID": "240917",
+        "itemName": "Flawless Masterful Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis",
+            "Masterful Lapis"
+        ]
+    },
+    {
+        "itemID": "240915",
+        "itemName": "Flawless Quick Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis",
+            "Quick Lapis"
+        ]
+    },
+    {
+        "itemID": "240911",
+        "itemName": "Flawless Versatile Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis"
+        ]
+    },
+    {
+        "itemID": "241132",
+        "itemName": "Amani Lapis Prism",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis"
+        ]
+    },
+    {
+        "itemID": "240883",
+        "itemName": "Quick Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis",
+            "Quick Lapis"
+        ]
+    },
+    {
+        "itemID": "240885",
+        "itemName": "Masterful Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis",
+            "Masterful Lapis"
+        ]
+    },
+    {
+        "itemID": "240881",
+        "itemName": "Deadly Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis",
+            "Deadly Lapis"
+        ]
+    },
+    {
+        "itemID": "240879",
+        "itemName": "Versatile Lapis",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis"
+        ]
+    },
+    {
+        "itemID": "240897",
+        "itemName": "Flawless Deadly Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Lustrous Lapis",
+            "Deadly Amethyst"
+        ]
+    },
+    {
+        "itemID": "240895",
+        "itemName": "Flawless Masterful Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst"
+        ]
+    },
+    {
+        "itemID": "240899",
+        "itemName": "Flawless Quick Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst",
+            "Quick Amethyst"
+        ]
+    },
+    {
+        "itemID": "240901",
+        "itemName": "Flawless Versatile Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst",
+            "Versatile Amethyst"
+        ]
+    },
+    {
+        "itemID": "241133",
+        "itemName": "Tenebrous Amethyst Prism",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst"
+        ]
+    },
+    {
+        "itemID": "240869",
+        "itemName": "Versatile Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst",
+            "Versatile Amethyst"
+        ]
+    },
+    {
+        "itemID": "240867",
+        "itemName": "Quick Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst",
+            "Quick Amethyst"
+        ]
+    },
+    {
+        "itemID": "240865",
+        "itemName": "Deadly Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst",
+            "Deadly Amethyst"
+        ]
+    },
+    {
+        "itemID": "240863",
+        "itemName": "Masterful Amethyst",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst"
+        ]
+    },
+    {
+        "itemID": "240903",
+        "itemName": "Flawless Deadly Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Austere Amethyst"
+        ]
+    },
+    {
+        "itemID": "240907",
+        "itemName": "Flawless Masterful Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet",
+            "Masterful Garnet"
+        ]
+    },
+    {
+        "itemID": "240905",
+        "itemName": "Flawless Quick Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet",
+            "Quick Garnet"
+        ]
+    },
+    {
+        "itemID": "240909",
+        "itemName": "Flawless Versatile Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet",
+            "Versatile Garnet"
+        ]
+    },
+    {
+        "itemID": "241135",
+        "itemName": "Sanguine Garnet Prism",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet"
+        ]
+    },
+    {
+        "itemID": "240877",
+        "itemName": "Versatile Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet",
+            "Versatile Garnet"
+        ]
+    },
+    {
+        "itemID": "240875",
+        "itemName": "Masterful Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet",
+            "Masterful Garnet"
+        ]
+    },
+    {
+        "itemID": "240873",
+        "itemName": "Quick Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet",
+            "Quick Garnet"
+        ]
+    },
+    {
+        "itemID": "240871",
+        "itemName": "Deadly Garnet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet"
+        ]
+    },
+    {
+        "itemID": "240982",
+        "itemName": "Indecipherable Eversong Diamond",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems",
+            "Glorious Garnet"
+        ]
+    },
+    {
+        "itemID": "240966",
+        "itemName": "Powerful Eversong Diamond",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems"
+        ]
+    },
+    {
+        "itemID": "240970",
+        "itemName": "Stoic Eversong Diamond",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems"
+        ]
+    },
+    {
+        "itemID": "240968",
+        "itemName": "Telluric Eversong Diamond",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems"
+        ]
+    },
+    {
+        "itemID": "241143",
+        "itemName": "Cognitive Heliotrope",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems"
+        ]
+    },
+    {
+        "itemID": "241142",
+        "itemName": "Determined Heliotrope",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems"
+        ]
+    },
+    {
+        "itemID": "241144",
+        "itemName": "Enduring Heliotrope",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Outrageous Output",
+            "Calculated Concentration",
+            "Glamorous Gems"
+        ]
+    },
+    {
+        "itemID": "240952",
+        "itemName": "Thalassian Competitor's Amulet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Luxurious Lockets"
+        ]
+    },
+    {
+        "itemID": "240951",
+        "itemName": "Thalassian Competitor's Signet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Regal Rings"
+        ]
+    },
+    {
+        "itemID": "251513",
+        "itemName": "Loa Worshipper's Band",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Regal Rings"
+        ]
+    },
+    {
+        "itemID": "240949",
+        "itemName": "Masterwork Sin'dorei Band",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Regal Rings"
+        ]
+    },
+    {
+        "itemID": "241140",
+        "itemName": "Signet of Azerothian Blessings",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Regal Rings"
+        ]
+    },
+    {
+        "itemID": "240947",
+        "itemName": "Gleaming Copper Band",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Regal Rings"
+        ]
+    },
+    {
+        "itemID": "240950",
+        "itemName": "Masterwork Sin'dorei Amulet",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Luxurious Lockets"
+        ]
+    },
+    {
+        "itemID": "241139",
+        "itemName": "Thalassian Phoenix Torque",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Luxurious Lockets"
+        ]
+    },
+    {
+        "itemID": "251073",
+        "itemName": "Voidstone Shielding Array",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Luxurious Lockets"
+        ]
+    },
+    {
+        "itemID": "240948",
+        "itemName": "Nocturnal Charm",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Luxurious Lockets"
+        ]
+    },
+    {
+        "itemID": "240958",
+        "itemName": "Improved Right-Handed Magnifying Glass",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240960",
+        "itemName": "Sin'dorei Enchanter's Crystal",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240959",
+        "itemName": "Sin'dorei Jeweler's Loupes",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240957",
+        "itemName": "Sin'dorei Scribe's Spectacles",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "246527",
+        "itemName": "Attuned Thalassian Rune-Prism",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "246524",
+        "itemName": "Flawless Text Scrutinizers",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "246526",
+        "itemName": "Mage-Eye Precision Loupes",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "246525",
+        "itemName": "Thalassian Scribe's Crystalline Lens",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240953",
+        "itemName": "Bold Biographer's Bifocals",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240954",
+        "itemName": "Fantastic Font Focuser",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240956",
+        "itemName": "Silvermoon Focusing Shard",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "240955",
+        "itemName": "Silvermoon Loupes",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration",
+            "Alluring Accessories",
+            "Crafting Couture"
+        ]
+    },
+    {
+        "itemID": "241141",
+        "itemName": "Monologuer's Chalice",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    },
+    {
+        "itemID": "262471",
+        "itemName": "Bejeweled Sin'dorei Lyre",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    },
+    {
+        "itemID": "262469",
+        "itemName": "Brilliant Phoenix Harp",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    },
+    {
+        "itemID": "262613",
+        "itemName": "Replica Haranir Mural",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    },
+    {
+        "itemID": "248965",
+        "itemName": "Resplendent Highborne Statue",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    },
+    {
+        "itemID": "262454",
+        "itemName": "Shining Sin'dorei Hourglass",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    },
+    {
+        "itemID": "262461",
+        "itemName": "Tenebrous Ren'dorei Armillary",
+        "nodes": [
+            "Thoughtful Throughput",
+            "Skilled Savings",
+            "Calculated Concentration"
+        ]
+    }
+]

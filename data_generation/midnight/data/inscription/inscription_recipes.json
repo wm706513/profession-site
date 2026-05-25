@@ -1,0 +1,752 @@
+[
+    {
+        "itemID": "245764",
+        "itemName": "Codified Azeroot",
+        "reagents": {
+            "236950": 1,
+            "236951": 1,
+            "245766": 1,
+            "236774": 8
+        }
+    },
+    {
+        "itemID": "245766",
+        "itemName": "Soul Cipher",
+        "reagents": {
+            "236952": 1,
+            "236949": 1,
+            "242788": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245805",
+        "itemName": "Sienna Ink",
+        "reagents": {
+            "245882": 3,
+            "245807": 20,
+            "245803": 10,
+            "245867": 5
+        }
+    },
+    {
+        "itemID": "245801",
+        "itemName": "Munsell Ink",
+        "reagents": {
+            "245882": 3,
+            "245807": 20,
+            "245865": 10,
+            "245867": 5
+        }
+    },
+    {
+        "itemID": "245871",
+        "itemName": "Darkmoon Sigil: Blood",
+        "reagents": {
+            "245882": 1,
+            "236949": 10,
+            "245855": 1,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "245875",
+        "itemName": "Darkmoon Sigil: Hunt",
+        "reagents": {
+            "245882": 1,
+            "236951": 10,
+            "245829": 1,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "245877",
+        "itemName": "Darkmoon Sigil: Rot",
+        "reagents": {
+            "245882": 1,
+            "236950": 10,
+            "245846": 1,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "245873",
+        "itemName": "Darkmoon Sigil: Void",
+        "reagents": {
+            "245882": 1,
+            "236952": 10,
+            "245750": 1,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "246305",
+        "itemName": "Darkmoon Dominion: Blood",
+        "reagents": {
+            "232875": 2,
+            "245882": 1,
+            "236949": 20,
+            "245855": 1,
+            "251283": 1,
+            "245764": 10,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "246304",
+        "itemName": "Darkmoon Dominion: Hunt",
+        "reagents": {
+            "232875": 2,
+            "245882": 1,
+            "23951": 20,
+            "245829": 1,
+            "251283": 1,
+            "245764": 10,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "246306",
+        "itemName": "Darkmoon Dominion: Rot",
+        "reagents": {
+            "232875": 2,
+            "245882": 1,
+            "236950": 20,
+            "245846": 1,
+            "251283": 1,
+            "245764": 10,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "246307",
+        "itemName": "Darkmoon Dominion: Void",
+        "reagents": {
+            "232875": 2,
+            "245882": 1,
+            "236952": 20,
+            "245750": 1,
+            "251283": 1,
+            "245764": 10,
+            "245766": 5
+        }
+    },
+    {
+        "itemID": "245770",
+        "itemName": "Aln'hara Cane",
+        "reagents": {
+            "232875": 4,
+            "238529": 1,
+            "251283": 1,
+            "245764": 6,
+            "245766": 3
+        }
+    },
+    {
+        "itemID": "245769",
+        "itemName": "Aln'hara Lantern",
+        "reagents": {
+            "232875": 4,
+            "238528": 1,
+            "251283": 1,
+            "245764": 4,
+            "245766": 6
+        }
+    },
+    {
+        "itemID": "245771",
+        "itemName": "Aln'hara Pikestaff",
+        "reagents": {
+            "232875": 4,
+            "238529": 1,
+            "251283": 1,
+            "245764": 6,
+            "245766": 3
+        }
+    },
+    {
+        "itemID": "265337",
+        "itemName": "Aln'hara Sprigshot",
+        "reagents": {
+            "232875": 4,
+            "238530": 1,
+            "251283": 1,
+            "245764": 8,
+            "245766": 2
+        }
+    },
+    {
+        "itemID": "245773",
+        "itemName": "Faunatender's Baton",
+        "reagents": {
+            "245882": 1,
+            "236774": 8
+        }
+    },
+    {
+        "itemID": "265336",
+        "itemName": "Faunatender's Trust",
+        "reagents": {
+            "245882": 1,
+            "236774": 8
+        }
+    },
+    {
+        "itemID": "245772",
+        "itemName": "Floratender's Crutch",
+        "reagents": {
+            "245882": 1,
+            "236774": 8
+        }
+    },
+    {
+        "itemID": "245768",
+        "itemName": "Rootwarden's Lamp",
+        "reagents": {
+            "245882": 1,
+            "236774": 8
+        }
+    },
+    {
+        "itemID": "245797",
+        "itemName": "Contract: The Amani Tribe",
+        "reagents": {
+            "245881": 1,
+            "236949": 3,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245795",
+        "itemName": "Contract: The Hara'ti",
+        "reagents": {
+            "245881": 1,
+            "236950": 3,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245799",
+        "itemName": "Contract: The Silvermoon Court",
+        "reagents": {
+            "245881": 1,
+            "236951": 3,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245793",
+        "itemName": "Contract: The Singularity",
+        "reagents": {
+            "245881": 1,
+            "236952": 3,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245789",
+        "itemName": "Thalassian Missive of the Peerless",
+        "reagents": {
+            "245881": 1,
+            "236952": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245791",
+        "itemName": "Thalassian Missive of the Quickblade",
+        "reagents": {
+            "245881": 1,
+            "236952": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245785",
+        "itemName": "Thalassian Missive of the Fireflash",
+        "reagents": {
+            "245881": 1,
+            "236950": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245787",
+        "itemName": "Thalassian Missive of the Harmonious",
+        "reagents": {
+            "245881": 1,
+            "236952": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245781",
+        "itemName": "Thalassian Missive of the Aurora",
+        "reagents": {
+            "245881": 1,
+            "236950": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245783",
+        "itemName": "Thalassian Missive of the Feverflare",
+        "reagents": {
+            "245881": 1,
+            "236950": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245820",
+        "itemName": "Thalassian Missive of Crafting Speed",
+        "reagents": {
+            "245881": 1,
+            "236951": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245826",
+        "itemName": "Thalassian Missive of Deftness",
+        "reagents": {
+            "245881": 1,
+            "236951": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245822",
+        "itemName": "Thalassian Missive of Finesse",
+        "reagents": {
+            "245881": 1,
+            "236951": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245814",
+        "itemName": "Thalassian Missive of Ingenuity",
+        "reagents": {
+            "245881": 1,
+            "236949": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245818",
+        "itemName": "Thalassian Missive of Multicraft",
+        "reagents": {
+            "245881": 1,
+            "236949": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245824",
+        "itemName": "Thalassian Missive of Perception",
+        "reagents": {
+            "245881": 1,
+            "236949": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245816",
+        "itemName": "Thalassian Missive of Resourcefulness",
+        "reagents": {
+            "245881": 1,
+            "236949": 1,
+            "245801": 2,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "259205",
+        "itemName": "Gilded Alchemist's Mixing Rod",
+        "reagents": {
+            "245345": 20,
+            "245764": 10,
+            "245766": 4
+        }
+    },
+    {
+        "itemID": "259209",
+        "itemName": "Gilded Sin'dorei Quill",
+        "reagents": {
+            "245345": 20,
+            "245764": 8,
+            "245801": 8,
+            "245805": 8
+        }
+    },
+    {
+        "itemID": "259207",
+        "itemName": "Gilded Sin'dorei Rolling Pin",
+        "reagents": {
+            "238528": 2,
+            "245345": 20,
+            "245764": 4
+        }
+    },
+    {
+        "itemID": "245778",
+        "itemName": "Sin'dorei Alchemist's Mixing Rod",
+        "reagents": {
+            "245764": 6,
+            "245766": 2
+        }
+    },
+    {
+        "itemID": "245776",
+        "itemName": "Sin'dorei Quill",
+        "reagents": {
+            "245764": 5,
+            "245801": 5,
+            "245805": 5
+        }
+    },
+    {
+        "itemID": "245780",
+        "itemName": "Sin'dorei Rolling Pin",
+        "reagents": {
+            "238528": 1,
+            "245764": 4
+        }
+    },
+    {
+        "itemID": "245777",
+        "itemName": "Hobbyist Alchemist's Mixing Rod",
+        "reagents": {
+            "245882": 1,
+            "236774": 10,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245779",
+        "itemName": "Hobbyist Rolling Pin",
+        "reagents": {
+            "236774": 10,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245775",
+        "itemName": "Hobbyist Quill",
+        "reagents": {
+            "245882": 1,
+            "236774": 5,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245755",
+        "itemName": "Thalassian Treatise on Alchemy",
+        "reagents": {
+            "245881": 3,
+            "236949": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245763",
+        "itemName": "Thalassian Treatise on Blacksmithing",
+        "reagents": {
+            "245881": 3,
+            "236951": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245759",
+        "itemName": "Thalassian Treatise on Enchanting",
+        "reagents": {
+            "245881": 3,
+            "236950": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245809",
+        "itemName": "Thalassian Treatise on Engineering",
+        "reagents": {
+            "245881": 3,
+            "236952": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245761",
+        "itemName": "Thalassian Treatise on Herbalism",
+        "reagents": {
+            "245881": 3,
+            "236949": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245757",
+        "itemName": "Thalassian Treatise on Inscription",
+        "reagents": {
+            "245881": 3,
+            "236951": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245760",
+        "itemName": "Thalassian Treatise on Jewelcrafting",
+        "reagents": {
+            "245881": 3,
+            "236950": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245758",
+        "itemName": "Thalassian Treatise on Leatherworking",
+        "reagents": {
+            "245881": 3,
+            "236952": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245762",
+        "itemName": "Thalassian Treatise on Mining",
+        "reagents": {
+            "245881": 3,
+            "236949": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245828",
+        "itemName": "Thalassian Treatise on Skinning",
+        "reagents": {
+            "245881": 3,
+            "236951": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245756",
+        "itemName": "Thalassian Treatise on Tailoring",
+        "reagents": {
+            "245881": 3,
+            "236950": 1,
+            "245801": 1,
+            "245805": 1
+        }
+    },
+    {
+        "itemID": "245879",
+        "itemName": "Vantus Rune: Radiant",
+        "reagents": {
+            "245882": 1,
+            "245881": 1,
+            "251285": 2,
+            "245766": 1
+        }
+    },
+    {
+        "itemID": "262464",
+        "itemName": "Floating Void-Touched Tome",
+        "reagents": {
+            "256963": 22,
+            "245764": 4,
+            "245766": 8
+        }
+    },
+    {
+        "itemID": "262597",
+        "itemName": "Gilded Eversong Book",
+        "reagents": {
+            "256963": 6,
+            "245764": 1,
+            "245766": 2
+        }
+    },
+    {
+        "itemID": "253508",
+        "itemName": "Harandar Signpost",
+        "reagents": {
+            "256963": 18,
+            "245764": 3,
+            "245766": 7
+        }
+    },
+    {
+        "itemID": "262594",
+        "itemName": "Homely Sin'dorei Shelf",
+        "reagents": {
+            "256963": 24,
+            "245764": 4,
+            "245766": 9
+        }
+    },
+    {
+        "itemID": "262595",
+        "itemName": "Homely Wall Shelves",
+        "reagents": {
+            "256963": 24,
+            "245764": 4,
+            "245766": 9
+        }
+    },
+    {
+        "itemID": "262616",
+        "itemName": "Lively Sonwriter's Quill",
+        "reagents": {
+            "256963": 18,
+            "245764": 3,
+            "245766": 7
+        }
+    },
+    {
+        "itemID": "263034",
+        "itemName": "Magnificent Towering Bookcase",
+        "reagents": {
+            "256963": 50,
+            "245764": 10,
+            "245766": 20
+        }
+    },
+    {
+        "itemID": "262598",
+        "itemName": "Opened Sin'dorei Scroll",
+        "reagents": {
+            "256963": 6,
+            "245764": 1,
+            "245766": 2
+        }
+    },
+    {
+        "itemID": "262790",
+        "itemName": "Restful Bronze Bench",
+        "reagents": {
+            "256963": 22,
+            "245764": 4,
+            "245766": 8
+        }
+    },
+    {
+        "itemID": "262615",
+        "itemName": "Sin'dorei Phoenix Quill",
+        "reagents": {
+            "256963": 4,
+            "245764": 1,
+            "245766": 1
+        }
+    },
+    {
+        "itemID": "262612",
+        "itemName": "Sturdy Ren'dorei Cask",
+        "reagents": {
+            "256963": 26,
+            "245764": 5,
+            "245766": 10
+        }
+    },
+    {
+        "itemID": "262601",
+        "itemName": "Wild Hanging Scroll",
+        "reagents": {
+            "256963": 18,
+            "245764": 3,
+            "245766": 7
+        }
+    },
+    {
+        "itemID": "245869",
+        "itemName": "Thalassian Competitor's Bow",
+        "reagents": {
+            "256559": 10,
+            "245764": 3
+        }
+    },
+    {
+        "itemID": "245753",
+        "itemName": "Thalassian Competitor's Emblem",
+        "reagents": {
+            "256559": 3,
+            "245882": 3,
+            "245766": 4,
+            "245801": 2
+        }
+    },
+    {
+        "itemID": "245752",
+        "itemName": "Thalassian Competitor's Insignia of Alacrity",
+        "reagents": {
+            "256559": 3,
+            "245882": 3,
+            "245766": 4,
+            "245801": 2
+        }
+    },
+    {
+        "itemID": "245870",
+        "itemName": "Thalassian Competitor's Lamp",
+        "reagents": {
+            "256559": 3,
+            "245764": 2,
+            "245766": 1
+        }
+    },
+    {
+        "itemID": "245751",
+        "itemName": "Thalassian Competitor's Medallion",
+        "reagents": {
+            "256559": 3,
+            "245882": 3,
+            "245766": 4,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "245868",
+        "itemName": "Thalassian Competitor's Pillar",
+        "reagents": {
+            "256559": 10,
+            "245764": 3
+        }
+    },
+    {
+        "itemID": "268365",
+        "itemName": "Thalassian Competitor's Staff",
+        "reagents": {
+            "256559": 10,
+            "245764": 3
+        }
+    }
+]

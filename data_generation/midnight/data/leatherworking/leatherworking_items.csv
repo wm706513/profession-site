@@ -1,0 +1,102 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+244586,Smuggler's Leather Wristbands,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244589,Scout's Scaled Bracers,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244603,Blessed Pango Charm,embellishment,500,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244674,Devouring Banding,embellishment,500,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244607,Primal Spore Binding,embellishment,500,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244633,Infused Scalewoven Hide,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244631,Scalewoven Hide,crafting reagent,505,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244637,Silvermoon Weapon Wrap,crafting reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244635,Sin'dorei Armor Banding,crafting reagent,505,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244639,Void-touched Drums,consumable,-1,0,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244642,Blood Knight's Armor Kit,item enhancement,500,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244640,Forest Hunter's Amor Kit,item enhancement,500,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244644,Thalassian Scout Armor Kit,item enhancement,300,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244606,Hexwoven Strand,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244612,Row Walker's Deflectors,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244613,Row Walker's Insurance,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244614,Row Walker's Swiftgrips,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244570,Silvermoon Agent's Coat,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244571,Silvermoon Agent's Cover,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244576,Silvermoon Agent's Deflectors,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244575,Silvermoon Agent's Handwraps,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244574,Silvermoon Agent's Leggings,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244572,Silvermoon Agent's Mantle,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244569,Silvermoon Agent's Sneakers,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244573,Silvermoon Agent's Utility Belt,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244601,World Tree Rootwraps,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244591,Smuggler's Reinforced Hood,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244594,Smuggler's Reinforced Pants,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244592,Smuggler's Reinforced Shoulderguards,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244593,Smuggler's Reinforced Gloves,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244595,Smuggler's Reinforced Binding,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244587,Smuggler's Leather Tunic,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244585,Smuggler's Leather Footpads,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244605,Axe-Flingin' Bands,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244580,Farstrider's Brilliant Plumes,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244584,Farstrider's Plated Bracers,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244577,Farstrider's Razor Talons,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244582,Farstrider's Reinforced Faulds,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244578,Farstrider's Scouting Vest,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244583,Farstrider's Sharpened Claws,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244581,Farstrider's Trophy Belt,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244579,Farstrider's Unwavering Visage,gear (combat),380,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244602,Ranger-General's Grips,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244611,World Tender's Barkclasp,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244610,World Tender's Rootslippers,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244609,World Tender's Trunkplate,gear (combat),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+244596,Scout's Polished Skullcap,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244599,Scout's Polished Legguards,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244597,Scout's Polished Spaulders,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244598,Scout's Polished Gauntlets,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244600,Scout's Polished Wrap,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244590,Scout's Scaled Vest,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244588,Scout's Scaled Boots,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244557,Thalassian Competitor's Leather Belt,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244553,Thalassian Competitor's Leather Boots,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244554,Thalassian Competitor's Leather Chestpiece,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244559,Thalassian Competitor's Leather Gloves,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244555,Thalassian Competitor's Leather Mask,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244556,Thalassian Competitor's Leather Shoulderpads,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244558,Thalassian Competitor's Leather Trousers,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244560,Thalassian Competitor's Leather Wristwraps,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244563,Thalassian Competitor's Chain Cowl,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244568,Thalassian Competitor's Chain Cuffs,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244564,Thalassian Competitor's Chain Epaulets,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244565,Thalassian Competitor's Chain Girdle,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244567,Thalassian Competitor's Chain Grips,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244566,Thalassian Competitor's Chain Leggings,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244561,Thalassian Competitor's Chain Stompers,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244562,Thalassian Competitor's Chain Tunic,gear (pvp),165,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244623,Eversong Hunter's Headcover,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244626,Sin'dorei Alchemist's Hat,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244624,Sin'dorei Engineer's Gloves,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244628,Sin'dorei Forgemaster's Cover,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244621,Sin'dorei Herbalist's Backpack,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244622,Sin'dorei Hunter's Pack,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244630,Sin'dorei Jeweler's Cover,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244625,Sin'dorei Leathershaper's Smock,gear (profession),400,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244812,Thalassian Alchemist's Mixcap,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244814,Thalassian Gemshaper's  Grand Cover,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244807,Thalassian Herbtender's Cradle,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244811,Thalassian Hideshaper's Regalia,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244813,Thalassian Ironbender's Regalia,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244810,Thalassian Scrapmaster's Gauntlets,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244809,Thalassian Wildseeker's Stridercap,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244808,Thalassian Wildseeker's Workbag,gear (profession),400,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244627,Apprentice Smith's Apron,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244620,Chemist's Cap,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244629,Apprentice Jeweler's Apron,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244618,Tinker's Handguard,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244619,Hideworker's Cover,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244616,Skinner's Backpack,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244615,Eversong Botanist's Satchel,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244617,Skinner's Cap,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262449,Embossed Sin'dorei Fur Rug,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+265791,Haranir Canopy Bed,housing decor,-1,-1,1,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+253457,Leather-Bound Haranir Wall Shelf,housing decor,-1,-1,1,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+264244,Plush Haranir Leather Pillow,housing decor,-1,-1,1,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+262589,Simple Haranir Table,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262600,Stitched Haranir Rug,housing decor,-1,-1,1,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+243090,Sturdy Haranir Chair,housing decor,-1,-1,1,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+270058,Rope Lynx Harness,mount,-1,-1,1,-1,epic,TRUE,FALSE,FALSE,FALSE,FALSE

@@ -27,11 +27,13 @@
                         <!-- expansion navbar -->
                         {% set isDF = (expansion=='DF') %}
                         {% set isTWW = (expansion=='TWW') %}
+                        {% set isMidnight = (expansion=='Midnight') %}
                         <div class="row mb-2" id="top-navbar">
                             <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
-                                <li class="nav-item"><a class="nav-link" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" aria-current="false" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
                                 <li class="nav-item"><a class="nav-link {% if isDF %}active{% endif %}" aria-current={% if isDF %}"page"{% else %}"false"{% endif %} href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
                                 <li class="nav-item"><a class="nav-link {% if isTWW %}active{% endif %}" aria-current={% if isTWW %}"page"{% else %}"false"{% endif %} href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isMidnight %}active{% endif %}" aria-current={% if isMidnight %}"page"{% else %}"false"{% endif %} href="{{url_for('midnight')}}"><img class="tiniester-icon borderless" src="../static/images/midnight_icon.png">Midnight</a></li>
                             </ul>
                         </div>
 
@@ -62,11 +64,13 @@
             <div class="row row-cols-1 row-cols-md-3 g-3"> <!-- Use 1 column by default, but use 3 columns when window is medium size or larger-->
                 <div class="col">
                     <a href="{{url_for('alchemy_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden"> <!-- overflow-hidden to fix the .zoom classes -->
                             {% if isDF %}
                                 <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092089-alchemy.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/alchemy_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/alchemy_midnight.jpg" class="card-img zoom-25" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Alchemy</p>--> <!-- top text -->
@@ -79,11 +83,13 @@
 
                 <div class="col">
                     <a href="{{url_for('blacksmithing_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="./static/images/blacksmithing.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/blacksmithing_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/blacksmithing_midnight.jpg" class="card-img zoom-50" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Blacksmithing</p>--> <!-- top text -->
@@ -96,11 +102,13 @@
 
                 <div class="col">
                     <a href="{{url_for('cooking_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="./static/images/cooking.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/cooking_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/cooking_midnight.jpg" class="card-img" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Cooking</p>--> <!-- top text -->
@@ -113,11 +121,13 @@
 
                 <div class="col">
                     <a href="{{url_for('enchanting_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092088-enchanting.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/enchanting_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/enchanting_midnight.jpg" class="card-img zoom-25" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Enchanting</p>--> <!-- top text -->
@@ -130,11 +140,13 @@
 
                 <div class="col">
                     <a href="{{url_for('engineering_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092091-engineering.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/engineering_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/engineering_midnight.jpg" class="card-img zoom-25" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Engineering</p>--> <!-- top text -->
@@ -147,11 +159,13 @@
 
                 <div class="col">
                     <a href="{{url_for('inscription_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="./static/images/inscription.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/inscription_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/inscription_midnight.jpg" class="card-img zoom-50" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Inscription</p>--> <!-- top text -->
@@ -164,11 +178,13 @@
 
                 <div class="col">
                     <a href="{{url_for('jewelcrafting_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="https://wow.zamimg.com/uploads/screenshots/normal/1092090-jewelcrafting.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/jewelcrafting_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/jewelcrafting_midnight.jpg" class="card-img zoom-50" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Jewelcrafting</p>--> <!-- top text -->
@@ -181,11 +197,13 @@
 
                 <div class="col">
                     <a href="{{url_for('leatherworking_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="./static/images/leatherworking.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/leatherworking_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/leatherworking_midnight.jpg" class="card-img zoom-50" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Leatherworking</p>--> <!-- top text -->
@@ -198,11 +216,13 @@
 
                 <div class="col">
                     <a href="{{url_for('tailoring_'~expansion)}}" class="hide-link">
-                        <div class="card">
+                        <div class="card overflow-hidden">
                             {% if isDF %}
                                 <img src="./static/images/tailoring.jpg" class="card-img" alt="...">
                             {% elif isTWW %}
                                 <img src="./static/images/tailoring_TWW.png" class="card-img" alt="...">
+                            {% else %}
+                                <img src="./static/images/tailoring_midnight.jpg" class="card-img zoom-25" alt="...">
                             {% endif %}
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Tailoring</p>--> <!-- top text -->

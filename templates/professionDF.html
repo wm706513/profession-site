@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 
+{% set IMG_DIR = "../static/images/" %}
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -12,7 +14,7 @@
         <script>const whTooltips = {colorLinks: false, iconizeLinks: false, renameLinks: false};</script>
         <script src="https://wow.zamimg.com/js/tooltips.js"></script>
         <link href="../static/style.css" rel="stylesheet">
-        <link href="../static/images/favicon.png" rel="icon">
+        <link href={{ IMG_DIR ~ "favicon.png" }} rel="icon">
     </head>
 
     <body class="bg-dark">
@@ -25,13 +27,12 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <div class="col">
                         <!-- expansion navbar -->
-                        {% set isDF = (expansion=='DF') %}
-                        {% set isTWW = (expansion=='TWW') %}
                         <div class="row mb-2" id="top-navbar">
                             <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
-                                <li class="nav-item"><a class="nav-link" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isDF %}active{% endif %}" aria-current={% if isDF %}"page"{% else %}"false"{% endif %} href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isTWW %}active{% endif %}" aria-current={% if isTWW %}"page"{% else %}"false"{% endif %} href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{url_for('index')}}"><img class="tinier-icon borderless" src={{ IMG_DIR ~ "home8.png" }}>Home</a></li>
+                                <li class="nav-item"><a class="nav-link active" aria-current="false" href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src={{ IMG_DIR ~ "dragonflight_icon.png" }}>Dragonflight</a></li>
+                                <li class="nav-item"><a class="nav-link" aria-current="false" href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src={{ IMG_DIR ~ "the_war_within_icon.png" }}>The War Within</a></li>
+                                <li class="nav-item"><a class="nav-link" aria-current="false" href="{{url_for('midnight')}}"><img class="tiniester-icon borderless" src={{ IMG_DIR ~ "midnight_icon.png" }}>Midnight</a></li>
                             </ul>
                         </div>
 
@@ -47,15 +48,15 @@
                         {% set isTailoring = (profession_name=='tailoring') %}
                         <div class="row top-buffer" id="bottom-navbar">
                             <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
-                                <li class="nav-item"><a class="nav-link {% if isAlchemy %}active{% endif %}" aria-current={% if isAlchemy %}"page"{% else %}"false"{% endif %} href="{{url_for('alchemy_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/alchemy_small.jpg">Alchemy</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isBlacksmithing %}active{% endif %}" aria-current={% if isBlacksmithing %}"page"{% else %}"false"{% endif %} href="{{url_for('blacksmithing_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/blacksmithing_small.jpg">Blacksmithing</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isCooking %}active{% endif %}" aria-current={% if isCooking %}"page"{% else %}"false"{% endif %} href="{{url_for('cooking_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/cooking_small.jpg">Cooking</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isEnchanting %}active{% endif %}" aria-current={% if isEnchanting %}"page"{% else %}"false"{% endif %} href="{{url_for('enchanting_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/enchanting_small.jpg">Enchanting</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isEngineering %}active{% endif %}" aria-current={% if isEngineering %}"page"{% else %}"false"{% endif %} href="{{url_for('engineering_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/engineering_small.jpg">Engineering</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isInscription %}active{% endif %}" aria-current={% if isInscription %}"page"{% else %}"false"{% endif %} href="{{url_for('inscription_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/inscription_small.jpg">Inscription</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isJewelcrafting %}active{% endif %}" aria-current={% if isJewelcrafting %}"page"{% else %}"false"{% endif %} href="{{url_for('jewelcrafting_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/jewelcrafting_small.jpg">Jewelcrafting</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isLeatherworking %}active{% endif %}" aria-current={% if isLeatherworking %}"page"{% else %}"false"{% endif %} href="{{url_for('leatherworking_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/leatherworking_small.jpg">Leatherworking</a></li>
-                                <li class="nav-item"><a class="nav-link {% if isTailoring %}active{% endif %}" aria-current={% if isTailoring %}"page"{% else %}"false"{% endif %} href="{{url_for('tailoring_' ~ expansion)}}"><img class="tinier-icon" src="../static/images/tailoring_small.jpg">Tailoring</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isAlchemy %}active{% endif %}" aria-current={% if isAlchemy %}"page"{% else %}"false"{% endif %} href="{{url_for('alchemy_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "alchemy_small.jpg" }}>Alchemy</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isBlacksmithing %}active{% endif %}" aria-current={% if isBlacksmithing %}"page"{% else %}"false"{% endif %} href="{{url_for('blacksmithing_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "blacksmithing_small.jpg" }}>Blacksmithing</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isCooking %}active{% endif %}" aria-current={% if isCooking %}"page"{% else %}"false"{% endif %} href="{{url_for('cooking_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "cooking_small.jpg" }}>Cooking</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isEnchanting %}active{% endif %}" aria-current={% if isEnchanting %}"page"{% else %}"false"{% endif %} href="{{url_for('enchanting_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "enchanting_small.jpg" }}>Enchanting</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isEngineering %}active{% endif %}" aria-current={% if isEngineering %}"page"{% else %}"false"{% endif %} href="{{url_for('engineering_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "engineering_small.jpg" }}>Engineering</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isInscription %}active{% endif %}" aria-current={% if isInscription %}"page"{% else %}"false"{% endif %} href="{{url_for('inscription_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "inscription_small.jpg" }}>Inscription</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isJewelcrafting %}active{% endif %}" aria-current={% if isJewelcrafting %}"page"{% else %}"false"{% endif %} href="{{url_for('jewelcrafting_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "jewelcrafting_small.jpg" }}>Jewelcrafting</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isLeatherworking %}active{% endif %}" aria-current={% if isLeatherworking %}"page"{% else %}"false"{% endif %} href="{{url_for('leatherworking_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "leatherworking_small.jpg" }}>Leatherworking</a></li>
+                                <li class="nav-item"><a class="nav-link {% if isTailoring %}active{% endif %}" aria-current={% if isTailoring %}"page"{% else %}"false"{% endif %} href="{{url_for('tailoring_DF')}}"><img class="tinier-icon" src={{ IMG_DIR ~ "tailoring_small.jpg" }}>Tailoring</a></li>
                             </ul>
                         </div>
                     </div>
@@ -97,8 +98,8 @@
                             <div class="accordion-body">
                                 <div class="accordion borderless" id="{{'_'.join(dataset_label.split())}}_Items">
                                     {% for item_set in dataset %} <!-- item_set is the data dictionary for a singular item -->
-                                        {% set session_search = profession_name + '_' + expansion + '_search' %}
-                                        {% set session_select = profession_name + '_' + expansion + '_select' %}
+                                        {% set session_search = profession_name + '_DF_search' %}
+                                        {% set session_select = profession_name + '_DF_select' %}
                                         {% if (session[session_search] == '' or session[session_search].lower() in item_set['item'].lower()) and (session[session_select] == 'none' or item_set['tag'].lower() == session[session_select]) %}
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">

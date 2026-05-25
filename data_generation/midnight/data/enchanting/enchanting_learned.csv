@@ -1,0 +1,91 @@
+﻿itemID,itemName,Linidel,Mellasona
+244177,Runed Dazzling Thorium Rod,TRUE,FALSE
+244176,Runed Brilliant Silver Rod,TRUE,FALSE
+244175,Runed Refulgent Copper Rod,TRUE,TRUE
+244179,Magister's Grand Focus,TRUE,FALSE
+244178,Thalassian Spellweaver's Wand,TRUE,TRUE
+243735,Oil of Dawn,TRUE,FALSE
+243737,Smuggler's Enchanted Edge,FALSE,FALSE
+243733,Thalassian Phoenix Oil,TRUE,TRUE
+244009,Enchant Boots - Farstrider's Hunt,TRUE,FALSE
+243953,Enchant Boots - Lynx's Dexterity,TRUE,TRUE
+243983,Enchant Boots  - Shaladrassil's Roots,FALSE,FALSE
+243947,Enchant Chest - Mark of Nalorakk,TRUE,FALSE
+244003,Enchant Chest - Mark of the Magister,TRUE,FALSE
+243975,Enchant Chest - Mark of the Rootwarden,TRUE,FALSE
+243977,Enchant Chest - Mark of the Worldsoul,TRUE,TRUE
+243981,Enchant Helm - Empowered Blessing of Speed,FALSE,TRUE
+243951,Enchant Helm - Empowered Hex of Leeching,TRUE,FALSE
+244007,Enchant Helm - Empowered Rune of Avoidance,FALSE,FALSE
+243981,Enchant Helm - Blessing of Speed,TRUE,TRUE
+243949,Enchant Helm - Hex of Leeching,TRUE,TRUE
+244005,Enchant Helm - Rune of Avoidance,TRUE,TRUE
+243957,Enchant Ring - Eyes of the Eagle,TRUE,FALSE
+243987,Enchant Ring - Nature's Fury,FALSE,FALSE
+244015,Enchant Ring - Silvermoon's Alacrity,TRUE,TRUE
+244017,Enchant Ring - Silvermoon's Tenacity,TRUE,FALSE
+243959,Enchant Ring - Zul'jin's Mastery,TRUE,TRUE
+243955,Enchant Ring - Amani Mastery,TRUE,TRUE
+243985,Enchant Ring - Nature's Wrath,TRUE,TRUE
+244013,Enchant Ring - Thalassian Versatility,TRUE,TRUE
+244011,Enchant Ring - Thalassian Haste,TRUE,TRUE
+243963,Enchant Shoulders - Akil'zon's Swiftness,FALSE,FALSE
+243991,Enchant Shoulders - Amirdrassil's Grace,FALSE,FALSE
+244021,Enchant Shoulders - Silvermoon's Mending,TRUE,TRUE
+244019,Enchant Shoulders - Thalassian Recovery,TRUE,TRUE
+243961,Enchant Shoulders - Flight of the Eagle,TRUE,TRUE
+243989,Enchant Shoulders - Nature's Grace,TRUE,TRUE
+244029,Enchant Weapon - Acuity of the Ren'dorei,TRUE,FALSE
+244031,Enchant Weapon - Arcane Mastery,TRUE,TRUE
+243973,Enchant Weapon - Berserker's Rage,TRUE,TRUE
+244027,Enchant Weapon - Flames of the Sin'dorei,TRUE,FALSE
+243971,Enchant Weapon - Jan'alai's Precision,TRUE,TRUE
+243969,Enchant Weapon - Strength of the Halazzi,TRUE,FALSE
+243999,Enchant Weapon - Worldsoul Aegis,TRUE,TRUE
+243997,Enchant Weapon - Worldsoul Cradle,FALSE,FALSE
+244001,Enchant Weapon - Worldsoul Tenacity,TRUE,FALSE
+243965,Enchant Tool - Amani Perception,TRUE,FALSE
+243967,Enchant Tool - Amani Resourcefulness,TRUE,TRUE
+243993,Enchant Tool - Haranir Finesse,TRUE,TRUE
+243995,Enchant Tool - Haranir Multicrafting,TRUE,FALSE
+244025,Enchant Tool - Ren'dorei Ingenuity,TRUE,FALSE
+244023,Enchant Tool - Sin'dorei Deftness,TRUE,TRUE
+244033,Illusory Adornment - Blooming Light,TRUE,TRUE
+244035,Illusory Adornment - Nature's Embrace,TRUE,FALSE
+244037,Illusory Adornment - Voidtouched,TRUE,TRUE
+243773,Gleeful Glamour - Blood Elf,TRUE,TRUE
+243774,Gleeful Glamour - Dark Iron Dwarf,TRUE,TRUE
+243775,Gleeful Glamour - Draenei,TRUE,TRUE
+243776,Gleeful Glamour - Dwarf,TRUE,TRUE
+243777,Gleeful Glamour - Earthen,TRUE,TRUE
+243778,Gleeful Glamour - Gnome,TRUE,TRUE
+243779,Gleeful Glamour - Goblin,TRUE,TRUE
+244056,Gleeful Glamour - Haranir,TRUE,FALSE
+243780,Gleeful Glamour - Highmountain Tauren,TRUE,TRUE
+243781,Gleeful Glamour - Human,TRUE,TRUE
+243782,Gleeful Glamour - Kul Tiran,TRUE,TRUE
+243783,Gleeful Glamour - Lightforged Draenei,TRUE,TRUE
+243784,Gleeful Glamour - Mag'har Orc,TRUE,TRUE
+243785,Gleeful Glamour - Mechagnome,TRUE,TRUE
+243786,Gleeful Glamour - Night Elf,TRUE,TRUE
+243787,Gleeful Glamour - Nightborne,TRUE,TRUE
+243788,Gleeful Glamour - Orc,TRUE,TRUE
+243789,Gleeful Glamour - Pandaren,TRUE,TRUE
+243790,Gleeful Glamour - Tauren,TRUE,TRUE
+243791,Gleeful Glamour - Troll,TRUE,TRUE
+243792,Gleeful Glamour - Undead,TRUE,TRUE
+243793,Gleeful Glamour - Void Elf,TRUE,TRUE
+243794,Gleeful Glamour - Vulpera,TRUE,TRUE
+243795,Gleeful Glamour - Worgen,TRUE,TRUE
+243796,Gleeful Glamour - Zandalari Troll,TRUE,TRUE
+262459,Animated Sin'dorei Hammer,FALSE,FALSE
+262458,Animated Sin'dorei Pick,FALSE,FALSE
+262450,Ensorcelled Broom,TRUE,FALSE
+262455,Font of Gleaming Water,TRUE,FALSE
+262468,Ren'dorei Postal Repository,FALSE,FALSE
+262590,Rootflame Campfire,FALSE,FALSE
+246693,Self-Pouring Thalassian Sunwine,FALSE,FALSE
+262470,Spellbound Tome of Thalassian Magics,FALSE,FALSE
+268038,Endless Codex of Blooming Light,FALSE,FALSE
+268039,Endless Codex of Nature's Grace,FALSE,FALSE
+268041,Endless Codex of the Voidtouched,TRUE,FALSE

@@ -1,0 +1,934 @@
+[
+    {
+        "itemID": "245764",
+        "itemName": "Codified Azeroot",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Processing",
+            "Perfected Products",
+            "Perfect Ciphers"
+        ]
+    },
+    {
+        "itemID": "245766",
+        "itemName": "Soul Cipher",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Processing",
+            "Perfected Products",
+            "Perfect Ciphers"
+        ]
+    },
+    {
+        "itemID": "245805",
+        "itemName": "Sienna Ink",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Processing",
+            "Perfected Products",
+            "Perfect Inks"
+        ]
+    },
+    {
+        "itemID": "245801",
+        "itemName": "Munsell Ink",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Processing",
+            "Perfected Products",
+            "Perfect Inks"
+        ]
+    },
+    {
+        "itemID": "245871",
+        "itemName": "Darkmoon Sigil: Blood",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Blood",
+            "Darkmoon Sigil: Blood"
+        ]
+    },
+    {
+        "itemID": "245875",
+        "itemName": "Darkmoon Sigil: Hunt",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Hunt",
+            "Darkmoon Sigil: Hunt"
+        ]
+    },
+    {
+        "itemID": "245877",
+        "itemName": "Darkmoon Sigil: Rot",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Rot",
+            "Darkmoon Sigil: Rot"
+        ]
+    },
+    {
+        "itemID": "245873",
+        "itemName": "Darkmoon Sigil: Void",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Void",
+            "Darkmoon Sigil: Void"
+        ]
+    },
+    {
+        "itemID": "246305",
+        "itemName": "Darkmoon Dominion: Blood",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Blood",
+            "Darkmoon Dominion: Blood"
+        ]
+    },
+    {
+        "itemID": "246304",
+        "itemName": "Darkmoon Dominion: Hunt",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Hunt",
+            "Darkmoon Dominion: Hunt"
+        ]
+    },
+    {
+        "itemID": "246306",
+        "itemName": "Darkmoon Dominion: Rot",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Rot",
+            "Darkmoon Dominion: Rot"
+        ]
+    },
+    {
+        "itemID": "246307",
+        "itemName": "Darkmoon Dominion: Void",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Darkmoon Curiosity",
+            "Void",
+            "Darkmoon Dominion: Void"
+        ]
+    },
+    {
+        "itemID": "245770",
+        "itemName": "Aln'hara Cane",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Staves"
+        ]
+    },
+    {
+        "itemID": "245769",
+        "itemName": "Aln'hara Lantern",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Lamps and Lanterns"
+        ]
+    },
+    {
+        "itemID": "245771",
+        "itemName": "Aln'hara Pikestaff",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Staves"
+        ]
+    },
+    {
+        "itemID": "265337",
+        "itemName": "Aln'hara Sprigshot",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Bows"
+        ]
+    },
+    {
+        "itemID": "245773",
+        "itemName": "Faunatender's Baton",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Staves"
+        ]
+    },
+    {
+        "itemID": "265336",
+        "itemName": "Faunatender's Trust",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Bows"
+        ]
+    },
+    {
+        "itemID": "245772",
+        "itemName": "Floratender's Crutch",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Staves"
+        ]
+    },
+    {
+        "itemID": "245768",
+        "itemName": "Rootwarden's Lamp",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Lamps and Lanterns"
+        ]
+    },
+    {
+        "itemID": "245797",
+        "itemName": "Contract: The Amani Tribe",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Contracts"
+        ]
+    },
+    {
+        "itemID": "245795",
+        "itemName": "Contract: The Hara'ti",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Contracts"
+        ]
+    },
+    {
+        "itemID": "245799",
+        "itemName": "Contract: The Silvermoon Court",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Contracts"
+        ]
+    },
+    {
+        "itemID": "245793",
+        "itemName": "Contract: The Singularity",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Contracts"
+        ]
+    },
+    {
+        "itemID": "245789",
+        "itemName": "Thalassian Missive of the Peerless",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245791",
+        "itemName": "Thalassian Missive of the Quickblade",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245785",
+        "itemName": "Thalassian Missive of the Fireflash",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245787",
+        "itemName": "Thalassian Missive of the Harmonious",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245781",
+        "itemName": "Thalassian Missive of the Aurora",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245783",
+        "itemName": "Thalassian Missive of the Feverflare",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245820",
+        "itemName": "Thalassian Missive of Crafting Speed",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245826",
+        "itemName": "Thalassian Missive of Deftness",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245822",
+        "itemName": "Thalassian Missive of Finesse",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245814",
+        "itemName": "Thalassian Missive of Ingenuity",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245818",
+        "itemName": "Thalassian Missive of Multicraft",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245824",
+        "itemName": "Thalassian Missive of Perception",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "245816",
+        "itemName": "Thalassian Missive of Resourcefulness",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Missives"
+        ]
+    },
+    {
+        "itemID": "259205",
+        "itemName": "Gilded Alchemist's Mixing Rod",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Alchemist's Mixing Rod"
+        ]
+    },
+    {
+        "itemID": "259209",
+        "itemName": "Gilded Sin'dorei Quill",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Scribe's Quill"
+        ]
+    },
+    {
+        "itemID": "259207",
+        "itemName": "Gilded Sin'dorei Rolling Pin",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Chef's Rolling Pin"
+        ]
+    },
+    {
+        "itemID": "245778",
+        "itemName": "Sin'dorei Alchemist's Mixing Rod",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Alchemist's Mixing Rod"
+        ]
+    },
+    {
+        "itemID": "245776",
+        "itemName": "Sin'dorei Quill",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Scribe's Quill"
+        ]
+    },
+    {
+        "itemID": "245780",
+        "itemName": "Sin'dorei Rolling Pin",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Chef's Rolling Pin"
+        ]
+    },
+    {
+        "itemID": "245777",
+        "itemName": "Hobbyist Alchemist's Mixing Rod",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Alchemist's Mixing Rod"
+        ]
+    },
+    {
+        "itemID": "245779",
+        "itemName": "Hobbyist Rolling Pin",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Chef's Rolling Pin"
+        ]
+    },
+    {
+        "itemID": "245775",
+        "itemName": "Hobbyist Quill",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Market Research",
+            "Scribe's Quill"
+        ]
+    },
+    {
+        "itemID": "245755",
+        "itemName": "Thalassian Treatise on Alchemy",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245763",
+        "itemName": "Thalassian Treatise on Blacksmithing",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245759",
+        "itemName": "Thalassian Treatise on Enchanting",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245809",
+        "itemName": "Thalassian Treatise on Engineering",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245761",
+        "itemName": "Thalassian Treatise on Herbalism",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245757",
+        "itemName": "Thalassian Treatise on Inscription",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245760",
+        "itemName": "Thalassian Treatise on Jewelcrafting",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245758",
+        "itemName": "Thalassian Treatise on Leatherworking",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245762",
+        "itemName": "Thalassian Treatise on Mining",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245828",
+        "itemName": "Thalassian Treatise on Skinning",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245756",
+        "itemName": "Thalassian Treatise on Tailoring",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245879",
+        "itemName": "Vantus Rune: Radiant",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Perfected Products",
+            "Parchment",
+            "Perfect Vantus Runes"
+        ]
+    },
+    {
+        "itemID": "262464",
+        "itemName": "Floating Void-Touched Tome",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262597",
+        "itemName": "Gilded Eversong Book",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "253508",
+        "itemName": "Harandar Signpost",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262594",
+        "itemName": "Homely Sin'dorei Shelf",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262595",
+        "itemName": "Homely Wall Shelves",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262616",
+        "itemName": "Lively Sonwriter's Quill",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "263034",
+        "itemName": "Magnificent Towering Bookcase",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262598",
+        "itemName": "Opened Sin'dorei Scroll",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262790",
+        "itemName": "Restful Bronze Bench",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262615",
+        "itemName": "Sin'dorei Phoenix Quill",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262612",
+        "itemName": "Sturdy Ren'dorei Cask",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "262601",
+        "itemName": "Wild Hanging Scroll",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye"
+        ]
+    },
+    {
+        "itemID": "245869",
+        "itemName": "Thalassian Competitor's Bow",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Bows"
+        ]
+    },
+    {
+        "itemID": "245753",
+        "itemName": "Thalassian Competitor's Emblem",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Lamps and Lanterns"
+        ]
+    },
+    {
+        "itemID": "245752",
+        "itemName": "Thalassian Competitor's Insignia of Alacrity",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Lamps and Lanterns"
+        ]
+    },
+    {
+        "itemID": "245870",
+        "itemName": "Thalassian Competitor's Lamp",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Lamps and Lanterns"
+        ]
+    },
+    {
+        "itemID": "245751",
+        "itemName": "Thalassian Competitor's Medallion",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Lamps and Lanterns"
+        ]
+    },
+    {
+        "itemID": "245868",
+        "itemName": "Thalassian Competitor's Pillar",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Staves"
+        ]
+    },
+    {
+        "itemID": "268365",
+        "itemName": "Thalassian Competitor's Staff",
+        "nodes": [
+            "Dextrous Diligence",
+            "Calm Hands",
+            "Added Flair",
+            "Keen Eye",
+            "Blueprints",
+            "Field Research",
+            "Staves"
+        ]
+    }
+]

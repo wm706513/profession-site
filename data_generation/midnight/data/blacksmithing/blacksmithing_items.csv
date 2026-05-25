@@ -1,0 +1,96 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+238204,Sterling Alloy,crafting reagent,400,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+238202,Gloaming Alloy,crafting reagent,400,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+238197,Refulgent Copper Ingot,crafting reagent,300,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244472,Knight-Commander's Palisade,gear (combat),490,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,TRUE
+244463,Murder Row Fleet Feet,gear (combat),490,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,TRUE
+237834,Spellbreaker's Bracers,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237832,Spellbreaker's Cover,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237830,Spellbreaker's Girdle,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237833,Spellbreaker's Legguards,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237835,Spellerbreaker's Mantle,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237828,Spellbreaker's March,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237831,Spellbreaker's Rebuke,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237836,Spellbreaker's Resolve,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237829,Spellbreaker's Shelter,gear (combat),490,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237922,Blood-Tempered Leggings,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237924,Blood-Tempered Pauldrons,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237917,Blood-Tempered Greaves,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237921,Blood-Tempered Basinet,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237925,Blood-Tempered Bulwark,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237920,Blood-Tempered Gauntlets,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237919,Blood-Tempered Greatbelt,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237923,Blood-Tempered Bracers,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237918,Blood-Tempered Chestplate,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237847,Blood Knight's Impetus,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237848,Blood Knight's Mercy,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237846,Blood Knight's Warblade,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237845,Bloomforged Claw,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237842,Bloomforged Greataxe,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237850,Farstrider's Chopper,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237837,Farstrider's Mercy,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237844,Magister's Cleaver,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237843,Magister's Mana Sword,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237838,Magister's Ritual Knife,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237849,Magister's Valediction,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244679,Murder Row Fishhook,gear (combat),440,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,TRUE
+237839,Spellbreaker's Blade,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237841,Spellbreaker's Ultimatum,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237840,Spellbreaker's Warglaive,gear (combat),440,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+237930,Dawnforged War Mace,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237929,Primalforged Knuckles,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237928,Dawnforged Long Blade,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237931,Dawnforged Splitter,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237927,Dawnforged Edge,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237926,Dawnforged Ritual Knife,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+237932,Primalforged Heavy Axe,gear (combat),275,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+259230,Sunforged Blacksmith's Toolbox,gear (profession),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+246536,Sunforged Leatherworker's Knife,gear (profession),480,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+259232,Sunforged Leatherworker's Toolset,gear (profession),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+259234,Sunforged Needle Set,gear (profession),490,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+246534,Sunforged Pickaxe,gear (profession),480,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+246533,Sunforged Sickle,gear (profession),480,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+246535,Sunforged Skinning Knife,gear (profession),480,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+238018,Sun-Blessed Blacksmith's Hammer,gear (profession),480,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+237952,Sun-Blessed Blacksmith's Toolbox,gear (profession),490,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+238017,Sun-Blessed Leatherworker's Knife,gear (profession),480,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+237951,Sun-Blessed Leatherworker's Toolset,gear (profession),490,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+237950,Sun-Blessed Needle Set,gear (profession),490,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+238015,Sun-Blessed Pickaxe,gear (profession),480,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+238014,Sun-Blessed Sickle,gear (profession),480,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+238016,Sun-Blessed Skinning Knife,gear (profession),480,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+238013,Thalassian Blacksmith's Hammer,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+246537,Sunforged Blacksmith's Hammer,gear (profession),480,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+237948,Thalassian Blacksmith's Toolbox,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+238012,Thalassian Leatherworker's Knife,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+237947,Thalassian Leatherworker's Toolset,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+237946,Thalassian Needle Set,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+238010,Thalassian Pickaxe,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+238009,Thalassian Sickle,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+238011,Thalassian Skinning Knife,gear (profession),200,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+237367,Refulgent Weightstone,consumable,450,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+237372,Refulgent Razorstone,consumable,425,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+237370,Refulgent Whetstone,consumable,450,0,4,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+237912,Thalassian Competitor's Bulwark,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237915,Thalassian Competitor's Greatsword,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237910,Thalassian Competitor's Knife,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237911,Thalassian Competitor's Maxim,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237909,Thalassian Competitor's Pickaxe,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237908,Thalassian Competitor's Plate Armguards,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237901,Thalassian Competitor's Plate Breastplate,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237903,Thalassian Competitor's Plate Gauntlets,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237905,Thalassian Competitor's Plate Greaves,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237904,Thalassian Competitor's Plate Helm,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237906,Thalassian Competitor's Plate Pauldrons,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237902,Thalassian Competitor's Plate Sabatons,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237907,Thalassian Competitor's Plate Waistguard,gear (pvp),225,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237914,Thalassian Competitor's Skewer,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237913,Thalassian Competitor's Splitter,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+237916,Thalassian Competitor's Sword,gear (pvp),200,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+238209,Refulgent Repair Hammer,housing decor,-1,0,2,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262451,Gilded Silvermoon Anvil,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262457,Gilded Silvermoon Hanger,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262452,Masterwork Crafting Hammer,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262456,Ornamental Silvermoon Hanger,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262460,Ren'dorei Anvil,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+260232,Thalassian Skeleton Key,consumable,-1,0,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

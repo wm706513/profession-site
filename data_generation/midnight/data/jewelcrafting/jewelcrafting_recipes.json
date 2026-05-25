@@ -1,0 +1,712 @@
+[
+    {
+        "itemID": "251487",
+        "itemName": "Prismatic Focusing Iris",
+        "reagents": {
+            "240972": 2,
+            "242620": 2
+        }
+    },
+    {
+        "itemID": "251489",
+        "itemName": "Stabilizing Gemstone Bandolier",
+        "reagents": {
+            "242553": 1,
+            "242607": 1,
+            "242606": 1,
+            "242554": 1,
+            "242620": 3
+        }
+    },
+    {
+        "itemID": "240974",
+        "itemName": "Kaleidoscopic Prism",
+        "reagents": {
+            "242612": 1,
+            "242610": 1,
+            "242613": 1,
+            "242611": 1,
+            "242620": 10
+        }
+    },
+    {
+        "itemID": "240972",
+        "itemName": "Sin'dorei Lens",
+        "reagents": {
+            "242620": 1,
+            "242787": 3
+        }
+    },
+    {
+        "itemID": "240991",
+        "itemName": "Sunglass Vial",
+        "reagents": {
+            "242787": 5,
+            "242788": 1
+        }
+    },
+    {
+        "itemID": "240889",
+        "itemName": "Flawless Deadly Peridot",
+        "reagents": {
+            "236950": 3,
+            "251285": 1,
+            "242610": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240891",
+        "itemName": "Flawless Masterful Peridot",
+        "reagents": {
+            "236950": 3,
+            "251285": 1,
+            "242610": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240887",
+        "itemName": "Flawless Quick Peridot",
+        "reagents": {
+            "236950": 3,
+            "251285": 1,
+            "242610": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240893",
+        "itemName": "Flawless Versatile Peridot",
+        "reagents": {
+            "236950": 3,
+            "251285": 1,
+            "242610": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "241137",
+        "itemName": "Harandar Peridot Prism",
+        "reagents": {
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240861",
+        "itemName": "Versatile Peridot",
+        "reagents": {
+            "242607": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240859",
+        "itemName": "Masterful Peridot",
+        "reagents": {
+            "242607": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240857",
+        "itemName": "Deadly Peridot",
+        "reagents": {
+            "242607": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240855",
+        "itemName": "Quick Peridot",
+        "reagents": {
+            "242607": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240913",
+        "itemName": "Flawless Deadly Lapis",
+        "reagents": {
+            "236951": 3,
+            "251285": 1,
+            "242612": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240917",
+        "itemName": "Flawless Masterful Lapis",
+        "reagents": {
+            "236951": 3,
+            "251285": 1,
+            "242612": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240915",
+        "itemName": "Flawless Quick Lapis",
+        "reagents": {
+            "236951": 3,
+            "251285": 1,
+            "242612": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240911",
+        "itemName": "Flawless Versatile Lapis",
+        "reagents": {
+            "236951": 3,
+            "251285": 1,
+            "242612": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "241132",
+        "itemName": "Amani Lapis Prism",
+        "reagents": {
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240883",
+        "itemName": "Quick Lapis",
+        "reagents": {
+            "242554": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240885",
+        "itemName": "Masterful Lapis",
+        "reagents": {
+            "242554": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240881",
+        "itemName": "Deadly Lapis",
+        "reagents": {
+            "242554": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240879",
+        "itemName": "Versatile Lapis",
+        "reagents": {
+            "242554": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240897",
+        "itemName": "Flawless Deadly Amethyst",
+        "reagents": {
+            "236952": 3,
+            "251285": 1,
+            "242611": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240895",
+        "itemName": "Flawless Masterful Amethyst",
+        "reagents": {
+            "236952": 3,
+            "251285": 1,
+            "242611": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240899",
+        "itemName": "Flawless Quick Amethyst",
+        "reagents": {
+            "236952": 3,
+            "251285": 1,
+            "242611": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240901",
+        "itemName": "Flawless Versatile Amethyst",
+        "reagents": {
+            "236952": 3,
+            "251285": 1,
+            "242611": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "241133",
+        "itemName": "Tenebrous Amethyst Prism",
+        "reagents": {
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240869",
+        "itemName": "Versatile Amethyst",
+        "reagents": {
+            "242606": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240867",
+        "itemName": "Quick Amethyst",
+        "reagents": {
+            "242606": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240865",
+        "itemName": "Deadly Amethyst",
+        "reagents": {
+            "242606": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240863",
+        "itemName": "Masterful Amethyst",
+        "reagents": {
+            "242606": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240903",
+        "itemName": "Flawless Deadly Garnet",
+        "reagents": {
+            "236949": 3,
+            "251285": 1,
+            "242613": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240907",
+        "itemName": "Flawless Masterful Garnet",
+        "reagents": {
+            "236949": 3,
+            "251285": 1,
+            "242613": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240905",
+        "itemName": "Flawless Quick Garnet",
+        "reagents": {
+            "236949": 3,
+            "251285": 1,
+            "242613": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240909",
+        "itemName": "Flawless Versatile Garnet",
+        "reagents": {
+            "236949": 3,
+            "251285": 1,
+            "242613": 1,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "241135",
+        "itemName": "Sanguine Garnet Prism",
+        "reagents": {
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240877",
+        "itemName": "Versatile Garnet",
+        "reagents": {
+            "242553": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240875",
+        "itemName": "Masterful Garnet",
+        "reagents": {
+            "242553": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240873",
+        "itemName": "Quick Garnet",
+        "reagents": {
+            "242553": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240871",
+        "itemName": "Deadly Garnet",
+        "reagents": {
+            "242553": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "240982",
+        "itemName": "Indecipherable Eversong Diamond",
+        "reagents": {
+            "251285": 2,
+            "242608": 1,
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240966",
+        "itemName": "Powerful Eversong Diamond",
+        "reagents": {
+            "251285": 2,
+            "242608": 1,
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240970",
+        "itemName": "Stoic Eversong Diamond",
+        "reagents": {
+            "251285": 2,
+            "242608": 1,
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "240968",
+        "itemName": "Telluric Eversong Diamond",
+        "reagents": {
+            "251285": 2,
+            "242608": 1,
+            "240974": 1
+        }
+    },
+    {
+        "itemID": "241143",
+        "itemName": "Cognitive Heliotrope",
+        "reagents": {
+            "253307": 1,
+            "242788": 3,
+            "242620": 15
+        }
+    },
+    {
+        "itemID": "241142",
+        "itemName": "Determined Heliotrope",
+        "reagents": {
+            "253307": 1,
+            "242788": 3,
+            "242620": 15
+        }
+    },
+    {
+        "itemID": "241144",
+        "itemName": "Enduring Heliotrope",
+        "reagents": {
+            "253307": 1,
+            "242788": 3,
+            "242620": 15
+        }
+    },
+    {
+        "itemID": "240952",
+        "itemName": "Thalassian Competitor's Amulet",
+        "reagents": {
+            "256559": 3,
+            "242788": 5,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "240951",
+        "itemName": "Thalassian Competitor's Signet",
+        "reagents": {
+            "256559": 3,
+            "242788": 5,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "251513",
+        "itemName": "Loa Worshipper's Band",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "236951": 20,
+            "240974": 1,
+            "242788": 5,
+            "242612": 1
+        }
+    },
+    {
+        "itemID": "240949",
+        "itemName": "Masterwork Sin'dorei Band",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "240974": 1,
+            "242788": 3,
+            "242620": 5
+        }
+    },
+    {
+        "itemID": "241140",
+        "itemName": "Signet of Azerothian Blessings",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "236950": 20,
+            "240974": 1,
+            "242788": 5,
+            "242610": 1
+        }
+    },
+    {
+        "itemID": "240947",
+        "itemName": "Gleaming Copper Band",
+        "reagents": {
+            "237359": 5,
+            "242788": 1
+        }
+    },
+    {
+        "itemID": "240950",
+        "itemName": "Masterwork Sin'dorei Amulet",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "236949": 10,
+            "240974": 1,
+            "242788": 5
+        }
+    },
+    {
+        "itemID": "241139",
+        "itemName": "Thalassian Phoenix Torque",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "236949": 20,
+            "240974": 1,
+            "242788": 5,
+            "242613": 1
+        }
+    },
+    {
+        "itemID": "251073",
+        "itemName": "Voidstone Shielding Array",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "236952": 20,
+            "240972": 12,
+            "242788": 12
+        }
+    },
+    {
+        "itemID": "240948",
+        "itemName": "Nocturnal Charm",
+        "reagents": {
+            "237362": 5,
+            "242788": 1
+        }
+    },
+    {
+        "itemID": "240958",
+        "itemName": "Improved Right-Handed Magnifying Glass",
+        "reagents": {
+            "242620": 10,
+            "240972": 2,
+            "242788": 5,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "240960",
+        "itemName": "Sin'dorei Enchanter's Crystal",
+        "reagents": {
+            "242620": 10,
+            "242788": 5,
+            "244637": 1,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "240959",
+        "itemName": "Sin'dorei Jeweler's Loupes",
+        "reagents": {
+            "240972": 6,
+            "242788": 3,
+            "242620": 3,
+            "238518": 1
+        }
+    },
+    {
+        "itemID": "240957",
+        "itemName": "Sin'dorei Scribe's Spectacles",
+        "reagents": {
+            "242620": 15,
+            "240972": 2,
+            "242788": 1
+        }
+    },
+    {
+        "itemID": "246527",
+        "itemName": "Attuned Thalassian Rune-Prism",
+        "reagents": {
+            "245345": 20,
+            "240974": 1,
+            "242620": 5,
+            "242788": 5,
+            "244637": 1,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "246524",
+        "itemName": "Flawless Text Scrutinizers",
+        "reagents": {
+            "245345": 20,
+            "242620": 20,
+            "240972": 4,
+            "242788": 4
+        }
+    },
+    {
+        "itemID": "246526",
+        "itemName": "Mage-Eye Precision Loupes",
+        "reagents": {
+            "245345": 20,
+            "238529": 1,
+            "240972": 10,
+            "242788": 6,
+            "242620": 10,
+            "244633": 1
+        }
+    },
+    {
+        "itemID": "246525",
+        "itemName": "Thalassian Scribe's Crystalline Lens",
+        "reagents": {
+            "245345": 20,
+            "242620": 20,
+            "240972": 3,
+            "242788": 10,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "240953",
+        "itemName": "Bold Biographer's Bifocals",
+        "reagents": {
+            "240972": 2,
+            "242788": 1
+        }
+    },
+    {
+        "itemID": "240954",
+        "itemName": "Fantastic Font Focuser",
+        "reagents": {
+            "240972": 1,
+            "242788": 2
+        }
+    },
+    {
+        "itemID": "240956",
+        "itemName": "Silvermoon Focusing Shard",
+        "reagents": {
+            "242787": 3,
+            "242788": 1,
+            "242553": 1
+        }
+    },
+    {
+        "itemID": "240955",
+        "itemName": "Silvermoon Loupes",
+        "reagents": {
+            "240972": 1,
+            "242620": 1
+        }
+    },
+    {
+        "itemID": "241141",
+        "itemName": "Monologuer's Chalice",
+        "reagents": {
+            "242787": 2
+        }
+    },
+    {
+        "itemID": "262471",
+        "itemName": "Bejeweled Sin'dorei Lyre",
+        "reagents": {
+            "251665": 25,
+            "256963": 24,
+            "240974": 1,
+            "242620": 15
+        }
+    },
+    {
+        "itemID": "262469",
+        "itemName": "Brilliant Phoenix Harp",
+        "reagents": {
+            "251665": 25,
+            "256963": 36,
+            "242620": 20,
+            "242788": 20
+        }
+    },
+    {
+        "itemID": "262613",
+        "itemName": "Replica Haranir Mural",
+        "reagents": {
+            "256963": 48,
+            "240974": 1,
+            "242620": 5,
+            "242788": 25
+        }
+    },
+    {
+        "itemID": "248965",
+        "itemName": "Resplendent Highborne Statue",
+        "reagents": {
+            "256963": 50,
+            "242620": 15,
+            "242788": 25
+        }
+    },
+    {
+        "itemID": "262454",
+        "itemName": "Shining Sin'dorei Hourglass",
+        "reagents": {
+            "256963": 18,
+            "242620": 20,
+            "242787": 50
+        }
+    },
+    {
+        "itemID": "262461",
+        "itemName": "Tenebrous Ren'dorei Armillary",
+        "reagents": {
+            "256963": 26,
+            "240974": 1,
+            "242620": 5,
+            "242788": 15
+        }
+    }
+]

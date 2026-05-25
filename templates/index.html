@@ -28,8 +28,9 @@
                         <div class="row mb-2" id="top-navbar-index">
                             <ul class="navbar-nav nav-tabs me-auto mb-2 mb-lg-0 full-width">
                                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="{{url_for('index')}}"><img class="tinier-icon borderless" src="../static/images/home8.png">Home</a></li>
-                                <li class="nav-item"><a class="nav-link" href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
-                                <li class="nav-item"><a class="nav-link" href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
+                                <li class="nav-item"><a class="nav-link" aria-current="false" href="{{url_for('dragonflight')}}"><img class="tiniester-icon borderless" src="../static/images/dragonflight_icon.png">Dragonflight</a></li>
+                                <li class="nav-item"><a class="nav-link" aria-current="false" href="{{url_for('the_war_within')}}"><img class="tiniester-icon borderless" src="../static/images/the_war_within_icon.png">The War Within</a></li>
+                                <li class="nav-item"><a class="nav-link" aria-current="false" href="{{url_for('midnight')}}"><img class="tiniester-icon borderless" src="../static/images/midnight_icon.png">Midnight</a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,12 +42,13 @@
             </div>
         </nav>
 
+        <!-- object-fit-cover and object-fit-contain are chosen for whichever method looks better. both keep aspect ratio. -->
         <div class="container">
-            <div class="row row-cols-1 row-cols-md-2 g-4"> <!-- Use 1 column by default, but use 3 columns when window is medium size or larger-->
+            <div class="row row-cols-1 row-cols-md-2 g-4"> <!-- Use 1 column by default, but use 2 columns when window is medium size or larger-->
                 <div class="col">
                     <a href="{{url_for('dragonflight')}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/dragonflight_logo.png" class="card-img" alt="...">
+                            <img src="./static/images/dragonflight_logo.png" class="card-img object-fit-cover" alt="...">
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">Dragonflight</p>--> <!-- top text -->
                                 <!--<p class="align-self-center mx-auto outlined-text dynamic-font-size">Dragonflight</p>--> <!-- centered text -->
@@ -59,11 +61,27 @@
                 <div class="col">
                     <a href="{{url_for('the_war_within')}}" class="hide-link">
                         <div class="card">
-                            <img src="./static/images/the_war_within_logo.png" class="card-img" alt="...">
+                            <img src="./static/images/the_war_within_logo.png" class="card-img object-fit-cover" alt="...">
                             <div class="card-img-overlay text-center d-flex">
                                 <!--<p class="fs-1 align-self-start mx-auto outlined-text">The War Within</p>--> <!-- top text -->
                                 <!--<p class="align-self-center mx-auto outlined-text dynamic-font-size">The War Within</p>--> <!-- centered text -->
                                 <!--<p class="fs-1 align-self-end mx-auto outlined-text">The War Within</p>--> <!-- bottom text -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        
+            <!-- row of 1 at the bottom for odd numbers-->
+            <div class="row row-cols-1 my-4"> <!-- adding g-4 only has an effect with my-#. "g-4 my-0" is giving the same effect as "my-4"-->
+                <div class="col-12 col-md-6 mx-auto"> <!-- col-12=100% width; col-md-6=50% width on medium screens and bigger, mx-auto=distribute x-margins equally (center it sorta)-->
+                    <a href="{{url_for('midnight')}}" class="hide-link">
+                        <div class="card">
+                            <img src="./static/images/midnight_logo.png" class="card-img object-fit-contain" alt="...">
+                            <div class="card-img-overlay text-center d-flex">
+                                <!--<p class="fs-1 align-self-start mx-auto outlined-text">Midnight</p>--> <!-- top text -->
+                                <!--<p class="align-self-center mx-auto outlined-text dynamic-font-size">Midnight</p>--> <!-- centered text -->
+                                <!--<p class="fs-1 align-self-end mx-auto outlined-text">Midnight</p>--> <!-- bottom text -->
                             </div>
                         </div>
                     </a>

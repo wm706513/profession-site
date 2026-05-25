@@ -1,0 +1,947 @@
+[
+    {
+        "itemID": "238204",
+        "itemName": "Sterling Alloy",
+        "reagents": {
+            "243060": 4,
+            "237364": 6,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "238202",
+        "itemName": "Gloaming Alloy",
+        "reagents": {
+            "243060": 4,
+            "237362": 6,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "238197",
+        "itemName": "Refulgent Copper Ingot",
+        "reagents": {
+            "243060": 2,
+            "237359": 5
+        }
+    },
+    {
+        "itemID": "244472",
+        "itemName": "Knight-Commander's Palisade",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238202": 10,
+            "238204": 10,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "244463",
+        "itemName": "Murder Row Fleet Feet",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238202": 10,
+            "238204": 10,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237834",
+        "itemName": "Spellbreaker's Bracers",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 8,
+            "238202": 8,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237832",
+        "itemName": "Spellbreaker's Cover",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 10,
+            "238202": 6,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237830",
+        "itemName": "Spellbreaker's Girdle",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 8,
+            "238202": 8,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237833",
+        "itemName": "Spellbreaker's Legguards",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 12,
+            "238202": 5,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237835",
+        "itemName": "Spellerbreaker's Mantle",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 12,
+            "238202": 5,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237828",
+        "itemName": "Spellbreaker's March",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 10,
+            "238202": 6,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237831",
+        "itemName": "Spellbreaker's Rebuke",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 10,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237836",
+        "itemName": "Spellbreaker's Resolve",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 10,
+            "238202": 6,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237829",
+        "itemName": "Spellbreaker's Shelter",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238204": 12,
+            "238202": 5,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237922",
+        "itemName": "Blood-Tempered Leggings",
+        "reagents": {
+            "243060": 1,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "237924",
+        "itemName": "Blood-Tempered Pauldrons",
+        "reagents": {
+            "243060": 1,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "237917",
+        "itemName": "Blood-Tempered Greaves",
+        "reagents": {
+            "243060": 2,
+            "238197": 2
+        }
+    },
+    {
+        "itemID": "237921",
+        "itemName": "Blood-Tempered Basinet",
+        "reagents": {
+            "243060": 2,
+            "238197": 2
+        }
+    },
+    {
+        "itemID": "237925",
+        "itemName": "Blood-Tempered Bulwark",
+        "reagents": {
+            "243060": 2,
+            "238197": 2
+        }
+    },
+    {
+        "itemID": "237920",
+        "itemName": "Blood-Tempered Gauntlets",
+        "reagents": {
+            "243060": 2,
+            "238197": 4
+        }
+    },
+    {
+        "itemID": "237919",
+        "itemName": "Blood-Tempered Greatbelt",
+        "reagents": {
+            "243060": 1,
+            "238197": 2
+        }
+    },
+    {
+        "itemID": "237923",
+        "itemName": "Blood-Tempered Bracers",
+        "reagents": {
+            "243060": 1,
+            "238197": 2
+        }
+    },
+    {
+        "itemID": "237918",
+        "itemName": "Blood-Tempered Chestplate",
+        "reagents": {
+            "243060": 1,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "237847",
+        "itemName": "Blood Knight's Impetus",
+        "reagents": {
+            "232875": 4,
+            "251283": 1,
+            "237366": 2,
+            "238202": 10,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237848",
+        "itemName": "Blood Knight's Mercy",
+        "reagents": {
+            "232875": 4,
+            "251283": 1,
+            "237366": 2,
+            "238202": 10,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237846",
+        "itemName": "Blood Knight's Warblade",
+        "reagents": {
+            "232875": 4,
+            "251283": 1,
+            "237366": 2,
+            "238202": 10,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237845",
+        "itemName": "Bloomforged Claw",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237842",
+        "itemName": "Bloomforged Greataxe",
+        "reagents": {
+            "232875": 4,
+            "251283": 1,
+            "237366": 2,
+            "238202": 10,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237850",
+        "itemName": "Farstrider's Chopper",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237837",
+        "itemName": "Farstrider's Mercy",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 7,
+            "238204": 7,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237844",
+        "itemName": "Magister's Cleaver",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237843",
+        "itemName": "Magister's Mana Sword",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237838",
+        "itemName": "Magister's Ritual Knife",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 7,
+            "238204": 7,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237849",
+        "itemName": "Magister's Valediction",
+        "reagents": {
+            "232875": 4,
+            "251283": 1,
+            "237366": 2,
+            "238202": 10,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "244679",
+        "itemName": "Murder Row Fishhook",
+        "reagents": {
+            "232875": 2,
+            "237366": 1,
+            "251283": 1,
+            "238202": 10,
+            "238204": 10,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237839",
+        "itemName": "Spellbreaker's Blade",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237841",
+        "itemName": "Spellbreaker's Ultimatum",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237840",
+        "itemName": "Spellbreaker's Warglaive",
+        "reagents": {
+            "232875": 2,
+            "251283": 1,
+            "237366": 2,
+            "238202": 8,
+            "238204": 6,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237930",
+        "itemName": "Dawnforged War Mace",
+        "reagents": {
+            "243060": 1,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "237929",
+        "itemName": "Primalforged Knuckles",
+        "reagents": {
+            "243060": 2,
+            "238197": 4
+        }
+    },
+    {
+        "itemID": "237928",
+        "itemName": "Dawnforged Long Blade",
+        "reagents": {
+            "243060": 2,
+            "238197": 4
+        }
+    },
+    {
+        "itemID": "237931",
+        "itemName": "Dawnforged Splitter",
+        "reagents": {
+            "243060": 2,
+            "238197": 4
+        }
+    },
+    {
+        "itemID": "237927",
+        "itemName": "Dawnforged Edge",
+        "reagents": {
+            "243060": 1,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "237926",
+        "itemName": "Dawnforged Ritual Knife",
+        "reagents": {
+            "243060": 1,
+            "238197": 3
+        }
+    },
+    {
+        "itemID": "237932",
+        "itemName": "Primalforged Heavy Axe",
+        "reagents": {
+            "243060": 2,
+            "238197": 4
+        }
+    },
+    {
+        "itemID": "259230",
+        "itemName": "Sunforged Blacksmith's Toolbox",
+        "reagents": {
+            "238530": 2,
+            "243060": 5,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "246536",
+        "itemName": "Sunforged Leatherworker's Knife",
+        "reagents": {
+            "238528": 2,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "259232",
+        "itemName": "Sunforged Leatherworker's Toolset",
+        "reagents": {
+            "238529": 2,
+            "243060": 5,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "259234",
+        "itemName": "Sunforged Needle Set",
+        "reagents": {
+            "238528": 2,
+            "243060": 5,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "246534",
+        "itemName": "Sunforged Pickaxe",
+        "reagents": {
+            "238528": 2,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "246533",
+        "itemName": "Sunforged Sickle",
+        "reagents": {
+            "238528": 2,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "246535",
+        "itemName": "Sunforged Skinning Knife",
+        "reagents": {
+            "238528": 2,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "238018",
+        "itemName": "Sun-Blessed Blacksmith's Hammer",
+        "reagents": {
+            "238528": 1,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "237952",
+        "itemName": "Sun-Blessed Blacksmith's Toolbox",
+        "reagents": {
+            "238530": 1,
+            "243060": 5,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "238017",
+        "itemName": "Sun-Blessed Leatherworker's Knife",
+        "reagents": {
+            "238528": 1,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "237951",
+        "itemName": "Sun-Blessed Leatherworker's Toolset",
+        "reagents": {
+            "238529": 1,
+            "243060": 5,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "237950",
+        "itemName": "Sun-Blessed Needle Set",
+        "reagents": {
+            "238528": 1,
+            "243060": 5,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "238015",
+        "itemName": "Sun-Blessed Pickaxe",
+        "reagents": {
+            "238528": 1,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "238014",
+        "itemName": "Sun-Blessed Sickle",
+        "reagents": {
+            "238528": 1,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "238016",
+        "itemName": "Sun-Blessed Skinning Knife",
+        "reagents": {
+            "238528": 1,
+            "237366": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "238013",
+        "itemName": "Thalassian Blacksmith's Hammer",
+        "reagents": {
+            "243060": 3,
+            "238197": 6
+        }
+    },
+    {
+        "itemID": "246537",
+        "itemName": "Sunforged Blacksmith's Hammer",
+        "reagents": {
+            "238528": 2,
+            "237366": 2,
+            "245345": 20,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "237948",
+        "itemName": "Thalassian Blacksmith's Toolbox",
+        "reagents": {
+            "243060": 4,
+            "238197": 5
+        }
+    },
+    {
+        "itemID": "238012",
+        "itemName": "Thalassian Leatherworker's Knife",
+        "reagents": {
+            "243060": 3,
+            "238197": 6
+        }
+    },
+    {
+        "itemID": "237947",
+        "itemName": "Thalassian Leatherworker's Toolset",
+        "reagents": {
+            "243060": 4,
+            "238197": 5
+        }
+    },
+    {
+        "itemID": "237946",
+        "itemName": "Thalassian Needle Set",
+        "reagents": {
+            "243060": 4,
+            "238197": 5
+        }
+    },
+    {
+        "itemID": "238010",
+        "itemName": "Thalassian Pickaxe",
+        "reagents": {
+            "243060": 3,
+            "238197": 6
+        }
+    },
+    {
+        "itemID": "238009",
+        "itemName": "Thalassian Sickle",
+        "reagents": {
+            "243060": 3,
+            "238197": 6
+        }
+    },
+    {
+        "itemID": "238011",
+        "itemName": "Thalassian Skinning Knife",
+        "reagents": {
+            "243060": 3,
+            "238197": 6
+        }
+    },
+    {
+        "itemID": "237367",
+        "itemName": "Refulgent Weightstone",
+        "reagents": {
+            "243060": 15,
+            "251285": 2,
+            "238197": 12,
+            "242788": 4
+        }
+    },
+    {
+        "itemID": "237372",
+        "itemName": "Refulgent Razorstone",
+        "reagents": {
+            "243060": 15,
+            "251285": 2,
+            "238197": 12,
+            "242788": 4
+        }
+    },
+    {
+        "itemID": "237370",
+        "itemName": "Refulgent Whetstone",
+        "reagents": {
+            "243060": 15,
+            "251285": 2,
+            "238197": 12,
+            "242788": 4
+        }
+    },
+    {
+        "itemID": "237912",
+        "itemName": "Thalassian Competitor's Bulwark",
+        "reagents": {
+            "256559": 3,
+            "243060": 8,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237915",
+        "itemName": "Thalassian Competitor's Greatsword",
+        "reagents": {
+            "256559": 10,
+            "243060": 8,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237910",
+        "itemName": "Thalassian Competitor's Knife",
+        "reagents": {
+            "256559": 5,
+            "243060": 5,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237911",
+        "itemName": "Thalassian Competitor's Maxim",
+        "reagents": {
+            "256559": 7,
+            "243060": 8,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237909",
+        "itemName": "Thalassian Competitor's Pickaxe",
+        "reagents": {
+            "256559": 5,
+            "243060": 8,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237908",
+        "itemName": "Thalassian Competitor's Plate Armguards",
+        "reagents": {
+            "256559": 3,
+            "243060": 3,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237901",
+        "itemName": "Thalassian Competitor's Plate Breastplate",
+        "reagents": {
+            "256559": 5,
+            "243060": 6,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237903",
+        "itemName": "Thalassian Competitor's Plate Gauntlets",
+        "reagents": {
+            "256559": 4,
+            "243060": 4,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237905",
+        "itemName": "Thalassian Competitor's Plate Greaves",
+        "reagents": {
+            "256559": 5,
+            "243060": 6,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237904",
+        "itemName": "Thalassian Competitor's Plate Helm",
+        "reagents": {
+            "256559": 5,
+            "243060": 4,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237906",
+        "itemName": "Thalassian Competitor's Plate Pauldrons",
+        "reagents": {
+            "256559": 4,
+            "243060": 6,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237902",
+        "itemName": "Thalassian Competitor's Plate Sabatons",
+        "reagents": {
+            "256559": 4,
+            "243060": 4,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237907",
+        "itemName": "Thalassian Competitor's Plate Waistguard",
+        "reagents": {
+            "256559": 4,
+            "243060": 3,
+            "238202": 2,
+            "244635": 1
+        }
+    },
+    {
+        "itemID": "237914",
+        "itemName": "Thalassian Competitor's Skewer",
+        "reagents": {
+            "256559": 7,
+            "243060": 5,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237913",
+        "itemName": "Thalassian Competitor's Splitter",
+        "reagents": {
+            "256559": 5,
+            "243060": 8,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "237916",
+        "itemName": "Thalassian Competitor's Sword",
+        "reagents": {
+            "256559": 5,
+            "243060": 8,
+            "238202": 2,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "238209",
+        "itemName": "Refulgent Repair Hammer",
+        "reagents": {
+            "243060": 1,
+            "238197": 1,
+            "242788": 1
+        }
+    },
+    {
+        "itemID": "262451",
+        "itemName": "Gilded Silvermoon Anvil",
+        "reagents": {
+            "256963": 26,
+            "238197": 18,
+            "238202": 5,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "262457",
+        "itemName": "Gilded Silvermoon Hanger",
+        "reagents": {
+            "256963": 18,
+            "238197": 12,
+            "238202": 3,
+            "238204": 3
+        }
+    },
+    {
+        "itemID": "262452",
+        "itemName": "Masterwork Crafting Hammer",
+        "reagents": {
+            "256963": 12,
+            "238197": 8,
+            "238202": 2,
+            "238204": 2
+        }
+    },
+    {
+        "itemID": "262456",
+        "itemName": "Ornamental Silvermoon Hanger",
+        "reagents": {
+            "256963": 18,
+            "238197": 12,
+            "238202": 3,
+            "238204": 3
+        }
+    },
+    {
+        "itemID": "262460",
+        "itemName": "Ren'dorei Anvil",
+        "reagents": {
+            "256963": 26,
+            "238197": 18,
+            "238202": 5,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "260232",
+        "itemName": "Thalassian Skeleton Key",
+        "reagents": {
+            "237359": 6,
+            "237364": 3
+        }
+    }
+]

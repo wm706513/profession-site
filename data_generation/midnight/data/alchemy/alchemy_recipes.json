@@ -1,0 +1,400 @@
+[
+    {
+        "itemID": "241309",
+        "itemName": "Light's Potential",
+        "reagents": {
+            "236949": 1,
+            "240991": 5,
+            "236761": 8,
+            "236776": 3,
+            "236774": 3
+        }
+    },
+    {
+        "itemID": "241297",
+        "itemName": "Potion of Zealotry",
+        "reagents": {
+            "236949": 1,
+            "240991": 5,
+            "236761": 8,
+            "236774": 10
+        }
+    },
+    {
+        "itemID": "241287",
+        "itemName": "Light's Preservation",
+        "reagents": {
+            "236949": 2,
+            "240991": 5,
+            "236761": 4,
+            "236774": 3
+        }
+    },
+    {
+        "itemID": "241301",
+        "itemName": "Lightfused Mana Potion",
+        "reagents": {
+            "240991": 5,
+            "236761": 8,
+            "236778": 3
+        }
+    },
+    {
+        "itemID": "241307",
+        "itemName": "Refreshing Serum",
+        "reagents": {
+            "240991": 5,
+            "236761": 8,
+            "236770": 3
+        }
+    },
+    {
+        "itemID": "241305",
+        "itemName": "Silvermoon Health Potion",
+        "reagents": {
+            "240991": 5,
+            "236761": 6
+        }
+    },
+    {
+        "itemID": "241339",
+        "itemName": "Enlightenment Tonic",
+        "reagents": {
+            "240991": 5,
+            "236761": 3
+        }
+    },
+    {
+        "itemID": "241295",
+        "itemName": "Potion of Devoured Dreams",
+        "reagents": {
+            "236951": 2,
+            "240991": 5,
+            "236761": 8,
+            "236778": 4
+        }
+    },
+    {
+        "itemID": "241289",
+        "itemName": "Potion of Recklessness",
+        "reagents": {
+            "236950": 2,
+            "240991": 5,
+            "236761": 8,
+            "236774": 4
+        }
+    },
+    {
+        "itemID": "241299",
+        "itemName": "Amani Extract",
+        "reagents": {
+            "240991": 5,
+            "236761": 8,
+            "236774": 3
+        }
+    },
+    {
+        "itemID": "241293",
+        "itemName": "Draught of Rampant Abandon",
+        "reagents": {
+            "236950": 2,
+            "240991": 5,
+            "236761": 8,
+            "236778": 3,
+            "236770": 3
+        }
+    },
+    {
+        "itemID": "241303",
+        "itemName": "Void-Shrouded Tincture",
+        "reagents": {
+            "236952": 2,
+            "240991": 5,
+            "236761": 8,
+            "236770": 4
+        }
+    },
+    {
+        "itemID": "241285",
+        "itemName": "Voidlight Potion Cauldron",
+        "reagents": {
+            "236780": 1,
+            "242651": 5,
+            "251285": 4,
+            "240991": 20,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "241319",
+        "itemName": "Cauldron of Sin'dorei Flasks",
+        "reagents": {
+            "236780": 1,
+            "242651": 5,
+            "251285": 4,
+            "240991": 20,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "241311",
+        "itemName": "Haranir Phial of Finesse",
+        "reagents": {
+            "236950": 2,
+            "240991": 4,
+            "236761": 8,
+            "236778": 6,
+            "236774": 3
+        }
+    },
+    {
+        "itemID": "241313",
+        "itemName": "Haranir Phial of Ingenuity",
+        "reagents": {
+            "236952": 2,
+            "240991": 4,
+            "236761": 8,
+            "236770": 6,
+            "236778": 3
+        }
+    },
+    {
+        "itemID": "241317",
+        "itemName": "Haranir Phial of Perception",
+        "reagents": {
+            "236951": 2,
+            "240991": 4,
+            "236761": 8,
+            "236774": 6,
+            "236776": 3
+        }
+    },
+    {
+        "itemID": "241325",
+        "itemName": "Flask of the Blood Knights",
+        "reagents": {
+            "236780": 1,
+            "236951": 2,
+            "240991": 2,
+            "236776": 8,
+            "236770": 6
+        }
+    },
+    {
+        "itemID": "241323",
+        "itemName": "Flask of the Magisters",
+        "reagents": {
+            "236780": 1,
+            "236952": 2,
+            "240991": 2,
+            "236770": 8,
+            "236778": 6
+        }
+    },
+    {
+        "itemID": "241327",
+        "itemName": "Flask of the Shattered Sun",
+        "reagents": {
+            "236780": 1,
+            "236950": 2,
+            "240991": 2,
+            "236774": 8,
+            "236776": 6
+        }
+    },
+    {
+        "itemID": "241321",
+        "itemName": "Flask of Thalassian Resistance",
+        "reagents": {
+            "236780": 1,
+            "236949": 2,
+            "240991": 2,
+            "236778": 8,
+            "236774": 6
+        }
+    },
+    {
+        "itemID": "241334",
+        "itemName": "Vicious Thalassian Flask of Honor",
+        "reagents": {
+            "240991": 2,
+            "236761": 6,
+            "236770": 8,
+            "236774": 6
+        }
+    },
+    {
+        "itemID": "245650",
+        "itemName": "Bouquet of Herbs",
+        "reagents": {
+            "242651": 1,
+            "243599": 20,
+            "243602": 4
+        }
+    },
+    {
+        "itemID": "242650",
+        "itemName": "Box of Rocks",
+        "reagents": {
+            "238525": 8,
+            "242651": 1,
+            "238520": 18,
+            "238518": 18
+        }
+    },
+    {
+        "itemID": "245647",
+        "itemName": "School of Gems",
+        "reagents": {
+            "238383": 4,
+            "238369": 12,
+            "238365": 20,
+            "242651": 1,
+            "241281": 3
+        }
+    },
+    {
+        "itemID": "241283",
+        "itemName": "Wondrous Synergist",
+        "reagents": {
+            "242651": 4,
+            "236761": 2,
+            "236774": 2,
+            "236776": 2,
+            "236770": 2,
+            "236778": 2
+        }
+    },
+    {
+        "itemID": "236949",
+        "itemName": "Transmute: Mote of Light",
+        "reagents": {
+            "236950": 10,
+            "242651": 2
+        }
+    },
+    {
+        "itemID": "236950",
+        "itemName": "Transmute: Mote of Primal Energy",
+        "reagents": {
+            "236952": 10,
+            "242651": 2
+        }
+    },
+    {
+        "itemID": "236952",
+        "itemName": "Transmute: Mote of Pure Void",
+        "reagents": {
+            "236951": 10,
+            "242651": 2
+        }
+    },
+    {
+        "itemID": "236951",
+        "itemName": "Transmute: Mote of Wild Magic",
+        "reagents": {
+            "236949": 10,
+            "242651": 2
+        }
+    },
+    {
+        "itemID": "241281",
+        "itemName": "Composite Flora",
+        "reagents": {
+            "236951": 4,
+            "236950": 4,
+            "236761": 6,
+            "236776": 4
+        }
+    },
+    {
+        "itemID": "241340",
+        "itemName": "Magister's Alchemist Stone",
+        "reagents": {
+            "232875": 2,
+            "242651": 5,
+            "236950": 8,
+            "236951": 8,
+            "251283": 1,
+            "241283": 2
+        }
+    },
+    {
+        "itemID": "241291",
+        "itemName": "Primal Philosopher's Stone",
+        "reagents": {
+            "242651": 2,
+            "236949": 2,
+            "241307": 5
+        }
+    },
+    {
+        "itemID": "257420",
+        "itemName": "Silvermoon Spire Fountain",
+        "reagents": {
+            "236951": 6,
+            "236950": 6,
+            "256963": 40,
+            "241281": 4,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "262355",
+        "itemName": "Entropic Illuminant",
+        "reagents": {
+            "236952": 6,
+            "256963": 26,
+            "241281": 4,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "262356",
+        "itemName": "Haranir Preserving Agents",
+        "reagents": {
+            "236950": 6,
+            "256963": 8,
+            "241281": 4,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "262354",
+        "itemName": "Riftstone",
+        "reagents": {
+            "236952": 6,
+            "256963": 8,
+            "241281": 4,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "253506",
+        "itemName": "Rootbound Vat",
+        "reagents": {
+            "236950": 6,
+            "256963": 32,
+            "241281": 4,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "256356",
+        "itemName": "Sunsmoke Censer",
+        "reagents": {
+            "236949": 6,
+            "256963": 12,
+            "241281": 4,
+            "241283": 4
+        }
+    },
+    {
+        "itemID": "268954",
+        "itemName": "Entropic Extract",
+        "reagents": {
+            "240991": 5,
+            "236761": 3
+        }
+    }
+]

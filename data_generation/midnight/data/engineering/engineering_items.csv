@@ -1,0 +1,101 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+243576,Soul Sprocket,crafting reagent,605,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+243574,Song Gear,crafting reagent,450,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244703,Consistent Cogwheel,crafting reagent,525,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244697,Flux Cogwheel,crafting reagent,525,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244699,Greased Cogwheel,crafting reagent,525,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244701,Perfected Cogwheel,crafting reagent,525,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+248486,Emergency Soul Link,other,700,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+248138,Curious Red Button,other,-1,0,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+248485,Wormhole Generator: Quel'Thalas,other,-1,-1,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+248132,Kinetic Ankle Primers,embellishment,700,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+248130,Lucky Keychain,embellishment,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+248135,"B1P, Scorcher of Souls",embellishment,700,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+248136,"M3DDY, Travel-Sized",embellishment,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+248137,"M3DDY, Travel-Sized",other,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+255843,"HU5H, Nonchalant Pup",embellishment,700,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+248409,W-47CH D0G,other,-1,0,1,-1,common,TRUE,FALSE,FALSE,FALSE,FALSE
+244743,Aetherlume Eye Wrap,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244747,Aetherlume Silken Cuffs,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244771,Aetherlume Softsteppers,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244759,Quel'dorei Cloth Goggles,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244755,Quel'dorei Silken Cuffs,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244767,Quel'dorei Sofsteppers,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244739,Thalassian Competitor's Cloth Cuffs,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244735,Thalassian Competitor's Cloth Goggles,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+245337,Evercore Swiftfeet,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245341,Evercore Wrist Latch,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244751,Evercore Zoomshroud,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244748,Aetherlme Bands,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244744,Aetherlume Optics,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244772,Aetherlume Runners,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244756,Quel'dorei Bands,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244760,Quel'dorei Leather Optics,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244768,Quel'dorei Runners,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244740,Thaalssian Competitor's Leather Bands,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244736,Thalassian Competitor's Leather Optics,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+245342,Evercore Binding,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244752,Evercore Shade,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245338,Evercore Stichwraps,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244749,Aetherlume Bracelets,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244773,Aetherlume Clonkers,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244745,Aetherlume Vision Shroud,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244757,Quel'dorei Bracelets,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244769,Quel'dorei Clonkers,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244761,Quel'dorei Mail Shroud,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244741,Thalassian Competitor's Mail Links,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244737,Thalassian Competitor's Mail Visor,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+245343,Evercore Chainguards,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244753,Evercore Reconissance,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245339,Evercore Turbochains,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244750,Aetherlume Guards,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244774,Aetherlume Stompers,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244746,Aetherlume Sun Guard,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244758,Quel'dorei Guards,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244770,Quel'dorei Stompers,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244762,Quel'dorei Visor,gear (combat),425,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244742,Thalassian Competitor's Plate Bindings,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244738,Thalassian Competitor's Plate Guard,gear (pvp),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+245344,Evercore Gear Weight,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245340,Evercore Greaseplates,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+244754,Evercore Vision Guard,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+259171,Head-Mounted Beam Bummer,gear (profession),730,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+259173,Rock Bonkin' Hardhat,gear (profession),730,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+259177,Self-Sharpening Sin'dorei Snippers,gear (profession),725,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+259179,Sin'dorei Reeler's Rod,gear (profession),730,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+244720,Junker's Big Ol' Bag,gear (profession),730,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244712,Sin'dorei Angler's Rod,gear (profession),730,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244716,Sin'dorei Gilded Hardhat,gear (profession),730,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244710,Sin'dorei Headlamp,gear (profession),730,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+244708,Sin'dorei Snippers,gear (profession),725,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+244718,Turbo-Junker's Multitool,gear (profession),725,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+244714,Sin'dorei Clampers,gear (profession),725,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+244713,Farstrider Clampers,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+244707,Farstrider Fabric Cutters,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+244715,Farstrider Hardhat,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244711,Farstrider Hobbyist Rod,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244719,Farstrider Rock Satchel,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244709,Junker's Junk Visor,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+244717,Junker's Multitool,gear (profession),350,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+257745,Farstrider's Hawkeye,consumable,600,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+257749,Laced Zoomshots,consumable,600,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+257747,Smuggler's Lynxeye,consumable,600,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+257751,Weighted Boomshots,consumable,600,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+257735,"B0P, Curator of Booms",embellishment,700,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+268475,Evercore Dome Dinger,gear (combat),250,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+268479,Thalassian Competitor's Rifle,gear (combat),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+268477,P.O.W. x3,gear (combat),605,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+244763,Thalassian Competitor's Cloth Tip-Toes,gear (combat),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244764,Thalassian Competitor's Leather Sliders,gear (combat),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244765,Thalassian Competitor's Mail Footlinks,gear (combat),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+244766,Thalassian Competitor's Plate Dunkers,gear (combat),350,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+259181,Giga-Gem Grippers,gear (profession),730,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+259175,Heavy-Duty Rock Assister,gear (profession),730,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+259183,Turbo-Junker's Multitool v9,gear (profession),725,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+246460,Ambient Aethercharged Crystal,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262617,Ren'dorei Crafting Framework,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+263049,Ren'dorei Lightpost,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262465,Ren'dorei Stargazer,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262618,Ren'dorei Void Projector,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262602,Ren'dorei Warp Orb,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262789,Small Telogrus Lamp,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE

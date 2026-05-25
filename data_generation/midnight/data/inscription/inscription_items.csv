@@ -1,0 +1,78 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+245764,Codified Azeroot,crafting reagent,775,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245766,Soul Cipher,crafting reagent,650,0,"""1-2""",0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245805,Sienna Ink,crafting reagent,650,0,2,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245801,Munsell Ink,crafting reagent,650,0,2,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245871,Darkmoon Sigil: Blood,embellishment,575,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245875,Darkmoon Sigil: Hunt,embellishment,575,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245877,Darkmoon Sigil: Rot,embellishment,575,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245873,Darkmoon Sigil: Void,embellishment,575,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+246305,Darkmoon Dominion: Blood,gear (combat),600,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+246304,Darkmoon Dominion: Hunt,gear (combat),600,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+246306,Darkmoon Dominion: Rot,gear (combat),600,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+246307,Darkmoon Dominion: Void,gear (combat),600,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,TRUE
+245770,Aln'hara Cane,gear (combat),555,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+245769,Aln'hara Lantern,gear (combat),555,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+245771,Aln'hara Pikestaff,gear (combat),555,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+265337,Aln'hara Sprigshot,gear (combat),555,-1,1,0,epic,TRUE,TRUE,TRUE,FALSE,TRUE
+245773,Faunatender's Baton,gear (combat),300,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+265336,Faunatender's Trust,gear (combat),300,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245772,Floratender's Crutch,gear (combat),300,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245768,Rootwarden's Lamp,gear (combat),300,-1,1,0,rare,TRUE,TRUE,TRUE,FALSE,TRUE
+245797,Contract: The Amani Tribe,consumable,650,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245795,Contract: The Hara'ti,consumable,650,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245799,Contract: The Silvermoon Court,consumable,650,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245793,Contract: The Singularity,consumable,650,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245789,Thalassian Missive of the Peerless,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245791,Thalassian Missive of the Quickblade,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245785,Thalassian Missive of the Fireflash,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245787,Thalassian Missive of the Harmonious,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245781,Thalassian Missive of the Aurora,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245783,Thalassian Missive of the Feverflare,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245820,Thalassian Missive of Crafting Speed,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245826,Thalassian Missive of Deftness,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245822,Thalassian Missive of Finesse,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245814,Thalassian Missive of Ingenuity,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245818,Thalassian Missive of Multicraft,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245824,Thalassian Missive of Perception,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245816,Thalassian Missive of Resourcefulness,crafting reagent,650,0,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+259205,Gilded Alchemist's Mixing Rod,gear (profession),590,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+259209,Gilded Sin'dorei Quill,gear (profession),590,-1,1,0,epic,TRUE,FALSE,TRUE,FALSE,FALSE
+259207,Gilded Sin'dorei Rolling Pin,gear (profession),600,-1,1,0,epic,TRUE,FALSE,FALSE,FALSE,FALSE
+245778,Sin'dorei Alchemist's Mixing Rod,gear (profession),590,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+245776,Sin'dorei Quill,gear (profession),590,-1,1,0,rare,TRUE,FALSE,TRUE,FALSE,FALSE
+245780,Sin'dorei Rolling Pin,gear (profession),600,-1,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245777,Hobbyist Alchemist's Mixing Rod,gear (profession),250,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+245779,Hobbyist Rolling Pin,gear (profession),300,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245775,Hobbyist Quill,gear (profession),250,-1,1,0,uncommon,TRUE,FALSE,TRUE,FALSE,FALSE
+245755,Thalassian Treatise on Alchemy,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245763,Thalassian Treatise on Blacksmithing,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245759,Thalassian Treatise on Enchanting,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245809,Thalassian Treatise on Engineering,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245761,Thalassian Treatise on Herbalism,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245757,Thalassian Treatise on Inscription,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245760,Thalassian Treatise on Jewelcrafting,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245758,Thalassian Treatise on Leatherworking,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245762,Thalassian Treatise on Mining,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245828,Thalassian Treatise on Skinning,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245756,Thalassian Treatise on Tailoring,consumable,-1,0,1,-1,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+245879,Vantus Rune: Radiant,consumable,650,0,1,0,rare,TRUE,FALSE,FALSE,FALSE,FALSE
+262464,Floating Void-Touched Tome,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262597,Gilded Eversong Book,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+253508,Harandar Signpost,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262594,Homely Sin'dorei Shelf,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262595,Homely Wall Shelves,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262616,Lively Sonwriter's Quill,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+263034,Magnificent Towering Bookcase,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262598,Opened Sin'dorei Scroll,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262790,Restful Bronze Bench,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262615,Sin'dorei Phoenix Quill,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262612,Sturdy Ren'dorei Cask,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+262601,Wild Hanging Scroll,housing decor,-1,-1,1,-1,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245869,Thalassian Competitor's Bow,gear (pvp),525,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+245753,Thalassian Competitor's Emblem,gear (pvp),525,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245752,Thalassian Competitor's Insignia of Alacrity,gear (pvp),525,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245870,Thalassian Competitor's Lamp,gear (pvp),525,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+245751,Thalassian Competitor's Medallion,gear (pvp),525,-1,1,0,uncommon,TRUE,FALSE,FALSE,FALSE,FALSE
+245868,Thalassian Competitor's Pillar,gear (pvp),525,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE
+268365,Thalassian Competitor's Staff,gear (pvp),525,-1,1,0,uncommon,TRUE,TRUE,TRUE,FALSE,FALSE

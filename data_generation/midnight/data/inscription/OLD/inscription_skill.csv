@@ -1,0 +1,36 @@
+node,scaling,0,5,10,15,20,25,30
+Blueprints,1,0,5,5,5,5,5,0
+Field Research,1,0,10,10,0,10,15,0
+Market Research,1,0,10,10,0,10,10,0
+Staves,1,5,5,5,10,10,10,20
+Bows,1,5,5,5,10,10,10,20
+Lamps and Lanterns,1,5,5,5,10,10,10,20
+Scribe's Quill,1,5,5,5,10,10,10,20
+Alchemist's Mixing Rod,1,5,5,5,10,10,10,20
+Chef's Rolling Pin,1,5,5,5,10,10,10,20
+Calm Hands,0,0,0,0,,,,
+Added Flair,0,0,0,0,0,0,,
+Keen Eye,0,0,0,0,0,0,,
+Dextrous Diligence,0,0,0,0,0,0,,
+Perfected Products,1,5,5,5,10,10,10,15
+Parchment,1,5,5,5,10,10,25,25
+Processing,1,5,5,5,10,10,25,25
+Perfect Missives,1,5,5,5,10,10,25,0
+Perfect Contracts,1,5,5,5,10,10,25,0
+Perfect Vantus Runes,1,5,5,5,10,10,25,0
+Perfect Inks,1,5,5,5,10,10,25,0
+Perfect Milling,1,5,5,5,10,10,25,0
+Perfect Ciphers,1,5,5,5,10,10,25,0
+Darkmoon Curiosity,1,5,5,25,5,5,,
+Void,1,0,5,10,10,25,,
+Hunt,1,0,5,10,10,25,,
+Blood,1,0,5,10,10,25,,
+Rot,1,0,5,10,10,25,,
+Darkmoon Sigil: Void,1,0,5,10,10,25,,
+Darkmoon Dominion: Void,2,0,10,15,15,25,,
+Darkmoon Sigil: Hunt,1,0,5,10,10,25,,
+Darkmoon Dominion: Hunt,2,0,10,15,15,25,,
+Darkmoon Sigil: Blood,1,0,5,10,10,25,,
+Darkmoon Dominion: Blood,2,0,10,15,15,25,,
+Darkmoon Sigil: Rot,1,0,5,10,10,25,,
+Darkmoon Dominion: Rot,2,0,10,15,15,25,,

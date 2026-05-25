@@ -1,0 +1,889 @@
+[
+    {
+        "itemID": "244177",
+        "itemName": "Runed Dazzling Thorium Rod",
+        "reagents": {
+            "245345": 20,
+            "237366": 3,
+            "243599": 30,
+            "243602": 10,
+            "243605": 4
+        }
+    },
+    {
+        "itemID": "244176",
+        "itemName": "Runed Brilliant Silver Rod",
+        "reagents": {
+            "243599": 20,
+            "243602": 5,
+            "243605": 2,
+            "237364": 5,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "244175",
+        "itemName": "Runed Refulgent Copper Rod",
+        "reagents": {
+            "244174": 1,
+            "243599": 5
+        }
+    },
+    {
+        "itemID": "244179",
+        "itemName": "Magister's Grand Focus",
+        "reagents": {
+            "232875": 2,
+            "236949": 10,
+            "251283": 1,
+            "243602": 20,
+            "243605": 1,
+            "244637": 1
+        }
+    },
+    {
+        "itemID": "244178",
+        "itemName": "Thalassian Spellweaver's Wand",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "243735",
+        "itemName": "Oil of Dawn",
+        "reagents": {
+            "236949": 5,
+            "251285": 2,
+            "243599": 5,
+            "240991": 1
+        }
+    },
+    {
+        "itemID": "243737",
+        "itemName": "Smuggler's Enchanted Edge",
+        "reagents": {
+            "236950": 5,
+            "251285": 2,
+            "243599": 5,
+            "240991": 1
+        }
+    },
+    {
+        "itemID": "243733",
+        "itemName": "Thalassian Phoenix Oil",
+        "reagents": {
+            "236949": 5,
+            "243599": 5,
+            "240991": 1
+        }
+    },
+    {
+        "itemID": "244009",
+        "itemName": "Enchant Boots - Farstrider's Hunt",
+        "reagents": {
+            "236949": 10,
+            "238525": 1,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "243953",
+        "itemName": "Enchant Boots - Lynx's Dexterity",
+        "reagents": {
+            "236951": 10,
+            "238523": 1,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "243983",
+        "itemName": "Enchant Boots  - Shaladrassil's Roots",
+        "reagents": {
+            "236950": 10,
+            "251285": 2,
+            "243599": 10,
+            "243602": 5,
+            "243605": 1,
+            "236774": 20
+        }
+    },
+    {
+        "itemID": "243947",
+        "itemName": "Enchant Chest - Mark of Nalorakk",
+        "reagents": {
+            "236951": 5,
+            "238528": 1,
+            "251285": 2,
+            "243599": 15,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "244003",
+        "itemName": "Enchant Chest - Mark of the Magister",
+        "reagents": {
+            "236949": 5,
+            "251285": 2,
+            "243599": 15,
+            "243602": 10,
+            "243605": 2,
+            "239198": 2
+        }
+    },
+    {
+        "itemID": "243975",
+        "itemName": "Enchant Chest - Mark of the Rootwarden",
+        "reagents": {
+            "236950": 5,
+            "238530": 1,
+            "251285": 2,
+            "243599": 15,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243977",
+        "itemName": "Enchant Chest - Mark of the Worldsoul",
+        "reagents": {
+            "236950": 5,
+            "238529": 1,
+            "251285": 2,
+            "243599": 15,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243981",
+        "itemName": "Enchant Helm - Empowered Blessing of Speed",
+        "reagents": {
+            "236950": 20,
+            "251285": 2,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243951",
+        "itemName": "Enchant Helm - Empowered Hex of Leeching",
+        "reagents": {
+            "236951": 20,
+            "251285": 2,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "244007",
+        "itemName": "Enchant Helm - Empowered Rune of Avoidance",
+        "reagents": {
+            "236949": 20,
+            "251285": 2,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243981",
+        "itemName": "Enchant Helm - Blessing of Speed",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "243949",
+        "itemName": "Enchant Helm - Hex of Leeching",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "244005",
+        "itemName": "Enchant Helm - Rune of Avoidance",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "243957",
+        "itemName": "Enchant Ring - Eyes of the Eagle",
+        "reagents": {
+            "236951": 15,
+            "238522": 2,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "243987",
+        "itemName": "Enchant Ring - Nature's Fury",
+        "reagents": {
+            "236950": 15,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "244015",
+        "itemName": "Enchant Ring - Silvermoon's Alacrity",
+        "reagents": {
+            "236949": 15,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "244017",
+        "itemName": "Enchant Ring - Silvermoon's Tenacity",
+        "reagents": {
+            "236949": 15,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "243959",
+        "itemName": "Enchant Ring - Zul'jin's Mastery",
+        "reagents": {
+            "236951": 15,
+            "251285": 2,
+            "243599": 15,
+            "243602": 3,
+            "243605": 1
+        }
+    },
+    {
+        "itemID": "243955",
+        "itemName": "Enchant Ring - Amani Mastery",
+        "reagents": {
+            "243599": 5
+        }
+    },
+    {
+        "itemID": "243985",
+        "itemName": "Enchant Ring - Nature's Wrath",
+        "reagents": {
+            "243599": 5
+        }
+    },
+    {
+        "itemID": "244013",
+        "itemName": "Enchant Ring - Thalassian Versatility",
+        "reagents": {
+            "243599": 5
+        }
+    },
+    {
+        "itemID": "244011",
+        "itemName": "Enchant Ring - Thalassian Haste",
+        "reagents": {
+            "243599": 5
+        }
+    },
+    {
+        "itemID": "243963",
+        "itemName": "Enchant Shoulders - Akil'zon's Swiftness",
+        "reagents": {
+            "236951": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243991",
+        "itemName": "Enchant Shoulders - Amirdrassil's Grace",
+        "reagents": {
+            "236950": 20,
+            "251285": 2,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "244021",
+        "itemName": "Enchant Shoulders - Silvermoon's Mending",
+        "reagents": {
+            "236949": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "244019",
+        "itemName": "Enchant Shoulders - Thalassian Recovery",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "243961",
+        "itemName": "Enchant Shoulders - Flight of the Eagle",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "243989",
+        "itemName": "Enchant Shoulders - Nature's Grace",
+        "reagents": {
+            "243599": 15,
+            "243602": 3
+        }
+    },
+    {
+        "itemID": "244029",
+        "itemName": "Enchant Weapon - Acuity of the Ren'dorei",
+        "reagents": {
+            "236952": 5,
+            "251285": 4,
+            "243599": 20,
+            "243602": 10,
+            "243605": 3,
+            "242611": 1
+        }
+    },
+    {
+        "itemID": "244031",
+        "itemName": "Enchant Weapon - Arcane Mastery",
+        "reagents": {
+            "236949": 5,
+            "251285": 4,
+            "243599": 20,
+            "243602": 15,
+            "243605": 2,
+            "239198": 2
+        }
+    },
+    {
+        "itemID": "243973",
+        "itemName": "Enchant Weapon - Berserker's Rage",
+        "reagents": {
+            "236951": 5,
+            "251285": 4,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "242612": 1
+        }
+    },
+    {
+        "itemID": "244027",
+        "itemName": "Enchant Weapon - Flames of the Sin'dorei",
+        "reagents": {
+            "236949": 5,
+            "251285": 4,
+            "243599": 25,
+            "243602": 15,
+            "243605": 2,
+            "239201": 2
+        }
+    },
+    {
+        "itemID": "243971",
+        "itemName": "Enchant Weapon - Jan'alai's Precision",
+        "reagents": {
+            "236951": 5,
+            "238530": 1,
+            "251285": 4,
+            "243599": 20,
+            "243602": 5,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243969",
+        "itemName": "Enchant Weapon - Strength of the Halazzi",
+        "reagents": {
+            "236951": 5,
+            "238528": 1,
+            "251285": 4,
+            "243599": 20,
+            "243602": 5,
+            "243605": 2
+        }
+    },
+    {
+        "itemID": "243999",
+        "itemName": "Enchant Weapon - Worldsoul Aegis",
+        "reagents": {
+            "236950": 5,
+            "251285": 4,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "242610": 1
+        }
+    },
+    {
+        "itemID": "243997",
+        "itemName": "Enchant Weapon - Worldsoul Cradle",
+        "reagents": {
+            "236950": 5,
+            "251285": 4,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "242610": 1
+        }
+    },
+    {
+        "itemID": "244001",
+        "itemName": "Enchant Weapon - Worldsoul Tenacity",
+        "reagents": {
+            "236950": 5,
+            "251285": 4,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "242610": 1
+        }
+    },
+    {
+        "itemID": "243965",
+        "itemName": "Enchant Tool - Amani Perception",
+        "reagents": {
+            "236951": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "238197": 5
+        }
+    },
+    {
+        "itemID": "243967",
+        "itemName": "Enchant Tool - Amani Resourcefulness",
+        "reagents": {
+            "236951": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "238197": 5
+        }
+    },
+    {
+        "itemID": "243993",
+        "itemName": "Enchant Tool - Haranir Finesse",
+        "reagents": {
+            "236950": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "238197": 5
+        }
+    },
+    {
+        "itemID": "243995",
+        "itemName": "Enchant Tool - Haranir Multicrafting",
+        "reagents": {
+            "236950": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "244025",
+        "itemName": "Enchant Tool - Ren'dorei Ingenuity",
+        "reagents": {
+            "236952": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "238202": 5
+        }
+    },
+    {
+        "itemID": "244023",
+        "itemName": "Enchant Tool - Sin'dorei Deftness",
+        "reagents": {
+            "236949": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 2,
+            "238204": 5
+        }
+    },
+    {
+        "itemID": "244033",
+        "itemName": "Illusory Adornment - Blooming Light",
+        "reagents": {
+            "236949": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "244035",
+        "itemName": "Illusory Adornment - Nature's Embrace",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "244037",
+        "itemName": "Illusory Adornment - Voidtouched",
+        "reagents": {
+            "236952": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243773",
+        "itemName": "Gleeful Glamour - Blood Elf",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243774",
+        "itemName": "Gleeful Glamour - Dark Iron Dwarf",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243775",
+        "itemName": "Gleeful Glamour - Draenei",
+        "reagents": {
+            "236949": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243776",
+        "itemName": "Gleeful Glamour - Dwarf",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243777",
+        "itemName": "Gleeful Glamour - Earthen",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243778",
+        "itemName": "Gleeful Glamour - Gnome",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243779",
+        "itemName": "Gleeful Glamour - Goblin",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "244056",
+        "itemName": "Gleeful Glamour - Haranir",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243780",
+        "itemName": "Gleeful Glamour - Highmountain Tauren",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243781",
+        "itemName": "Gleeful Glamour - Human",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243782",
+        "itemName": "Gleeful Glamour - Kul Tiran",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243783",
+        "itemName": "Gleeful Glamour - Lightforged Draenei",
+        "reagents": {
+            "236949": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243784",
+        "itemName": "Gleeful Glamour - Mag'har Orc",
+        "reagents": {
+            "236949": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243785",
+        "itemName": "Gleeful Glamour - Mechagnome",
+        "reagents": {
+            "236950": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243786",
+        "itemName": "Gleeful Glamour - Night Elf",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243787",
+        "itemName": "Gleeful Glamour - Nightborne",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243788",
+        "itemName": "Gleeful Glamour - Orc",
+        "reagents": {
+            "236949": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243789",
+        "itemName": "Gleeful Glamour - Pandaren",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243790",
+        "itemName": "Gleeful Glamour - Tauren",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243791",
+        "itemName": "Gleeful Glamour - Troll",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243792",
+        "itemName": "Gleeful Glamour - Undead",
+        "reagents": {
+            "236952": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243793",
+        "itemName": "Gleeful Glamour - Void Elf",
+        "reagents": {
+            "236952": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243794",
+        "itemName": "Gleeful Glamour - Vulpera",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243795",
+        "itemName": "Gleeful Glamour - Worgen",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "243796",
+        "itemName": "Gleeful Glamour - Zandalari Troll",
+        "reagents": {
+            "236951": 1,
+            "243599": 2
+        }
+    },
+    {
+        "itemID": "262459",
+        "itemName": "Animated Sin'dorei Hammer",
+        "reagents": {
+            "243060": 10,
+            "256963": 14,
+            "243602": 15,
+            "243605": 5,
+            "238204": 10
+        }
+    },
+    {
+        "itemID": "262458",
+        "itemName": "Animated Sin'dorei Pick",
+        "reagents": {
+            "243060": 10,
+            "256963": 14,
+            "243602": 15,
+            "243605": 5,
+            "238204": 10
+        }
+    },
+    {
+        "itemID": "262450",
+        "itemName": "Ensorcelled Broom",
+        "reagents": {
+            "251665": 50,
+            "256963": 22,
+            "243599": 30,
+            "243602": 5,
+            "243605": 5
+        }
+    },
+    {
+        "itemID": "262455",
+        "itemName": "Font of Gleaming Water",
+        "reagents": {
+            "236951": 10,
+            "245882": 10,
+            "256963": 14,
+            "243599": 30,
+            "243602": 10,
+            "243605": 3,
+            "242788": 5
+        }
+    },
+    {
+        "itemID": "262468",
+        "itemName": "Ren'dorei Postal Repository",
+        "reagents": {
+            "236952": 10,
+            "245881": 20,
+            "256963": 18,
+            "243602": 15,
+            "243605": 5,
+            "242788": 5
+        }
+    },
+    {
+        "itemID": "262590",
+        "itemName": "Rootflame Campfire",
+        "reagents": {
+            "236950": 10,
+            "256963": 32,
+            "243602": 15,
+            "243605": 5,
+            "236774": 10
+        }
+    },
+    {
+        "itemID": "246693",
+        "itemName": "Self-Pouring Thalassian Sunwine",
+        "reagents": {
+            "256963": 18,
+            "243602": 10,
+            "243605": 5,
+            "242787": 5
+        }
+    },
+    {
+        "itemID": "262470",
+        "itemName": "Spellbound Tome of Thalassian Magics",
+        "reagents": {
+            "236949": 10,
+            "245881": 20,
+            "256963": 20,
+            "243599": 20,
+            "243602": 10,
+            "243605": 3
+        }
+    },
+    {
+        "itemID": "268038",
+        "itemName": "Endless Codex of Blooming Light",
+        "reagents": {
+            "256963": 50,
+            "236949": 20,
+            "245881": 50,
+            "243599": 50,
+            "243602": 10,
+            "243605": 3,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "268039",
+        "itemName": "Endless Codex of Nature's Grace",
+        "reagents": {
+            "256963": 50,
+            "236951": 20,
+            "245881": 50,
+            "243599": 50,
+            "243602": 10,
+            "243605": 3,
+            "245805": 2
+        }
+    },
+    {
+        "itemID": "268041",
+        "itemName": "Endless Codex of the Voidtouched",
+        "reagents": {
+            "256963": 50,
+            "236952": 20,
+            "245881": 50,
+            "243599": 50,
+            "243602": 10,
+            "243605": 3,
+            "245801": 2
+        }
+    }
+]

@@ -1,0 +1,1088 @@
+[
+    {
+        "itemID": "238204",
+        "itemName": "Sterling Alloy",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Prolific Worker",
+            "Alloys"
+        ]
+    },
+    {
+        "itemID": "238202",
+        "itemName": "Gloaming Alloy",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Prolific Worker",
+            "Alloys"
+        ]
+    },
+    {
+        "itemID": "238197",
+        "itemName": "Refulgent Copper Ingot",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Prolific Worker",
+            "Alloys"
+        ]
+    },
+    {
+        "itemID": "244472",
+        "itemName": "Knight-Commander's Palisade",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Shields"
+        ]
+    },
+    {
+        "itemID": "244463",
+        "itemName": "Murder Row Fleet Feet",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Sabatons"
+        ]
+    },
+    {
+        "itemID": "237834",
+        "itemName": "Spellbreaker's Bracers",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Vambraces"
+        ]
+    },
+    {
+        "itemID": "237832",
+        "itemName": "Spellbreaker's Cover",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Helms"
+        ]
+    },
+    {
+        "itemID": "237830",
+        "itemName": "Spellbreaker's Girdle",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "237833",
+        "itemName": "Spellbreaker's Legguards",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Greaves"
+        ]
+    },
+    {
+        "itemID": "237835",
+        "itemName": "Spellerbreaker's Mantle",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Pauldrons"
+        ]
+    },
+    {
+        "itemID": "237828",
+        "itemName": "Spellbreaker's March",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Sabatons"
+        ]
+    },
+    {
+        "itemID": "237831",
+        "itemName": "Spellbreaker's Rebuke",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Shields"
+        ]
+    },
+    {
+        "itemID": "237836",
+        "itemName": "Spellbreaker's Resolve",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Gauntlets"
+        ]
+    },
+    {
+        "itemID": "237829",
+        "itemName": "Spellbreaker's Shelter",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Chestplates"
+        ]
+    },
+    {
+        "itemID": "237922",
+        "itemName": "Blood-Tempered Leggings",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Greaves"
+        ]
+    },
+    {
+        "itemID": "237924",
+        "itemName": "Blood-Tempered Pauldrons",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Pauldrons"
+        ]
+    },
+    {
+        "itemID": "237917",
+        "itemName": "Blood-Tempered Greaves",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Sabatons"
+        ]
+    },
+    {
+        "itemID": "237921",
+        "itemName": "Blood-Tempered Basinet",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Helms"
+        ]
+    },
+    {
+        "itemID": "237925",
+        "itemName": "Blood-Tempered Bulwark",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Shields"
+        ]
+    },
+    {
+        "itemID": "237920",
+        "itemName": "Blood-Tempered Gauntlets",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Gauntlets"
+        ]
+    },
+    {
+        "itemID": "237919",
+        "itemName": "Blood-Tempered Greatbelt",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "237923",
+        "itemName": "Blood-Tempered Bracers",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Vambraces"
+        ]
+    },
+    {
+        "itemID": "237918",
+        "itemName": "Blood-Tempered Chestplate",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Chestplates"
+        ]
+    },
+    {
+        "itemID": "237847",
+        "itemName": "Blood Knight's Impetus",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237848",
+        "itemName": "Blood Knight's Mercy",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Maces"
+        ]
+    },
+    {
+        "itemID": "237846",
+        "itemName": "Blood Knight's Warblade",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "237845",
+        "itemName": "Bloomforged Claw",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237842",
+        "itemName": "Bloomforged Greataxe",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237850",
+        "itemName": "Farstrider's Chopper",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237837",
+        "itemName": "Farstrider's Mercy",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237844",
+        "itemName": "Magister's Cleaver",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237843",
+        "itemName": "Magister's Mana Sword",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "237838",
+        "itemName": "Magister's Ritual Knife",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237849",
+        "itemName": "Magister's Valediction",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Maces"
+        ]
+    },
+    {
+        "itemID": "244679",
+        "itemName": "Murder Row Fishhook",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237839",
+        "itemName": "Spellbreaker's Blade",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "237841",
+        "itemName": "Spellbreaker's Ultimatum",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237840",
+        "itemName": "Spellbreaker's Warglaive",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "237930",
+        "itemName": "Dawnforged War Mace",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Maces"
+        ]
+    },
+    {
+        "itemID": "237929",
+        "itemName": "Primalforged Knuckles",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237928",
+        "itemName": "Dawnforged Long Blade",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "237931",
+        "itemName": "Dawnforged Splitter",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237927",
+        "itemName": "Dawnforged Edge",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237926",
+        "itemName": "Dawnforged Ritual Knife",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237932",
+        "itemName": "Primalforged Heavy Axe",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "259230",
+        "itemName": "Sunforged Blacksmith's Toolbox",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "246536",
+        "itemName": "Sunforged Leatherworker's Knife",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "259232",
+        "itemName": "Sunforged Leatherworker's Toolset",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "259234",
+        "itemName": "Sunforged Needle Set",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "246534",
+        "itemName": "Sunforged Pickaxe",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "246533",
+        "itemName": "Sunforged Sickle",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "246535",
+        "itemName": "Sunforged Skinning Knife",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238018",
+        "itemName": "Sun-Blessed Blacksmith's Hammer",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237952",
+        "itemName": "Sun-Blessed Blacksmith's Toolbox",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238017",
+        "itemName": "Sun-Blessed Leatherworker's Knife",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237951",
+        "itemName": "Sun-Blessed Leatherworker's Toolset",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237950",
+        "itemName": "Sun-Blessed Needle Set",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238015",
+        "itemName": "Sun-Blessed Pickaxe",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238014",
+        "itemName": "Sun-Blessed Sickle",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238016",
+        "itemName": "Sun-Blessed Skinning Knife",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238013",
+        "itemName": "Thalassian Blacksmith's Hammer",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "246537",
+        "itemName": "Sunforged Blacksmith's Hammer",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237948",
+        "itemName": "Thalassian Blacksmith's Toolbox",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238012",
+        "itemName": "Thalassian Leatherworker's Knife",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237947",
+        "itemName": "Thalassian Leatherworker's Toolset",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237946",
+        "itemName": "Thalassian Needle Set",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Accessories",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238010",
+        "itemName": "Thalassian Pickaxe",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238009",
+        "itemName": "Thalassian Sickle",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "238011",
+        "itemName": "Thalassian Skinning Knife",
+        "nodes": [
+            "Craftsmithing",
+            "Trade Tools",
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "237367",
+        "itemName": "Refulgent Weightstone",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Prolific Worker",
+            "Weaponsmithing",
+            "Weaponstones"
+        ]
+    },
+    {
+        "itemID": "237372",
+        "itemName": "Refulgent Razorstone",
+        "nodes": [
+            "Craftsmithing",
+            "Tool Stones",
+            "Second Nature",
+            "Resourceful Smith",
+            "Prolific Worker"
+        ]
+    },
+    {
+        "itemID": "237370",
+        "itemName": "Refulgent Whetstone",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Prolific Worker",
+            "Weaponsmithing",
+            "Weaponstones"
+        ]
+    },
+    {
+        "itemID": "237912",
+        "itemName": "Thalassian Competitor's Bulwark",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Shields"
+        ]
+    },
+    {
+        "itemID": "237915",
+        "itemName": "Thalassian Competitor's Greatsword",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "237910",
+        "itemName": "Thalassian Competitor's Knife",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237911",
+        "itemName": "Thalassian Competitor's Maxim",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Maces"
+        ]
+    },
+    {
+        "itemID": "237909",
+        "itemName": "Thalassian Competitor's Pickaxe",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237908",
+        "itemName": "Thalassian Competitor's Plate Armguards",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Vambraces"
+        ]
+    },
+    {
+        "itemID": "237901",
+        "itemName": "Thalassian Competitor's Plate Breastplate",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Chestplates"
+        ]
+    },
+    {
+        "itemID": "237903",
+        "itemName": "Thalassian Competitor's Plate Gauntlets",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Gauntlets"
+        ]
+    },
+    {
+        "itemID": "237905",
+        "itemName": "Thalassian Competitor's Plate Greaves",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Large Plate Armor",
+            "Greaves"
+        ]
+    },
+    {
+        "itemID": "237904",
+        "itemName": "Thalassian Competitor's Plate Helm",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Helms"
+        ]
+    },
+    {
+        "itemID": "237906",
+        "itemName": "Thalassian Competitor's Plate Pauldrons",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Pauldrons"
+        ]
+    },
+    {
+        "itemID": "237902",
+        "itemName": "Thalassian Competitor's Plate Sabatons",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Sculpted Armor",
+            "Sabatons"
+        ]
+    },
+    {
+        "itemID": "237907",
+        "itemName": "Thalassian Competitor's Plate Waistguard",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Armorsmithing",
+            "Articulating Armor",
+            "Belts"
+        ]
+    },
+    {
+        "itemID": "237914",
+        "itemName": "Thalassian Competitor's Skewer",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Short Blades"
+        ]
+    },
+    {
+        "itemID": "237913",
+        "itemName": "Thalassian Competitor's Splitter",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Hafted Weapons",
+            "Axes and Polearms"
+        ]
+    },
+    {
+        "itemID": "237916",
+        "itemName": "Thalassian Competitor's Sword",
+        "nodes": [
+            "The Old Ways",
+            "Second Nature",
+            "Resourceful Smith",
+            "Weaponsmithing",
+            "Blades",
+            "Long Blades"
+        ]
+    },
+    {
+        "itemID": "238209",
+        "itemName": "Refulgent Repair Hammer",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith",
+            "Prolific Worker"
+        ]
+    },
+    {
+        "itemID": "262451",
+        "itemName": "Gilded Silvermoon Anvil",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "262457",
+        "itemName": "Gilded Silvermoon Hanger",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "262452",
+        "itemName": "Masterwork Crafting Hammer",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "262456",
+        "itemName": "Ornamental Silvermoon Hanger",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "262460",
+        "itemName": "Ren'dorei Anvil",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith"
+        ]
+    },
+    {
+        "itemID": "260232",
+        "itemName": "Thalassian Skeleton Key",
+        "nodes": [
+            "The Old Ways",
+            "Resourceful Smith",
+            "Prolific Worker"
+        ]
+    }
+]

@@ -9,41 +9,53 @@ from wtforms import SearchField, SubmitField, SelectField
 
 load_dotenv() #load .env file
 
-last_update = '2025-08-07'
+last_update = '2026-05-02'
 
-expansions = ['DF', 'TWW']
+expansions = ['DF', 'TWW', 'Midnight']
 all_professions = ['alchemy', 'blacksmithing', 'cooking', 'enchanting', 'engineering', 'inscription', 'jewelcrafting', 'leatherworking', 'tailoring']
 
 #BASE_DIR = os.getcwd() + '/mysite/' #for pythonanywhere
-BASE_DIR = os.getcwd() + '/'
+BASE_DIR = os.getcwd() + '/' #for local processing
 DATA_DIR = BASE_DIR + 'static/data/' #use absolute path since code is run in backend and out of expected folder
 IMAGE_DIR = '../static/images/' #use relative path since code is run in front end and hence from the URL and not base directories
 
-quality_images = [None, IMAGE_DIR+'rank1.png', IMAGE_DIR+'rank2.png', IMAGE_DIR+'rank3.png', IMAGE_DIR+'rank4.png', IMAGE_DIR+'rank5.png']
-
 data_df = pd.read_pickle(DATA_DIR+'data_DF.pkl')
 items_df = pd.read_pickle(DATA_DIR+'items_DF.pkl')
+
 data_tww = pd.read_pickle(DATA_DIR+'data_TWW.pkl')
 items_tww = pd.read_pickle(DATA_DIR+'items_TWW.pkl')
+
+data_midnight = pd.read_pickle(DATA_DIR+'data_midnight.pkl')
+items_midnight = pd.read_pickle(DATA_DIR+'items_midnight.pkl')
 
 data_cols = dict(zip(expansions, [None for _ in expansions]))
 items_cols = dict(zip(expansions, [None for _ in expansions]))
 
 data_cols['DF'] = list(data_df.columns)
 data_cols['TWW'] = list(data_tww.columns)
+data_cols['Midnight'] = list(data_midnight.columns)
+
 items_cols['DF'] = list(items_df.columns)
 items_cols['TWW'] = list(items_tww.columns)
+items_cols['Midnight'] = list(items_midnight.columns)
 
-all_data = pd.concat((data_df, data_tww), ignore_index=True)
-items = pd.concat((items_df, items_tww), ignore_index=True)
+data_df['expansion'] = 'DF'
+data_tww['expansion'] = 'TWW'
+data_midnight['expansion'] = 'Midnight'
 
-all_data['expansion'] = ['DF']*len(data_df)+['TWW']*len(data_tww)
-items['expansion'] = ['DF']*len(items_df)+['TWW']*len(items_tww)
+items_df['expansion'] = 'DF'
+items_tww['expansion'] = 'TWW'
+items_midnight['expansion'] = 'Midnight'
+
+all_data = pd.concat((data_df, data_tww, data_midnight), ignore_index=True)
+items = pd.concat((items_df, items_tww, items_midnight), ignore_index=True)
 
 del data_df
 del data_tww
+del data_midnight
 del items_df
 del items_tww
+del items_midnight
 
 item_tags = [('none', 'None')] #have None at the top of the list (it also isn't in the dataframe to begin with)
 tags = np.sort(all_data.loc[:, 'tag'].to_numpy())
@@ -84,7 +96,7 @@ class SearchForm(FlaskForm):
 
 ### generalization functions ###
 def expansion_pages(expansion):
-    full_names = {'DF':'Dragonflight', 'TWW':'The War Within'}
+    full_names = {'DF':'Dragonflight', 'TWW':'The War Within', 'Midnight':'Midnight'}
     for xpac in expansions:
         for p in all_professions:
             session[p+'_'+xpac+'_search'] = None
@@ -125,16 +137,17 @@ def profession_pages(profession_name, expansion):
     if session[profession_name+'_'+expansion+'_select'].lower() != 'none':
         form.select.data = session[profession_name+'_'+expansion+'_select']
 
-    #return render_template(profession_name+'_'+expansion+'.html', form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name],
-    #                       items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
-
     if expansion == 'DF':
         template = 'professionDF.html'
+    elif expansion == 'TWW':
+        template = 'professionTWW.html'
+    elif expansion == 'Midnight':
+        template = 'professionMidnight.html'
     else:
-        template = 'profession.html'
+        raise FileNotFoundError(f'No template created for {expansion}')
 
-    return render_template(template, form=form, profession_name=profession_name, expansion=expansion, last_update=last_update, valid_tags=valid_tags[expansion][profession_name],
-                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets, quality_images=quality_images)
+    return render_template(template, form=form, profession_name=profession_name, last_update=last_update, valid_tags=valid_tags[expansion][profession_name],
+                           items=items.loc[items['expansion']==expansion, items_cols[expansion]], datasets=datasets)
 
 ### web functions ###
 @app.before_first_request
@@ -154,6 +167,10 @@ def dragonflight():
 @app.route('/the_war_within')
 def the_war_within():
     return expansion_pages(expansion='TWW')
+
+@app.route('/midnight')
+def midnight():
+    return expansion_pages(expansion='Midnight')
 
 ### dragonflight pages ###
 @app.route('/dragonflight/alchemy', methods=['GET', 'POST'])
@@ -228,6 +245,43 @@ def leatherworking_TWW():
 @app.route('/the_war_within/tailoring', methods=['GET', 'POST'])
 def tailoring_TWW():
     return profession_pages(profession_name='tailoring', expansion='TWW')
+
+### midnight pages ###
+@app.route('/midnight/alchemy', methods=['GET', 'POST'])
+def alchemy_Midnight():
+    return profession_pages(profession_name='alchemy', expansion='Midnight')
+
+@app.route('/midnight/blacksmithing', methods=['GET', 'POST'])
+def blacksmithing_Midnight():
+    return profession_pages(profession_name='blacksmithing', expansion='Midnight')
+
+@app.route('/midnight/cooking', methods=['GET', 'POST'])
+def cooking_Midnight():
+    return profession_pages(profession_name='cooking', expansion='Midnight')
+
+@app.route('/midnight/enchanting', methods=['GET', 'POST'])
+def enchanting_Midnight():
+    return profession_pages(profession_name='enchanting', expansion='Midnight')
+
+@app.route('/midnight/engineering', methods=['GET', 'POST'])
+def engineering_Midnight():
+    return profession_pages(profession_name='engineering', expansion='Midnight')
+
+@app.route('/midnight/inscription', methods=['GET', 'POST'])
+def inscription_Midnight():
+    return profession_pages(profession_name='inscription', expansion='Midnight')
+
+@app.route('/midnight/jewelcrafting', methods=['GET', 'POST'])
+def jewelcrafting_Midnight():
+    return profession_pages(profession_name='jewelcrafting', expansion='Midnight')
+
+@app.route('/midnight/leatherworking', methods=['GET', 'POST'])
+def leatherworking_Midnight():
+    return profession_pages(profession_name='leatherworking', expansion='Midnight')
+
+@app.route('/midnight/tailoring', methods=['GET', 'POST'])
+def tailoring_Midnight():
+    return profession_pages(profession_name='tailoring', expansion='Midnight')
 
 # this won't get run when deployed on PythonAnywhere
 if __name__ == '__main__':

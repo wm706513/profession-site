@@ -1,0 +1,42 @@
+itemID,itemName,tag,difficulty,multicraft,quantity,skill,rarity,hasReagentQualities,hasEmbellishmentSlot,hasMissiveSlot,hasSafetyComponent,hasCrestSlot
+242302,Bloom Skewers,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242309,Farstrider Rations,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242306,Forager's Medley,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242303,Mana-Infused Stew,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242308,Portable Snack,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242307,Quick Sandwich,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242305,Silvermoon Standard,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+242304,Spiced Biscuits,consumable,-1,0,1-4,-1,common,FALSE,FALSE,FALSE,FALSE,FALSE
+253403,Spellfire Filet,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242288,Twilight Angler's Medley,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242290,Wise Tails,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242296,Bloodthistle-Wrapped Cutlets,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242292,Eversong Pudding,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242294,Felberry Figs,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242291,Fried Bloomtail,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242295,Hearthflame Supper,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242293,Sunwell Delight,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242276,Braised Blood Hunter,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242277,Crimson Calamari,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242278,Tasty Smoked Tetra,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242287,Arcano Cutlets,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242280,Buttered Root Crab,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242286,Fel-Kissed Filet,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242281,Glitter Skewers,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242282,Null and Void Plate,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242283,Sun-Seared Lumifin,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242284,Void-Kissed Fish Rolls,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242285,Warped Wise Wings,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242274,Champion's Bento,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+255848,Flora Frenzy,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+255847,Impossibly Royal Roast,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242275,Royal Roast,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242273,Blooming Feast,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+255846,Harandar Celebration,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242272,Quel'dorei Medley,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+255845,Silvermoon Parade,consumable,-1,0,1-4,-1,rare,FALSE,FALSE,FALSE,FALSE,FALSE
+242298,Argentleaf Tea,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242301,Azeroot Tea,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242297,Mana Lily Tea,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242299,Sanguithorn Tea,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
+242300,Tranquility Bloom Tea,consumable,-1,0,1-4,-1,uncommon,FALSE,FALSE,FALSE,FALSE,FALSE
